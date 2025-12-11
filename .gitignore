@@ -1,0 +1,5 @@
+node_modules
+routes
+.build-cache.json
+bundle-report.html
+.claude

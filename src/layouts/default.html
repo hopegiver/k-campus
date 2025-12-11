@@ -1,0 +1,163 @@
+<!-- Header -->
+<header class="site-header">
+  <div class="header-container">
+    <!-- Logo -->
+    <a href="#/" class="site-logo" @click.prevent="navigateTo('home')">
+      <span>K-Campus</span>
+    </a>
+
+    <!-- Main Navigation -->
+    <nav class="main-nav" :class="{ active: mobileMenuOpen }">
+      <ul class="nav-menu">
+        <li class="nav-item">
+          <a href="#/" class="nav-link" @click.prevent="navigateTo('home')">
+            Beranda
+          </a>
+        </li>
+        <li class="nav-item has-dropdown">
+          <a href="javascript:void(0)" class="nav-link dropdown-toggle">
+            Panduan Kuliah
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="#/panduan" class="nav-link" @click.prevent="navigateTo('panduan')">Sistem Pendidikan Korea</a></li>
+            <li><a href="#/panduan/jurusan" class="nav-link" @click.prevent="navigateTo('panduan/jurusan')">Panduan Jurusan</a></li>
+            <li><a href="#/panduan/kehidupan" class="nav-link" @click.prevent="navigateTo('panduan/kehidupan')">Kehidupan di Korea</a></li>
+            <li><a href="#/panduan/visa" class="nav-link" @click.prevent="navigateTo('panduan/visa')">Visa & Dokumen</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="#/universitas" class="nav-link" @click.prevent="navigateTo('universitas')">
+            Universitas
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#/beasiswa" class="nav-link" @click.prevent="navigateTo('beasiswa')">
+            Beasiswa
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#/konsultasi" class="nav-link" @click.prevent="navigateTo('konsultasi')">
+            Konsultasi
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#/testimoni" class="nav-link" @click.prevent="navigateTo('testimoni')">
+            Testimoni
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#/berita" class="nav-link" @click.prevent="navigateTo('berita')">
+            Berita
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Header Actions -->
+    <div class="header-actions">
+      <button class="btn btn-primary btn-small" @click="navigateTo('konsultasi')">
+        Konsultasi Gratis
+      </button>
+    </div>
+
+    <!-- Mobile Menu Toggle -->
+    <button class="mobile-menu-toggle" @click="toggleMobileMenu" :class="{ active: mobileMenuOpen }">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</header>
+
+<!-- Main Content -->
+<main style="min-height: calc(100vh - 80px);">
+  {{ content }}
+</main>
+
+<!-- Footer -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>Tentang Kami</h4>
+        <p style="margin-bottom: 1rem; line-height: 1.6;">
+          Korea Study Indonesia adalah platform terpercaya untuk membantu mahasiswa Indonesia mewujudkan impian kuliah di Korea.
+        </p>
+        <div class="social-links">
+          <a href="#" class="social-link" title="Facebook">📘</a>
+          <a href="#" class="social-link" title="Instagram">📷</a>
+          <a href="#" class="social-link" title="YouTube">📹</a>
+          <a href="#" class="social-link" title="WhatsApp">💬</a>
+        </div>
+      </div>
+
+      <div class="footer-section">
+        <h4>Layanan Kami</h4>
+        <ul>
+          <li><a href="#/universitas" @click.prevent="navigateTo('universitas')">Informasi Universitas</a></li>
+          <li><a href="#/beasiswa" @click.prevent="navigateTo('beasiswa')">Panduan Beasiswa</a></li>
+          <li><a href="#/konsultasi" @click.prevent="navigateTo('konsultasi')">Konsultasi Pendaftaran</a></li>
+          <li><a href="#/panduan/visa" @click.prevent="navigateTo('panduan/visa')">Bantuan Visa</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Sumber Daya</h4>
+        <ul>
+          <li><a href="#/panduan" @click.prevent="navigateTo('panduan')">Panduan Lengkap</a></li>
+          <li><a href="#/testimoni" @click.prevent="navigateTo('testimoni')">Testimoni Mahasiswa</a></li>
+          <li><a href="#/berita" @click.prevent="navigateTo('berita')">Berita & Acara</a></li>
+          <li><a href="#/faq" @click.prevent="navigateTo('faq')">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Kontak</h4>
+        <ul>
+          <li>📧 Email: info@koreastudy.id</li>
+          <li>📱 WhatsApp: +62 812-3456-7890</li>
+          <li>📍 Jakarta, Indonesia</li>
+          <li>🕐 Senin - Jumat: 09:00 - 17:00</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2024 K-Campus Indonesia. Semua hak cipta dilindungi.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+// Layout-specific JavaScript for mobile menu
+export default {
+  data() {
+    return {
+      mobileMenuOpen: false
+    };
+  },
+  methods: {
+    toggleMobileMenu() {
+      this.mobileMenuOpen = !this.mobileMenuOpen;
+
+      // Prevent body scroll when menu is open
+      if (this.mobileMenuOpen) {
+        document.body.style.overflow = 'hidden';
+      } else {
+        document.body.style.overflow = '';
+      }
+    },
+    navigateTo(route) {
+      this.mobileMenuOpen = false;
+      document.body.style.overflow = '';
+
+      // Use parent navigation method
+      if (this.$parent && this.$parent.navigateTo) {
+        this.$parent.navigateTo(route);
+      } else {
+        window.location.hash = `#/${route}`;
+      }
+    }
+  }
+};
+</script>

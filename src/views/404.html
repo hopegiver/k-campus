@@ -1,0 +1,57 @@
+<div class="page-404-container">
+    <div class="page-404-content">
+        <!-- 404 Illustration -->
+        <div class="page-404-illustration">
+            <div class="page-404-number">
+                <span class="page-404-four">4</span>
+                <span class="page-404-zero">
+                    <div class="page-404-zero-inner">
+                        <span class="page-404-search-icon">🔍</span>
+                    </div>
+                </span>
+                <span class="page-404-four">4</span>
+            </div>
+        </div>
+
+        <div class="page-404-text">
+            <h1>Halaman Tidak Ditemukan</h1>
+            <p class="page-404-error-message">
+                Halaman yang Anda cari <code>{{ requestedUrl }}</code> tidak dapat ditemukan.<br>
+                Silakan periksa URL atau gunakan opsi di bawah ini.
+            </p>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="page-404-actions">
+            <button class="btn btn-primary btn-large" @click="navigateTo('home')">
+                Kembali ke Beranda
+            </button>
+            <button class="btn btn-outline btn-large" @click="goBack">
+                Halaman Sebelumnya
+            </button>
+        </div>
+
+        <!-- Suggested Pages -->
+        <div class="page-404-suggestions">
+            <h3>Halaman yang Mungkin Anda Cari</h3>
+            <div class="page-404-suggestions-grid">
+                <div class="page-404-suggestion-card" @click="navigateTo('universitas')">
+                    <h4>🎓 Universitas</h4>
+                    <p>Jelajahi universitas-universitas terbaik di Korea</p>
+                    <span class="page-404-suggestion-arrow">→</span>
+                </div>
+                <div class="page-404-suggestion-card" @click="navigateTo('beasiswa')">
+                    <h4>💰 Beasiswa</h4>
+                    <p>Temukan program beasiswa yang tersedia</p>
+                    <span class="page-404-suggestion-arrow">→</span>
+                </div>
+                <div class="page-404-suggestion-card" @click="navigateTo('konsultasi')">
+                    <h4>💬 Konsultasi</h4>
+                    <p>Dapatkan konsultasi gratis dari kami</p>
+                    <span class="page-404-suggestion-arrow">→</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

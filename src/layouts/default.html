@@ -7,7 +7,7 @@
     </a>
 
     <!-- Main Navigation -->
-    <nav class="main-nav" :class="{ active: mobileMenuOpen }">
+    <nav class="main-nav" id="mainNav">
       <ul class="nav-menu">
         <li class="nav-item">
           <a href="#/" class="nav-link" @click.prevent="navigateTo('home')">
@@ -19,10 +19,11 @@
             Panduan Kuliah
           </a>
           <ul class="dropdown-menu">
-            <li><a href="#/panduan" class="nav-link" @click.prevent="navigateTo('panduan')">Sistem Pendidikan Korea</a></li>
-            <li><a href="#/panduan/jurusan" class="nav-link" @click.prevent="navigateTo('panduan/jurusan')">Panduan Jurusan</a></li>
-            <li><a href="#/panduan/kehidupan" class="nav-link" @click.prevent="navigateTo('panduan/kehidupan')">Kehidupan di Korea</a></li>
-            <li><a href="#/panduan/visa" class="nav-link" @click.prevent="navigateTo('panduan/visa')">Visa & Dokumen</a></li>
+            <li><a href="#/panduan/sistem-pendidikan" class="nav-link" @click.prevent="navigateTo('panduan/sistem-pendidikan')">Sistem Pendidikan</a></li>
+            <li><a href="#/panduan/ujian-bahasa" class="nav-link" @click.prevent="navigateTo('panduan/ujian-bahasa')">Ujian & Bahasa</a></li>
+            <li><a href="#/panduan/visa-tinggal" class="nav-link" @click.prevent="navigateTo('panduan/visa-tinggal')">Visa & Izin Tinggal</a></li>
+            <li><a href="#/panduan/biaya-hidup" class="nav-link" @click.prevent="navigateTo('panduan/biaya-hidup')">Biaya Hidup</a></li>
+            <li><a href="#/panduan/akomodasi" class="nav-link" @click.prevent="navigateTo('panduan/akomodasi')">Akomodasi & Perumahan</a></li>
           </ul>
         </li>
         <li class="nav-item">
@@ -30,10 +31,15 @@
             Universitas
           </a>
         </li>
-        <li class="nav-item">
-          <a href="#/beasiswa" class="nav-link" @click.prevent="navigateTo('beasiswa')">
+        <li class="nav-item has-dropdown">
+          <a href="javascript:void(0)" class="nav-link dropdown-toggle">
             Beasiswa
           </a>
+          <ul class="dropdown-menu">
+            <li><a href="#/beasiswa/gks" class="nav-link" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa GKS</a></li>
+            <li><a href="#/beasiswa/universitas" class="nav-link" @click.prevent="navigateTo('beasiswa/universitas')">Beasiswa Universitas</a></li>
+            <li><a href="#/beasiswa/panduan" class="nav-link" @click.prevent="navigateTo('beasiswa/panduan')">Panduan Pendaftaran</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a href="#/konsultasi" class="nav-link" @click.prevent="navigateTo('konsultasi')">
@@ -61,7 +67,7 @@
     </div>
 
     <!-- Mobile Menu Toggle -->
-    <button class="mobile-menu-toggle" @click="toggleMobileMenu" :class="{ active: mobileMenuOpen }">
+    <button class="mobile-menu-toggle" id="mobileMenuToggle">
       <span></span>
       <span></span>
       <span></span>
@@ -81,7 +87,7 @@
       <div class="footer-section">
         <h4>Tentang Kami</h4>
         <p style="margin-bottom: 1rem; line-height: 1.6;">
-          Korea Study Indonesia adalah platform terpercaya untuk membantu mahasiswa Indonesia mewujudkan impian kuliah di Korea.
+          K-Campus Indonesia adalah platform terpercaya untuk membantu mahasiswa Indonesia mewujudkan impian kuliah di Korea.
         </p>
         <div class="social-links">
           <a href="#" class="social-link" title="Facebook">📘</a>
@@ -95,9 +101,9 @@
         <h4>Layanan Kami</h4>
         <ul>
           <li><a href="#/universitas" @click.prevent="navigateTo('universitas')">Informasi Universitas</a></li>
-          <li><a href="#/beasiswa" @click.prevent="navigateTo('beasiswa')">Panduan Beasiswa</a></li>
+          <li><a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')">Panduan Beasiswa</a></li>
           <li><a href="#/konsultasi" @click.prevent="navigateTo('konsultasi')">Konsultasi Pendaftaran</a></li>
-          <li><a href="#/panduan/visa" @click.prevent="navigateTo('panduan/visa')">Bantuan Visa</a></li>
+          <li><a href="#/panduan/visa-tinggal" @click.prevent="navigateTo('panduan/visa-tinggal')">Bantuan Visa</a></li>
         </ul>
       </div>
 
@@ -114,7 +120,7 @@
       <div class="footer-section">
         <h4>Kontak</h4>
         <ul>
-          <li>📧 Email: info@koreastudy.id</li>
+          <li>📧 Email: id@k-campus.kr</li>
           <li>📱 WhatsApp: +62 812-3456-7890</li>
           <li>📍 Jakarta, Indonesia</li>
           <li>🕐 Senin - Jumat: 09:00 - 17:00</li>
@@ -127,37 +133,3 @@
     </div>
   </div>
 </footer>
-
-<script>
-// Layout-specific JavaScript for mobile menu
-export default {
-  data() {
-    return {
-      mobileMenuOpen: false
-    };
-  },
-  methods: {
-    toggleMobileMenu() {
-      this.mobileMenuOpen = !this.mobileMenuOpen;
-
-      // Prevent body scroll when menu is open
-      if (this.mobileMenuOpen) {
-        document.body.style.overflow = 'hidden';
-      } else {
-        document.body.style.overflow = '';
-      }
-    },
-    navigateTo(route) {
-      this.mobileMenuOpen = false;
-      document.body.style.overflow = '';
-
-      // Use parent navigation method
-      if (this.$parent && this.$parent.navigateTo) {
-        this.$parent.navigateTo(route);
-      } else {
-        window.location.hash = `#/${route}`;
-      }
-    }
-  }
-};
-</script>

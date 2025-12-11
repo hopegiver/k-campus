@@ -1,0 +1,445 @@
+<div class="university-detail-page" style="margin-top: var(--header-height, 80px);">
+  <!-- University Header -->
+  <section class="university-header">
+    <div class="container">
+      <div class="breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <a @click.prevent="navigateTo('universitas')">Universitas</a>
+        <span>›</span>
+        <span>{{ university.name }}</span>
+      </div>
+
+      <div class="university-header-content">
+        <div class="university-header-left">
+          <div class="university-logo">
+            <img :src="university.logo" :alt="university.name">
+          </div>
+          <div class="university-header-info">
+            <h1 class="university-name">{{ university.name }}</h1>
+            <div class="university-meta-row">
+              <span class="meta-item">📍 {{ university.location }}</span>
+              <span class="meta-item">🏛️ {{ university.type }}</span>
+              <span v-if="university.ranking" class="meta-item badge-primary">{{ university.ranking }}</span>
+            </div>
+            <div class="university-tags">
+              <span v-if="university.isAccredited" class="tag tag-success">✓ Terakreditasi Internasional</span>
+              <span v-if="university.hasScholarship" class="tag tag-warning">💰 Beasiswa Tersedia</span>
+            </div>
+          </div>
+        </div>
+        <div class="university-header-right">
+          <button @click="toggleFavorite" class="btn btn-outline">
+            {{ isFavorited ? '❤️ Tersimpan' : '🤍 Simpan' }}
+          </button>
+          <button @click="navigateTo('konsultasi')" class="btn btn-primary">
+            📞 Konsultasi Gratis
+          </button>
+        </div>
+      </div>
+
+      <!-- Quick Stats -->
+      <div class="quick-stats">
+        <div class="stat-item">
+          <div class="stat-number">{{ university.totalStudents }}</div>
+          <div class="stat-label">Total Mahasiswa</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{{ university.internationalStudents }}</div>
+          <div class="stat-label">Mahasiswa Internasional</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{{ university.totalFaculty }}</div>
+          <div class="stat-label">Total Pengajar</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{{ university.totalPrograms }}</div>
+          <div class="stat-label">Program Studi</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tab Navigation -->
+  <section class="tab-navigation-section">
+    <div class="container">
+      <div class="tab-navigation">
+        <button
+          v-for="tab in tabs"
+          :key="tab.id"
+          @click="activeTab = tab.id"
+          :class="['tab-button', { active: activeTab === tab.id }]"
+        >
+          {{ tab.icon }} {{ tab.label }}
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tab Content -->
+  <section class="tab-content-section">
+    <div class="container">
+      <!-- Tab: Basic Info -->
+      <div v-if="activeTab === 'basic'" class="tab-content">
+        <div class="content-grid">
+          <div class="content-main">
+            <div class="info-card">
+              <h2 class="card-title">Tentang Universitas</h2>
+              <p class="card-text">{{ university.description }}</p>
+              <p class="card-text">{{ university.longDescription }}</p>
+            </div>
+
+            <div class="info-card">
+              <h2 class="card-title">Keunggulan</h2>
+              <ul class="feature-list">
+                <li v-for="(feature, index) in university.features" :key="index">
+                  <span class="feature-icon">✓</span>
+                  <span>{{ feature }}</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="info-card">
+              <h2 class="card-title">Fasilitas Kampus</h2>
+              <div class="facilities-grid">
+                <div v-for="facility in university.facilities" :key="facility" class="facility-item">
+                  {{ facility }}
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="content-sidebar">
+            <div class="info-card">
+              <h3 class="card-title">Informasi Kontak</h3>
+              <div class="contact-info">
+                <div class="contact-item">
+                  <span class="contact-icon">📧</span>
+                  <div>
+                    <div class="contact-label">Email</div>
+                    <div class="contact-value">{{ university.contact.email }}</div>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">📞</span>
+                  <div>
+                    <div class="contact-label">Telepon</div>
+                    <div class="contact-value">{{ university.contact.phone }}</div>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">🌐</span>
+                  <div>
+                    <div class="contact-label">Website</div>
+                    <a :href="university.contact.website" target="_blank" class="contact-link">
+                      Kunjungi Website
+                    </a>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">📍</span>
+                  <div>
+                    <div class="contact-label">Alamat</div>
+                    <div class="contact-value">{{ university.contact.address }}</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <h3 class="card-title">Lokasi</h3>
+              <div class="location-info">
+                <p><strong>Kota:</strong> {{ university.location }}</p>
+                <p><strong>Region:</strong> {{ university.region }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Programs -->
+      <div v-if="activeTab === 'programs'" class="tab-content">
+        <div class="info-card">
+          <h2 class="card-title">Program Studi yang Tersedia</h2>
+
+          <div v-for="level in ['bachelor', 'master', 'doctoral']" :key="level" class="program-section">
+            <h3 class="program-level-title">
+              {{ level === 'bachelor' ? '🎓 Program Sarjana (S1)' : level === 'master' ? '🎓 Program Magister (S2)' : '🎓 Program Doktoral (S3)' }}
+            </h3>
+
+            <div v-if="university.programs && university.programs[level]" class="programs-by-college">
+              <div v-for="(college, collegeName) in university.programs[level]" :key="collegeName" class="college-programs">
+                <h4 class="college-name">{{ collegeName }}</h4>
+                <div class="majors-grid">
+                  <div v-for="major in college" :key="major" class="major-item">
+                    {{ major }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Admission -->
+      <div v-if="activeTab === 'admission'" class="tab-content">
+        <div class="content-grid">
+          <div class="content-main">
+            <div class="info-card">
+              <h2 class="card-title">Persyaratan Pendaftaran</h2>
+
+              <div class="admission-section">
+                <h3>Program Sarjana (S1)</h3>
+                <ul class="requirement-list">
+                  <li v-for="req in university.admission.bachelor" :key="req">{{ req }}</li>
+                </ul>
+              </div>
+
+              <div class="admission-section">
+                <h3>Program Magister (S2)</h3>
+                <ul class="requirement-list">
+                  <li v-for="req in university.admission.master" :key="req">{{ req }}</li>
+                </ul>
+              </div>
+
+              <div class="admission-section">
+                <h3>Program Doktoral (S3)</h3>
+                <ul class="requirement-list">
+                  <li v-for="req in university.admission.doctoral" :key="req">{{ req }}</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <h2 class="card-title">Dokumen yang Diperlukan</h2>
+              <ul class="document-list">
+                <li v-for="doc in university.requiredDocuments" :key="doc">
+                  <span class="doc-icon">📄</span>
+                  <span>{{ doc }}</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="content-sidebar">
+            <div class="info-card">
+              <h3 class="card-title">Jadwal Pendaftaran</h3>
+              <div class="schedule-info">
+                <div class="schedule-item">
+                  <div class="schedule-semester">Semester Musim Semi (Maret)</div>
+                  <div class="schedule-period">Pendaftaran: November - Desember</div>
+                </div>
+                <div class="schedule-item">
+                  <div class="schedule-semester">Semester Musim Gugur (September)</div>
+                  <div class="schedule-period">Pendaftaran: Mei - Juni</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <h3 class="card-title">Biaya Pendaftaran</h3>
+              <div class="fee-info">
+                <p><strong>{{ formatCurrency(university.applicationFee) }}</strong></p>
+                <p class="fee-note">*Biaya tidak dapat dikembalikan</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Tuition -->
+      <div v-if="activeTab === 'tuition'" class="tab-content">
+        <div class="info-card">
+          <h2 class="card-title">Biaya Kuliah per Semester</h2>
+
+          <div class="tuition-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Program</th>
+                  <th>Biaya Minimum</th>
+                  <th>Biaya Maksimum</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="(tuition, level) in university.tuitionByLevel" :key="level">
+                  <td>{{ getLevelLabel(level) }}</td>
+                  <td>{{ formatCurrency(tuition.min) }}</td>
+                  <td>{{ formatCurrency(tuition.max) }}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="tuition-note">
+            <p><strong>Catatan:</strong></p>
+            <ul>
+              <li>Biaya kuliah dapat bervariasi tergantung program studi</li>
+              <li>Program kedokteran, teknik, dan seni biasanya memiliki biaya lebih tinggi</li>
+              <li>Biaya tidak termasuk buku, asuransi kesehatan, dan biaya hidup</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="info-card">
+          <h2 class="card-title">Biaya Lainnya</h2>
+          <div class="other-fees">
+            <div class="fee-item">
+              <span class="fee-label">Biaya Pendaftaran</span>
+              <span class="fee-amount">{{ formatCurrency(university.applicationFee) }}</span>
+            </div>
+            <div v-if="university.insuranceFee" class="fee-item">
+              <span class="fee-label">Asuransi Kesehatan (per tahun)</span>
+              <span class="fee-amount">{{ formatCurrency(university.insuranceFee) }}</span>
+            </div>
+            <div v-if="university.dormitoryFee" class="fee-item">
+              <span class="fee-label">Asrama (per bulan)</span>
+              <span class="fee-amount">{{ formatCurrency(university.dormitoryFee) }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Scholarships -->
+      <div v-if="activeTab === 'scholarships'" class="tab-content">
+        <div class="info-card">
+          <h2 class="card-title">Program Beasiswa</h2>
+
+          <div v-if="university.scholarships && university.scholarships.length > 0" class="scholarships-list">
+            <div v-for="scholarship in university.scholarships" :key="scholarship.name" class="scholarship-card">
+              <h3 class="scholarship-name">{{ scholarship.name }}</h3>
+              <p class="scholarship-description">{{ scholarship.description }}</p>
+
+              <div class="scholarship-details">
+                <div class="scholarship-detail-item">
+                  <span class="detail-label">Tingkat Cakupan:</span>
+                  <span class="detail-value">{{ scholarship.coverage }}</span>
+                </div>
+                <div class="scholarship-detail-item">
+                  <span class="detail-label">Persyaratan:</span>
+                  <span class="detail-value">{{ scholarship.requirements }}</span>
+                </div>
+                <div v-if="scholarship.deadline" class="scholarship-detail-item">
+                  <span class="detail-label">Batas Waktu:</span>
+                  <span class="detail-value">{{ scholarship.deadline }}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div v-else class="no-data">
+            <p>Informasi beasiswa sedang diperbarui. Silakan hubungi universitas untuk informasi lebih lanjut.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Dormitory -->
+      <div v-if="activeTab === 'dormitory'" class="tab-content">
+        <div class="content-grid">
+          <div class="content-main">
+            <div class="info-card">
+              <h2 class="card-title">Fasilitas Asrama</h2>
+
+              <div v-if="university.dormitory" class="dormitory-info">
+                <p class="card-text">{{ university.dormitory.description }}</p>
+
+                <h3>Kapasitas & Ketersediaan</h3>
+                <ul class="info-list">
+                  <li><strong>Total Kapasitas:</strong> {{ university.dormitory.capacity }} mahasiswa</li>
+                  <li><strong>Prioritas:</strong> {{ university.dormitory.priority }}</li>
+                  <li><strong>Jarak ke Kampus:</strong> {{ university.dormitory.distance }}</li>
+                </ul>
+
+                <h3>Fasilitas Kamar</h3>
+                <div class="facilities-grid">
+                  <div v-for="facility in university.dormitory.roomFacilities" :key="facility" class="facility-item">
+                    {{ facility }}
+                  </div>
+                </div>
+
+                <h3>Fasilitas Umum</h3>
+                <div class="facilities-grid">
+                  <div v-for="facility in university.dormitory.commonFacilities" :key="facility" class="facility-item">
+                    {{ facility }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="content-sidebar">
+            <div class="info-card">
+              <h3 class="card-title">Tipe Kamar & Biaya</h3>
+              <div v-if="university.dormitory && university.dormitory.roomTypes" class="room-types">
+                <div v-for="room in university.dormitory.roomTypes" :key="room.type" class="room-type-item">
+                  <div class="room-type-name">{{ room.type }}</div>
+                  <div class="room-type-price">{{ formatCurrency(room.price) }}/bulan</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <h3 class="card-title">Kafetaria</h3>
+              <div v-if="university.dormitory && university.dormitory.cafeteria" class="cafeteria-info">
+                <p>{{ university.dormitory.cafeteria.description }}</p>
+                <p><strong>Jam Operasional:</strong> {{ university.dormitory.cafeteria.hours }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Language Institute -->
+      <div v-if="activeTab === 'language'" class="tab-content">
+        <div class="content-grid">
+          <div class="content-main">
+            <div class="info-card">
+              <h2 class="card-title">Program Bahasa Korea</h2>
+
+              <div v-if="university.languageInstitute" class="language-info">
+                <p class="card-text">{{ university.languageInstitute.description }}</p>
+
+                <h3>Informasi Program</h3>
+                <ul class="info-list">
+                  <li><strong>Durasi Program:</strong> {{ university.languageInstitute.duration }}</li>
+                  <li><strong>Jam Belajar:</strong> {{ university.languageInstitute.hoursPerWeek }} jam/minggu</li>
+                  <li><strong>Ukuran Kelas:</strong> {{ university.languageInstitute.classSize }}</li>
+                  <li><strong>Level:</strong> {{ university.languageInstitute.levels }}</li>
+                </ul>
+
+                <h3>Jadwal Pendaftaran</h3>
+                <div class="schedule-grid">
+                  <div v-for="intake in university.languageInstitute.intakes" :key="intake" class="schedule-card">
+                    <div class="schedule-month">{{ intake }}</div>
+                  </div>
+                </div>
+
+                <h3>Kurikulum</h3>
+                <ul class="curriculum-list">
+                  <li v-for="item in university.languageInstitute.curriculum" :key="item">{{ item }}</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="content-sidebar">
+            <div class="info-card">
+              <h3 class="card-title">Biaya Program</h3>
+              <div v-if="university.languageInstitute" class="fee-info">
+                <p class="fee-amount-large">{{ formatCurrency(university.languageInstitute.tuition) }}</p>
+                <p class="fee-label">per semester (10 minggu)</p>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <h3 class="card-title">Fasilitas</h3>
+              <ul v-if="university.languageInstitute" class="facility-list">
+                <li v-for="facility in university.languageInstitute.facilities" :key="facility">{{ facility }}</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

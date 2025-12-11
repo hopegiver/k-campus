@@ -1,0 +1,323 @@
+<div class="panduan-page" style="margin-top: var(--header-height, 80px);">
+  <!-- Hero Section -->
+  <section class="panduan-hero">
+    <div class="container">
+      <div class="panduan-breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <span>Panduan Kuliah</span>
+        <span>›</span>
+        <span>Ujian & Bahasa Korea</span>
+      </div>
+      <h1 class="panduan-title">Ujian & Pembelajaran Bahasa Korea</h1>
+      <p class="panduan-subtitle">Panduan lengkap TOPIK dan persyaratan bahasa untuk kuliah di Korea</p>
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class="section">
+    <div class="container">
+      <div class="panduan-content">
+
+        <!-- TOPIK Overview -->
+        <div class="content-block">
+          <h2 class="content-heading">Apa itu TOPIK?</h2>
+          <p class="content-text">
+            <strong>TOPIK (Test of Proficiency in Korean)</strong> adalah ujian kemampuan bahasa Korea yang
+            diselenggarakan oleh National Institute for International Education (NIIED). TOPIK adalah
+            persyaratan wajib bagi mahasiswa internasional yang ingin kuliah di Korea.
+          </p>
+          <div class="alert-info">
+            <strong>Penting:</strong> Setiap universitas memiliki persyaratan level TOPIK yang berbeda-beda
+            tergantung program studi. Pastikan untuk mengecek persyaratan spesifik universitas tujuan Anda.
+          </div>
+        </div>
+
+        <!-- TOPIK Levels -->
+        <div class="content-block">
+          <h2 class="content-heading">Tingkatan TOPIK</h2>
+          <div class="grid grid-cols-2">
+            <div class="card">
+              <div class="card-body">
+                <h3 class="card-title">TOPIK I (Pemula)</h3>
+                <div style="margin: 1rem 0;">
+                  <span class="badge badge-info" style="font-size: 1rem; padding: 0.5rem 1rem;">Level 1-2</span>
+                </div>
+                <p class="card-text"><strong>Level 1:</strong></p>
+                <ul class="list-styled">
+                  <li>Memahami kalimat dasar tentang diri sendiri dan keluarga</li>
+                  <li>Dapat berbelanja dan memesan makanan</li>
+                  <li>Menguasai sekitar 800 kosakata dasar</li>
+                </ul>
+                <p class="card-text" style="margin-top: 1rem;"><strong>Level 2:</strong></p>
+                <ul class="list-styled">
+                  <li>Dapat berkomunikasi dalam situasi sehari-hari</li>
+                  <li>Menggunakan telepon dan meminta bantuan</li>
+                  <li>Menguasai sekitar 1,500-2,000 kosakata</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body">
+                <h3 class="card-title">TOPIK II (Menengah-Lanjut)</h3>
+                <div style="margin: 1rem 0;">
+                  <span class="badge badge-success" style="font-size: 1rem; padding: 0.5rem 1rem;">Level 3-6</span>
+                </div>
+                <p class="card-text"><strong>Level 3-4:</strong></p>
+                <ul class="list-styled">
+                  <li>Dapat melakukan tugas-tugas dasar dalam kehidupan publik</li>
+                  <li>Memahami berbagai topik sosial yang familiar</li>
+                  <li>Menguasai sekitar 2,000-3,000 kosakata</li>
+                </ul>
+                <p class="card-text" style="margin-top: 1rem;"><strong>Level 5-6:</strong></p>
+                <ul class="list-styled">
+                  <li>Dapat melakukan penelitian atau bekerja profesional</li>
+                  <li>Memahami teks akademik dan berita</li>
+                  <li>Menguasai lebih dari 4,000 kosakata</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Requirements -->
+        <div class="content-block">
+          <h2 class="content-heading">Persyaratan TOPIK untuk Kuliah</h2>
+          <div class="table-responsive">
+            <table class="info-table">
+              <thead>
+                <tr>
+                  <th>Program</th>
+                  <th>Level Minimum Masuk</th>
+                  <th>Level Minimum Kelulusan</th>
+                  <th>Keterangan</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Program Sarjana (S1)</strong></td>
+                  <td>TOPIK Level 3</td>
+                  <td>TOPIK Level 4</td>
+                  <td>Diperlukan untuk mengikuti perkuliahan reguler</td>
+                </tr>
+                <tr>
+                  <td><strong>Program Pascasarjana (S2/S3)</strong></td>
+                  <td>TOPIK Level 4</td>
+                  <td>TOPIK Level 5</td>
+                  <td>Beberapa program menerima TOEFL/IELTS</td>
+                </tr>
+                <tr>
+                  <td><strong>Program Pertukaran</strong></td>
+                  <td>Bervariasi</td>
+                  <td>-</td>
+                  <td>Tergantung universitas mitra</td>
+                </tr>
+                <tr>
+                  <td><strong>Program Seni/Olahraga</strong></td>
+                  <td>TOPIK Level 2-3</td>
+                  <td>TOPIK Level 3-4</td>
+                  <td>Persyaratan lebih fleksibel</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Test Schedule -->
+        <div class="content-block">
+          <h2 class="content-heading">Jadwal Ujian TOPIK</h2>
+          <div class="grid grid-cols-2">
+            <div class="info-card">
+              <div class="info-card-header">
+                <span class="info-icon">📝</span>
+                <h3>TOPIK PBT (Paper-Based)</h3>
+              </div>
+              <div class="info-card-body">
+                <p><strong>Frekuensi:</strong> 6 kali per tahun</p>
+                <p><strong>Bulan Pelaksanaan:</strong></p>
+                <ul class="list-styled">
+                  <li>Januari</li>
+                  <li>April</li>
+                  <li>Mei</li>
+                  <li>Juli</li>
+                  <li>Oktober</li>
+                  <li>November</li>
+                </ul>
+                <p style="margin-top: 1rem;">
+                  <strong>Format:</strong> Ujian tertulis di lokasi test center resmi
+                </p>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <div class="info-card-header">
+                <span class="info-icon">💻</span>
+                <h3>TOPIK IBT (Internet-Based)</h3>
+              </div>
+              <div class="info-card-body">
+                <p><strong>Frekuensi:</strong> 6 kali per tahun</p>
+                <p><strong>Bulan Pelaksanaan:</strong></p>
+                <ul class="list-styled">
+                  <li>Februari</li>
+                  <li>Maret</li>
+                  <li>Juni</li>
+                  <li>September</li>
+                  <li>Oktober</li>
+                  <li>November</li>
+                </ul>
+                <p style="margin-top: 1rem;">
+                  <strong>Format:</strong> Ujian online melalui komputer
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card mt-3">
+            <div class="info-card-header">
+              <span class="info-icon">🎤</span>
+              <h3>TOPIK Speaking (Tes Berbicara)</h3>
+            </div>
+            <div class="info-card-body">
+              <p><strong>Frekuensi:</strong> 3 kali per tahun</p>
+              <p><strong>Bulan Pelaksanaan:</strong> Maret, Juni, Oktober</p>
+              <p style="margin-top: 1rem;">
+                <strong>Catatan:</strong> Ujian berbicara bersifat opsional dan tidak diwajibkan untuk
+                pendaftaran universitas, namun dapat menjadi nilai tambah.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Test Registration -->
+        <div class="content-block">
+          <h2 class="content-heading">Cara Mendaftar TOPIK</h2>
+          <div class="highlight-box">
+            <h4>📌 Langkah-langkah Pendaftaran</h4>
+            <ol style="padding-left: 1.5rem; margin: 1rem 0;">
+              <li style="margin-bottom: 0.5rem;">Kunjungi website resmi TOPIK: <a href="https://www.topik.go.kr" target="_blank" style="color: var(--color-primary);">www.topik.go.kr</a></li>
+              <li style="margin-bottom: 0.5rem;">Buat akun dan lengkapi data pribadi</li>
+              <li style="margin-bottom: 0.5rem;">Pilih jenis test (TOPIK I atau TOPIK II)</li>
+              <li style="margin-bottom: 0.5rem;">Pilih lokasi test center terdekat</li>
+              <li style="margin-bottom: 0.5rem;">Upload pas foto sesuai ketentuan</li>
+              <li style="margin-bottom: 0.5rem;">Bayar biaya pendaftaran</li>
+              <li style="margin-bottom: 0.5rem;">Cetak kartu peserta ujian</li>
+            </ol>
+          </div>
+
+          <div class="alert-warning mt-3">
+            <strong>⚠️ Perhatian:</strong> Pendaftaran biasanya dibuka 2-3 bulan sebelum tanggal ujian dan
+            kuota terbatas. Daftar sesegera mungkin setelah pendaftaran dibuka!
+          </div>
+        </div>
+
+        <!-- Study Resources -->
+        <div class="content-block">
+          <h2 class="content-heading">Sumber Belajar Bahasa Korea</h2>
+          <div class="grid grid-cols-3">
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">🌐</div>
+                <h3 class="card-title">Platform Online</h3>
+                <ul style="text-align: left; padding-left: 1rem;">
+                  <li>Nuri-Sejong Hakdang</li>
+                  <li>Online Sejong Hakdang</li>
+                  <li>Korean MOOC</li>
+                  <li>Talk To Me In Korean</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">🏫</div>
+                <h3 class="card-title">Kursus Offline</h3>
+                <ul style="text-align: left; padding-left: 1rem;">
+                  <li>Korean Language Institute (KLI)</li>
+                  <li>Korean Cultural Center</li>
+                  <li>Lembaga kursus lokal</li>
+                  <li>Tutor privat</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">📱</div>
+                <h3 class="card-title">Aplikasi Mobile</h3>
+                <ul style="text-align: left; padding-left: 1rem;">
+                  <li>Duolingo Korean</li>
+                  <li>Memrise</li>
+                  <li>HelloTalk</li>
+                  <li>Drops</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tips -->
+        <div class="content-block">
+          <h2 class="content-heading">Tips Persiapan TOPIK</h2>
+          <div class="info-card">
+            <div class="info-card-body">
+              <div class="grid grid-cols-2">
+                <div>
+                  <h4 style="color: var(--color-primary); margin-bottom: 1rem;">✅ Yang Harus Dilakukan</h4>
+                  <ul class="list-styled">
+                    <li>Mulai belajar minimal 6 bulan sebelum ujian</li>
+                    <li>Latihan soal-soal TOPIK tahun sebelumnya</li>
+                    <li>Fokus pada vocabulary dan grammar</li>
+                    <li>Praktik listening setiap hari</li>
+                    <li>Bergabung dengan study group</li>
+                    <li>Konsisten belajar 2-3 jam per hari</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4 style="color: var(--color-danger); margin-bottom: 1rem;">❌ Yang Harus Dihindari</h4>
+                  <ul style="list-style: none; padding: 0;">
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Belajar sistem kebut semalam
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Hanya fokus pada satu skill saja
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Mengabaikan latihan writing
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Tidak mengatur waktu saat latihan
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Belajar tanpa target yang jelas
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- CTA Section -->
+        <div class="content-cta">
+          <h3>Butuh Bantuan Persiapan TOPIK?</h3>
+          <p>Konsultasikan persiapan ujian dan rencana studi Anda dengan tim ahli kami</p>
+          <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
+            <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+              Konsultasi Gratis
+            </button>
+            <button @click="navigateTo('panduan/visa-tinggal')" class="btn btn-outline btn-large">
+              Panduan Visa →
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</div>

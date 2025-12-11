@@ -1,0 +1,484 @@
+<div class="panduan-page" style="margin-top: var(--header-height, 80px);">
+  <!-- Hero Section -->
+  <section class="panduan-hero">
+    <div class="container">
+      <div class="panduan-breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <span>Panduan Kuliah</span>
+        <span>›</span>
+        <span>Akomodasi & Perumahan</span>
+      </div>
+      <h1 class="panduan-title">Akomodasi & Perumahan di Korea</h1>
+      <p class="panduan-subtitle">Panduan lengkap memilih tempat tinggal yang tepat untuk mahasiswa internasional</p>
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class="section">
+    <div class="container">
+      <div class="panduan-content">
+
+        <!-- Overview -->
+        <div class="content-block">
+          <h2 class="content-heading">Pilihan Akomodasi untuk Mahasiswa</h2>
+          <p class="content-text">
+            Korea menawarkan berbagai pilihan akomodasi untuk mahasiswa internasional, mulai dari dormitory kampus
+            hingga apartment pribadi. Statistik menunjukkan bahwa <strong>mayoritas mahasiswa internasional memilih
+            apartment/officetel dengan sistem sewa bulanan (월세)</strong>.
+          </p>
+        </div>
+
+        <!-- Housing Types -->
+        <div class="content-block">
+          <h2 class="content-heading">Jenis-Jenis Akomodasi</h2>
+
+          <div class="info-card">
+            <div class="info-card-header">
+              <span class="info-icon">🏫</span>
+              <h3>Dormitory / Asrama Kampus (기숙사)</h3>
+            </div>
+            <div class="info-card-body">
+              <div class="grid grid-cols-2">
+                <div>
+                  <h4 style="color: var(--color-primary); margin-bottom: 1rem;">✅ Keuntungan</h4>
+                  <ul class="list-styled">
+                    <li>Paling ekonomis (₩300,000 - ₩600,000/bulan)</li>
+                    <li>Lokasi strategis di dalam/dekat kampus</li>
+                    <li>Fasilitas lengkap (laundry, gym, study room)</li>
+                    <li>Keamanan terjamin 24/7</li>
+                    <li>Mudah bersosialisasi dengan mahasiswa lain</li>
+                    <li>Tidak perlu deposit besar</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4 style="color: var(--color-danger); margin-bottom: 1rem;">❌ Kekurangan</h4>
+                  <ul style="list-style: none; padding: 0;">
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Ruangan kecil (biasanya sharing)
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Aturan strict (curfew, guest policy)
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Terbatas kuota (harus apply early)
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Privasi terbatas
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Waktu tinggal terbatas (semester/tahunan)
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="highlight-box mt-3">
+                <h4>💰 Biaya Dormitory</h4>
+                <ul style="list-style: none; padding: 0; margin: 1rem 0;">
+                  <li style="margin-bottom: 0.5rem;"><strong>Single Room:</strong> ₩400,000 - ₩700,000/bulan</li>
+                  <li style="margin-bottom: 0.5rem;"><strong>Double Room:</strong> ₩300,000 - ₩500,000/bulan</li>
+                  <li style="margin-bottom: 0.5rem;"><strong>With Meal Plan:</strong> +₩150,000 - ₩300,000/bulan</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <div class="info-card-header">
+              <span class="info-icon">🏠</span>
+              <h3>Hasukjib / Boarding House (하숙집)</h3>
+            </div>
+            <div class="info-card-body">
+              <p class="content-text">
+                Hasukjib adalah sistem menginap di rumah keluarga Korea yang menyediakan kamar dan makanan.
+                Pilihan bagus untuk merasakan budaya Korea secara langsung.
+              </p>
+
+              <div class="grid grid-cols-2">
+                <div>
+                  <h4 style="color: var(--color-primary); margin-bottom: 1rem;">✅ Keuntungan</h4>
+                  <ul class="list-styled">
+                    <li>Makanan disediakan (breakfast & dinner)</li>
+                    <li>Pengalaman budaya Korea autentik</li>
+                    <li>Praktik bahasa Korea sehari-hari</li>
+                    <li>Seperti keluarga (homey atmosphere)</li>
+                    <li>Utilities sudah termasuk</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4>💰 Biaya</h4>
+                  <p style="font-size: 1.3rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
+                    ₩400,000 - ₩700,000/bulan
+                  </p>
+                  <p>Sudah termasuk 2 kali makan (pagi & malam)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <div class="info-card-header">
+              <span class="info-icon">🏢</span>
+              <h3>Officetel / Studio (오피스텔)</h3>
+            </div>
+            <div class="info-card-body">
+              <p class="content-text">
+                <strong>Pilihan paling populer!</strong> Officetel adalah apartemen studio yang dilengkapi dengan
+                kitchen, bathroom, dan living space dalam satu ruangan. Cocok untuk mahasiswa yang menginginkan
+                privasi dan kebebasan.
+              </p>
+
+              <div class="grid grid-cols-2">
+                <div>
+                  <h4 style="color: var(--color-primary); margin-bottom: 1rem;">✅ Keuntungan</h4>
+                  <ul class="list-styled">
+                    <li>Privasi penuh (unit sendiri)</li>
+                    <li>Fasilitas lengkap (kitchen, bathroom)</li>
+                    <li>Lokasi strategis dekat stasiun</li>
+                    <li>Modern dan bersih</li>
+                    <li>Keamanan dengan access card</li>
+                    <li>Bebas aturan</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4 style="color: var(--color-danger); margin-bottom: 1rem;">❌ Kekurangan</h4>
+                  <ul style="list-style: none; padding: 0;">
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Lebih mahal
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Perlu deposit besar (보증금)
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Utilities terpisah
+                    </li>
+                    <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                      <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                      Harus urus furniture sendiri
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="highlight-box mt-3">
+                <h4>💰 Biaya Officetel</h4>
+                <ul style="list-style: none; padding: 0; margin: 1rem 0;">
+                  <li style="margin-bottom: 0.5rem;"><strong>Deposit (보증금):</strong> ₩5,000,000 - ₩20,000,000</li>
+                  <li style="margin-bottom: 0.5rem;"><strong>Sewa Bulanan (월세):</strong> ₩400,000 - ₩800,000</li>
+                  <li style="margin-bottom: 0.5rem;"><strong>Utilities:</strong> ₩50,000 - ₩100,000/bulan</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <div class="info-card-header">
+              <span class="info-icon">🏘️</span>
+              <h3>Share House / Goshiwon (고시원 / 쉐어하우스)</h3>
+            </div>
+            <div class="info-card-body">
+              <p class="content-text">
+                Goshiwon adalah kamar mini (3-5m²) dengan fasilitas bersama. Share house adalah konsep
+                berbagi apartment dengan beberapa orang, masing-masing punya kamar pribadi tapi sharing
+                common area.
+              </p>
+
+              <div class="grid grid-cols-2">
+                <div>
+                  <h4>🏠 Goshiwon</h4>
+                  <p style="font-size: 1.2rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
+                    ₩250,000 - ₩500,000/bulan
+                  </p>
+                  <ul class="list-styled">
+                    <li>Kamar sangat kecil (hanya muat kasur + meja)</li>
+                    <li>Shared bathroom & kitchen</li>
+                    <li>No deposit required</li>
+                    <li>Paling ekonomis untuk solo living</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4>🤝 Share House</h4>
+                  <p style="font-size: 1.2rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
+                    ₩350,000 - ₩600,000/bulan
+                  </p>
+                  <ul class="list-styled">
+                    <li>Private bedroom dengan common area</li>
+                    <li>Shared kitchen, living room, bathroom</li>
+                    <li>Deposit lebih kecil</li>
+                    <li>Networking opportunity</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <div class="info-card-header">
+              <span class="info-icon">🏘️</span>
+              <h3>Apartment / Villa (아파트 / 빌라)</h3>
+            </div>
+            <div class="info-card-body">
+              <p class="content-text">
+                Apartment atau villa adalah opsi untuk yang mencari ruang lebih besar, biasanya untuk
+                keluarga atau sharing dengan teman.
+              </p>
+
+              <div class="highlight-box">
+                <h4>💰 Sistem Pembayaran</h4>
+                <div class="grid grid-cols-2" style="margin-top: 1rem;">
+                  <div>
+                    <h5 style="color: var(--color-primary); margin-bottom: 0.5rem;">월세 (Wolse) - Monthly Rent</h5>
+                    <p><strong>Deposit:</strong> ₩10,000,000 - ₩50,000,000</p>
+                    <p><strong>Monthly:</strong> ₩500,000 - ₩1,200,000</p>
+                  </div>
+                  <div>
+                    <h5 style="color: var(--color-primary); margin-bottom: 0.5rem;">전세 (Jeonse) - Lump Sum</h5>
+                    <p><strong>Deposit:</strong> ₩100,000,000 - ₩300,000,000</p>
+                    <p><strong>Monthly:</strong> ₩0 (no monthly rent!)</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- How to Find Housing -->
+        <div class="content-block">
+          <h2 class="content-heading">Cara Mencari Tempat Tinggal</h2>
+
+          <div class="grid grid-cols-3">
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">📱</div>
+                <h3 class="card-title">Platform Online</h3>
+                <ul style="text-align: left; padding-left: 1rem; margin-top: 1rem;">
+                  <li><strong>Dabang (다방)</strong> - Most popular</li>
+                  <li><strong>Zigbang (직방)</strong></li>
+                  <li><strong>Naver Real Estate</strong></li>
+                  <li><strong>Peter Pan</strong> (for students)</li>
+                  <li><strong>Craigslist Korea</strong></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">🏢</div>
+                <h3 class="card-title">Real Estate Agent</h3>
+                <p style="text-align: left; margin-top: 1rem;">
+                  부동산 중개소 (Budongsan) - agen properti lokal yang membantu mencari dan negoisasi.
+                </p>
+                <p style="text-align: left; margin-top: 1rem;">
+                  <strong>Fee:</strong> Biasanya 0.3-0.5% dari deposit atau 1 bulan sewa.
+                </p>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="icon-box mb-3">👥</div>
+                <h3 class="card-title">University Support</h3>
+                <p style="text-align: left; margin-top: 1rem;">
+                  Banyak universitas punya housing office atau international office yang membantu mahasiswa asing
+                  mencari tempat tinggal.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Moving Process -->
+        <div class="content-block">
+          <h2 class="content-heading">Proses Menyewa Properti</h2>
+
+          <div class="highlight-box">
+            <h4>📋 Langkah-langkah Menyewa</h4>
+            <ol style="padding-left: 1.5rem; margin: 1.5rem 0; line-height: 1.8;">
+              <li><strong>Cari Properti</strong><br>
+                Gunakan app atau kunjungi budongsan (real estate office)</li>
+
+              <li><strong>Kunjungi & Inspeksi</strong><br>
+                Cek kondisi kamar, fasilitas, dan area sekitar</li>
+
+              <li><strong>Negoisasi Harga</strong><br>
+                Jangan ragu untuk tawar deposit atau monthly rent</li>
+
+              <li><strong>Siapkan Dokumen</strong><br>
+                Passport, ARC, bank statement, student ID</li>
+
+              <li><strong>Tanda Tangan Kontrak</strong><br>
+                Baca teliti kontrak sebelum sign (minta teman Korea bantu translate)</li>
+
+              <li><strong>Bayar Deposit & Rent</strong><br>
+                Transfer ke rekening landlord (simpan bukti transfer!)</li>
+
+              <li><strong>Register di Office</strong><br>
+                Daftarkan alamat baru di district office untuk ARC update</li>
+
+              <li><strong>Setup Utilities</strong><br>
+                Atur listrik, gas, internet dengan nama Anda</li>
+            </ol>
+          </div>
+
+          <div class="alert-warning mt-3">
+            <strong>⚠️ Penting:</strong> Selalu cek kontrak dengan teliti! Perhatikan klausul tentang deposit return,
+            maintenance fee, early termination, dan aturan lainnya. Jika perlu, minta bantuan teman Korea atau
+            university staff untuk review kontrak.
+          </div>
+        </div>
+
+        <!-- Important Documents -->
+        <div class="content-block">
+          <h2 class="content-heading">Dokumen yang Diperlukan</h2>
+          <div class="grid grid-cols-2">
+            <div class="info-card">
+              <div class="info-card-header">
+                <span class="info-icon">📄</span>
+                <h3>Untuk Menyewa</h3>
+              </div>
+              <div class="info-card-body">
+                <ul class="list-styled">
+                  <li>Passport atau ARC (ID)</li>
+                  <li>Student ID atau Admission Letter</li>
+                  <li>Bank statement (bukti keuangan)</li>
+                  <li>Emergency contact di Korea</li>
+                  <li>Deposit money ready</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="info-card">
+              <div class="info-card-header">
+                <span class="info-icon">✍️</span>
+                <h3>Kontrak Rental</h3>
+              </div>
+              <div class="info-card-body">
+                <ul class="list-styled">
+                  <li>임대차 계약서 (Rental Agreement)</li>
+                  <li>특약사항 (Special Terms) - baca teliti!</li>
+                  <li>Copy landlord ID</li>
+                  <li>Building registration certificate</li>
+                  <li>Receipt pembayaran deposit</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Living Facilities -->
+        <div class="content-block">
+          <h2 class="content-heading">Fasilitas & Utilitas</h2>
+
+          <div class="table-responsive">
+            <table class="info-table">
+              <thead>
+                <tr>
+                  <th>Utility</th>
+                  <th>Biaya Bulanan</th>
+                  <th>Cara Setup</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Listrik (전기)</strong></td>
+                  <td>₩30,000 - ₩70,000</td>
+                  <td>Korea Electric Power (KEPCO) - online/call</td>
+                </tr>
+                <tr>
+                  <td><strong>Gas (가스)</strong></td>
+                  <td>₩20,000 - ₩50,000</td>
+                  <td>Local gas company - visit office</td>
+                </tr>
+                <tr>
+                  <td><strong>Air (수도)</strong></td>
+                  <td>₩10,000 - ₩30,000</td>
+                  <td>Biasanya included dalam maintenance fee</td>
+                </tr>
+                <tr>
+                  <td><strong>Internet (인터넷)</strong></td>
+                  <td>₩25,000 - ₩40,000</td>
+                  <td>KT, SK Broadband, LG U+ - online</td>
+                </tr>
+                <tr>
+                  <td><strong>Maintenance (관리비)</strong></td>
+                  <td>₩50,000 - ₩150,000</td>
+                  <td>Included in monthly payment</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Tips -->
+        <div class="content-block">
+          <h2 class="content-heading">Tips Penting</h2>
+
+          <div class="grid grid-cols-2">
+            <div class="highlight-box">
+              <h4>✅ Do's</h4>
+              <ul class="list-styled">
+                <li>Mulai cari 2-3 bulan sebelum semester</li>
+                <li>Kunjungi properti secara langsung</li>
+                <li>Cek transportasi ke kampus</li>
+                <li>Foto kondisi kamar saat move-in</li>
+                <li>Simpan semua dokumen & receipt</li>
+                <li>Daftar di district office</li>
+                <li>Check for mold, water leaks, heating</li>
+              </ul>
+            </div>
+
+            <div class="highlight-box">
+              <h4>❌ Don'ts</h4>
+              <ul style="list-style: none; padding: 0;">
+                <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                  <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                  Jangan transfer uang sebelum lihat properti
+                </li>
+                <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                  <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                  Jangan sign kontrak tanpa membaca detail
+                </li>
+                <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                  <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                  Jangan pilih hanya berdasarkan harga murah
+                </li>
+                <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                  <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                  Jangan bayar cash tanpa receipt
+                </li>
+                <li style="padding-left: 1.5rem; margin-bottom: 0.5rem; position: relative;">
+                  <span style="position: absolute; left: 0; color: var(--color-danger);">✗</span>
+                  Jangan lupa cek keamanan area sekitar
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- CTA Section -->
+        <div class="content-cta">
+          <h3>Butuh Bantuan Mencari Akomodasi?</h3>
+          <p>Kami siap membantu Anda menemukan tempat tinggal yang nyaman dan aman di Korea</p>
+          <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
+            <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+              Konsultasi Sekarang
+            </button>
+            <button @click="navigateTo('universitas')" class="btn btn-outline btn-large">
+              Lihat Universitas
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</div>

@@ -142,20 +142,32 @@ body {
   min-width: 200px;
   opacity: 0;
   visibility: hidden;
-  transform: translateY(-10px);
-  transition: all var(--transition-base);
+  transform: translateY(0);
+  transition: opacity var(--transition-base), visibility var(--transition-base);
   z-index: 1000;
-  margin-top: 0.5rem;
+  margin-top: 0;
   list-style: none;
   display: none;
+  /* Add padding at top to create hover-friendly area */
+  padding-top: 0.75rem;
 }
 
 .nav-item.has-dropdown:hover .dropdown-menu,
 .nav-item.has-dropdown.active .dropdown-menu {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
   display: block;
+}
+
+/* Hover-friendly area: extend hover zone slightly above dropdown */
+.nav-item.has-dropdown::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 10px;
+  z-index: 999;
 }
 
 .dropdown-menu li {

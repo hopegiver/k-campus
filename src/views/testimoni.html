@@ -1,14 +1,14 @@
 <div class="testimoni-page" style="margin-top: var(--header-height, 80px);">
   <!-- Hero Section -->
-  <section class="testimoni-hero">
+  <section class="page-hero">
     <div class="container">
-      <div class="panduan-breadcrumb">
+      <div class="page-hero-breadcrumb">
         <a @click.prevent="navigateTo('home')">Beranda</a>
         <span>›</span>
         <span>Testimoni</span>
       </div>
-      <h1 class="testimoni-title">Cerita Sukses Alumni</h1>
-      <p class="testimoni-subtitle">
+      <h1 class="page-hero-title">Cerita Sukses Alumni</h1>
+      <p class="page-hero-subtitle">
         Dengarkan pengalaman langsung dari mahasiswa Indonesia yang telah meraih mimpi mereka kuliah di Korea
       </p>
 
@@ -150,7 +150,7 @@
       <div class="cta-box" style="margin-top: 3rem;">
         <h3>Ingin berbagi cerita Anda?</h3>
         <p>Jika Anda adalah mahasiswa atau alumni yang ingin berbagi pengalaman, kami ingin mendengar cerita Anda!</p>
-        <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+        <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
           Hubungi Kami
         </button>
       </div>
@@ -192,7 +192,7 @@
               <p class="group-description">{{ group.description }}</p>
               <div class="group-footer">
                 <span class="group-members">👥 {{ group.members }} members</span>
-                <button @click="joinCommunity(group.link)" class="btn btn-small btn-outline">
+                <button @click="joinCommunity(group.link)" class="btn btn-sm btn-outline">
                   Join Group
                 </button>
               </div>
@@ -274,7 +274,7 @@
         <div class="cta-card">
           <h3>Siap Menjadi Alumni Sukses Berikutnya?</h3>
           <p>Mulai perjalanan Anda kuliah di Korea bersama K-Campus. Konsultasi gratis dengan tim expert kami!</p>
-          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
             Konsultasi Gratis Sekarang
           </button>
         </div>

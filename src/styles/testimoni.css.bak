@@ -1,41 +1,66 @@
 /* ====================================
    Testimoni (Testimonials) Page Styles
-   Page-specific styles only
-   Common components are in css/components.css
    ==================================== */
 
 .testimoni-page {
   min-height: calc(100vh - var(--header-height, 80px));
 }
 
-/* Quick Navigation Buttons (Hero Section) */
-.quick-nav {
+/* Hero Section */
+.testimoni-hero {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  color: var(--color-white);
+  padding: var(--space-xxl) 0 var(--space-xl);
+  position: relative;
+}
+
+.testimoni-title {
+  font-size: var(--font-size-4xl);
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+  line-height: var(--line-height-tight);
+}
+
+.testimoni-subtitle {
+  font-size: var(--font-size-lg);
+  opacity: 0.95;
+  max-width: 700px;
+  margin-bottom: var(--space-xl);
+}
+
+/* Filter Tabs */
+.filter-tabs {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-md);
-  margin-top: var(--space-xl);
+  justify-content: center;
+  padding: var(--space-lg) 0;
 }
 
-.quick-nav-btn {
-  background: rgba(255, 255, 255, 0.2);
-  color: var(--color-white);
-  border: 2px solid rgba(255, 255, 255, 0.4);
-  padding: var(--space-sm) var(--space-lg);
+.filter-tab {
+  padding: var(--space-sm) var(--space-xl);
+  background: var(--color-white);
+  color: var(--color-text);
+  border: 2px solid var(--color-border);
   border-radius: var(--border-radius-full);
   font-size: var(--font-size-sm);
   font-weight: 600;
   cursor: pointer;
   transition: all var(--transition-base);
-  backdrop-filter: blur(10px);
 }
 
-.quick-nav-btn:hover {
-  background: rgba(255, 255, 255, 0.3);
-  border-color: rgba(255, 255, 255, 0.6);
-  transform: translateY(-2px);
+.filter-tab:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
 }
 
-/* Student Interviews - Specific Grid */
+.filter-tab.active {
+  background: var(--color-primary);
+  color: var(--color-white);
+  border-color: var(--color-primary);
+}
+
+/* Student Interviews */
 .interviews-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
@@ -193,7 +218,7 @@
   font-weight: 700;
 }
 
-/* Video Testimonials - Specific Grid */
+/* Video Testimonials */
 .videos-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -321,7 +346,7 @@
   color: var(--color-text-secondary);
 }
 
-/* Communities Section - Specific Layout */
+/* Communities Section */
 .communities-container {
   display: flex;
   flex-direction: column;
@@ -431,7 +456,7 @@
   font-weight: 600;
 }
 
-/* Community Benefits Card */
+/* Community Benefits */
 .community-benefits {
   background: var(--color-white);
   padding: var(--space-xxl);
@@ -440,7 +465,7 @@
   box-shadow: var(--shadow-base);
 }
 
-/* Stats Section - Specific Layout */
+/* Stats Section */
 .stats-section {
   padding: var(--space-xxl) 0;
 }
@@ -481,7 +506,7 @@
   font-weight: 600;
 }
 
-/* CTA Box - Specific Styling */
+/* CTA Box */
 .cta-box {
   background: linear-gradient(135deg, rgba(0, 102, 204, 0.1), rgba(0, 168, 168, 0.1));
   padding: var(--space-xxl);
@@ -517,76 +542,21 @@
   font-size: var(--font-size-lg);
 }
 
-/* CTA Section */
-.cta-section {
-  margin-top: var(--space-xxl);
-  padding: var(--space-xxl) 0;
-}
-
-.cta-card {
-  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
-  padding: var(--space-xxl);
-  border-radius: var(--border-radius-lg);
-  text-align: center;
-  color: var(--color-white);
-}
-
-.cta-card h3 {
-  font-size: var(--font-size-2xl);
-  font-weight: 700;
-  margin-bottom: var(--space-md);
-}
-
-.cta-card p {
-  font-size: var(--font-size-lg);
-  margin-bottom: var(--space-xl);
-  opacity: 0.95;
-}
-
-/* Benefits Grid for Community Section */
-.benefits-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: var(--space-lg);
-  margin-top: var(--space-lg);
-}
-
-.benefit-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: var(--space-lg);
-  background: var(--color-background);
-  border-radius: var(--border-radius-md);
-}
-
-.benefit-icon {
-  font-size: 3rem;
-  margin-bottom: var(--space-md);
-}
-
-.benefit-item h4 {
-  font-size: var(--font-size-base);
-  font-weight: 600;
-  margin-bottom: var(--space-sm);
-  color: var(--color-text);
-}
-
-.benefit-item p {
-  font-size: var(--font-size-sm);
-  color: var(--color-text-secondary);
-  margin: 0;
-  line-height: 1.6;
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
-  .quick-nav {
+  .testimoni-title {
+    font-size: var(--font-size-3xl);
+  }
+
+  .testimoni-subtitle {
+    font-size: var(--font-size-base);
+  }
+
+  .filter-tabs {
     flex-direction: column;
   }
 
-  .quick-nav-btn {
+  .filter-tab {
     width: 100%;
     text-align: center;
   }

@@ -1,13 +1,13 @@
 <div class="page-content">
   <!-- Hero Section -->
-  <section class="hero-gradient">
+  <section class="hero-gradient hero-with-image">
     <div class="container">
-      <div class="text-center">
+      <div>
         <h1 class="display-4 fw-bold text-white mb-3">Wujudkan Impian Kuliah di Korea</h1>
-        <p class="lead text-white-75 mb-5 mw-600" style="max-width: 600px; margin-left: auto; margin-right: auto; opacity: 0.95;">
+        <p class="lead text-white-75 mb-5" style="max-width: 600px; opacity: 0.95;">
           Temukan universitas terbaik di Korea, dapatkan beasiswa, dan raih masa depan cerah dengan pendidikan berkualitas internasional.
         </p>
-        <div class="d-flex gap-3 justify-content-center flex-wrap">
+        <div class="d-flex gap-3 flex-wrap">
           <button @click="navigateTo('universitas')" class="btn btn-light btn-lg fw-bold px-4">
             Cari Universitas
           </button>
@@ -20,14 +20,14 @@
   </section>
 
   <!-- Search Box -->
-  <section class="py-5">
+  <section class="py-5" style="margin-top: -80px;">
     <div class="container">
-      <div class="card border-0 shadow p-5">
+      <div class="card border-0 shadow p-5" style="position: relative; z-index: 10;">
         <h3 class="h3 fw-bold text-primary mb-4">Cari Program Studi yang Tepat</h3>
         <form @submit.prevent="handleSearch">
           <div class="row g-3">
             <div class="col-md-6 col-lg-3">
-              <select v-model="searchForm.jurusan" class="form-select form-select-lg">
+              <select v-model="searchForm.jurusan" class="form-select">
                 <option value="">Pilih Jurusan</option>
                 <option value="teknik">Teknik & Teknologi</option>
                 <option value="bisnis">Bisnis & Manajemen</option>
@@ -38,7 +38,7 @@
               </select>
             </div>
             <div class="col-md-6 col-lg-3">
-              <select v-model="searchForm.jenjang" class="form-select form-select-lg">
+              <select v-model="searchForm.jenjang" class="form-select">
                 <option value="">Jenjang Pendidikan</option>
                 <option value="s1">Sarjana (S1)</option>
                 <option value="s2">Magister (S2)</option>
@@ -46,7 +46,7 @@
               </select>
             </div>
             <div class="col-md-6 col-lg-3">
-              <select v-model="searchForm.kota" class="form-select form-select-lg">
+              <select v-model="searchForm.kota" class="form-select">
                 <option value="">Pilih Kota</option>
                 <option value="seoul">Seoul</option>
                 <option value="busan">Busan</option>
@@ -56,7 +56,7 @@
               </select>
             </div>
             <div class="col-md-6 col-lg-3">
-              <button type="submit" class="btn btn-primary btn-lg w-100">Cari</button>
+              <button type="submit" class="btn btn-primary w-100" style="height: 38px;">Cari</button>
             </div>
           </div>
         </form>

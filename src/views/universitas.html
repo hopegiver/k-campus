@@ -1,6 +1,6 @@
 <div class="page-content">
   <!-- Hero Section -->
-  <section class="hero-gradient">
+  <section class="hero-gradient hero-universitas">
     <div class="container">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb mb-4">
@@ -32,7 +32,7 @@
                 class="form-control border-primary"
               >
               <button @click="applyFilters" class="btn btn-primary">
-                🔍 Cari
+                Cari
               </button>
             </div>
           </div>
@@ -44,16 +44,16 @@
 
         <!-- Filters Sidebar -->
         <div class="col-lg-3">
-          <div class="card border-primary border-2 shadow-sm sticky-top" style="top: 20px;">
-            <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
-              <h5 class="mb-0 fw-bold">Filter Pencarian</h5>
-              <button @click="resetFilters" class="btn btn-sm btn-outline-light">Reset</button>
+          <div class="card border-0 shadow-sm sticky-top" style="top: 20px;">
+            <div class="card-header bg-light border-0 d-flex justify-content-between align-items-center py-3">
+              <h6 class="mb-0 fw-bold text-primary">Filter Pencarian</h6>
+              <button @click="resetFilters" class="btn btn-sm btn-outline-primary px-2 py-1" style="font-size: 0.8rem;">Reset</button>
             </div>
 
             <div class="card-body">
               <!-- Region Filter -->
               <div class="mb-4">
-                <h6 class="fw-bold text-primary mb-3">📍 Wilayah</h6>
+                <h6 class="fw-bold text-dark mb-3">Wilayah</h6>
                 <div class="d-flex flex-column gap-2">
                   <div v-for="region in regions" :key="region" class="form-check">
                     <input
@@ -73,7 +73,7 @@
 
               <!-- Degree Level Filter -->
               <div class="mb-4">
-                <h6 class="fw-bold text-primary mb-3">🎓 Jenjang Pendidikan</h6>
+                <h6 class="fw-bold text-dark mb-3">Jenjang Pendidikan</h6>
                 <div class="d-flex flex-column gap-2">
                   <div v-for="level in degreeLevels" :key="level" class="form-check">
                     <input
@@ -93,7 +93,7 @@
 
               <!-- University Type Filter -->
               <div class="mb-4">
-                <h6 class="fw-bold text-primary mb-3">🏛️ Jenis Universitas</h6>
+                <h6 class="fw-bold text-dark mb-3">Jenis Universitas</h6>
                 <div class="d-flex flex-column gap-2">
                   <div v-for="type in universityTypes" :key="type" class="form-check">
                     <input
@@ -113,7 +113,7 @@
 
               <!-- Tuition Range Filter -->
               <div class="mb-4">
-                <h6 class="fw-bold text-primary mb-3">💰 Biaya Kuliah (per semester)</h6>
+                <h6 class="fw-bold text-dark mb-3">Biaya Kuliah (per semester)</h6>
                 <div class="d-flex flex-column gap-2">
                   <div v-for="range in tuitionRanges" :key="range.value" class="form-check">
                     <input
@@ -134,7 +134,7 @@
 
               <!-- Features Filter -->
               <div class="mb-4">
-                <h6 class="fw-bold text-primary mb-3">✨ Fasilitas & Program</h6>
+                <h6 class="fw-bold text-dark mb-3">Fasilitas & Program</h6>
                 <div class="d-flex flex-column gap-2">
                   <div class="form-check">
                     <input
@@ -194,18 +194,18 @@
         <div class="col-lg-9">
           <!-- Sort & View Options -->
           <div class="card border-0 shadow-sm mb-4">
-            <div class="card-body d-flex justify-content-between align-items-center flex-wrap gap-3">
-              <div>
+            <div class="card-body py-3 d-flex justify-content-between align-items-center flex-wrap gap-3">
+              <div class="small">
                 Menampilkan <strong>{{ filteredUniversities.length }}</strong> dari {{ totalUniversities }} universitas
               </div>
               <div class="d-flex gap-2 align-items-center">
-                <select v-model="sortBy" @change="sortResults" class="form-select form-select-sm" style="max-width: 180px;">
+                <select v-model="sortBy" @change="sortResults" class="form-select" style="width: 180px; height: 38px; font-size: 0.9rem;">
                   <option value="name">Nama A-Z</option>
                   <option value="ranking">Ranking</option>
                   <option value="tuition-low">Biaya Terendah</option>
                   <option value="tuition-high">Biaya Tertinggi</option>
                 </select>
-                <div class="btn-group btn-group-sm" role="group">
+                <div class="btn-group" role="group" style="height: 38px;">
                   <button
                     type="button"
                     @click="viewMode = 'grid'"

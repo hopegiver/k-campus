@@ -1,6 +1,6 @@
 <div class="page-content" style="margin-top: var(--header-height, 80px);">
   <!-- Hero Section -->
-  <section class="hero-gradient">
+  <section class="hero-gradient hero-testimoni">
     <div class="container">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb mb-4">
@@ -58,22 +58,22 @@
           :key="interview.id"
           class="col-md-6 col-lg-4"
         >
-          <div class="card h-100 border-0 shadow-sm">
-            <div class="card-body">
-              <div class="d-flex gap-3 mb-4 pb-4 border-bottom">
-                <div class="flex-shrink-0">
-                  <img :src="interview.photo" :alt="interview.name" class="rounded-circle" style="width: 80px; height: 80px; object-fit: cover;">
-                </div>
-                <div>
-                  <h3 class="card-title h6 fw-bold mb-1">{{ interview.name }} <span class="text-primary">{{ interview.nameKo }}</span></h3>
-                  <p class="card-text small text-muted mb-1">{{ interview.program }}</p>
-                  <p class="card-text small text-muted">📍 {{ interview.university }}</p>
-                  <div class="d-flex gap-2 flex-wrap">
-                    <span class="badge bg-secondary">{{ interview.location }}</span>
-                    <span class="badge bg-secondary">{{ interview.year }}</span>
-                  </div>
+          <div class="card h-100 shadow-sm overflow-hidden">
+            <div class="d-flex gap-3" style="background-color: var(--color-gray-100); padding: 1.5rem;">
+              <div class="flex-shrink-0">
+                <img :src="interview.photo" :alt="interview.name" class="rounded-circle" style="width: 80px; height: 80px; object-fit: cover;">
+              </div>
+              <div>
+                <h3 class="card-title h6 fw-bold mb-1">{{ interview.name }} <span class="text-primary">{{ interview.nameKo }}</span></h3>
+                <p class="card-text small text-muted mb-1">{{ interview.program }}</p>
+                <p class="card-text small text-muted">📍 {{ interview.university }}</p>
+                <div class="d-flex gap-2 flex-wrap">
+                  <span class="badge bg-secondary">{{ interview.location }}</span>
+                  <span class="badge bg-secondary">{{ interview.year }}</span>
                 </div>
               </div>
+            </div>
+            <div class="card-body">
 
               <blockquote class="blockquote mb-4">
                 <p class="mb-0"><em>"{{ interview.quote }}"</em></p>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="mb-4">
-                <h4 class="h6 fw-bold mb-2">🏆 Achievements</h4>
+                <h4 class="h6 fw-bold mb-2">Achievements</h4>
                 <ul class="list-unstyled small">
                   <li v-for="achievement in interview.achievements" :key="achievement" class="mb-1">
                     ✓ {{ achievement }}
@@ -94,12 +94,13 @@
               </div>
 
               <div>
-                <h4 class="h6 fw-bold mb-2">💡 Tips untuk Calon Mahasiswa</h4>
+                <h4 class="h6 fw-bold mb-2">Tips untuk Calon Mahasiswa</h4>
                 <ul class="list-unstyled small">
                   <li v-for="tip in interview.tips" :key="tip" class="mb-1">
                     ✓ {{ tip }}
                   </li>
                 </ul>
+              </div>
               </div>
             </div>
           </div>
@@ -130,8 +131,8 @@
             <div class="position-relative">
               <img :src="video.thumbnail" :alt="video.title" class="card-img-top" style="height: 200px; object-fit: cover;">
               <div class="position-absolute top-50 start-50 translate-middle">
-                <div class="btn btn-light rounded-circle p-3">
-                  <span>▶</span>
+                <div class="btn btn-light rounded-circle d-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                  <span style="font-size: 1.25rem; margin-left: 2px;">▶</span>
                 </div>
               </div>
               <span class="position-absolute bottom-0 end-0 badge bg-dark m-2">{{ video.duration }}</span>
@@ -139,7 +140,7 @@
             <div class="card-body">
               <h3 class="card-title h6 fw-bold">{{ video.title }}</h3>
               <p class="card-text small text-muted mb-2">{{ video.student }}</p>
-              <p class="card-text small text-muted">👁️ {{ video.views }} views</p>
+              <p class="card-text small text-muted">{{ video.views }} views</p>
             </div>
           </div>
         </div>
@@ -176,13 +177,10 @@
           class="col-lg-6"
         >
           <div class="card h-100 border-0 shadow-sm">
-            <div class="card-header bg-light border-bottom">
-              <div class="d-flex gap-3 align-items-start">
-                <span class="fs-2">{{ community.icon }}</span>
-                <div>
-                  <h3 class="card-title h5 fw-bold mb-1">{{ community.region }}</h3>
-                  <p class="card-text small text-muted mb-0">{{ community.description }}</p>
-                </div>
+            <div class="card-header bg-light border-bottom" style="padding: 1.5rem !important;">
+              <div>
+                <h3 class="card-title h5 fw-bold mb-1">{{ community.region }}</h3>
+                <p class="card-text small text-muted mb-0">{{ community.description }}</p>
               </div>
             </div>
             <div class="card-body">
@@ -199,7 +197,7 @@
                 </div>
                 <p class="card-text small text-muted mb-3">{{ group.description }}</p>
                 <div class="d-flex justify-content-between align-items-center">
-                  <span class="small text-muted">👥 {{ group.members }} members</span>
+                  <span class="small text-muted">{{ group.members }} members</span>
                   <button @click="joinCommunity(group.link)" class="btn btn-sm btn-outline-primary">
                     Join Group
                   </button>

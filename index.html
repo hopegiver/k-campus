@@ -89,31 +89,47 @@
             const dropdownToggles = document.querySelectorAll('.nav-link.dropdown-toggle');
 
             dropdownToggles.forEach(function(toggle) {
-                toggle.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
+                // Remove existing event listeners by cloning
+                const newToggle = toggle.cloneNode(true);
+                toggle.parentNode.replaceChild(newToggle, toggle);
 
-                    const parentItem = this.closest('.nav-item.has-dropdown');
-                    const isActive = parentItem.classList.contains('active');
+                newToggle.addEventListener('click', function(e) {
+                    const isMobile = window.innerWidth <= 768;
 
-                    // Close all other dropdowns
-                    document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
-                        item.classList.remove('active');
-                    });
+                    // Only prevent default and toggle on mobile
+                    if (isMobile) {
+                        e.preventDefault();
+                        e.stopPropagation();
 
-                    // Toggle current dropdown
-                    if (!isActive) {
-                        parentItem.classList.add('active');
+                        const parentItem = this.closest('.nav-item.has-dropdown');
+                        const isActive = parentItem.classList.contains('active');
+
+                        // Close all other dropdowns
+                        document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
+                            if (item !== parentItem) {
+                                item.classList.remove('active');
+                            }
+                        });
+
+                        // Toggle current dropdown
+                        if (isActive) {
+                            parentItem.classList.remove('active');
+                        } else {
+                            parentItem.classList.add('active');
+                        }
                     }
+                    // On desktop, let hover handle it
                 });
             });
 
-            // Close dropdown when clicking outside
+            // Close dropdown when clicking outside (mobile only)
             document.addEventListener('click', function(e) {
-                if (!e.target.closest('.nav-item.has-dropdown')) {
-                    document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
-                        item.classList.remove('active');
-                    });
+                if (window.innerWidth <= 768) {
+                    if (!e.target.closest('.nav-item.has-dropdown')) {
+                        document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
+                            item.classList.remove('active');
+                        });
+                    }
                 }
             });
         }

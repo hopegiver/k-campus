@@ -20,6 +20,7 @@ export default {
           name: 'Seoul National University',
           nameKo: '서울대학교',
           logo: 'https://images.unsplash.com/photo-1562774053-701939374585?w=100&h=100&fit=crop',
+          image: 'https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=400&h=250&fit=crop',
           location: 'Seoul',
           region: 'Seoul Metropolitan Area',
           founded: '1946',

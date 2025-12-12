@@ -1,6 +1,6 @@
 <div class="page-content">
   <!-- Hero Section -->
-  <section class="hero-gradient">
+  <section class="hero-gradient hero-university" :style="{ backgroundImage: university.image ? 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(' + university.image + ')' : '' }">
     <div class="container">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb mb-4">
@@ -12,21 +12,16 @@
 
       <div class="row align-items-center">
         <div class="col-md-8">
-          <div class="d-flex align-items-start gap-4">
-            <div class="bg-white rounded p-3 shadow-sm" style="min-width: 100px;">
-              <img :src="university.logo" :alt="university.name" class="img-fluid" style="max-width: 100px;">
-            </div>
-            <div>
-              <h1 class="display-5 fw-bold mb-3">{{ university.name }}</h1>
-              <p class="lead mb-3">
-                <span class="me-3">{{ university.location }}</span>
-                <span class="me-3">{{ university.type }}</span>
-                <span v-if="university.ranking" class="badge bg-light text-primary">{{ university.ranking }}</span>
-              </p>
-              <div class="d-flex gap-2 flex-wrap">
-                <span v-if="university.isAccredited" class="badge bg-success">Terakreditasi Internasional</span>
-                <span v-if="university.hasScholarship" class="badge bg-warning text-dark">Beasiswa Tersedia</span>
-              </div>
+          <div>
+            <h1 class="display-5 fw-bold mb-3">{{ university.name }}</h1>
+            <p class="lead mb-3">
+              <span class="me-3">📍 {{ university.location }}</span>
+              <span class="me-3">🏛️ {{ university.type }}</span>
+              <span v-if="university.ranking" class="badge bg-light text-primary">{{ university.ranking }}</span>
+            </p>
+            <div class="d-flex gap-2 flex-wrap">
+              <span v-if="university.isAccredited" class="badge bg-success">Terakreditasi Internasional</span>
+              <span v-if="university.hasScholarship" class="badge bg-warning text-dark">Beasiswa Tersedia</span>
             </div>
           </div>
         </div>
@@ -79,14 +74,13 @@
   </section>
 
   <!-- Tab Navigation -->
-  <section class="bg-white border-bottom sticky-top" style="top: var(--header-height); z-index: 1020;">
+  <section class="bg-white sticky-top" style="top: var(--header-height); z-index: 1020; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);">
     <div class="container">
-      <ul class="nav nav-tabs border-0">
+      <ul class="nav nav-tabs">
         <li class="nav-item" v-for="tab in tabs" :key="tab.id">
           <button
             @click="activeTab = tab.id"
             :class="['nav-link', { active: activeTab === tab.id }]"
-            style="border: none; border-bottom: 3px solid transparent;"
           >
             {{ tab.label }}
           </button>

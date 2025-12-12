@@ -1494,3 +1494,399 @@
 .comparison-table tbody tr:last-child td {
   border-bottom: none;
 }
+
+/* ====================================
+   16. GKS & Scholarship Components
+   ==================================== */
+
+/* Program Grid & Cards */
+.program-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-xl);
+  margin-top: var(--space-xl);
+}
+
+.program-card {
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.program-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.program-card h4 {
+  font-size: var(--font-size-xl);
+  color: var(--color-primary);
+  margin-bottom: var(--space-lg);
+  padding-bottom: var(--space-md);
+  border-bottom: 2px solid var(--color-border);
+}
+
+.program-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.program-card ul li {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid #f0f0f0;
+  line-height: 1.6;
+}
+
+.program-card ul li:last-child {
+  border-bottom: none;
+}
+
+/* Tracks Grid */
+.tracks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-xl);
+  margin-top: var(--space-xl);
+}
+
+.track-card {
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  border-left: 4px solid var(--color-primary);
+  box-shadow: var(--shadow-sm);
+}
+
+.track-card h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-md);
+}
+
+.track-card p {
+  margin-bottom: var(--space-md);
+  font-size: var(--font-size-base);
+}
+
+.track-card ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.track-card ul li {
+  padding: var(--space-xs) 0 var(--space-xs) var(--space-lg);
+  position: relative;
+  line-height: 1.6;
+}
+
+.track-card ul li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--color-success);
+  font-weight: 700;
+}
+
+/* Requirements List */
+.requirement-list {
+  margin-top: var(--space-xl);
+}
+
+.requirement-item {
+  display: flex;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-md);
+  background: var(--color-background);
+  border-radius: var(--border-radius-base);
+  border-left: 3px solid var(--color-success);
+}
+
+.req-icon {
+  font-size: var(--font-size-xl);
+  color: var(--color-success);
+  font-weight: 700;
+}
+
+.req-content {
+  flex: 1;
+  line-height: 1.6;
+}
+
+/* Timeline - Enhanced Version */
+.timeline-section {
+  margin: var(--space-xxl) 0;
+}
+
+.timeline {
+  position: relative;
+  padding: var(--space-xl) 0;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(180deg, var(--color-primary), var(--color-secondary));
+  transform: translateX(-50%);
+}
+
+.timeline-item {
+  display: flex;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xxl);
+  position: relative;
+}
+
+.timeline-item:nth-child(odd) {
+  flex-direction: row;
+}
+
+.timeline-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.timeline-marker {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  color: var(--color-white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(0, 102, 204, 0.3);
+  position: relative;
+  z-index: 2;
+}
+
+.timeline-content {
+  flex: 1;
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-base);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.timeline-content:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+}
+
+.timeline-content h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-md);
+}
+
+.timeline-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.timeline-content ul li {
+  padding: var(--space-xs) 0 var(--space-xs) var(--space-lg);
+  position: relative;
+  line-height: 1.6;
+}
+
+.timeline-content ul li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+/* Documents Grid */
+.documents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.document-category {
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.document-category:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+}
+
+.document-category h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-lg);
+  padding-bottom: var(--space-sm);
+  border-bottom: 2px solid var(--color-border);
+}
+
+.document-category ul {
+  list-style: none;
+  padding: 0;
+}
+
+.document-category ul li {
+  padding: var(--space-sm) 0 var(--space-sm) var(--space-lg);
+  position: relative;
+  line-height: 1.6;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.document-category ul li:last-child {
+  border-bottom: none;
+}
+
+.document-category ul li::before {
+  content: "📎";
+  position: absolute;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+
+/* Scholarship Type Cards */
+.scholarship-type-card {
+  background: var(--color-white);
+  padding: var(--space-xxl);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-base);
+  margin-bottom: var(--space-xl);
+}
+
+.scholarship-type-card h3 {
+  font-size: var(--font-size-2xl);
+  color: var(--color-primary);
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-md);
+  border-bottom: 2px solid var(--color-border);
+}
+
+/* University List */
+.university-list {
+  display: grid;
+  gap: var(--space-xl);
+}
+
+.university-scholarship {
+  padding: var(--space-lg);
+  background: var(--color-background);
+  border-radius: var(--border-radius-base);
+  border: 1px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.university-scholarship:hover {
+  background: var(--color-white);
+  box-shadow: var(--shadow-base);
+}
+
+.university-scholarship h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-text);
+  margin-bottom: var(--space-md);
+}
+
+.university-scholarship ul {
+  list-style: none;
+  padding: 0;
+}
+
+.university-scholarship ul li {
+  padding: var(--space-xs) 0;
+  line-height: 1.6;
+}
+
+.university-scholarship a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color var(--transition-base);
+}
+
+.university-scholarship a:hover {
+  color: var(--color-secondary);
+  text-decoration: underline;
+}
+
+/* Other Scholarships */
+.other-scholarships {
+  display: grid;
+  gap: var(--space-xl);
+  margin-top: var(--space-xl);
+}
+
+.other-scholarship-item {
+  padding: var(--space-xl);
+  background: var(--color-white);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.other-scholarship-item:hover {
+  border-color: var(--color-secondary);
+  box-shadow: var(--shadow-lg);
+}
+
+.other-scholarship-item h4 {
+  font-size: var(--font-size-xl);
+  color: var(--color-text);
+  margin-bottom: var(--space-md);
+}
+
+.other-scholarship-item p {
+  margin-bottom: var(--space-md);
+  line-height: 1.7;
+}
+
+.other-scholarship-item ul {
+  list-style: none;
+  padding: 0;
+}
+
+.other-scholarship-item ul li {
+  padding: var(--space-xs) 0;
+  line-height: 1.6;
+}
+
+/* Mobile Responsive for Scholarship Pages */
+@media (max-width: 768px) {
+  .timeline::before {
+    left: 40px;
+  }
+
+  .timeline-item {
+    flex-direction: column !important;
+    padding-left: 80px;
+  }
+
+  .timeline-marker {
+    position: absolute;
+    left: 0;
+    width: 60px;
+    height: 60px;
+    font-size: var(--font-size-base);
+  }
+
+  .program-grid,
+  .tracks-grid,
+  .documents-grid {
+    grid-template-columns: 1fr;
+  }
+}

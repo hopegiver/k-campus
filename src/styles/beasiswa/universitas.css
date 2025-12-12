@@ -3,106 +3,14 @@
    Uses components.css for common styles
    ==================================== */
 
-/* Scholarship Type Cards */
-.scholarship-type-card {
-  background: var(--color-white);
-  padding: var(--space-xxl);
-  border-radius: var(--border-radius-lg);
-  box-shadow: var(--shadow-base);
-  margin-bottom: var(--space-xl);
-}
-
-.scholarship-type-card h3 {
-  font-size: var(--font-size-2xl);
-  color: var(--color-primary);
-  margin-bottom: var(--space-xl);
-  padding-bottom: var(--space-md);
-  border-bottom: 2px solid var(--color-border);
-}
-
-/* University List */
-.university-list {
-  display: grid;
-  gap: var(--space-xl);
-}
-
-.university-scholarship {
-  padding: var(--space-lg);
-  background: var(--color-background);
-  border-radius: var(--border-radius-base);
-  border: 1px solid var(--color-border);
-  transition: all var(--transition-base);
-}
-
-.university-scholarship:hover {
-  background: var(--color-white);
-  box-shadow: var(--shadow-base);
-}
-
-.university-scholarship h4 {
-  font-size: var(--font-size-lg);
-  color: var(--color-text);
-  margin-bottom: var(--space-md);
-}
-
-.university-scholarship ul {
-  list-style: none;
-  padding: 0;
-}
-
-.university-scholarship ul li {
-  padding: var(--space-xs) 0;
-  line-height: 1.6;
-}
-
-.university-scholarship a {
-  color: var(--color-primary);
-  text-decoration: none;
-  transition: color var(--transition-base);
-}
-
-.university-scholarship a:hover {
-  color: var(--color-secondary);
-  text-decoration: underline;
-}
-
-/* Other Scholarships */
-.other-scholarships {
-  display: grid;
-  gap: var(--space-xl);
-  margin-top: var(--space-xl);
-}
-
-.other-scholarship-item {
-  padding: var(--space-xl);
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  border: 2px solid var(--color-border);
-  transition: all var(--transition-base);
-}
-
-.other-scholarship-item:hover {
-  border-color: var(--color-secondary);
-  box-shadow: var(--shadow-lg);
-}
-
-.other-scholarship-item h4 {
-  font-size: var(--font-size-xl);
-  color: var(--color-text);
-  margin-bottom: var(--space-md);
-}
-
-.other-scholarship-item p {
-  margin-bottom: var(--space-md);
-  line-height: 1.7;
-}
-
-.other-scholarship-item ul {
-  list-style: none;
-  padding: 0;
-}
-
-.other-scholarship-item ul li {
-  padding: var(--space-xs) 0;
-  line-height: 1.6;
-}
+/* No page-specific styles needed */
+/* This page uses common components from components.css:
+   - .panduan-page, .panduan-hero, .panduan-content (panduan common)
+   - .content-section, .section-title, .section-intro (content sections)
+   - .scholarship-type-card (scholarship cards)
+   - .university-list, .university-scholarship (university list)
+   - .info-box (info boxes)
+   - .other-scholarships, .other-scholarship-item (other scholarships)
+   - .comparison-table (comparison table)
+   - .cta-section, .cta-card, .btn (CTA and buttons)
+*/

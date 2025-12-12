@@ -121,6 +121,7 @@
 /* Panduan Pages Common Components */
 .panduan-page {
   min-height: calc(100vh - var(--header-height, 80px));
+  margin-top: var(--header-height, 80px);
 }
 
 .panduan-hero {
@@ -508,6 +509,15 @@
 .btn-block {
   display: block;
   width: 100%;
+}
+
+/* Button Group */
+.btn-group {
+  display: flex;
+  gap: var(--space-md);
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: var(--space-lg);
 }
 
 /* ====================================

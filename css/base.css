@@ -305,8 +305,32 @@ body {
   background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%) !important;
 }
 
-.bg-gradient * {
+.bg-gradient h1,
+.bg-gradient h2,
+.bg-gradient h3,
+.bg-gradient h4,
+.bg-gradient h5,
+.bg-gradient h6,
+.bg-gradient p,
+.bg-gradient .lead {
   color: white !important;
+}
+
+/* Buttons inside gradient sections should keep their own colors */
+.bg-gradient .btn-light {
+  color: var(--bs-primary) !important;
+  background-color: white !important;
+  border-color: white !important;
+}
+
+.bg-gradient .btn-outline-light {
+  color: white !important;
+  border-color: white !important;
+}
+
+.bg-gradient .btn-outline-light:hover {
+  background-color: white !important;
+  color: var(--bs-primary) !important;
 }
 
 /* ====================================

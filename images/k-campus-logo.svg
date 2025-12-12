@@ -1,0 +1,14 @@
+<svg width="160" height="45" viewBox="0 0 160 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066CC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00A8A8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- K-Campus Text with modern styling -->
+  <text x="0" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="url(#textGradient)">K-Campus</text>
+
+  <!-- Accent line under K -->
+  <rect x="0" y="32" width="28" height="3" fill="#00A8A8" rx="1.5"/>
+</svg>

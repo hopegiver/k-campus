@@ -204,7 +204,15 @@ h5.text-primary {
 }
 
 .site-logo:hover {
-  color: var(--color-primary-hover);
+  opacity: 0.9;
+  transform: translateY(-1px);
+  transition: all 0.2s ease;
+}
+
+.site-logo .logo-img {
+  height: 45px;
+  width: auto;
+  display: block;
 }
 
 .logo-icon {

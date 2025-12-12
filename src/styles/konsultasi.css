@@ -28,32 +28,7 @@
   margin-bottom: var(--space-xl);
 }
 
-/* Quick Navigation */
-.quick-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-md);
-  margin-top: var(--space-xl);
-}
-
-.quick-nav-btn {
-  background: rgba(255, 255, 255, 0.2);
-  color: var(--color-white);
-  border: 2px solid rgba(255, 255, 255, 0.4);
-  padding: var(--space-sm) var(--space-lg);
-  border-radius: var(--border-radius-full);
-  font-size: var(--font-size-sm);
-  font-weight: 600;
-  cursor: pointer;
-  transition: all var(--transition-base);
-  backdrop-filter: blur(10px);
-}
-
-.quick-nav-btn:hover {
-  background: rgba(255, 255, 255, 0.3);
-  border-color: rgba(255, 255, 255, 0.6);
-  transform: translateY(-2px);
-}
+/* Quick Navigation - uses .quick-nav .quick-nav-btn from components.css */
 
 /* Consultation Methods */
 .consultation-methods {
@@ -522,15 +497,6 @@
 
   .konsultasi-subtitle {
     font-size: var(--font-size-base);
-  }
-
-  .quick-nav {
-    flex-direction: column;
-  }
-
-  .quick-nav-btn {
-    width: 100%;
-    text-align: center;
   }
 
   .consultation-methods {

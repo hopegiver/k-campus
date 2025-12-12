@@ -1,0 +1,98 @@
+/* ====================================
+   Akomodasi Page Specific Styles
+   Uses common.css for shared styles
+   ==================================== */
+
+/* Benefits Section */
+.benefits-section {
+  margin-top: var(--space-xxl);
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-lg);
+}
+
+.benefit-item {
+  display: flex;
+  gap: var(--space-md);
+  padding: var(--space-lg);
+  background: var(--color-background);
+  border-radius: var(--border-radius-md);
+  border-left: 4px solid var(--color-primary);
+}
+
+.benefit-icon {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+}
+
+.benefit-icon .icon {
+  width: 24px;
+  height: 24px;
+}
+
+.benefit-content h4 {
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  margin-bottom: var(--space-xs);
+  color: var(--color-text);
+}
+
+.benefit-content p {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Comparison Table */
+.comparison-table {
+  margin-top: var(--space-xxl);
+  overflow-x: auto;
+}
+
+.comparison-table h3 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  margin-bottom: var(--space-lg);
+  color: var(--color-text);
+}
+
+.comparison-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--color-white);
+  border-radius: var(--border-radius-md);
+  overflow: hidden;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: var(--space-md);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.comparison-table th {
+  background: var(--color-primary);
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+.comparison-table td {
+  color: var(--color-text-secondary);
+}
+
+.comparison-table tr:last-child td {
+  border-bottom: none;
+}

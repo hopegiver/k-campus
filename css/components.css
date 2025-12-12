@@ -88,6 +88,130 @@
   max-width: 700px;
 }
 
+/* Quick Navigation (Hero Section) */
+.quick-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  margin-top: var(--space-xl);
+}
+
+.quick-nav-btn {
+  background: rgba(255, 255, 255, 0.2);
+  color: var(--color-white);
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  padding: var(--space-sm) var(--space-lg);
+  border-radius: var(--border-radius-full);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  backdrop-filter: blur(10px);
+}
+
+.quick-nav-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.6);
+  transform: translateY(-2px);
+}
+
+/* Panduan Pages Common Components */
+.panduan-page {
+  min-height: calc(100vh - var(--header-height, 80px));
+}
+
+.panduan-hero {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  color: var(--color-white);
+  padding: var(--space-xxl) 0 var(--space-xl);
+  position: relative;
+}
+
+.panduan-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: var(--font-size-sm);
+  margin-bottom: var(--space-lg);
+  opacity: 0.9;
+}
+
+.panduan-breadcrumb a {
+  color: var(--color-white);
+  cursor: pointer;
+  transition: opacity var(--transition-base);
+  text-decoration: none;
+}
+
+.panduan-breadcrumb a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.panduan-breadcrumb span:last-child {
+  font-weight: 600;
+}
+
+.panduan-title {
+  font-size: var(--font-size-4xl);
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+  line-height: var(--line-height-tight);
+}
+
+.panduan-subtitle {
+  font-size: var(--font-size-lg);
+  opacity: 0.95;
+  max-width: 700px;
+}
+
+.panduan-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content-block {
+  margin-bottom: var(--space-3xl);
+}
+
+.content-heading {
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: var(--space-lg);
+  padding-bottom: var(--space-md);
+  border-bottom: 3px solid var(--color-primary);
+}
+
+.content-text {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-relaxed);
+  color: var(--color-text);
+  margin-bottom: var(--space-md);
+}
+
+.content-cta {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  color: var(--color-white);
+  padding: var(--space-xxl);
+  border-radius: var(--border-radius-lg);
+  text-align: center;
+  margin-top: var(--space-3xl);
+}
+
+.content-cta h3 {
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+}
+
+.content-cta p {
+  font-size: var(--font-size-lg);
+  opacity: 0.95;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 /* ====================================
    3. Card Components
    ==================================== */
@@ -961,6 +1085,15 @@
 
   .page-hero-subtitle {
     font-size: var(--font-size-base);
+  }
+
+  .quick-nav {
+    flex-direction: column;
+  }
+
+  .quick-nav-btn {
+    width: 100%;
+    text-align: center;
   }
 
   .form-row {

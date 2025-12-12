@@ -1287,3 +1287,210 @@
     gap: var(--space-md);
   }
 }
+
+/* ====================================
+   15. Beasiswa-Specific Components
+   ==================================== */
+
+/* Benefits Grid */
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.benefit-item {
+  display: flex;
+  gap: var(--space-md);
+  padding: var(--space-lg);
+  background: var(--color-white);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+}
+
+.benefit-item:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.benefit-icon {
+  flex-shrink: 0;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.benefit-content {
+  flex: 1;
+}
+
+.benefit-content h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-sm);
+}
+
+.benefit-content p {
+  font-size: var(--font-size-sm);
+  line-height: 1.6;
+  margin: 0;
+  color: var(--color-text-light);
+}
+
+/* Tips Grid */
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.tip-card {
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  text-align: center;
+  transition: all var(--transition-base);
+}
+
+.tip-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.tip-icon {
+  font-size: 2rem;
+  margin-bottom: var(--space-md);
+  display: block;
+  text-align: center;
+}
+
+.tip-card h4 {
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-md);
+}
+
+.tip-card p {
+  font-size: var(--font-size-base);
+  line-height: 1.7;
+  color: var(--color-text);
+  text-align: left;
+}
+
+/* Resources Grid */
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.resource-card {
+  background: var(--color-white);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-lg);
+  border: 2px solid var(--color-border);
+  transition: all var(--transition-base);
+  text-align: center;
+}
+
+.resource-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.resource-card h4 {
+  font-size: var(--font-size-xl);
+  color: var(--color-text);
+  margin-bottom: var(--space-md);
+}
+
+.resource-card p {
+  font-size: var(--font-size-sm);
+  line-height: 1.6;
+  color: var(--color-text-light);
+  margin-bottom: var(--space-lg);
+}
+
+/* Interview Tips */
+.interview-tips {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-lg);
+  margin-top: var(--space-lg);
+}
+
+.interview-tip {
+  background: var(--color-white);
+  padding: var(--space-lg);
+  border-radius: var(--border-radius-base);
+  border-left: 3px solid var(--color-success);
+}
+
+.interview-tip strong {
+  display: block;
+  font-size: var(--font-size-lg);
+  color: var(--color-primary);
+  margin-bottom: var(--space-md);
+}
+
+.interview-tip ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.interview-tip ul li {
+  padding: var(--space-xs) 0 var(--space-xs) var(--space-lg);
+  position: relative;
+  line-height: 1.6;
+}
+
+.interview-tip ul li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--color-success);
+  font-weight: 700;
+}
+
+/* Comparison Table */
+.comparison-table {
+  overflow-x: auto;
+  margin: var(--space-xl) 0;
+}
+
+.comparison-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--color-white);
+  border-radius: var(--border-radius-base);
+  overflow: hidden;
+  box-shadow: var(--shadow-base);
+}
+
+.comparison-table thead {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: var(--space-md);
+  text-align: left;
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.comparison-table tbody tr:hover {
+  background: var(--color-gray-100);
+}
+
+.comparison-table tbody tr:last-child td {
+  border-bottom: none;
+}

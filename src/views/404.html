@@ -1,57 +1,75 @@
-<div class="page-404-container">
-    <div class="page-404-content">
+<div class="page-content">
+  <section class="py-5">
+    <div class="container">
+      <div class="text-center py-5">
         <!-- 404 Illustration -->
-        <div class="page-404-illustration">
-            <div class="page-404-number">
-                <span class="page-404-four">4</span>
-                <span class="page-404-zero">
-                    <div class="page-404-zero-inner">
-                        <span class="page-404-search-icon">🔍</span>
-                    </div>
-                </span>
-                <span class="page-404-four">4</span>
-            </div>
+        <div class="mb-5">
+          <div class="d-flex justify-content-center align-items-center gap-3 mb-4" style="font-size: 8rem; font-weight: 700; color: #0066cc;">
+            <span>4</span>
+            <span class="position-relative">
+              <span style="color: #00a8a8;">0</span>
+              <span class="position-absolute top-50 start-50 translate-middle" style="font-size: 3rem;">🔍</span>
+            </span>
+            <span>4</span>
+          </div>
         </div>
 
-        <div class="page-404-text">
-            <h1>Halaman Tidak Ditemukan</h1>
-            <p class="page-404-error-message">
-                Halaman yang Anda cari <code>{{ requestedUrl }}</code> tidak dapat ditemukan.<br>
-                Silakan periksa URL atau gunakan opsi di bawah ini.
-            </p>
+        <div class="mb-5">
+          <h1 class="display-4 fw-bold mb-3">Halaman Tidak Ditemukan</h1>
+          <p class="lead text-muted mb-4">
+            Halaman yang Anda cari <code class="text-primary">{{ requestedUrl }}</code> tidak dapat ditemukan.<br>
+            Silakan periksa URL atau gunakan opsi di bawah ini.
+          </p>
         </div>
 
         <!-- Action Buttons -->
-        <div class="page-404-actions">
-            <button class="btn btn-primary btn-large" @click="navigateTo('home')">
-                Kembali ke Beranda
-            </button>
-            <button class="btn btn-outline btn-large" @click="goBack">
-                Halaman Sebelumnya
-            </button>
+        <div class="d-flex gap-3 justify-content-center flex-wrap mb-5">
+          <button class="btn btn-primary btn-lg px-5" @click="navigateTo('home')">
+            Kembali ke Beranda
+          </button>
+          <button class="btn btn-outline-primary btn-lg px-5" @click="goBack">
+            Halaman Sebelumnya
+          </button>
         </div>
 
         <!-- Suggested Pages -->
-        <div class="page-404-suggestions">
-            <h3>Halaman yang Mungkin Anda Cari</h3>
-            <div class="page-404-suggestions-grid">
-                <div class="page-404-suggestion-card" @click="navigateTo('universitas')">
-                    <h4>🎓 Universitas</h4>
-                    <p>Jelajahi universitas-universitas terbaik di Korea</p>
-                    <span class="page-404-suggestion-arrow">→</span>
+        <div class="mt-5">
+          <h3 class="h4 fw-bold text-primary mb-4">Halaman yang Mungkin Anda Cari</h3>
+          <div class="row g-4 justify-content-center">
+            <div class="col-md-4">
+              <div class="card h-100 border-0 shadow-sm" style="cursor: pointer;" @click="navigateTo('universitas')">
+                <div class="card-body text-center p-4">
+                  <div class="fs-1 mb-3">🎓</div>
+                  <h4 class="card-title text-primary fw-bold">Universitas</h4>
+                  <p class="card-text text-muted mb-3">Jelajahi universitas-universitas terbaik di Korea</p>
+                  <span class="text-primary fw-bold">→</span>
                 </div>
-                <div class="page-404-suggestion-card" @click="navigateTo('beasiswa')">
-                    <h4>💰 Beasiswa</h4>
-                    <p>Temukan program beasiswa yang tersedia</p>
-                    <span class="page-404-suggestion-arrow">→</span>
-                </div>
-                <div class="page-404-suggestion-card" @click="navigateTo('konsultasi')">
-                    <h4>💬 Konsultasi</h4>
-                    <p>Dapatkan konsultasi gratis dari kami</p>
-                    <span class="page-404-suggestion-arrow">→</span>
-                </div>
+              </div>
             </div>
+            <div class="col-md-4">
+              <div class="card h-100 border-0 shadow-sm" style="cursor: pointer;" @click="navigateTo('beasiswa/gks')">
+                <div class="card-body text-center p-4">
+                  <div class="fs-1 mb-3">💰</div>
+                  <h4 class="card-title text-primary fw-bold">Beasiswa</h4>
+                  <p class="card-text text-muted mb-3">Temukan program beasiswa yang tersedia</p>
+                  <span class="text-primary fw-bold">→</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100 border-0 shadow-sm" style="cursor: pointer;" @click="navigateTo('konsultasi')">
+                <div class="card-body text-center p-4">
+                  <div class="fs-1 mb-3">💬</div>
+                  <h4 class="card-title text-primary fw-bold">Konsultasi</h4>
+                  <p class="card-text text-muted mb-3">Dapatkan konsultasi gratis dari kami</p>
+                  <span class="text-primary fw-bold">→</span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
+      </div>
     </div>
+  </section>
 </div>

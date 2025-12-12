@@ -299,6 +299,17 @@ body {
 }
 
 /* ====================================
+   Gradient Cards (CTA sections)
+   ==================================== */
+.bg-gradient {
+  background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%) !important;
+}
+
+.bg-gradient * {
+  color: white !important;
+}
+
+/* ====================================
    Footer
    ==================================== */
 .site-footer {
@@ -368,12 +379,13 @@ body {
 
   .dropdown-menu {
     position: static;
-    opacity: 1;
-    visibility: visible;
-    transform: none;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
     box-shadow: none;
     background: #f8f9fa;
     margin: 0.25rem 0 0 1.5rem;
+    display: block !important;
   }
 
   /* Mobile Timeline */

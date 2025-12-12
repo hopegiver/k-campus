@@ -1,73 +1,171 @@
-<div class="panduan-page">
-  <section class="panduan-hero">
+<div class="page-content">
+  <!-- Hero Section -->
+  <section class="hero-gradient">
     <div class="container">
-      <div class="panduan-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa</a>
-        <span>›</span>
-        <span>Panduan Pendaftaran</span>
-      </div>
-      <h1 class="panduan-title">Panduan Lengkap Pendaftaran Beasiswa</h1>
-      <p class="panduan-subtitle">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('beasiswa/gks')" class="text-white">Beasiswa</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">Panduan Pendaftaran</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Panduan Lengkap Pendaftaran Beasiswa</h1>
+      <p class="lead mb-0">
         Persiapan, dokumen, dan tips sukses mendapatkan beasiswa kuliah di Korea
       </p>
     </div>
   </section>
 
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="panduan-content">
 
-      <div id="timeline" class="content-section">
-        <h2 class="section-title">Timeline Persiapan Beasiswa</h2>
-        <div class="timeline-section">
-          <div class="timeline">
-            <div class="timeline-item">
-              <div class="timeline-marker">12-18</div>
-              <div class="timeline-content">
-                <h4>12-18 Bulan Sebelumnya</h4>
-                <ul>
-                  <li>Riset beasiswa yang tersedia</li>
-                  <li>Mulai belajar bahasa Korea (target TOPIK Level 3+)</li>
-                  <li>Tingkatkan IPK dan prestasi akademik</li>
-                  <li>Aktif di kegiatan organisasi dan volunteer</li>
+      <!-- Timeline Section -->
+      <div id="timeline" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Timeline Persiapan Beasiswa</h2>
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-marker">12-18</div>
+            <div class="timeline-content">
+              <div class="card border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary fw-bold">12-18 Bulan Sebelumnya</h4>
+                  <ul class="mb-0">
+                    <li>Riset beasiswa yang tersedia</li>
+                    <li>Mulai belajar bahasa Korea (target TOPIK Level 3+)</li>
+                    <li>Tingkatkan IPK dan prestasi akademik</li>
+                    <li>Aktif di kegiatan organisasi dan volunteer</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="timeline-marker">6-12</div>
+            <div class="timeline-content">
+              <div class="card border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary fw-bold">6-12 Bulan Sebelumnya</h4>
+                  <ul class="mb-0">
+                    <li>Ikut tes TOPIK atau TOEFL/IELTS</li>
+                    <li>Hubungi dosen untuk surat rekomendasi</li>
+                    <li>Siapkan portofolio prestasi</li>
+                    <li>Buat draft personal statement/study plan</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="timeline-marker">3-6</div>
+            <div class="timeline-content">
+              <div class="card border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary fw-bold">3-6 Bulan Sebelumnya</h4>
+                  <ul class="mb-0">
+                    <li>Finalisasi dokumen aplikasi</li>
+                    <li>Legalisir ijazah dan transkrip</li>
+                    <li>Lengkapi medical check-up</li>
+                    <li>Submit aplikasi online</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="timeline-marker">0-3</div>
+            <div class="timeline-content">
+              <div class="card border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary fw-bold">Masa Tunggu dan Persiapan</h4>
+                  <ul class="mb-0">
+                    <li>Tunggu pengumuman hasil seleksi</li>
+                    <li>Persiapan interview (jika diperlukan)</li>
+                    <li>Urus visa dan tiket pesawat</li>
+                    <li>Persiapan keberangkatan</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Documents Section -->
+      <div id="documents" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Dokumen yang Diperlukan</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">📄 Dokumen Identitas</h4>
+                <ul class="mb-0">
+                  <li>Fotokopi paspor (masih berlaku min. 6 bulan)</li>
+                  <li>Pas foto berwarna terbaru (3x4 cm)</li>
+                  <li>Fotokopi KTP</li>
+                  <li>Fotokopi Kartu Keluarga</li>
                 </ul>
               </div>
             </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">6-12</div>
-              <div class="timeline-content">
-                <h4>6-12 Bulan Sebelumnya</h4>
-                <ul>
-                  <li>Ikut tes TOPIK atau TOEFL/IELTS</li>
-                  <li>Hubungi dosen untuk surat rekomendasi</li>
-                  <li>Siapkan portofolio prestasi</li>
-                  <li>Buat draft personal statement/study plan</li>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">📚 Dokumen Akademik</h4>
+                <ul class="mb-0">
+                  <li>Ijazah terakhir (dilegalisir)</li>
+                  <li>Transkrip nilai lengkap (dilegalisir)</li>
+                  <li>Sertifikat prestasi akademik (jika ada)</li>
+                  <li>Surat keterangan lulus (untuk siswa kelas 12)</li>
                 </ul>
               </div>
             </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">3-6</div>
-              <div class="timeline-content">
-                <h4>3-6 Bulan Sebelumnya</h4>
-                <ul>
-                  <li>Finalisasi dokumen aplikasi</li>
-                  <li>Legalisir ijazah dan transkrip</li>
-                  <li>Lengkapi medical check-up</li>
-                  <li>Submit aplikasi online</li>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">🗣️ Dokumen Bahasa</h4>
+                <ul class="mb-0">
+                  <li>Sertifikat TOPIK (Level 3+ direkomendasikan)</li>
+                  <li>TOEFL iBT (min. 71) atau IELTS (min. 5.5)</li>
+                  <li>Hasil tes bahasa lain yang relevan</li>
                 </ul>
               </div>
             </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">0-3</div>
-              <div class="timeline-content">
-                <h4>Masa Tunggu dan Persiapan</h4>
-                <ul>
-                  <li>Tunggu pengumuman hasil seleksi</li>
-                  <li>Persiapan interview (jika diperlukan)</li>
-                  <li>Urus visa dan tiket pesawat</li>
-                  <li>Persiapan keberangkatan</li>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">✍️ Dokumen Esai</h4>
+                <ul class="mb-0">
+                  <li>Personal Statement (500-1000 kata)</li>
+                  <li>Study Plan (tujuan studi dan rencana karir)</li>
+                  <li>Motivation Letter</li>
+                  <li>Research Proposal (untuk S2/S3)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">💼 Dokumen Pendukung</h4>
+                <ul class="mb-0">
+                  <li>2-3 Surat Rekomendasi dari dosen/guru</li>
+                  <li>Sertifikat organisasi/volunteer</li>
+                  <li>Portfolio (untuk jurusan seni/desain)</li>
+                  <li>Surat pernyataan kesehatan</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-start border-primary border-4 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary">💰 Dokumen Finansial</h4>
+                <ul class="mb-0">
+                  <li>Bukti kemampuan finansial orang tua</li>
+                  <li>Slip gaji orang tua (3 bulan terakhir)</li>
+                  <li>Rekening koran (jika diperlukan)</li>
                 </ul>
               </div>
             </div>
@@ -75,130 +173,90 @@
         </div>
       </div>
 
-      <div id="documents" class="content-section">
-        <h2 class="section-title">Dokumen yang Diperlukan</h2>
-        <div class="feature-grid">
-          <div class="feature-card document-category">
-            <h4>📄 Dokumen Identitas</h4>
-            <ul>
-              <li>Fotokopi paspor (masih berlaku min. 6 bulan)</li>
-              <li>Pas foto berwarna terbaru (3x4 cm)</li>
-              <li>Fotokopi KTP</li>
-              <li>Fotokopi Kartu Keluarga</li>
-            </ul>
+      <!-- Tips Section -->
+      <div id="tips" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Tips Sukses Mendapatkan Beasiswa</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">⏰</div>
+                <h4 class="card-title text-primary h5 fw-bold">1. Persiapan Dini</h4>
+                <p class="card-text mb-0">Mulai persiapan minimal 1 tahun sebelumnya. Tingkatkan IPK, ikut organisasi, dan pelajari bahasa Korea.</p>
+              </div>
+            </div>
           </div>
-          <div class="feature-card document-category">
-            <h4>📚 Dokumen Akademik</h4>
-            <ul>
-              <li>Ijazah terakhir (dilegalisir)</li>
-              <li>Transkrip nilai lengkap (dilegalisir)</li>
-              <li>Sertifikat prestasi akademik (jika ada)</li>
-              <li>Surat keterangan lulus (untuk siswa kelas 12)</li>
-            </ul>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">✍️</div>
+                <h4 class="card-title text-primary h5 fw-bold">2. Personal Statement Kuat</h4>
+                <p class="card-text mb-0">Tulis esai yang jujur, spesifik, dan menunjukkan passion Anda. Jelaskan mengapa Anda layak mendapat beasiswa.</p>
+              </div>
+            </div>
           </div>
-          <div class="feature-card document-category">
-            <h4>🗣️ Dokumen Bahasa</h4>
-            <ul>
-              <li>Sertifikat TOPIK (Level 3+ direkomendasikan)</li>
-              <li>TOEFL iBT (min. 71) atau IELTS (min. 5.5)</li>
-              <li>Hasil tes bahasa lain yang relevan</li>
-            </ul>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">📊</div>
+                <h4 class="card-title text-primary h5 fw-bold">3. Prestasi Akademik</h4>
+                <p class="card-text mb-0">Pertahankan IPK minimal 3.0. Ikuti kompetisi akademik dan raih penghargaan untuk memperkuat aplikasi.</p>
+              </div>
+            </div>
           </div>
-          <div class="feature-card document-category">
-            <h4>✍️ Dokumen Esai</h4>
-            <ul>
-              <li>Personal Statement (500-1000 kata)</li>
-              <li>Study Plan (tujuan studi dan rencana karir)</li>
-              <li>Motivation Letter</li>
-              <li>Research Proposal (untuk S2/S3)</li>
-            </ul>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">🗣️</div>
+                <h4 class="card-title text-primary h5 fw-bold">4. Kemampuan Bahasa</h4>
+                <p class="card-text mb-0">TOPIK Level 3+ sangat membantu. Bahkan untuk program bahasa Inggris, kemampuan bahasa Korea adalah nilai plus.</p>
+              </div>
+            </div>
           </div>
-          <div class="feature-card document-category">
-            <h4>💼 Dokumen Pendukung</h4>
-            <ul>
-              <li>2-3 Surat Rekomendasi dari dosen/guru</li>
-              <li>Sertifikat organisasi/volunteer</li>
-              <li>Portfolio (untuk jurusan seni/desain)</li>
-              <li>Surat pernyataan kesehatan</li>
-            </ul>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">👥</div>
+                <h4 class="card-title text-primary h5 fw-bold">5. Surat Rekomendasi</h4>
+                <p class="card-text mb-0">Minta rekomendasi dari dosen/guru yang benar-benar mengenal Anda. Berikan waktu cukup untuk mereka menulis.</p>
+              </div>
+            </div>
           </div>
-          <div class="feature-card document-category">
-            <h4>💰 Dokumen Finansial</h4>
-            <ul>
-              <li>Bukti kemampuan finansial orang tua</li>
-              <li>Slip gaji orang tua (3 bulan terakhir)</li>
-              <li>Rekening koran (jika diperlukan)</li>
-            </ul>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">🔍</div>
+                <h4 class="card-title text-primary h5 fw-bold">6. Research Universitas</h4>
+                <p class="card-text mb-0">Pelajari program dan profesor di universitas tujuan. Tunjukkan di esai bahwa Anda serius memilih universitas tersebut.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">📅</div>
+                <h4 class="card-title text-primary h5 fw-bold">7. Tepat Waktu</h4>
+                <p class="card-text mb-0">Submit aplikasi jauh sebelum deadline. Jangan menunggu menit terakhir karena bisa ada kendala teknis.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">📝</div>
+                <h4 class="card-title text-primary h5 fw-bold">8. Apply Multiple</h4>
+                <p class="card-text mb-0">Daftar ke beberapa beasiswa sekaligus untuk meningkatkan peluang. Jangan hanya fokus pada satu beasiswa.</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
 
-      <div id="tips" class="content-section">
-        <h2 class="section-title">Tips Sukses Mendapatkan Beasiswa</h2>
-        <div class="feature-grid">
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>⏰</span>
-            </div>
-            <h4>1. Persiapan Dini</h4>
-            <p>Mulai persiapan minimal 1 tahun sebelumnya. Tingkatkan IPK, ikut organisasi, dan pelajari bahasa Korea.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>✍️</span>
-            </div>
-            <h4>2. Personal Statement Kuat</h4>
-            <p>Tulis esai yang jujur, spesifik, dan menunjukkan passion Anda. Jelaskan mengapa Anda layak mendapat beasiswa.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>📊</span>
-            </div>
-            <h4>3. Prestasi Akademik</h4>
-            <p>Pertahankan IPK minimal 3.0. Ikuti kompetisi akademik dan raih penghargaan untuk memperkuat aplikasi.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>🗣️</span>
-            </div>
-            <h4>4. Kemampuan Bahasa</h4>
-            <p>TOPIK Level 3+ sangat membantu. Bahkan untuk program bahasa Inggris, kemampuan bahasa Korea adalah nilai plus.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>👥</span>
-            </div>
-            <h4>5. Surat Rekomendasi</h4>
-            <p>Minta rekomendasi dari dosen/guru yang benar-benar mengenal Anda. Berikan waktu cukup untuk mereka menulis.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>🔍</span>
-            </div>
-            <h4>6. Research Universitas</h4>
-            <p>Pelajari program dan profesor di universitas tujuan. Tunjukkan di esai bahwa Anda serius memilih universitas tersebut.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>📅</span>
-            </div>
-            <h4>7. Tepat Waktu</h4>
-            <p>Submit aplikasi jauh sebelum deadline. Jangan menunggu menit terakhir karena bisa ada kendala teknis.</p>
-          </div>
-          <div class="feature-card feature-card-center">
-            <div class="card-icon">
-              <span>📝</span>
-            </div>
-            <h4>8. Apply Multiple</h4>
-            <p>Daftar ke beberapa beasiswa sekaligus untuk meningkatkan peluang. Jangan hanya fokus pada satu beasiswa.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="content-section">
-        <div class="alert alert-danger">
-          <h3>Kesalahan yang Harus Dihindari</h3>
-          <ul>
+      <!-- Mistakes to Avoid -->
+      <div class="mb-5">
+        <div class="alert alert-danger border-danger border-2">
+          <h3 class="h4 fw-bold mb-3">Kesalahan yang Harus Dihindari</h3>
+          <ul class="mb-0">
             <li><strong>Dokumen tidak lengkap:</strong> Pastikan semua dokumen sudah dilegalisir dan diterjemahkan jika perlu</li>
             <li><strong>Plagiarisme:</strong> Jangan copy-paste esai dari internet. Panitia bisa mendeteksinya</li>
             <li><strong>Aplikasi generic:</strong> Jangan gunakan esai yang sama untuk semua beasiswa. Sesuaikan dengan program</li>
@@ -208,71 +266,105 @@
         </div>
       </div>
 
-      <div class="content-section">
-        <div class="info-box info-box-success">
-          <h3>Persiapan Interview</h3>
-          <p>Jika lolos seleksi administrasi, Anda mungkin akan dipanggil interview (online atau offline). Berikut tips persiapannya:</p>
-          <div class="feature-grid grid-cols-2 mt-3">
-            <div class="feature-card feature-card-accent">
-              <strong class="d-block mb-3" style="font-size: var(--font-size-lg); color: var(--color-primary);">Pertanyaan Umum:</strong>
-              <ul class="list-icon">
-                <li>Kenapa ingin kuliah di Korea?</li>
-                <li>Apa rencana Anda setelah lulus?</li>
-                <li>Bagaimana Anda akan berkontribusi ke universitas?</li>
-                <li>Apa kelebihan dan kekurangan Anda?</li>
-              </ul>
+      <!-- Interview Preparation -->
+      <div class="mb-5">
+        <div class="card border-success border-2 shadow-sm">
+          <div class="card-body">
+            <h3 class="h4 fw-bold text-success mb-3">Persiapan Interview</h3>
+            <p class="mb-4">Jika lolos seleksi administrasi, Anda mungkin akan dipanggil interview (online atau offline). Berikut tips persiapannya:</p>
+            <div class="row g-4">
+              <div class="col-md-6">
+                <div class="card h-100 bg-light border-0">
+                  <div class="card-body">
+                    <strong class="d-block mb-3 fs-5 text-primary">Pertanyaan Umum:</strong>
+                    <ul class="list-check mb-0">
+                      <li>Kenapa ingin kuliah di Korea?</li>
+                      <li>Apa rencana Anda setelah lulus?</li>
+                      <li>Bagaimana Anda akan berkontribusi ke universitas?</li>
+                      <li>Apa kelebihan dan kekurangan Anda?</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="card h-100 bg-light border-0">
+                  <div class="card-body">
+                    <strong class="d-block mb-3 fs-5 text-primary">Tips Interview:</strong>
+                    <ul class="list-check mb-0">
+                      <li>Latihan menjawab pertanyaan umum di depan cermin</li>
+                      <li>Berpakaian formal dan sopan</li>
+                      <li>Tunjukkan antusiasme dan kepercayaan diri</li>
+                      <li>Jujur dan jangan berlebihan</li>
+                      <li>Siapkan pertanyaan untuk interviewer</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="feature-card feature-card-accent">
-              <strong class="d-block mb-3" style="font-size: var(--font-size-lg); color: var(--color-primary);">Tips Interview:</strong>
-              <ul class="list-icon">
-                <li>Latihan menjawab pertanyaan umum di depan cermin</li>
-                <li>Berpakaian formal dan sopan</li>
-                <li>Tunjukkan antusiasme dan kepercayaan diri</li>
-                <li>Jujur dan jangan berlebihan</li>
-                <li>Siapkan pertanyaan untuk interviewer</li>
-              </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Resources Section -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Sumber Informasi Berguna</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body d-flex flex-column">
+                <div class="fs-1 mb-3">🌐</div>
+                <h4 class="card-title text-primary h5 fw-bold">Study in Korea</h4>
+                <p class="card-text flex-grow-1">Portal resmi untuk mahasiswa internasional yang ingin kuliah di Korea</p>
+                <a href="https://www.studyinkorea.go.kr" target="_blank" class="btn btn-outline-primary btn-sm">Kunjungi Website</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body d-flex flex-column">
+                <div class="fs-1 mb-3">🏛️</div>
+                <h4 class="card-title text-primary h5 fw-bold">NIIED</h4>
+                <p class="card-text flex-grow-1">Lembaga resmi yang mengelola program GKS</p>
+                <a href="https://www.niied.go.kr" target="_blank" class="btn btn-outline-primary btn-sm">Kunjungi Website</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body d-flex flex-column">
+                <div class="fs-1 mb-3">🇰🇷</div>
+                <h4 class="card-title text-primary h5 fw-bold">Kedutaan Besar Korea</h4>
+                <p class="card-text flex-grow-1">Informasi beasiswa Embassy Track dan layanan visa</p>
+                <a href="https://overseas.mofa.go.kr/id-id" target="_blank" class="btn btn-outline-primary btn-sm">Kunjungi Website</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body d-flex flex-column">
+                <div class="fs-1 mb-3">📱</div>
+                <h4 class="card-title text-primary h5 fw-bold">TOPIK</h4>
+                <p class="card-text flex-grow-1">Pendaftaran dan informasi ujian kemampuan bahasa Korea</p>
+                <a href="https://www.topik.go.kr" target="_blank" class="btn btn-outline-primary btn-sm">Kunjungi Website</a>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="content-section">
-        <h2 class="section-title">Sumber Informasi Berguna</h2>
-        <div class="feature-grid grid-cols-4">
-          <div class="feature-card feature-card-center">
-            <h4>🌐 Study in Korea</h4>
-            <p>Portal resmi untuk mahasiswa internasional yang ingin kuliah di Korea</p>
-            <a href="https://www.studyinkorea.go.kr" target="_blank" class="btn btn-outline btn-sm">Kunjungi Website</a>
-          </div>
-          <div class="feature-card feature-card-center">
-            <h4>🏛️ NIIED</h4>
-            <p>Lembaga resmi yang mengelola program GKS</p>
-            <a href="https://www.niied.go.kr" target="_blank" class="btn btn-outline btn-sm">Kunjungi Website</a>
-          </div>
-          <div class="feature-card feature-card-center">
-            <h4>🇰🇷 Kedutaan Besar Korea</h4>
-            <p>Informasi beasiswa Embassy Track dan layanan visa</p>
-            <a href="https://overseas.mofa.go.kr/id-id" target="_blank" class="btn btn-outline btn-sm">Kunjungi Website</a>
-          </div>
-          <div class="feature-card feature-card-center">
-            <h4>📱 TOPIK</h4>
-            <p>Pendaftaran dan informasi ujian kemampuan bahasa Korea</p>
-            <a href="https://www.topik.go.kr" target="_blank" class="btn btn-outline btn-sm">Kunjungi Website</a>
+      <!-- CTA -->
+      <div class="my-5">
+        <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-5">
+            <h3 class="h3 fw-bold mb-3">Butuh Bantuan Persiapan Beasiswa?</h3>
+            <p class="lead mb-4">Tim konsultan kami siap membantu Anda mempersiapkan dokumen aplikasi beasiswa, essay, dan interview preparation.</p>
+            <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg px-5">
+              Konsultasi Gratis Sekarang
+            </button>
           </div>
         </div>
       </div>
 
-      <div class="cta-section">
-        <div class="cta-card">
-          <h3>Butuh Bantuan Persiapan Beasiswa?</h3>
-          <p>Tim konsultan kami siap membantu Anda mempersiapkan dokumen aplikasi beasiswa, essay, dan interview preparation.</p>
-          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
-            Konsultasi Gratis Sekarang
-          </button>
-        </div>
-      </div>
-
-      </div>
     </div>
   </section>
 </div>

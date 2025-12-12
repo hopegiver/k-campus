@@ -1,149 +1,152 @@
-<div class="panduan-page" style="margin-top: var(--header-height, 80px);">
+<div class="page-content">
   <!-- Hero Section -->
-  <section class="panduan-hero">
+  <section class="hero-gradient">
     <div class="container">
-      <div class="panduan-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <span>Panduan Kuliah</span>
-        <span>›</span>
-        <span>Visa & Izin Tinggal</span>
-      </div>
-      <h1 class="panduan-title">Visa & Izin Tinggal di Korea</h1>
-      <p class="panduan-subtitle">Panduan lengkap visa pelajar dan regulasi tinggal di Korea Selatan</p>
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Panduan Kuliah</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">Visa & Izin Tinggal</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Visa & Izin Tinggal di Korea</h1>
+      <p class="lead mb-0">Panduan lengkap visa pelajar dan regulasi tinggal di Korea Selatan</p>
     </div>
   </section>
 
   <!-- Content Section -->
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="panduan-content">
 
-        <!-- Visa Types -->
-        <div class="content-block">
-          <h2 class="content-heading">Jenis-Jenis Visa Pelajar</h2>
+      <!-- Visa Types -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Jenis-Jenis Visa Pelajar</h2>
 
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">🎓</span>
-              <h3>D-2: Visa Pelajar (Student Visa)</h3>
-            </div>
-            <div class="info-card-body">
-              <p>
-                Visa D-2 adalah visa untuk mahasiswa internasional yang mengikuti program gelar reguler
-                di universitas, college, atau institusi pendidikan tinggi terakreditasi di Korea.
-              </p>
-
-              <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: var(--color-primary);">Kategori D-2:</h4>
-              <div class="table-responsive">
-                <table class="info-table">
-                  <thead>
-                    <tr>
-                      <th>Kode</th>
-                      <th>Jenis Program</th>
-                      <th>Durasi Maksimal</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td><strong>D-2-1</strong></td>
-                      <td>Program Diploma (전문학사)</td>
-                      <td>4 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-2</strong></td>
-                      <td>Program Sarjana (학사)</td>
-                      <td>6 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-3</strong></td>
-                      <td>Program Magister (석사)</td>
-                      <td>6 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-4</strong></td>
-                      <td>Program Doktor (박사)</td>
-                      <td>8 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-5</strong></td>
-                      <td>Program Penelitian (연구)</td>
-                      <td>2 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-6</strong></td>
-                      <td>Mahasiswa Pertukaran</td>
-                      <td>2 tahun</td>
-                    </tr>
-                    <tr>
-                      <td><strong>D-2-7</strong></td>
-                      <td>Program Kerja-Belajar</td>
-                      <td>Sesuai program</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-
-              <div class="alert-success mt-3">
-                <strong>✓ Keuntungan Visa D-2:</strong> Dapat bekerja paruh waktu (maksimal 20 jam/minggu),
-                perpanjangan visa lebih mudah, dan dapat melamar beasiswa pemerintah Korea.
-              </div>
-            </div>
+        <div class="card border-primary border-2 shadow-sm mb-4">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">🎓</span>
+            <h3 class="h5 mb-0 fw-bold">D-2: Visa Pelajar (Student Visa)</h3>
           </div>
+          <div class="card-body">
+            <p>
+              Visa D-2 adalah visa untuk mahasiswa internasional yang mengikuti program gelar reguler
+              di universitas, college, atau institusi pendidikan tinggi terakreditasi di Korea.
+            </p>
 
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">📚</span>
-              <h3>D-4: Visa Pelatihan Umum (General Trainee Visa)</h3>
+            <h4 class="text-primary fw-bold mt-4 mb-3">Kategori D-2:</h4>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-bordered">
+                <thead class="table-primary">
+                  <tr>
+                    <th>Kode</th>
+                    <th>Jenis Program</th>
+                    <th>Durasi Maksimal</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>D-2-1</strong></td>
+                    <td>Program Diploma (전문학사)</td>
+                    <td>4 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-2</strong></td>
+                    <td>Program Sarjana (학사)</td>
+                    <td>6 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-3</strong></td>
+                    <td>Program Magister (석사)</td>
+                    <td>6 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-4</strong></td>
+                    <td>Program Doktor (박사)</td>
+                    <td>8 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-5</strong></td>
+                    <td>Program Penelitian (연구)</td>
+                    <td>2 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-6</strong></td>
+                    <td>Mahasiswa Pertukaran</td>
+                    <td>2 tahun</td>
+                  </tr>
+                  <tr>
+                    <td><strong>D-2-7</strong></td>
+                    <td>Program Kerja-Belajar</td>
+                    <td>Sesuai program</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
-            <div class="info-card-body">
-              <p>
-                Visa D-4 diperuntukkan bagi siswa yang mengikuti program non-gelar seperti kursus bahasa Korea
-                atau pelatihan teknis di institusi pendidikan yang terdaftar.
-              </p>
 
-              <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: var(--color-primary);">Kategori D-4:</h4>
-              <ul class="list-styled">
-                <li><strong>D-4-1:</strong> Kursus Bahasa Korea di universitas atau institusi bahasa</li>
-                <li><strong>D-4-2:</strong> Pelatihan Bahasa Asing atau program pelatihan teknis lainnya</li>
-              </ul>
-
-              <p style="margin-top: 1rem;">
-                <strong>Durasi Visa:</strong> Biasanya 6 bulan, dapat diperpanjang hingga maksimal 2 tahun
-                tergantung program.
-              </p>
-
-              <div class="alert-warning mt-3">
-                <strong>⚠️ Catatan:</strong> Pemegang visa D-4 memiliki pembatasan kerja paruh waktu yang
-                lebih ketat dibanding D-2. Harus menyelesaikan minimal 1 semester dan mendapat izin khusus.
-              </div>
+            <div class="alert alert-success border-success border-2 mt-3">
+              <strong>Keuntungan Visa D-2:</strong> Dapat bekerja paruh waktu (maksimal 20 jam/minggu),
+              perpanjangan visa lebih mudah, dan dapat melamar beasiswa pemerintah Korea.
             </div>
           </div>
         </div>
 
-        <!-- Application Process -->
-        <div class="content-block">
-          <h2 class="content-heading">Proses Pengajuan Visa</h2>
+        <div class="card border-primary border-2 shadow-sm">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">📚</span>
+            <h3 class="h5 mb-0 fw-bold">D-4: Visa Pelatihan Umum (General Trainee Visa)</h3>
+          </div>
+          <div class="card-body">
+            <p>
+              Visa D-4 diperuntukkan bagi siswa yang mengikuti program non-gelar seperti kursus bahasa Korea
+              atau pelatihan teknis di institusi pendidikan yang terdaftar.
+            </p>
 
-          <div class="highlight-box">
-            <h4>📋 Langkah-langkah Pengajuan Visa Pelajar</h4>
-            <ol style="padding-left: 1.5rem; margin: 1.5rem 0; line-height: 1.8;">
-              <li><strong>Diterima di Universitas Korea</strong><br>
+            <h4 class="text-primary fw-bold mt-4 mb-3">Kategori D-4:</h4>
+            <ul class="list-unstyled ps-3 mb-3">
+              <li><strong>D-4-1:</strong> Kursus Bahasa Korea di universitas atau institusi bahasa</li>
+              <li><strong>D-4-2:</strong> Pelatihan Bahasa Asing atau program pelatihan teknis lainnya</li>
+            </ul>
+
+            <p class="mb-3">
+              <strong>Durasi Visa:</strong> Biasanya 6 bulan, dapat diperpanjang hingga maksimal 2 tahun
+              tergantung program.
+            </p>
+
+            <div class="alert alert-warning border-warning border-2">
+              <strong>Catatan:</strong> Pemegang visa D-4 memiliki pembatasan kerja paruh waktu yang
+              lebih ketat dibanding D-2. Harus menyelesaikan minimal 1 semester dan mendapat izin khusus.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Application Process -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Proses Pengajuan Visa</h2>
+
+        <div class="card border-primary border-2 shadow-sm">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">📋</span>
+            <h3 class="h5 mb-0 fw-bold">Langkah-langkah Pengajuan Visa Pelajar</h3>
+          </div>
+          <div class="card-body">
+            <ol class="ps-3">
+              <li class="mb-3"><strong>Diterima di Universitas Korea</strong><br>
                 Dapatkan surat penerimaan (Letter of Admission) dari universitas</li>
 
-              <li><strong>Terima Certificate of Admission (입학허가서)</strong><br>
+              <li class="mb-3"><strong>Terima Certificate of Admission (입학허가서)</strong><br>
                 Universitas akan mengirimkan dokumen ini setelah Anda melengkapi semua persyaratan</li>
 
-              <li><strong>Siapkan Dokumen yang Diperlukan</strong><br>
+              <li class="mb-3"><strong>Siapkan Dokumen yang Diperlukan</strong><br>
                 Kumpulkan semua dokumen pendukung (lihat daftar di bawah)</li>
 
-              <li><strong>Ajukan Visa ke Kedutaan/Konsulat Korea</strong><br>
+              <li class="mb-3"><strong>Ajukan Visa ke Kedutaan/Konsulat Korea</strong><br>
                 Kunjungi Korean Embassy/Consulate terdekat di Indonesia</li>
 
-              <li><strong>Interview (jika diperlukan)</strong><br>
+              <li class="mb-3"><strong>Interview (jika diperlukan)</strong><br>
                 Beberapa kasus mungkin memerlukan wawancara singkat</li>
 
-              <li><strong>Tunggu Proses (5-10 hari kerja)</strong><br>
+              <li class="mb-3"><strong>Tunggu Proses (5-10 hari kerja)</strong><br>
                 Waktu pemrosesan bervariasi tergantung kedutaan</li>
 
               <li><strong>Ambil Passport dengan Visa</strong><br>
@@ -151,19 +154,21 @@
             </ol>
           </div>
         </div>
+      </div>
 
-        <!-- Required Documents -->
-        <div class="content-block">
-          <h2 class="content-heading">Dokumen yang Diperlukan</h2>
+      <!-- Required Documents -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Dokumen yang Diperlukan</h2>
 
-          <div class="grid grid-cols-2">
-            <div class="info-card">
-              <div class="info-card-header">
-                <span class="info-icon">📄</span>
-                <h3>Dokumen Dasar</h3>
+        <div class="row g-4 mb-4">
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
+              <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+                <span class="fs-4">📄</span>
+                <h3 class="h5 mb-0 fw-bold">Dokumen Dasar</h3>
               </div>
-              <div class="info-card-body">
-                <ul class="list-styled">
+              <div class="card-body">
+                <ul class="list-unstyled ps-3">
                   <li>Formulir aplikasi visa (diisi lengkap)</li>
                   <li>Passport asli (min. 6 bulan masa berlaku)</li>
                   <li>Fotokopi halaman identitas passport</li>
@@ -173,14 +178,16 @@
                 </ul>
               </div>
             </div>
+          </div>
 
-            <div class="info-card">
-              <div class="info-card-header">
-                <span class="info-icon">🎯</span>
-                <h3>Dokumen Akademik</h3>
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
+              <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+                <span class="fs-4">🎯</span>
+                <h3 class="h5 mb-0 fw-bold">Dokumen Akademik</h3>
               </div>
-              <div class="info-card-body">
-                <ul class="list-styled">
+              <div class="card-body">
+                <ul class="list-unstyled ps-3">
                   <li>Ijazah terakhir (legalisir)</li>
                   <li>Transkrip nilai (legalisir)</li>
                   <li>Sertifikat TOPIK atau IELTS/TOEFL</li>
@@ -189,14 +196,16 @@
                 </ul>
               </div>
             </div>
+          </div>
 
-            <div class="info-card">
-              <div class="info-card-header">
-                <span class="info-icon">💰</span>
-                <h3>Dokumen Finansial</h3>
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
+              <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+                <span class="fs-4">💰</span>
+                <h3 class="h5 mb-0 fw-bold">Dokumen Finansial</h3>
               </div>
-              <div class="info-card-body">
-                <ul class="list-styled">
+              <div class="card-body">
+                <ul class="list-unstyled ps-3">
                   <li>Bukti rekening bank (min. USD 10,000)</li>
                   <li>Surat sponsor dari orang tua/sponsor</li>
                   <li>Slip gaji atau surat keterangan kerja sponsor</li>
@@ -205,14 +214,16 @@
                 </ul>
               </div>
             </div>
+          </div>
 
-            <div class="info-card">
-              <div class="info-card-header">
-                <span class="info-icon">✅</span>
-                <h3>Dokumen Tambahan</h3>
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
+              <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+                <span class="fs-4">✅</span>
+                <h3 class="h5 mb-0 fw-bold">Dokumen Tambahan</h3>
               </div>
-              <div class="info-card-body">
-                <ul class="list-styled">
+              <div class="card-body">
+                <ul class="list-unstyled ps-3">
                   <li>Asuransi kesehatan (jika sudah ada)</li>
                   <li>Surat Keterangan Catatan Kepolisian (SKCK)</li>
                   <li>Surat ijin dari sekolah/kampus (jika masih aktif)</li>
@@ -221,115 +232,132 @@
               </div>
             </div>
           </div>
-
-          <div class="alert-info mt-3">
-            <strong>📌 Catatan Penting:</strong> Semua dokumen dalam bahasa Indonesia/Inggris harus
-            diterjemahkan ke bahasa Korea oleh penerjemah tersumpah. Dokumen asli dan fotokopi harus dibawa
-            saat pengajuan.
-          </div>
         </div>
 
-        <!-- Visa Fees -->
-        <div class="content-block">
-          <h2 class="content-heading">Biaya Visa</h2>
-          <div class="table-responsive">
-            <table class="info-table">
-              <thead>
-                <tr>
-                  <th>Jenis Visa</th>
-                  <th>Single Entry</th>
-                  <th>Multiple Entry</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><strong>D-2 (Student Visa)</strong></td>
-                  <td>USD 40-60</td>
-                  <td>USD 70-90</td>
-                </tr>
-                <tr>
-                  <td><strong>D-4 (Trainee Visa)</strong></td>
-                  <td>USD 40-60</td>
-                  <td>USD 70-90</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          <p class="content-text">
-            <em>* Biaya dapat berubah sewaktu-waktu. Silakan cek dengan kedutaan untuk informasi terbaru.</em>
-          </p>
+        <div class="alert alert-info border-info border-2">
+          <strong>Catatan Penting:</strong> Semua dokumen dalam bahasa Indonesia/Inggris harus
+          diterjemahkan ke bahasa Korea oleh penerjemah tersumpah. Dokumen asli dan fotokopi harus dibawa
+          saat pengajuan.
         </div>
+      </div>
 
-        <!-- Alien Registration Card -->
-        <div class="content-block">
-          <h2 class="content-heading">Alien Registration Card (ARC)</h2>
-          <p class="content-text">
-            Setelah tiba di Korea, Anda <strong>WAJIB</strong> membuat Alien Registration Card (외국인등록증)
-            dalam waktu <strong>90 hari</strong> sejak kedatangan.
-          </p>
+      <!-- Visa Fees -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Biaya Visa</h2>
+        <div class="table-responsive">
+          <table class="table table-striped table-hover table-bordered">
+            <thead class="table-primary">
+              <tr>
+                <th>Jenis Visa</th>
+                <th>Single Entry</th>
+                <th>Multiple Entry</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>D-2 (Student Visa)</strong></td>
+                <td>USD 40-60</td>
+                <td>USD 70-90</td>
+              </tr>
+              <tr>
+                <td><strong>D-4 (Trainee Visa)</strong></td>
+                <td>USD 40-60</td>
+                <td>USD 70-90</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="fs-6 text-muted">
+          * Biaya dapat berubah sewaktu-waktu. Silakan cek dengan kedutaan untuk informasi terbaru.
+        </p>
+      </div>
 
-          <div class="highlight-box">
-            <h4>🆔 Cara Membuat ARC</h4>
-            <ol style="padding-left: 1.5rem; margin: 1rem 0; line-height: 1.8;">
-              <li>Kunjungi Immigration Office terdekat</li>
-              <li>Bawa passport, foto 3.5x4.5cm, formulir aplikasi, dan biaya ₩30,000</li>
-              <li>Isi formulir dan submit dokumen</li>
-              <li>ARC akan selesai dalam 2-3 minggu</li>
+      <!-- Alien Registration Card -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Alien Registration Card (ARC)</h2>
+        <p class="fs-5 text-muted">
+          Setelah tiba di Korea, Anda <strong>WAJIB</strong> membuat Alien Registration Card (외국인등록증)
+          dalam waktu <strong>90 hari</strong> sejak kedatangan.
+        </p>
+
+        <div class="card border-primary border-2 shadow-sm mb-4">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">🆔</span>
+            <h3 class="h5 mb-0 fw-bold">Cara Membuat ARC</h3>
+          </div>
+          <div class="card-body">
+            <ol class="ps-3">
+              <li class="mb-2">Kunjungi Immigration Office terdekat</li>
+              <li class="mb-2">Bawa passport, foto 3.5x4.5cm, formulir aplikasi, dan biaya ₩30,000</li>
+              <li class="mb-2">Isi formulir dan submit dokumen</li>
+              <li class="mb-2">ARC akan selesai dalam 2-3 minggu</li>
               <li>Ambil ARC dengan membawa receipt</li>
             </ol>
           </div>
-
-          <div class="alert-success mt-3">
-            <strong>✓ Kegunaan ARC:</strong> Diperlukan untuk membuka rekening bank, mendaftar asuransi
-            kesehatan, membeli kartu SIM HP, dan berbagai urusan administratif lainnya.
-          </div>
         </div>
 
-        <!-- Extension -->
-        <div class="content-block">
-          <h2 class="content-heading">Perpanjangan Visa</h2>
-          <p class="content-text">
-            Visa pelajar biasanya diberikan untuk periode 1-2 tahun. Untuk memperpanjang visa:
-          </p>
-
-          <div class="grid grid-cols-2">
-            <div class="highlight-box">
-              <h4>📅 Waktu Perpanjangan</h4>
-              <ul class="list-styled">
-                <li>Ajukan <strong>2-3 bulan</strong> sebelum visa habis</li>
-                <li>Jangan tunggu sampai mendekati tanggal kadaluarsa</li>
-                <li>Proses memakan waktu 2-4 minggu</li>
-              </ul>
-            </div>
-
-            <div class="highlight-box">
-              <h4>📋 Dokumen Perpanjangan</h4>
-              <ul class="list-styled">
-                <li>Formulir perpanjangan visa</li>
-                <li>Passport dan ARC</li>
-                <li>Transkrip nilai terbaru</li>
-                <li>Bukti pembayaran tuition</li>
-                <li>Bukti keuangan</li>
-              </ul>
-            </div>
-          </div>
+        <div class="alert alert-success border-success border-2">
+          <strong>Kegunaan ARC:</strong> Diperlukan untuk membuka rekening bank, mendaftar asuransi
+          kesehatan, membeli kartu SIM HP, dan berbagai urusan administratif lainnya.
         </div>
-
-        <!-- CTA Section -->
-        <div class="content-cta">
-          <h3>Butuh Bantuan dengan Proses Visa?</h3>
-          <p>Tim kami siap membantu Anda dalam proses pengajuan visa dan persiapan dokumen</p>
-          <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-            <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
-              Konsultasi Visa
-            </button>
-            <button @click="navigateTo('panduan/biaya-hidup')" class="btn btn-outline btn-large">
-              Biaya Hidup →
-            </button>
-          </div>
-        </div>
-
       </div>
+
+      <!-- Extension -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Perpanjangan Visa</h2>
+        <p class="fs-5 text-muted">
+          Visa pelajar biasanya diberikan untuk periode 1-2 tahun. Untuk memperpanjang visa:
+        </p>
+
+        <div class="row g-4">
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Waktu Perpanjangan</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Ajukan <strong>2-3 bulan</strong> sebelum visa habis</li>
+                  <li>Jangan tunggu sampai mendekati tanggal kadaluarsa</li>
+                  <li>Proses memakan waktu 2-4 minggu</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Dokumen Perpanjangan</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Formulir perpanjangan visa</li>
+                  <li>Passport dan ARC</li>
+                  <li>Transkrip nilai terbaru</li>
+                  <li>Bukti pembayaran tuition</li>
+                  <li>Bukti keuangan</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA Section -->
+      <div class="my-5">
+        <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-5">
+            <h3 class="h3 fw-bold mb-3">Butuh Bantuan dengan Proses Visa?</h3>
+            <p class="lead mb-4">Tim kami siap membantu Anda dalam proses pengajuan visa dan persiapan dokumen</p>
+            <div class="d-flex gap-3 justify-content-center flex-wrap">
+              <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg px-5">
+                Konsultasi Visa
+              </button>
+              <button @click="navigateTo('panduan/biaya-hidup')" class="btn btn-outline-light btn-lg px-5">
+                Biaya Hidup
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
 </div>

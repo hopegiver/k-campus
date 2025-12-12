@@ -83,6 +83,52 @@
         window.addEventListener('hashchange', function() {
             setTimeout(initMobileMenu, 200);
         });
+
+        // Dropdown menu functionality for mobile/touch devices
+        function initDropdownMenus() {
+            const dropdownToggles = document.querySelectorAll('.nav-link.dropdown-toggle');
+
+            dropdownToggles.forEach(function(toggle) {
+                toggle.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    const parentItem = this.closest('.nav-item.has-dropdown');
+                    const isActive = parentItem.classList.contains('active');
+
+                    // Close all other dropdowns
+                    document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
+                        item.classList.remove('active');
+                    });
+
+                    // Toggle current dropdown
+                    if (!isActive) {
+                        parentItem.classList.add('active');
+                    }
+                });
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.nav-item.has-dropdown')) {
+                    document.querySelectorAll('.nav-item.has-dropdown').forEach(function(item) {
+                        item.classList.remove('active');
+                    });
+                }
+            });
+        }
+
+        // Initialize dropdown menus
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initDropdownMenus);
+        } else {
+            initDropdownMenus();
+        }
+
+        // Re-initialize dropdowns on route change
+        window.addEventListener('hashchange', function() {
+            setTimeout(initDropdownMenus, 200);
+        });
     </script>
 </body>
 </html>

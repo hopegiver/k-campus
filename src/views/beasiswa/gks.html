@@ -1,203 +1,259 @@
-<div class="panduan-page">
-  <section class="panduan-hero">
+<div class="page-content">
+  <!-- Hero Section -->
+  <section class="hero-gradient">
     <div class="container">
-      <div class="panduan-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa</a>
-        <span>›</span>
-        <span>GKS</span>
-      </div>
-      <h1 class="panduan-title">Beasiswa Pemerintah Korea (GKS)</h1>
-      <p class="panduan-subtitle">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('beasiswa/gks')" class="text-white">Beasiswa</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">GKS</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Beasiswa Pemerintah Korea (GKS)</h1>
+      <p class="lead mb-0">
         Global Korea Scholarship - Program beasiswa bergengsi dari Pemerintah Korea untuk mahasiswa internasional
       </p>
     </div>
   </section>
 
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="panduan-content">
 
-      <div class="content-section">
-        <p class="section-intro">
+      <!-- Intro -->
+      <div class="mb-5">
+        <p class="fs-5 text-center text-muted">
           Global Korea Scholarship (GKS), yang sebelumnya dikenal sebagai Korean Government Scholarship Program (KGSP),
           adalah program beasiswa bergengsi yang ditawarkan oleh Pemerintah Korea Selatan untuk mendukung mahasiswa internasional
           berprestasi yang ingin melanjutkan pendidikan di Korea.
         </p>
       </div>
 
-      <div id="gks-programs" class="content-section">
-        <h2 class="section-title">Program GKS yang Tersedia</h2>
-        <div class="info-box info-box-primary">
-          <div class="feature-grid grid-cols-2">
-            <div class="feature-card">
-              <h4 class="card-title-divider">🎓 GKS Undergraduate (S1)</h4>
-              <ul class="list-divided">
-                <li><strong>Durasi:</strong> 5 tahun (1 tahun bahasa Korea + 4 tahun kuliah)</li>
-                <li><strong>Usia:</strong> Maksimal 25 tahun</li>
-                <li><strong>Pendidikan:</strong> Lulusan SMA atau sedang kelas 12</li>
-                <li><strong>IPK:</strong> Minimal 80% dari skala 100</li>
-              </ul>
+      <!-- Programs -->
+      <div id="gks-programs" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Program GKS yang Tersedia</h2>
+        <div class="bg-light border border-primary border-2 rounded-3 p-4">
+          <div class="row g-4">
+            <div class="col-md-6">
+              <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary pb-3 mb-3 border-bottom">🎓 GKS Undergraduate (S1)</h4>
+                  <ul class="list-unstyled list-divided">
+                    <li><strong>Durasi:</strong> 5 tahun (1 tahun bahasa Korea + 4 tahun kuliah)</li>
+                    <li><strong>Usia:</strong> Maksimal 25 tahun</li>
+                    <li><strong>Pendidikan:</strong> Lulusan SMA atau sedang kelas 12</li>
+                    <li><strong>IPK:</strong> Minimal 80% dari skala 100</li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            <div class="feature-card">
-              <h4 class="card-title-divider">🎓 GKS Graduate (S2/S3)</h4>
-              <ul class="list-divided">
-                <li><strong>Durasi S2 (Magister):</strong> 3 tahun (1 tahun bahasa + 2 tahun kuliah)</li>
-                <li><strong>Durasi S3 (Doktor):</strong> 4 tahun (1 tahun bahasa + 3 tahun kuliah)</li>
-                <li><strong>Usia S2 (Magister):</strong> Maksimal 40 tahun</li>
-                <li><strong>Usia S3 (Doktor):</strong> Maksimal 45 tahun</li>
-                <li><strong>IPK:</strong> Minimal 2.64/4.0 atau 80%</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div id="gks-benefits" class="content-section">
-        <h2 class="section-title">Manfaat Beasiswa GKS</h2>
-        <div class="feature-grid">
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>✈️</span>
-            </div>
-            <div class="card-body">
-              <h4>Tiket Pesawat</h4>
-              <p>Tiket PP Indonesia - Korea (ekonomi)</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🏫</span>
-            </div>
-            <div class="card-body">
-              <h4>Biaya Kuliah</h4>
-              <p>100% biaya kuliah ditanggung penuh</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>💰</span>
-            </div>
-            <div class="card-body">
-              <h4>Tunjangan Bulanan</h4>
-              <p>S1 (Sarjana): 900,000 won per bulan</p>
-              <p>S2/S3 (Magister/Doktor): 1,000,000-1,200,000 won per bulan</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🏥</span>
-            </div>
-            <div class="card-body">
-              <h4>Asuransi Kesehatan</h4>
-              <p>Asuransi kesehatan nasional Korea</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🗣️</span>
-            </div>
-            <div class="card-body">
-              <h4>Program Bahasa Korea</h4>
-              <p>1 tahun pelatihan bahasa Korea gratis</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🎁</span>
-            </div>
-            <div class="card-body">
-              <h4>Tunjangan Kedatangan</h4>
-              <p>200,000 won saat pertama tiba</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🔬</span>
-            </div>
-            <div class="card-body">
-              <h4>Tunjangan Penelitian</h4>
-              <p>S2 (Magister): 210,000 won per semester</p>
-              <p>S3 (Doktor): 250,000 won per semester</p>
-            </div>
-          </div>
-          <div class="feature-card feature-card-flex">
-            <div class="card-icon">
-              <span>🏆</span>
-            </div>
-            <div class="card-body">
-              <h4>Bonus TOPIK</h4>
-              <p>100,000 won untuk pencapaian TOPIK Level 5 atau 6</p>
+            <div class="col-md-6">
+              <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary pb-3 mb-3 border-bottom">🎓 GKS Graduate (S2/S3)</h4>
+                  <ul class="list-unstyled list-divided">
+                    <li><strong>Durasi S2 (Magister):</strong> 3 tahun (1 tahun bahasa + 2 tahun kuliah)</li>
+                    <li><strong>Durasi S3 (Doktor):</strong> 4 tahun (1 tahun bahasa + 3 tahun kuliah)</li>
+                    <li><strong>Usia S2 (Magister):</strong> Maksimal 40 tahun</li>
+                    <li><strong>Usia S3 (Doktor):</strong> Maksimal 45 tahun</li>
+                    <li><strong>IPK:</strong> Minimal 2.64/4.0 atau 80%</li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div id="gks-requirements" class="content-section">
-        <h2 class="section-title">Jalur Pendaftaran GKS</h2>
-        <div class="info-box">
-          <div class="feature-grid grid-cols-2">
-            <div class="feature-card feature-card-accent">
-              <h4>🏛️ Embassy Track</h4>
-              <p><strong>Melalui:</strong> Kedutaan Besar Korea di Indonesia</p>
-              <ul class="list-icon">
-                <li>Seleksi dilakukan oleh Kedubes Korea</li>
-                <li>Kandidat yang lolos akan direkomendasikan ke universitas</li>
-                <li>Periode pendaftaran: Biasanya Februari - Maret</li>
-                <li>Lebih kompetitif karena kuota terbatas per negara</li>
-              </ul>
+      <!-- Benefits -->
+      <div id="gks-benefits" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Manfaat Beasiswa GKS</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">✈️</div>
+                <div>
+                  <h5 class="card-title text-primary">Tiket Pesawat</h5>
+                  <p class="card-text mb-0">Tiket PP Indonesia - Korea (ekonomi)</p>
+                </div>
+              </div>
             </div>
-            <div class="feature-card feature-card-accent">
-              <h4>🎓 University Track</h4>
-              <p><strong>Melalui:</strong> Universitas Korea langsung</p>
-              <ul class="list-icon">
-                <li>Mendaftar langsung ke universitas Korea yang dituju</li>
-                <li>Setiap universitas memiliki kuota GKS sendiri</li>
-                <li>Periode pendaftaran: Bervariasi per universitas</li>
-                <li>Lebih fleksibel dalam memilih universitas</li>
-              </ul>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🏫</div>
+                <div>
+                  <h5 class="card-title text-primary">Biaya Kuliah</h5>
+                  <p class="card-text mb-0">100% biaya kuliah ditanggung penuh</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">💰</div>
+                <div>
+                  <h5 class="card-title text-primary">Tunjangan Bulanan</h5>
+                  <p class="card-text small mb-1">S1 (Sarjana): 900,000 won per bulan</p>
+                  <p class="card-text small mb-0">S2/S3 (Magister/Doktor): 1,000,000-1,200,000 won per bulan</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🏥</div>
+                <div>
+                  <h5 class="card-title text-primary">Asuransi Kesehatan</h5>
+                  <p class="card-text mb-0">Asuransi kesehatan nasional Korea</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🗣️</div>
+                <div>
+                  <h5 class="card-title text-primary">Program Bahasa Korea</h5>
+                  <p class="card-text mb-0">1 tahun pelatihan bahasa Korea gratis</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🎁</div>
+                <div>
+                  <h5 class="card-title text-primary">Tunjangan Kedatangan</h5>
+                  <p class="card-text mb-0">200,000 won saat pertama tiba</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🔬</div>
+                <div>
+                  <h5 class="card-title text-primary">Tunjangan Penelitian</h5>
+                  <p class="card-text small mb-1">S2 (Magister): 210,000 won per semester</p>
+                  <p class="card-text small mb-0">S3 (Doktor): 250,000 won per semester</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-2 shadow-sm">
+              <div class="card-body d-flex gap-3">
+                <div class="fs-2 flex-shrink-0">🏆</div>
+                <div>
+                  <h5 class="card-title text-primary">Bonus TOPIK</h5>
+                  <p class="card-text mb-0">100,000 won untuk pencapaian TOPIK Level 5 atau 6</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Requirements -->
+      <div id="gks-requirements" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Jalur Pendaftaran GKS</h2>
+        <div class="border border-2 rounded-3 p-4 mb-4">
+          <div class="row g-4">
+            <div class="col-md-6">
+              <div class="card h-100 border-start border-primary border-4 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary">🏛️ Embassy Track</h4>
+                  <p><strong>Melalui:</strong> Kedutaan Besar Korea di Indonesia</p>
+                  <ul class="list-unstyled list-check">
+                    <li>Seleksi dilakukan oleh Kedubes Korea</li>
+                    <li>Kandidat yang lolos akan direkomendasikan ke universitas</li>
+                    <li>Periode pendaftaran: Biasanya Februari - Maret</li>
+                    <li>Lebih kompetitif karena kuota terbatas per negara</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card h-100 border-start border-primary border-4 shadow-sm">
+                <div class="card-body">
+                  <h4 class="card-title text-primary">🎓 University Track</h4>
+                  <p><strong>Melalui:</strong> Universitas Korea langsung</p>
+                  <ul class="list-unstyled list-check">
+                    <li>Mendaftar langsung ke universitas Korea yang dituju</li>
+                    <li>Setiap universitas memiliki kuota GKS sendiri</li>
+                    <li>Periode pendaftaran: Bervariasi per universitas</li>
+                    <li>Lebih fleksibel dalam memilih universitas</li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
 
-        <h3 class="mt-3">Persyaratan Umum GKS</h3>
-        <div class="feature-grid">
-          <div class="feature-card feature-card-flex feature-card-accent">
-            <span class="card-icon">✓</span>
-            <div class="card-body">
-              <strong>Kewarganegaraan:</strong> Warga negara Indonesia (pelamar dan orang tua)
+        <h3 class="h4 fw-bold mt-4 mb-3">Persyaratan Umum GKS</h3>
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="card border-start border-primary border-3 shadow-sm">
+              <div class="card-body d-flex gap-3 align-items-start">
+                <span class="text-success fs-5 fw-bold flex-shrink-0">✓</span>
+                <div>
+                  <strong>Kewarganegaraan:</strong> Warga negara Indonesia (pelamar dan orang tua)
+                </div>
+              </div>
             </div>
           </div>
-          <div class="feature-card feature-card-flex feature-card-accent">
-            <span class="card-icon">✓</span>
-            <div class="card-body">
-              <strong>Kesehatan:</strong> Kondisi fisik dan mental yang baik
+          <div class="col-md-6">
+            <div class="card border-start border-primary border-3 shadow-sm">
+              <div class="card-body d-flex gap-3 align-items-start">
+                <span class="text-success fs-5 fw-bold flex-shrink-0">✓</span>
+                <div>
+                  <strong>Kesehatan:</strong> Kondisi fisik dan mental yang baik
+                </div>
+              </div>
             </div>
           </div>
-          <div class="feature-card feature-card-flex feature-card-accent">
-            <span class="card-icon">✓</span>
-            <div class="card-body">
-              <strong>Riwayat Pendidikan:</strong> Tidak pernah belajar di Korea dengan beasiswa Korea sebelumnya
+          <div class="col-md-6">
+            <div class="card border-start border-primary border-3 shadow-sm">
+              <div class="card-body d-flex gap-3 align-items-start">
+                <span class="text-success fs-5 fw-bold flex-shrink-0">✓</span>
+                <div>
+                  <strong>Riwayat Pendidikan:</strong> Tidak pernah belajar di Korea dengan beasiswa Korea sebelumnya
+                </div>
+              </div>
             </div>
           </div>
-          <div class="feature-card feature-card-flex feature-card-accent">
-            <span class="card-icon">✓</span>
-            <div class="card-body">
-              <strong>Bahasa:</strong> TOPIK Level 3+ atau IELTS 5.5+ / TOEFL iBT 70+ (tergantung program)
+          <div class="col-md-6">
+            <div class="card border-start border-primary border-3 shadow-sm">
+              <div class="card-body d-flex gap-3 align-items-start">
+                <span class="text-success fs-5 fw-bold flex-shrink-0">✓</span>
+                <div>
+                  <strong>Bahasa:</strong> TOPIK Level 3+ atau IELTS 5.5+ / TOEFL iBT 70+ (tergantung program)
+                </div>
+              </div>
             </div>
           </div>
-          <div class="feature-card feature-card-flex feature-card-accent">
-            <span class="card-icon">✓</span>
-            <div class="card-body">
-              <strong>Prestasi Akademik:</strong> IPK minimal sesuai dengan jenjang yang dilamar
+          <div class="col-md-6">
+            <div class="card border-start border-primary border-3 shadow-sm">
+              <div class="card-body d-flex gap-3 align-items-start">
+                <span class="text-success fs-5 fw-bold flex-shrink-0">✓</span>
+                <div>
+                  <strong>Prestasi Akademik:</strong> IPK minimal sesuai dengan jenjang yang dilamar
+                </div>
+              </div>
             </div>
           </div>
         </div>
 
-        <div class="alert-warning mt-2">
-          <strong>⏰ Jadwal Penting:</strong>
-          <ul class="mt-1 mb-0">
+        <div class="alert alert-warning border-warning border-2 mt-4">
+          <strong class="d-block mb-2">⏰ Jadwal Penting:</strong>
+          <ul class="mb-0">
             <li>Pendaftaran Embassy Track: Biasanya Februari - Maret</li>
             <li>Pendaftaran University Track: Bervariasi (September - November untuk intake Maret)</li>
             <li>Pengumuman hasil: Biasanya Juni - Juli</li>
@@ -206,17 +262,19 @@
         </div>
       </div>
 
-      <div class="cta-section">
-        <div class="cta-card">
-          <h3>Butuh Bantuan Persiapan GKS?</h3>
-          <p>Tim konsultan kami siap membantu Anda mempersiapkan dokumen aplikasi GKS, essay, dan interview preparation.</p>
-          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
-            Konsultasi Gratis Sekarang
-          </button>
+      <!-- CTA -->
+      <div class="my-5">
+        <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-5">
+            <h3 class="h3 fw-bold mb-3">Butuh Bantuan Persiapan GKS?</h3>
+            <p class="lead mb-4">Tim konsultan kami siap membantu Anda mempersiapkan dokumen aplikasi GKS, essay, dan interview preparation.</p>
+            <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg px-5">
+              Konsultasi Gratis Sekarang
+            </button>
+          </div>
         </div>
       </div>
 
-      </div>
     </div>
   </section>
 </div>

@@ -1,17 +1,17 @@
-<div class="home-page" style="margin-top: var(--header-height, 80px);">
+<div class="page-content">
   <!-- Hero Section -->
-  <section class="hero-section">
+  <section class="hero-gradient">
     <div class="container">
-      <div class="hero-content">
-        <h1 class="hero-title">Wujudkan Impian Kuliah di Korea</h1>
-        <p class="hero-subtitle">
+      <div class="text-center">
+        <h1 class="display-4 fw-bold text-white mb-3">Wujudkan Impian Kuliah di Korea</h1>
+        <p class="lead text-white-75 mb-5 mw-600" style="max-width: 600px; margin-left: auto; margin-right: auto; opacity: 0.95;">
           Temukan universitas terbaik di Korea, dapatkan beasiswa, dan raih masa depan cerah dengan pendidikan berkualitas internasional.
         </p>
-        <div class="hero-cta">
-          <button @click="navigateTo('universitas')" class="btn btn-primary btn-large btn-rounded">
+        <div class="d-flex gap-3 justify-content-center flex-wrap">
+          <button @click="navigateTo('universitas')" class="btn btn-light btn-lg fw-bold px-4">
             Cari Universitas
           </button>
-          <button @click="navigateTo('konsultasi')" class="btn btn-secondary btn-large btn-rounded">
+          <button @click="navigateTo('konsultasi')" class="btn btn-outline-light btn-lg fw-bold px-4">
             Konsultasi Gratis
           </button>
         </div>
@@ -20,42 +20,44 @@
   </section>
 
   <!-- Search Box -->
-  <section class="section" style="padding-top: 0;">
+  <section class="py-5">
     <div class="container">
-      <div class="search-box">
-        <h3 class="search-box-title">Cari Program Studi yang Tepat</h3>
-        <form class="search-form" @submit.prevent="handleSearch">
-          <div class="form-group">
-            <select v-model="searchForm.jurusan" class="form-control">
-              <option value="">Pilih Jurusan</option>
-              <option value="teknik">Teknik & Teknologi</option>
-              <option value="bisnis">Bisnis & Manajemen</option>
-              <option value="kedokteran">Kedokteran</option>
-              <option value="seni">Seni & Desain</option>
-              <option value="humaniora">Humaniora</option>
-              <option value="sains">Sains</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <select v-model="searchForm.jenjang" class="form-control">
-              <option value="">Jenjang Pendidikan</option>
-              <option value="s1">Sarjana (S1)</option>
-              <option value="s2">Magister (S2)</option>
-              <option value="s3">Doktor (S3)</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <select v-model="searchForm.kota" class="form-control">
-              <option value="">Pilih Kota</option>
-              <option value="seoul">Seoul</option>
-              <option value="busan">Busan</option>
-              <option value="incheon">Incheon</option>
-              <option value="daegu">Daegu</option>
-              <option value="daejeon">Daejeon</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block">Cari</button>
+      <div class="card border-0 shadow p-5">
+        <h3 class="h3 fw-bold text-primary mb-4">Cari Program Studi yang Tepat</h3>
+        <form @submit.prevent="handleSearch">
+          <div class="row g-3">
+            <div class="col-md-6 col-lg-3">
+              <select v-model="searchForm.jurusan" class="form-select form-select-lg">
+                <option value="">Pilih Jurusan</option>
+                <option value="teknik">Teknik & Teknologi</option>
+                <option value="bisnis">Bisnis & Manajemen</option>
+                <option value="kedokteran">Kedokteran</option>
+                <option value="seni">Seni & Desain</option>
+                <option value="humaniora">Humaniora</option>
+                <option value="sains">Sains</option>
+              </select>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <select v-model="searchForm.jenjang" class="form-select form-select-lg">
+                <option value="">Jenjang Pendidikan</option>
+                <option value="s1">Sarjana (S1)</option>
+                <option value="s2">Magister (S2)</option>
+                <option value="s3">Doktor (S3)</option>
+              </select>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <select v-model="searchForm.kota" class="form-select form-select-lg">
+                <option value="">Pilih Kota</option>
+                <option value="seoul">Seoul</option>
+                <option value="busan">Busan</option>
+                <option value="incheon">Incheon</option>
+                <option value="daegu">Daegu</option>
+                <option value="daejeon">Daejeon</option>
+              </select>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <button type="submit" class="btn btn-primary btn-lg w-100">Cari</button>
+            </div>
           </div>
         </form>
       </div>
@@ -63,20 +65,20 @@
   </section>
 
   <!-- Why Study in Korea Section -->
-  <section class="section section-gray">
+  <section class="py-5 mb-5" style="background-color: #f8f9fa;">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Mengapa Kuliah di Korea?</h2>
-        <p class="section-subtitle">
-          Korea menawarkan pendidikan berkualitas dunia dengan teknologi canggih dan peluang karir internasional
-        </p>
-      </div>
-      <div class="grid grid-cols-4">
-        <div class="card" v-for="reason in whyKorea" :key="reason.id">
-          <div class="card-body text-center">
-            <div class="icon-box" style="margin: 0 auto;">{{ reason.icon }}</div>
-            <h3 class="card-title">{{ reason.title }}</h3>
-            <p class="card-text">{{ reason.description }}</p>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Mengapa Kuliah di Korea?</h2>
+      <p class="lead text-muted mb-5">
+        Korea menawarkan pendidikan berkualitas dunia dengan teknologi canggih dan peluang karir internasional
+      </p>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-3" v-for="reason in whyKorea" :key="reason.id">
+          <div class="card h-100 border-0 shadow-sm">
+            <div class="card-body text-center">
+              <div class="fs-1 mb-3">{{ reason.icon }}</div>
+              <h3 class="h5 fw-bold mb-2">{{ reason.title }}</h3>
+              <p class="card-text small text-muted">{{ reason.description }}</p>
+            </div>
           </div>
         </div>
       </div>
@@ -84,32 +86,30 @@
   </section>
 
   <!-- Top Universities Section -->
-  <section class="section">
+  <section class="py-5 mb-5">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Universitas Terpopuler</h2>
-        <p class="section-subtitle">Jelajahi universitas-universitas terbaik di Korea</p>
-      </div>
-      <div class="grid grid-cols-3">
-        <div class="card" v-for="university in topUniversities" :key="university.id">
-          <div class="card-image">
-            <img :src="university.image" :alt="university.name">
-          </div>
-          <div class="card-body">
-            <div style="display: flex; gap: 0.5rem; margin-bottom: 0.5rem;">
-              <span class="badge badge-primary">{{ university.ranking }}</span>
-              <span class="badge badge-secondary">{{ university.location }}</span>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Universitas Terpopuler</h2>
+      <p class="lead text-muted mb-5">Jelajahi universitas-universitas terbaik di Korea</p>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-4" v-for="university in topUniversities" :key="university.id">
+          <div class="card h-100 border-0 shadow-sm">
+            <img :src="university.image" :alt="university.name" class="card-img-top" style="height: 200px; object-fit: cover;">
+            <div class="card-body">
+              <div class="mb-3">
+                <span class="badge bg-primary me-2">{{ university.ranking }}</span>
+                <span class="badge bg-secondary">{{ university.location }}</span>
+              </div>
+              <h3 class="h5 fw-bold mb-2">{{ university.name }}</h3>
+              <p class="card-text small text-muted mb-3">{{ university.description }}</p>
+              <button @click="viewUniversity(university.id)" class="btn btn-outline-primary btn-sm w-100">
+                Lihat Detail
+              </button>
             </div>
-            <h3 class="card-title">{{ university.name }}</h3>
-            <p class="card-text">{{ university.description }}</p>
-            <button @click="viewUniversity(university.id)" class="btn btn-outline btn-block">
-              Lihat Detail
-            </button>
           </div>
         </div>
       </div>
-      <div class="text-center mt-4">
-        <button @click="navigateTo('universitas')" class="btn btn-primary btn-large">
+      <div class="text-center mt-5">
+        <button @click="navigateTo('universitas')" class="btn btn-primary btn-lg">
           Lihat Semua Universitas
         </button>
       </div>
@@ -117,33 +117,31 @@
   </section>
 
   <!-- Scholarship Section -->
-  <section class="section section-gray">
+  <section class="py-5 mb-5" style="background-color: #f8f9fa;">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Beasiswa Tersedia</h2>
-        <p class="section-subtitle">Raih kesempatan mendapatkan beasiswa untuk kuliah di Korea</p>
-      </div>
-      <div class="grid grid-cols-3">
-        <div class="card" v-for="scholarship in scholarships" :key="scholarship.id">
-          <div class="card-body">
-            <div style="margin-bottom: 1rem;">
-              <span class="badge" :class="`badge-${scholarship.type}`">{{ scholarship.category }}</span>
-            </div>
-            <h3 class="card-title">{{ scholarship.name }}</h3>
-            <p class="card-text">{{ scholarship.description }}</p>
-            <div class="card-footer">
-              <span style="font-size: 0.875rem; color: var(--color-text-muted);">
-                Deadline: {{ scholarship.deadline }}
-              </span>
-              <button @click="viewScholarship(scholarship.id)" class="btn btn-accent btn-small">
-                Detail
-              </button>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Beasiswa Tersedia</h2>
+      <p class="lead text-muted mb-5">Raih kesempatan mendapatkan beasiswa untuk kuliah di Korea</p>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-4" v-for="scholarship in scholarships" :key="scholarship.id">
+          <div class="card h-100 border-0 shadow-sm">
+            <div class="card-body">
+              <div class="mb-3">
+                <span class="badge" :class="`bg-${scholarship.type}`">{{ scholarship.category }}</span>
+              </div>
+              <h3 class="h5 fw-bold mb-2">{{ scholarship.name }}</h3>
+              <p class="card-text small text-muted mb-3">{{ scholarship.description }}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <small class="text-muted">Deadline: {{ scholarship.deadline }}</small>
+                <button @click="viewScholarship(scholarship.id)" class="btn btn-sm btn-outline-primary">
+                  Detail
+                </button>
+              </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="text-center mt-4">
-        <button @click="navigateTo('beasiswa')" class="btn btn-primary btn-large">
+      <div class="text-center mt-5">
+        <button @click="navigateTo('beasiswa')" class="btn btn-primary btn-lg">
           Lihat Semua Beasiswa
         </button>
       </div>
@@ -151,33 +149,33 @@
   </section>
 
   <!-- Student Testimonials Section -->
-  <section class="section">
+  <section class="py-5 mb-5">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Testimoni Mahasiswa</h2>
-        <p class="section-subtitle">Dengarkan pengalaman dari mahasiswa Indonesia yang kuliah di Korea</p>
-      </div>
-      <div class="grid grid-cols-3">
-        <div class="card" v-for="testimonial in testimonials" :key="testimonial.id">
-          <div class="card-body">
-            <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
-              <div style="width: 60px; height: 60px; border-radius: 50%; background: var(--color-primary-light); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: var(--color-primary); font-weight: 700;">
-                {{ testimonial.initial }}
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Testimoni Mahasiswa</h2>
+      <p class="lead text-muted mb-5">Dengarkan pengalaman dari mahasiswa Indonesia yang kuliah di Korea</p>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-4" v-for="testimonial in testimonials" :key="testimonial.id">
+          <div class="card h-100 border-0 shadow-sm">
+            <div class="card-body">
+              <div class="d-flex align-items-center gap-3 mb-3">
+                <div class="rounded-circle d-flex align-items-center justify-content-center fw-bold text-white" style="width: 60px; height: 60px; background-color: var(--bs-primary); font-size: 1.5rem;">
+                  {{ testimonial.initial }}
+                </div>
+                <div>
+                  <h4 class="mb-1 h6 fw-bold">{{ testimonial.name }}</h4>
+                  <p class="mb-0 small text-muted">{{ testimonial.university }}</p>
+                </div>
               </div>
+              <p class="card-text small text-muted fst-italic mb-3">"{{ testimonial.message }}"</p>
               <div>
-                <h4 style="margin: 0; font-size: 1rem; font-weight: 600;">{{ testimonial.name }}</h4>
-                <p style="margin: 0; font-size: 0.875rem; color: var(--color-text-muted);">{{ testimonial.university }}</p>
+                <span class="badge bg-info">{{ testimonial.major }}</span>
               </div>
-            </div>
-            <p class="card-text" style="font-style: italic;">"{{ testimonial.message }}"</p>
-            <div style="margin-top: 1rem;">
-              <span class="badge badge-info">{{ testimonial.major }}</span>
             </div>
           </div>
         </div>
       </div>
-      <div class="text-center mt-4">
-        <button @click="navigateTo('testimoni')" class="btn btn-primary btn-large">
+      <div class="text-center mt-5">
+        <button @click="navigateTo('testimoni')" class="btn btn-primary btn-lg">
           Baca Lebih Banyak
         </button>
       </div>
@@ -185,32 +183,30 @@
   </section>
 
   <!-- Latest News Section -->
-  <section class="section section-gray">
+  <section class="py-5 mb-5" style="background-color: #f8f9fa;">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Berita & Acara Terkini</h2>
-        <p class="section-subtitle">Update terbaru tentang pendaftaran, acara, dan berita kuliah di Korea</p>
-      </div>
-      <div class="grid grid-cols-3">
-        <div class="card" v-for="news in latestNews" :key="news.id">
-          <div class="card-image">
-            <img :src="news.image" :alt="news.title">
-          </div>
-          <div class="card-body">
-            <div style="display: flex; gap: 0.5rem; margin-bottom: 0.5rem;">
-              <span class="badge" :class="`badge-${news.categoryType}`">{{ news.category }}</span>
-            </div>
-            <h3 class="card-title">{{ news.title }}</h3>
-            <p class="card-text">{{ news.excerpt }}</p>
-            <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1rem;">
-              <span style="font-size: 0.875rem; color: var(--color-text-muted);">{{ news.date }}</span>
-              <button @click="viewNews(news.id)" class="btn btn-outline btn-small">Baca</button>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Berita & Acara Terkini</h2>
+      <p class="lead text-muted mb-5">Update terbaru tentang pendaftaran, acara, dan berita kuliah di Korea</p>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-4" v-for="news in latestNews" :key="news.id">
+          <div class="card h-100 border-0 shadow-sm">
+            <img :src="news.image" :alt="news.title" class="card-img-top" style="height: 200px; object-fit: cover;">
+            <div class="card-body">
+              <div class="mb-3">
+                <span class="badge" :class="`bg-${news.categoryType}`">{{ news.category }}</span>
+              </div>
+              <h3 class="h5 fw-bold mb-2">{{ news.title }}</h3>
+              <p class="card-text small text-muted mb-3">{{ news.excerpt }}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <small class="text-muted">{{ news.date }}</small>
+                <button @click="viewNews(news.id)" class="btn btn-sm btn-outline-primary">Baca</button>
+              </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="text-center mt-4">
-        <button @click="navigateTo('berita')" class="btn btn-primary btn-large">
+      <div class="text-center mt-5">
+        <button @click="navigateTo('berita')" class="btn btn-primary btn-lg">
           Lihat Semua Berita
         </button>
       </div>
@@ -218,18 +214,18 @@
   </section>
 
   <!-- CTA Section -->
-  <section class="section" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%); color: white;">
+  <section class="py-5" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%); color: white;">
     <div class="container">
       <div class="text-center">
-        <h2 class="section-title" style="color: white;">Siap Memulai Perjalanan Anda?</h2>
-        <p class="section-subtitle" style="color: rgba(255, 255, 255, 0.9); max-width: 600px; margin: 0 auto 2rem;">
+        <h2 class="display-5 fw-bold text-white mb-3">Siap Memulai Perjalanan Anda?</h2>
+        <p class="lead text-white-75 mb-5 mw-600" style="max-width: 600px; margin-left: auto; margin-right: auto; opacity: 0.95;">
           Konsultasikan rencana studi Anda dengan tim ahli kami. Gratis dan tanpa komitmen!
         </p>
-        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-          <button @click="navigateTo('konsultasi')" class="btn btn-large btn-rounded" style="background: white; color: var(--color-primary); border-color: white;">
+        <div class="d-flex gap-3 justify-content-center flex-wrap">
+          <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg fw-bold px-4">
             Mulai Konsultasi
           </button>
-          <button @click="navigateTo('panduan')" class="btn btn-large btn-rounded" style="background: transparent; color: white; border-color: white;">
+          <button @click="navigateTo('panduan')" class="btn btn-outline-light btn-lg fw-bold px-4">
             Panduan Lengkap
           </button>
         </div>

@@ -1,26 +1,27 @@
-<div class="testimoni-page" style="margin-top: var(--header-height, 80px);">
+<div class="page-content" style="margin-top: var(--header-height, 80px);">
   <!-- Hero Section -->
-  <section class="page-hero">
+  <section class="hero-gradient">
     <div class="container">
-      <div class="page-hero-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <span>Testimoni</span>
-      </div>
-      <h1 class="page-hero-title">Cerita Sukses Alumni</h1>
-      <p class="page-hero-subtitle">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">Testimoni</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Cerita Sukses Alumni</h1>
+      <p class="lead mb-4">
         Dengarkan pengalaman langsung dari mahasiswa Indonesia yang telah meraih mimpi mereka kuliah di Korea
       </p>
 
       <!-- Quick Navigation -->
-      <div class="quick-nav">
-        <button @click="scrollToSection('interviews')" class="quick-nav-btn">
+      <div class="d-flex flex-wrap gap-3">
+        <button @click="scrollToSection('interviews')" class="btn btn-light">
           👥 Student Interviews
         </button>
-        <button @click="scrollToSection('videos')" class="quick-nav-btn">
+        <button @click="scrollToSection('videos')" class="btn btn-light">
           🎥 Video Testimonials
         </button>
-        <button @click="scrollToSection('communities')" class="quick-nav-btn">
+        <button @click="scrollToSection('communities')" class="btn btn-light">
           🌐 Join Community
         </button>
       </div>
@@ -28,14 +29,14 @@
   </section>
 
   <!-- Filter Section -->
-  <section class="section section-gray">
+  <section class="py-5 bg-light">
     <div class="container">
-      <div class="filter-tabs">
+      <div class="d-flex flex-wrap gap-2 justify-content-center">
         <button
           v-for="filter in filters"
           :key="filter"
           @click="setFilter(filter)"
-          :class="['filter-tab', { active: activeFilter === filter }]"
+          :class="['btn', activeFilter === filter ? 'btn-primary' : 'btn-outline-primary']"
         >
           {{ filterLabels[filter] }}
         </button>
@@ -44,157 +45,165 @@
   </section>
 
   <!-- Student Interviews Section -->
-  <section id="interviews" class="section">
+  <section id="interviews" class="py-5">
     <div class="container">
-      <h2 class="section-title">Student Interviews</h2>
-      <p class="section-intro">
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Student Interviews</h2>
+      <p class="text-muted mb-5">
         Baca cerita inspiratif dari mahasiswa Indonesia yang sedang atau telah menyelesaikan studi mereka di Korea
       </p>
 
-      <div class="interviews-grid">
+      <div class="row g-4">
         <div
           v-for="interview in filteredInterviews"
           :key="interview.id"
-          class="card card-overflow-hidden card-no-padding card-hover-lift interview-card"
+          class="col-md-6 col-lg-4"
         >
-          <div class="interview-header">
-            <div class="student-photo">
-              <img :src="interview.photo" :alt="interview.name">
-            </div>
-            <div class="student-info">
-              <h3 class="student-name">{{ interview.name }} <span class="name-ko">{{ interview.nameKo }}</span></h3>
-              <p class="student-program">{{ interview.program }}</p>
-              <p class="student-university">📍 {{ interview.university }}</p>
-              <div class="student-meta">
-                <span class="meta-tag">{{ interview.location }}</span>
-                <span class="meta-tag">Class of {{ interview.year }}</span>
+          <div class="card h-100 border-0 shadow-sm">
+            <div class="card-body">
+              <div class="d-flex gap-3 mb-4 pb-4 border-bottom">
+                <div class="flex-shrink-0">
+                  <img :src="interview.photo" :alt="interview.name" class="rounded-circle" style="width: 80px; height: 80px; object-fit: cover;">
+                </div>
+                <div>
+                  <h3 class="card-title h6 fw-bold mb-1">{{ interview.name }} <span class="text-primary">{{ interview.nameKo }}</span></h3>
+                  <p class="card-text small text-muted mb-1">{{ interview.program }}</p>
+                  <p class="card-text small text-muted">📍 {{ interview.university }}</p>
+                  <div class="d-flex gap-2 flex-wrap">
+                    <span class="badge bg-secondary">{{ interview.location }}</span>
+                    <span class="badge bg-secondary">{{ interview.year }}</span>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
 
-          <div class="interview-content">
-            <blockquote class="student-quote">
-              "{{ interview.quote }}"
-            </blockquote>
+              <blockquote class="blockquote mb-4">
+                <p class="mb-0"><em>"{{ interview.quote }}"</em></p>
+              </blockquote>
 
-            <div class="student-story">
-              <h4>Cerita Saya</h4>
-              <p>{{ interview.story }}</p>
-            </div>
+              <div class="mb-4">
+                <h4 class="h6 fw-bold mb-2">Cerita Saya</h4>
+                <p class="card-text small text-muted">{{ interview.story }}</p>
+              </div>
 
-            <div class="student-achievements">
-              <h4>🏆 Achievements</h4>
-              <ul>
-                <li v-for="achievement in interview.achievements" :key="achievement">
-                  {{ achievement }}
-                </li>
-              </ul>
-            </div>
+              <div class="mb-4">
+                <h4 class="h6 fw-bold mb-2">🏆 Achievements</h4>
+                <ul class="list-unstyled small">
+                  <li v-for="achievement in interview.achievements" :key="achievement" class="mb-1">
+                    ✓ {{ achievement }}
+                  </li>
+                </ul>
+              </div>
 
-            <div class="student-tips">
-              <h4>💡 Tips untuk Calon Mahasiswa</h4>
-              <ul>
-                <li v-for="tip in interview.tips" :key="tip">
-                  {{ tip }}
-                </li>
-              </ul>
+              <div>
+                <h4 class="h6 fw-bold mb-2">💡 Tips untuk Calon Mahasiswa</h4>
+                <ul class="list-unstyled small">
+                  <li v-for="tip in interview.tips" :key="tip" class="mb-1">
+                    ✓ {{ tip }}
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div v-if="filteredInterviews.length === 0" class="empty-state">
-        <p>Tidak ada testimoni untuk kategori ini saat ini.</p>
+      <div v-if="filteredInterviews.length === 0" class="text-center py-5">
+        <p class="text-muted">Tidak ada testimoni untuk kategori ini saat ini.</p>
       </div>
     </div>
   </section>
 
   <!-- Video Testimonials Section -->
-  <section id="videos" class="section section-gray">
+  <section id="videos" class="py-5 bg-light">
     <div class="container">
-      <h2 class="section-title">Video Testimonials</h2>
-      <p class="section-intro">
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Video Testimonials</h2>
+      <p class="text-muted mb-5">
         Tonton pengalaman mereka melalui video dan dapatkan insight lebih dalam tentang kehidupan kuliah di Korea
       </p>
 
-      <div class="videos-grid">
+      <div class="row g-4">
         <div
           v-for="video in filteredVideos"
           :key="video.id"
-          class="card card-overflow-hidden card-no-padding card-hover-lift video-card"
-          @click="playVideo(video.youtubeId)"
+          class="col-md-6 col-lg-4"
         >
-          <div class="video-thumbnail">
-            <img :src="video.thumbnail" :alt="video.title">
-            <div class="play-overlay">
-              <div class="play-button">
-                <span>▶</span>
+          <div class="card h-100 border-0 shadow-sm cursor-pointer" @click="playVideo(video.youtubeId)">
+            <div class="position-relative">
+              <img :src="video.thumbnail" :alt="video.title" class="card-img-top" style="height: 200px; object-fit: cover;">
+              <div class="position-absolute top-50 start-50 translate-middle">
+                <div class="btn btn-light rounded-circle p-3">
+                  <span>▶</span>
+                </div>
               </div>
+              <span class="position-absolute bottom-0 end-0 badge bg-dark m-2">{{ video.duration }}</span>
             </div>
-            <div class="video-duration">{{ video.duration }}</div>
-          </div>
-          <div class="video-info">
-            <h3 class="video-title">{{ video.title }}</h3>
-            <p class="video-student">{{ video.student }}</p>
-            <div class="video-meta">
-              <span class="views">👁️ {{ video.views }} views</span>
+            <div class="card-body">
+              <h3 class="card-title h6 fw-bold">{{ video.title }}</h3>
+              <p class="card-text small text-muted mb-2">{{ video.student }}</p>
+              <p class="card-text small text-muted">👁️ {{ video.views }} views</p>
             </div>
           </div>
         </div>
       </div>
 
-      <div v-if="filteredVideos.length === 0" class="empty-state">
-        <p>Tidak ada video untuk kategori ini saat ini.</p>
+      <div v-if="filteredVideos.length === 0" class="text-center py-5">
+        <p class="text-muted">Tidak ada video untuk kategori ini saat ini.</p>
       </div>
 
-      <div class="cta-box" style="margin-top: 3rem;">
-        <h3>Ingin berbagi cerita Anda?</h3>
-        <p>Jika Anda adalah mahasiswa atau alumni yang ingin berbagi pengalaman, kami ingin mendengar cerita Anda!</p>
-        <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
-          Hubungi Kami
-        </button>
+      <div class="card bg-gradient text-white border-0 shadow-sm mt-5" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+        <div class="card-body text-center p-4">
+          <h3 class="h5 fw-bold mb-2">Ingin berbagi cerita Anda?</h3>
+          <p class="mb-3">Jika Anda adalah mahasiswa atau alumni yang ingin berbagi pengalaman, kami ingin mendengar cerita Anda!</p>
+          <button @click="navigateTo('konsultasi')" class="btn btn-light">
+            Hubungi Kami
+          </button>
+        </div>
       </div>
     </div>
   </section>
 
   <!-- Community Links Section -->
-  <section id="communities" class="section">
+  <section id="communities" class="py-5">
     <div class="container">
-      <h2 class="section-title">Komunitas Mahasiswa Indonesia di Korea</h2>
-      <p class="section-intro">
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Komunitas Mahasiswa Indonesia di Korea</h2>
+      <p class="text-muted mb-5">
         Bergabung dengan komunitas mahasiswa Indonesia di berbagai kota di Korea untuk networking, sharing informasi, dan saling support
       </p>
 
-      <div class="communities-container">
+      <div class="row g-4 mb-5">
         <div
           v-for="community in communities"
           :key="community.region"
-          class="card community-region"
+          class="col-lg-6"
         >
-          <div class="region-header">
-            <span class="region-icon">{{ community.icon }}</span>
-            <div class="region-info">
-              <h3 class="region-name">{{ community.region }}</h3>
-              <p class="region-description">{{ community.description }}</p>
-            </div>
-          </div>
-
-          <div class="community-groups">
-            <div
-              v-for="group in community.groups"
-              :key="group.name"
-              class="community-group"
-            >
-              <div class="group-header">
-                <h4 class="group-name">{{ group.name }}</h4>
-                <span class="group-platform">{{ group.platform }}</span>
+          <div class="card h-100 border-0 shadow-sm">
+            <div class="card-header bg-light border-bottom">
+              <div class="d-flex gap-3 align-items-start">
+                <span class="fs-2">{{ community.icon }}</span>
+                <div>
+                  <h3 class="card-title h5 fw-bold mb-1">{{ community.region }}</h3>
+                  <p class="card-text small text-muted mb-0">{{ community.description }}</p>
+                </div>
               </div>
-              <p class="group-description">{{ group.description }}</p>
-              <div class="group-footer">
-                <span class="group-members">👥 {{ group.members }} members</span>
-                <button @click="joinCommunity(group.link)" class="btn btn-sm btn-outline">
-                  Join Group
-                </button>
+            </div>
+            <div class="card-body">
+              <div
+                v-for="group in community.groups"
+                :key="group.name"
+                class="mb-4 pb-4 border-bottom"
+              >
+                <div class="d-flex justify-content-between align-items-start mb-2">
+                  <div>
+                    <h4 class="h6 fw-bold mb-1">{{ group.name }}</h4>
+                    <span class="badge bg-secondary small">{{ group.platform }}</span>
+                  </div>
+                </div>
+                <p class="card-text small text-muted mb-3">{{ group.description }}</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <span class="small text-muted">👥 {{ group.members }} members</span>
+                  <button @click="joinCommunity(group.link)" class="btn btn-sm btn-outline-primary">
+                    Join Group
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -202,38 +211,52 @@
       </div>
 
       <!-- Community Benefits -->
-      <div class="card community-benefits">
-        <h3 style="margin-bottom: 1.5rem; text-align: center;">Mengapa Bergabung dengan Komunitas?</h3>
-        <div class="benefits-grid">
-          <div class="benefit-item">
-            <span class="benefit-icon">🤝</span>
-            <h4>Networking</h4>
-            <p>Bertemu dengan sesama mahasiswa Indonesia dan alumni</p>
-          </div>
-          <div class="benefit-item">
-            <span class="benefit-icon">📚</span>
-            <h4>Sharing Knowledge</h4>
-            <p>Berbagi tips kuliah, beasiswa, dan kehidupan di Korea</p>
-          </div>
-          <div class="benefit-item">
-            <span class="benefit-icon">🎉</span>
-            <h4>Events & Activities</h4>
-            <p>Ikuti berbagai acara budaya dan gathering</p>
-          </div>
-          <div class="benefit-item">
-            <span class="benefit-icon">💼</span>
-            <h4>Career Support</h4>
-            <p>Info lowongan kerja dan mentoring karir</p>
-          </div>
-          <div class="benefit-item">
-            <span class="benefit-icon">🏠</span>
-            <h4>Housing Info</h4>
-            <p>Informasi tempat tinggal dan roommate</p>
-          </div>
-          <div class="benefit-item">
-            <span class="benefit-icon">❤️</span>
-            <h4>Emotional Support</h4>
-            <p>Dukungan saat adaptasi dan homesick</p>
+      <div class="card border-0 shadow-sm">
+        <div class="card-body">
+          <h3 class="h4 fw-bold text-center mb-5">Mengapa Bergabung dengan Komunitas?</h3>
+          <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">🤝</div>
+                <h4 class="h6 fw-bold mb-2">Networking</h4>
+                <p class="small text-muted">Bertemu dengan sesama mahasiswa Indonesia dan alumni</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">📚</div>
+                <h4 class="h6 fw-bold mb-2">Sharing Knowledge</h4>
+                <p class="small text-muted">Berbagi tips kuliah, beasiswa, dan kehidupan di Korea</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">🎉</div>
+                <h4 class="h6 fw-bold mb-2">Events & Activities</h4>
+                <p class="small text-muted">Ikuti berbagai acara budaya dan gathering</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">💼</div>
+                <h4 class="h6 fw-bold mb-2">Career Support</h4>
+                <p class="small text-muted">Info lowongan kerja dan mentoring karir</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">🏠</div>
+                <h4 class="h6 fw-bold mb-2">Housing Info</h4>
+                <p class="small text-muted">Informasi tempat tinggal dan roommate</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center">
+                <div class="fs-1 mb-3">❤️</div>
+                <h4 class="h6 fw-bold mb-2">Emotional Support</h4>
+                <p class="small text-muted">Dukungan saat adaptasi dan homesick</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -241,26 +264,40 @@
   </section>
 
   <!-- Success Stories Stats -->
-  <section class="section section-gray">
+  <section class="py-5 bg-light">
     <div class="container">
-      <div class="stats-section">
-        <h2 style="text-align: center; margin-bottom: 3rem;">Alumni Success Stories</h2>
-        <div class="stats-grid">
-          <div class="card card-center card-hover-lift stat-card">
-            <div class="stat-number">500+</div>
-            <div class="stat-label">Alumni Sukses</div>
+      <h2 class="h2 fw-bold text-center text-primary mb-5">Alumni Success Stories</h2>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-3">
+          <div class="card h-100 border-0 shadow-sm text-center">
+            <div class="card-body">
+              <div class="display-5 fw-bold text-primary mb-2">500+</div>
+              <p class="card-text text-muted">Alumni Sukses</p>
+            </div>
           </div>
-          <div class="card card-center card-hover-lift stat-card">
-            <div class="stat-number">85%</div>
-            <div class="stat-label">Mendapat Pekerjaan dalam 6 Bulan</div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card h-100 border-0 shadow-sm text-center">
+            <div class="card-body">
+              <div class="display-5 fw-bold text-primary mb-2">85%</div>
+              <p class="card-text text-muted">Mendapat Pekerjaan dalam 6 Bulan</p>
+            </div>
           </div>
-          <div class="card card-center card-hover-lift stat-card">
-            <div class="stat-number">15+</div>
-            <div class="stat-label">Universitas Partner</div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card h-100 border-0 shadow-sm text-center">
+            <div class="card-body">
+              <div class="display-5 fw-bold text-primary mb-2">15+</div>
+              <p class="card-text text-muted">Universitas Partner</p>
+            </div>
           </div>
-          <div class="card card-center card-hover-lift stat-card">
-            <div class="stat-number">95%</div>
-            <div class="stat-label">Tingkat Kepuasan Alumni</div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card h-100 border-0 shadow-sm text-center">
+            <div class="card-body">
+              <div class="display-5 fw-bold text-primary mb-2">95%</div>
+              <p class="card-text text-muted">Tingkat Kepuasan Alumni</p>
+            </div>
           </div>
         </div>
       </div>
@@ -268,13 +305,13 @@
   </section>
 
   <!-- CTA Section -->
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="cta-section">
-        <div class="cta-card">
-          <h3>Siap Menjadi Alumni Sukses Berikutnya?</h3>
-          <p>Mulai perjalanan Anda kuliah di Korea bersama K-Campus. Konsultasi gratis dengan tim expert kami!</p>
-          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
+      <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+        <div class="card-body text-center p-5">
+          <h3 class="h3 fw-bold mb-3">Siap Menjadi Alumni Sukses Berikutnya?</h3>
+          <p class="lead mb-4">Mulai perjalanan Anda kuliah di Korea bersama K-Campus. Konsultasi gratis dengan tim expert kami!</p>
+          <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg">
             Konsultasi Gratis Sekarang
           </button>
         </div>

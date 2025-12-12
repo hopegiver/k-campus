@@ -1,81 +1,79 @@
-<div class="panduan-page" style="margin-top: var(--header-height, 80px);">
+<div class="page-content">
   <!-- Hero Section -->
-  <section class="panduan-hero">
+  <section class="hero-gradient">
     <div class="container">
-      <div class="panduan-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <span>Panduan Kuliah</span>
-        <span>›</span>
-        <span>Biaya Hidup</span>
-      </div>
-      <h1 class="panduan-title">Biaya Hidup di Korea</h1>
-      <p class="panduan-subtitle">Panduan lengkap perkiraan biaya kuliah dan kehidupan sehari-hari di Korea</p>
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Panduan Kuliah</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">Biaya Hidup</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Biaya Hidup di Korea</h1>
+      <p class="lead mb-0">Panduan lengkap perkiraan biaya kuliah dan kehidupan sehari-hari di Korea</p>
     </div>
   </section>
 
   <!-- Content Section -->
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="panduan-content">
 
-        <!-- Monthly Budget Overview -->
-        <div class="content-block">
-          <h2 class="content-heading">Perkiraan Biaya Bulanan</h2>
-          <div class="highlight-box" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%); color: white; border: none;">
-            <h3 style="color: white; font-size: 1.5rem; margin-bottom: 1rem;">💰 Total Estimasi: ₩750,000 - ₩1,000,000 / bulan</h3>
-            <p style="font-size: 1.1rem; opacity: 0.95;">
-              (Sekitar Rp 8,500,000 - Rp 11,500,000 per bulan)
-            </p>
+      <!-- Monthly Budget Overview -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Perkiraan Biaya Bulanan</h2>
+        <div class="card bg-gradient text-white border-0 shadow-lg mb-4" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-4">
+            <h3 class="h4 fw-bold mb-2">Total Estimasi: ₩750,000 - ₩1,000,000 / bulan</h3>
+            <p class="mb-0">(Sekitar Rp 8,500,000 - Rp 11,500,000 per bulan)</p>
           </div>
+        </div>
 
-          <div class="grid grid-cols-2" style="margin-top: 2rem;">
-            <div class="card">
+        <div class="row g-4">
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
               <div class="card-body">
-                <div class="icon-box mb-3">🏠</div>
-                <h3 class="card-title">Akomodasi</h3>
-                <p class="card-text" style="font-size: 1.5rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
-                  ₩500,000 - ₩700,000
-                </p>
+                <div class="fs-1 mb-3">🏠</div>
+                <h3 class="card-title text-primary fw-bold">Akomodasi</h3>
+                <p class="card-text fs-5 fw-bold text-primary mb-2">₩500,000 - ₩700,000</p>
                 <p class="card-text">
                   Termasuk dormitory dengan meal plan atau sewa apartment/officetel
                 </p>
               </div>
             </div>
+          </div>
 
-            <div class="card">
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
               <div class="card-body">
-                <div class="icon-box mb-3">🍜</div>
-                <h3 class="card-title">Makanan</h3>
-                <p class="card-text" style="font-size: 1.5rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
-                  ₩200,000 - ₩300,000
-                </p>
+                <div class="fs-1 mb-3">🍜</div>
+                <h3 class="card-title text-primary fw-bold">Makanan</h3>
+                <p class="card-text fs-5 fw-bold text-primary mb-2">₩200,000 - ₩300,000</p>
                 <p class="card-text">
                   Makan di kantin kampus dan restoran lokal
                 </p>
               </div>
             </div>
+          </div>
 
-            <div class="card">
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
               <div class="card-body">
-                <div class="icon-box mb-3">🚇</div>
-                <h3 class="card-title">Transportasi</h3>
-                <p class="card-text" style="font-size: 1.5rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
-                  ₩50,000 - ₩100,000
-                </p>
+                <div class="fs-1 mb-3">🚇</div>
+                <h3 class="card-title text-primary fw-bold">Transportasi</h3>
+                <p class="card-text fs-5 fw-bold text-primary mb-2">₩50,000 - ₩100,000</p>
                 <p class="card-text">
                   Bus, subway, dan transportasi umum lainnya
                 </p>
               </div>
             </div>
+          </div>
 
-            <div class="card">
+          <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm">
               <div class="card-body">
-                <div class="icon-box mb-3">📱</div>
-                <h3 class="card-title">Lain-lain</h3>
-                <p class="card-text" style="font-size: 1.5rem; font-weight: 700; color: var(--color-primary); margin: 1rem 0;">
-                  ₩100,000 - ₩200,000
-                </p>
+                <div class="fs-1 mb-3">📱</div>
+                <h3 class="card-title text-primary fw-bold">Lain-lain</h3>
+                <p class="card-text fs-5 fw-bold text-primary mb-2">₩100,000 - ₩200,000</p>
                 <p class="card-text">
                   HP, internet, asuransi, dan keperluan pribadi
                 </p>
@@ -83,360 +81,379 @@
             </div>
           </div>
         </div>
-
-        <!-- Tuition Fees -->
-        <div class="content-block">
-          <h2 class="content-heading">Biaya Kuliah per Semester</h2>
-          <div class="table-responsive">
-            <table class="info-table">
-              <thead>
-                <tr>
-                  <th>Jenis Program</th>
-                  <th>Universitas Negeri</th>
-                  <th>Universitas Swasta</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><strong>Humaniora & Sosial</strong></td>
-                  <td>₩2,000,000 - ₩3,000,000</td>
-                  <td>₩3,000,000 - ₩4,500,000</td>
-                </tr>
-                <tr>
-                  <td><strong>Sains & Teknik</strong></td>
-                  <td>₩2,500,000 - ₩4,000,000</td>
-                  <td>₩3,500,000 - ₩5,500,000</td>
-                </tr>
-                <tr>
-                  <td><strong>Seni & Desain</strong></td>
-                  <td>₩3,000,000 - ₩4,500,000</td>
-                  <td>₩4,000,000 - ₩6,000,000</td>
-                </tr>
-                <tr>
-                  <td><strong>Kedokteran & Farmasi</strong></td>
-                  <td>₩4,000,000 - ₩6,000,000</td>
-                  <td>₩5,000,000 - ₩8,000,000</td>
-                </tr>
-                <tr>
-                  <td><strong>Bisnis & MBA</strong></td>
-                  <td>₩2,500,000 - ₩4,000,000</td>
-                  <td>₩4,000,000 - ₩7,000,000</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          <div class="alert-info mt-3">
-            <strong>📚 Catatan:</strong> Banyak universitas menawarkan pengurangan biaya kuliah 30-100% untuk
-            mahasiswa internasional berprestasi. Beasiswa juga dapat menutupi sebagian atau seluruh biaya kuliah.
-          </div>
-        </div>
-
-        <!-- Detailed Living Costs -->
-        <div class="content-block">
-          <h2 class="content-heading">Rincian Biaya Hidup Detail</h2>
-
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">🍽️</span>
-              <h3>Biaya Makanan</h3>
-            </div>
-            <div class="info-card-body">
-              <div class="table-responsive">
-                <table class="info-table">
-                  <tbody>
-                    <tr>
-                      <td>Makan di kantin kampus</td>
-                      <td>₩3,000 - ₩5,000 per porsi</td>
-                    </tr>
-                    <tr>
-                      <td>Restoran lokal (Korean BBQ, Jjigae)</td>
-                      <td>₩7,000 - ₩12,000 per porsi</td>
-                    </tr>
-                    <tr>
-                      <td>Fast food (McDonald's, Lotteria)</td>
-                      <td>₩5,000 - ₩8,000 per set</td>
-                    </tr>
-                    <tr>
-                      <td>Convenience store (Kimbap, Dosirak)</td>
-                      <td>₩2,500 - ₩4,500 per item</td>
-                    </tr>
-                    <tr>
-                      <td>Kopi (Starbucks, cafe)</td>
-                      <td>₩4,500 - ₩6,000 per cup</td>
-                    </tr>
-                    <tr>
-                      <td>Groceries bulanan (masak sendiri)</td>
-                      <td>₩150,000 - ₩250,000</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">🚌</span>
-              <h3>Biaya Transportasi</h3>
-            </div>
-            <div class="info-card-body">
-              <div class="table-responsive">
-                <table class="info-table">
-                  <tbody>
-                    <tr>
-                      <td>Bus / Subway (sekali jalan)</td>
-                      <td>₩1,250 - ₩1,500</td>
-                    </tr>
-                    <tr>
-                      <td>T-Money Pass (rechargeable card)</td>
-                      <td>₩2,500 (deposit, dapat diisi ulang)</td>
-                    </tr>
-                    <tr>
-                      <td>Monthly subway pass (unlimited)</td>
-                      <td>₩55,000 - ₩62,500</td>
-                    </tr>
-                    <tr>
-                      <td>Taxi (base fare)</td>
-                      <td>₩3,800 - ₩4,800</td>
-                    </tr>
-                    <tr>
-                      <td>KTX (Seoul-Busan high-speed train)</td>
-                      <td>₩59,800 - ₩77,700</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <div class="alert-success mt-3">
-                <strong>💡 Tips Hemat:</strong> Gunakan T-Money card untuk diskon transportasi dan beli monthly
-                pass jika sering bepergian!
-              </div>
-            </div>
-          </div>
-
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">📞</span>
-              <h3>Biaya Komunikasi & Internet</h3>
-            </div>
-            <div class="info-card-body">
-              <div class="table-responsive">
-                <table class="info-table">
-                  <tbody>
-                    <tr>
-                      <td>Paket HP unlimited (SKT, KT, LG U+)</td>
-                      <td>₩30,000 - ₩50,000 / bulan</td>
-                    </tr>
-                    <tr>
-                      <td>Internet rumah (fiber optic)</td>
-                      <td>₩25,000 - ₩40,000 / bulan</td>
-                    </tr>
-                    <tr>
-                      <td>Paket data prepaid</td>
-                      <td>₩20,000 - ₩35,000 / bulan</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-
-          <div class="info-card">
-            <div class="info-card-header">
-              <span class="info-icon">🏥</span>
-              <h3>Asuransi & Kesehatan</h3>
-            </div>
-            <div class="info-card-body">
-              <div class="table-responsive">
-                <table class="info-table">
-                  <tbody>
-                    <tr>
-                      <td>National Health Insurance (wajib)</td>
-                      <td>₩60,000 - ₩100,000 / bulan</td>
-                    </tr>
-                    <tr>
-                      <td>Klinik umum (dengan asuransi)</td>
-                      <td>₩5,000 - ₩15,000 per kunjungan</td>
-                    </tr>
-                    <tr>
-                      <td>Obat resep (dengan asuransi)</td>
-                      <td>₩3,000 - ₩10,000</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <p class="content-text mt-3">
-                <strong>Catatan:</strong> Mahasiswa yang tinggal lebih dari 6 bulan wajib mendaftar National
-                Health Insurance yang memberikan coverage 50-80% biaya medis.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cost Comparison -->
-        <div class="content-block">
-          <h2 class="content-heading">Perbandingan Biaya dengan Kota Besar Lainnya</h2>
-          <p class="content-text">
-            Korea menawarkan biaya hidup yang kompetitif dibanding kota-kota besar dunia lainnya:
-          </p>
-          <div class="table-responsive">
-            <table class="info-table">
-              <thead>
-                <tr>
-                  <th>Item</th>
-                  <th>Seoul</th>
-                  <th>New York</th>
-                  <th>Tokyo</th>
-                  <th>London</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Makan reguler</td>
-                  <td>₩11,000</td>
-                  <td>₩41,400</td>
-                  <td>₩8,800</td>
-                  <td>₩35,100</td>
-                </tr>
-                <tr>
-                  <td>Bus/Subway (sekali)</td>
-                  <td>₩1,500</td>
-                  <td>₩4,000</td>
-                  <td>₩1,800</td>
-                  <td>₩4,900</td>
-                </tr>
-                <tr>
-                  <td>Monthly transit pass</td>
-                  <td>₩61,300</td>
-                  <td>₩182,200</td>
-                  <td>₩70,500</td>
-                  <td>₩351,300</td>
-                </tr>
-                <tr>
-                  <td>Kopi (Starbucks)</td>
-                  <td>₩5,500</td>
-                  <td>₩7,300</td>
-                  <td>₩5,800</td>
-                  <td>₩6,900</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-        <!-- Money Saving Tips -->
-        <div class="content-block">
-          <h2 class="content-heading">Tips Menghemat Biaya</h2>
-          <div class="grid grid-cols-2">
-            <div class="highlight-box">
-              <h4>🍳 Makanan</h4>
-              <ul class="list-styled">
-                <li>Masak sendiri di dormitory/apartment</li>
-                <li>Makan di kantin kampus (paling murah)</li>
-                <li>Manfaatkan promo convenience store malam hari</li>
-                <li>Beli groceries di pasar tradisional</li>
-                <li>Gunakan app delivery untuk promo cashback</li>
-              </ul>
-            </div>
-
-            <div class="highlight-box">
-              <h4>🚇 Transportasi</h4>
-              <ul class="list-styled">
-                <li>Beli monthly transit pass jika sering bepergian</li>
-                <li>Gunakan sepeda atau jalan kaki jarak dekat</li>
-                <li>Manfaatkan bike sharing (Seoul Bike)</li>
-                <li>Travel di off-peak hours untuk harga lebih murah</li>
-                <li>Group travel untuk taxi (lebih ekonomis)</li>
-              </ul>
-            </div>
-
-            <div class="highlight-box">
-              <h4>🛍️ Shopping</h4>
-              <ul class="list-styled">
-                <li>Belanja di Daiso untuk barang murah (₩1,000-5,000)</li>
-                <li>Gunakan app second-hand (당근마켓, 중고나라)</li>
-                <li>Manfaatkan seasonal sales (end of season)</li>
-                <li>Student discount di banyak toko dan restoran</li>
-                <li>Belanja online di Coupang/11st untuk promo</li>
-              </ul>
-            </div>
-
-            <div class="highlight-box">
-              <h4>💼 Part-time Job</h4>
-              <ul class="list-styled">
-                <li>Kerja paruh waktu (max 20 jam/minggu untuk D-2)</li>
-                <li>Tutor bahasa Indonesia/Inggris (₩20,000-30,000/jam)</li>
-                <li>Cafe atau restoran (₩10,000-12,000/jam)</li>
-                <li>On-campus jobs lebih fleksibel</li>
-                <li>Tambahan penghasilan ₩400,000-800,000/bulan</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <!-- Scholarships -->
-        <div class="content-block">
-          <h2 class="content-heading">Beasiswa untuk Mengurangi Biaya</h2>
-          <p class="content-text">
-            Banyak beasiswa tersedia untuk mahasiswa Indonesia yang dapat menutupi biaya kuliah dan hidup:
-          </p>
-          <div class="grid grid-cols-3">
-            <div class="card">
-              <div class="card-body text-center">
-                <div class="icon-box mb-3">🏛️</div>
-                <h3 class="card-title">GKS (Pemerintah)</h3>
-                <p class="card-text">
-                  <strong>Coverage:</strong><br>
-                  • Tuition 100%<br>
-                  • Living allowance ₩900,000/bulan<br>
-                  • Tiket pesawat<br>
-                  • Asuransi kesehatan
-                </p>
-              </div>
-            </div>
-
-            <div class="card">
-              <div class="card-body text-center">
-                <div class="icon-box mb-3">🎓</div>
-                <h3 class="card-title">Beasiswa Universitas</h3>
-                <p class="card-text">
-                  <strong>Coverage:</strong><br>
-                  • 30-100% tuition<br>
-                  • Dormitory support<br>
-                  • Berdasarkan prestasi akademik
-                </p>
-              </div>
-            </div>
-
-            <div class="card">
-              <div class="card-body text-center">
-                <div class="icon-box mb-3">🌏</div>
-                <h3 class="card-title">Beasiswa Swasta</h3>
-                <p class="card-text">
-                  <strong>Coverage:</strong><br>
-                  • Varies by program<br>
-                  • Samsung, LG, Hyundai<br>
-                  • Foundation scholarships
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- CTA Section -->
-        <div class="content-cta">
-          <h3>Butuh Bantuan Perencanaan Keuangan?</h3>
-          <p>Konsultasikan budget dan rencana keuangan studi Anda dengan tim ahli kami</p>
-          <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-            <button @click="navigateTo('beasiswa')" class="btn btn-primary btn-large">
-              Cari Beasiswa
-            </button>
-            <button @click="navigateTo('panduan/akomodasi')" class="btn btn-outline btn-large">
-              Panduan Akomodasi →
-            </button>
-          </div>
-        </div>
-
       </div>
+
+      <!-- Tuition Fees -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Biaya Kuliah per Semester</h2>
+        <div class="table-responsive">
+          <table class="table table-striped table-hover table-bordered">
+            <thead class="table-primary">
+              <tr>
+                <th>Jenis Program</th>
+                <th>Universitas Negeri</th>
+                <th>Universitas Swasta</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Humaniora & Sosial</strong></td>
+                <td>₩2,000,000 - ₩3,000,000</td>
+                <td>₩3,000,000 - ₩4,500,000</td>
+              </tr>
+              <tr>
+                <td><strong>Sains & Teknik</strong></td>
+                <td>₩2,500,000 - ₩4,000,000</td>
+                <td>₩3,500,000 - ₩5,500,000</td>
+              </tr>
+              <tr>
+                <td><strong>Seni & Desain</strong></td>
+                <td>₩3,000,000 - ₩4,500,000</td>
+                <td>₩4,000,000 - ₩6,000,000</td>
+              </tr>
+              <tr>
+                <td><strong>Kedokteran & Farmasi</strong></td>
+                <td>₩4,000,000 - ₩6,000,000</td>
+                <td>₩5,000,000 - ₩8,000,000</td>
+              </tr>
+              <tr>
+                <td><strong>Bisnis & MBA</strong></td>
+                <td>₩2,500,000 - ₩4,000,000</td>
+                <td>₩4,000,000 - ₩7,000,000</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="alert alert-info border-info border-2">
+          <strong>Catatan:</strong> Banyak universitas menawarkan pengurangan biaya kuliah 30-100% untuk
+          mahasiswa internasional berprestasi. Beasiswa juga dapat menutupi sebagian atau seluruh biaya kuliah.
+        </div>
+      </div>
+
+      <!-- Detailed Living Costs -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Rincian Biaya Hidup Detail</h2>
+
+        <div class="card border-primary border-2 shadow-sm mb-4">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">🍽️</span>
+            <h3 class="h5 mb-0 fw-bold">Biaya Makanan</h3>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-sm table-striped">
+                <tbody>
+                  <tr>
+                    <td>Makan di kantin kampus</td>
+                    <td>₩3,000 - ₩5,000 per porsi</td>
+                  </tr>
+                  <tr>
+                    <td>Restoran lokal (Korean BBQ, Jjigae)</td>
+                    <td>₩7,000 - ₩12,000 per porsi</td>
+                  </tr>
+                  <tr>
+                    <td>Fast food (McDonald's, Lotteria)</td>
+                    <td>₩5,000 - ₩8,000 per set</td>
+                  </tr>
+                  <tr>
+                    <td>Convenience store (Kimbap, Dosirak)</td>
+                    <td>₩2,500 - ₩4,500 per item</td>
+                  </tr>
+                  <tr>
+                    <td>Kopi (Starbucks, cafe)</td>
+                    <td>₩4,500 - ₩6,000 per cup</td>
+                  </tr>
+                  <tr>
+                    <td>Groceries bulanan (masak sendiri)</td>
+                    <td>₩150,000 - ₩250,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="card border-primary border-2 shadow-sm mb-4">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">🚌</span>
+            <h3 class="h5 mb-0 fw-bold">Biaya Transportasi</h3>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-sm table-striped mb-3">
+                <tbody>
+                  <tr>
+                    <td>Bus / Subway (sekali jalan)</td>
+                    <td>₩1,250 - ₩1,500</td>
+                  </tr>
+                  <tr>
+                    <td>T-Money Pass (rechargeable card)</td>
+                    <td>₩2,500 (deposit, dapat diisi ulang)</td>
+                  </tr>
+                  <tr>
+                    <td>Monthly subway pass (unlimited)</td>
+                    <td>₩55,000 - ₩62,500</td>
+                  </tr>
+                  <tr>
+                    <td>Taxi (base fare)</td>
+                    <td>₩3,800 - ₩4,800</td>
+                  </tr>
+                  <tr>
+                    <td>KTX (Seoul-Busan high-speed train)</td>
+                    <td>₩59,800 - ₩77,700</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="alert alert-success border-success border-2">
+              <strong>Tips Hemat:</strong> Gunakan T-Money card untuk diskon transportasi dan beli monthly
+              pass jika sering bepergian!
+            </div>
+          </div>
+        </div>
+
+        <div class="card border-primary border-2 shadow-sm mb-4">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">📞</span>
+            <h3 class="h5 mb-0 fw-bold">Biaya Komunikasi & Internet</h3>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-sm table-striped">
+                <tbody>
+                  <tr>
+                    <td>Paket HP unlimited (SKT, KT, LG U+)</td>
+                    <td>₩30,000 - ₩50,000 / bulan</td>
+                  </tr>
+                  <tr>
+                    <td>Internet rumah (fiber optic)</td>
+                    <td>₩25,000 - ₩40,000 / bulan</td>
+                  </tr>
+                  <tr>
+                    <td>Paket data prepaid</td>
+                    <td>₩20,000 - ₩35,000 / bulan</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="card border-primary border-2 shadow-sm">
+          <div class="card-header bg-primary text-white d-flex align-items-center gap-2">
+            <span class="fs-4">🏥</span>
+            <h3 class="h5 mb-0 fw-bold">Asuransi & Kesehatan</h3>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-sm table-striped mb-3">
+                <tbody>
+                  <tr>
+                    <td>National Health Insurance (wajib)</td>
+                    <td>₩60,000 - ₩100,000 / bulan</td>
+                  </tr>
+                  <tr>
+                    <td>Klinik umum (dengan asuransi)</td>
+                    <td>₩5,000 - ₩15,000 per kunjungan</td>
+                  </tr>
+                  <tr>
+                    <td>Obat resep (dengan asuransi)</td>
+                    <td>₩3,000 - ₩10,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="text-muted">
+              <strong>Catatan:</strong> Mahasiswa yang tinggal lebih dari 6 bulan wajib mendaftar National
+              Health Insurance yang memberikan coverage 50-80% biaya medis.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Cost Comparison -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Perbandingan Biaya dengan Kota Besar Lainnya</h2>
+        <p class="fs-5 text-muted mb-4">
+          Korea menawarkan biaya hidup yang kompetitif dibanding kota-kota besar dunia lainnya:
+        </p>
+        <div class="table-responsive">
+          <table class="table table-striped table-hover table-bordered">
+            <thead class="table-primary">
+              <tr>
+                <th>Item</th>
+                <th>Seoul</th>
+                <th>New York</th>
+                <th>Tokyo</th>
+                <th>London</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Makan reguler</td>
+                <td>₩11,000</td>
+                <td>₩41,400</td>
+                <td>₩8,800</td>
+                <td>₩35,100</td>
+              </tr>
+              <tr>
+                <td>Bus/Subway (sekali)</td>
+                <td>₩1,500</td>
+                <td>₩4,000</td>
+                <td>₩1,800</td>
+                <td>₩4,900</td>
+              </tr>
+              <tr>
+                <td>Monthly transit pass</td>
+                <td>₩61,300</td>
+                <td>₩182,200</td>
+                <td>₩70,500</td>
+                <td>₩351,300</td>
+              </tr>
+              <tr>
+                <td>Kopi (Starbucks)</td>
+                <td>₩5,500</td>
+                <td>₩7,300</td>
+                <td>₩5,800</td>
+                <td>₩6,900</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Money Saving Tips -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Tips Menghemat Biaya</h2>
+        <div class="row g-4">
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Makanan</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Masak sendiri di dormitory/apartment</li>
+                  <li>Makan di kantin kampus (paling murah)</li>
+                  <li>Manfaatkan promo convenience store malam hari</li>
+                  <li>Beli groceries di pasar tradisional</li>
+                  <li>Gunakan app delivery untuk promo cashback</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Transportasi</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Beli monthly transit pass jika sering bepergian</li>
+                  <li>Gunakan sepeda atau jalan kaki jarak dekat</li>
+                  <li>Manfaatkan bike sharing (Seoul Bike)</li>
+                  <li>Travel di off-peak hours untuk harga lebih murah</li>
+                  <li>Group travel untuk taxi (lebih ekonomis)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Shopping</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Belanja di Daiso untuk barang murah (₩1,000-5,000)</li>
+                  <li>Gunakan app second-hand (당근마켓, 중고나라)</li>
+                  <li>Manfaatkan seasonal sales (end of season)</li>
+                  <li>Student discount di banyak toko dan restoran</li>
+                  <li>Belanja online di Coupang/11st untuk promo</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold mb-3">Part-time Job</h4>
+                <ul class="list-unstyled ps-3">
+                  <li>Kerja paruh waktu (max 20 jam/minggu untuk D-2)</li>
+                  <li>Tutor bahasa Indonesia/Inggris (₩20,000-30,000/jam)</li>
+                  <li>Cafe atau restoran (₩10,000-12,000/jam)</li>
+                  <li>On-campus jobs lebih fleksibel</li>
+                  <li>Tambahan penghasilan ₩400,000-800,000/bulan</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Scholarships -->
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Beasiswa untuk Mengurangi Biaya</h2>
+        <p class="fs-5 text-muted mb-4">
+          Banyak beasiswa tersedia untuk mahasiswa Indonesia yang dapat menutupi biaya kuliah dan hidup:
+        </p>
+        <div class="row g-4">
+          <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">🏛️</div>
+                <h3 class="card-title text-primary fw-bold">GKS (Pemerintah)</h3>
+                <p class="card-text">
+                  <strong>Coverage:</strong><br>
+                  Tuition 100%, Living allowance ₩900,000/bulan, Tiket pesawat, Asuransi kesehatan
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">🎓</div>
+                <h3 class="card-title text-primary fw-bold">Beasiswa Universitas</h3>
+                <p class="card-text">
+                  <strong>Coverage:</strong><br>
+                  30-100% tuition, Dormitory support, Berdasarkan prestasi akademik
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm text-center">
+              <div class="card-body">
+                <div class="fs-1 mb-3">🌏</div>
+                <h3 class="card-title text-primary fw-bold">Beasiswa Swasta</h3>
+                <p class="card-text">
+                  <strong>Coverage:</strong><br>
+                  Varies by program, Samsung/LG/Hyundai, Foundation scholarships
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA Section -->
+      <div class="my-5">
+        <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-5">
+            <h3 class="h3 fw-bold mb-3">Butuh Bantuan Perencanaan Keuangan?</h3>
+            <p class="lead mb-4">Konsultasikan budget dan rencana keuangan studi Anda dengan tim ahli kami</p>
+            <div class="d-flex gap-3 justify-content-center flex-wrap">
+              <button @click="navigateTo('beasiswa')" class="btn btn-light btn-lg px-5">
+                Cari Beasiswa
+              </button>
+              <button @click="navigateTo('panduan/akomodasi')" class="btn btn-outline-light btn-lg px-5">
+                Panduan Akomodasi
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
 </div>

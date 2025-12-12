@@ -61,7 +61,7 @@
 
     <!-- Header Actions -->
     <div class="header-actions">
-      <button class="btn btn-primary btn-small" @click="navigateTo('konsultasi')">
+      <button class="btn btn-primary btn-sm" @click="navigateTo('konsultasi')">
         Konsultasi Gratis
       </button>
     </div>
@@ -81,15 +81,15 @@
 </main>
 
 <!-- Footer -->
-<footer class="site-footer">
+<footer class="site-footer bg-dark text-white py-5">
   <div class="container">
-    <div class="footer-content">
-      <div class="footer-section">
-        <h4>Tentang Kami</h4>
-        <p style="margin-bottom: 1rem; line-height: 1.6;">
+    <div class="row g-4">
+      <div class="col-lg-3 col-md-6">
+        <h5 class="fw-bold mb-3">Tentang Kami</h5>
+        <p class="mb-3">
           K-Campus Indonesia adalah platform terpercaya untuk membantu mahasiswa Indonesia mewujudkan impian kuliah di Korea.
         </p>
-        <div class="social-links">
+        <div class="d-flex gap-2">
           <a href="#" class="social-link" title="Facebook">📘</a>
           <a href="#" class="social-link" title="Instagram">📷</a>
           <a href="#" class="social-link" title="YouTube">📹</a>
@@ -97,39 +97,41 @@
         </div>
       </div>
 
-      <div class="footer-section">
-        <h4>Layanan Kami</h4>
-        <ul>
-          <li><a href="#/universitas" @click.prevent="navigateTo('universitas')">Informasi Universitas</a></li>
-          <li><a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')">Panduan Beasiswa</a></li>
-          <li><a href="#/konsultasi" @click.prevent="navigateTo('konsultasi')">Konsultasi Pendaftaran</a></li>
-          <li><a href="#/panduan/visa-tinggal" @click.prevent="navigateTo('panduan/visa-tinggal')">Bantuan Visa</a></li>
+      <div class="col-lg-3 col-md-6">
+        <h5 class="fw-bold mb-3">Layanan Kami</h5>
+        <ul class="list-unstyled">
+          <li class="mb-2"><a href="#/universitas" @click.prevent="navigateTo('universitas')" class="text-white-50 text-decoration-none">Informasi Universitas</a></li>
+          <li class="mb-2"><a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')" class="text-white-50 text-decoration-none">Panduan Beasiswa</a></li>
+          <li class="mb-2"><a href="#/konsultasi" @click.prevent="navigateTo('konsultasi')" class="text-white-50 text-decoration-none">Konsultasi Pendaftaran</a></li>
+          <li class="mb-2"><a href="#/panduan/visa-tinggal" @click.prevent="navigateTo('panduan/visa-tinggal')" class="text-white-50 text-decoration-none">Bantuan Visa</a></li>
         </ul>
       </div>
 
-      <div class="footer-section">
-        <h4>Sumber Daya</h4>
-        <ul>
-          <li><a href="#/panduan" @click.prevent="navigateTo('panduan')">Panduan Lengkap</a></li>
-          <li><a href="#/testimoni" @click.prevent="navigateTo('testimoni')">Testimoni Mahasiswa</a></li>
-          <li><a href="#/berita" @click.prevent="navigateTo('berita')">Berita & Acara</a></li>
-          <li><a href="#/faq" @click.prevent="navigateTo('faq')">FAQ</a></li>
+      <div class="col-lg-3 col-md-6">
+        <h5 class="fw-bold mb-3">Sumber Daya</h5>
+        <ul class="list-unstyled">
+          <li class="mb-2"><a href="#/panduan" @click.prevent="navigateTo('panduan')" class="text-white-50 text-decoration-none">Panduan Lengkap</a></li>
+          <li class="mb-2"><a href="#/testimoni" @click.prevent="navigateTo('testimoni')" class="text-white-50 text-decoration-none">Testimoni Mahasiswa</a></li>
+          <li class="mb-2"><a href="#/berita" @click.prevent="navigateTo('berita')" class="text-white-50 text-decoration-none">Berita & Acara</a></li>
+          <li class="mb-2"><a href="#/faq" @click.prevent="navigateTo('faq')" class="text-white-50 text-decoration-none">FAQ</a></li>
         </ul>
       </div>
 
-      <div class="footer-section">
-        <h4>Kontak</h4>
-        <ul>
-          <li>📧 Email: id@k-campus.kr</li>
-          <li>📱 WhatsApp: +62 812-3456-7890</li>
-          <li>📍 Jakarta, Indonesia</li>
-          <li>🕐 Senin - Jumat: 09:00 - 17:00</li>
+      <div class="col-lg-3 col-md-6">
+        <h5 class="fw-bold mb-3">Kontak</h5>
+        <ul class="list-unstyled text-white-50">
+          <li class="mb-2">📧 Email: id@k-campus.kr</li>
+          <li class="mb-2">📱 WhatsApp: +62 812-3456-7890</li>
+          <li class="mb-2">📍 Jakarta, Indonesia</li>
+          <li class="mb-2">🕐 Senin - Jumat: 09:00 - 17:00</li>
         </ul>
       </div>
     </div>
 
-    <div class="footer-bottom">
-      <p>&copy; 2024 K-Campus Indonesia. Semua hak cipta dilindungi.</p>
+    <hr class="my-4 bg-white opacity-25">
+
+    <div class="text-center text-white-50">
+      <p class="mb-0">&copy; 2024 K-Campus Indonesia. Semua hak cipta dilindungi.</p>
     </div>
   </div>
 </footer>

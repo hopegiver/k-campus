@@ -1,153 +1,186 @@
-<div class="panduan-page">
+<div class="page-content">
   <!-- Hero Section -->
-  <section class="panduan-hero">
+  <section class="hero-gradient">
     <div class="container">
-      <div class="panduan-breadcrumb">
-        <a @click.prevent="navigateTo('home')">Beranda</a>
-        <span>›</span>
-        <a href="#/beasiswa/gks" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa</a>
-        <span>›</span>
-        <span>Universitas</span>
-      </div>
-      <h1 class="panduan-title">Beasiswa Universitas & Lembaga Swasta</h1>
-      <p class="panduan-subtitle">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-4">
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('home')" class="text-white">Beranda</a></li>
+          <li class="breadcrumb-item"><a @click.prevent="navigateTo('beasiswa/gks')" class="text-white">Beasiswa</a></li>
+          <li class="breadcrumb-item active text-white-50" aria-current="page">Universitas</li>
+        </ol>
+      </nav>
+      <h1 class="display-4 fw-bold mb-3">Beasiswa Universitas & Lembaga Swasta</h1>
+      <p class="lead mb-0">
         Berbagai program beasiswa dari universitas dan lembaga swasta di Korea untuk mahasiswa internasional
       </p>
     </div>
   </section>
 
   <!-- Main Content -->
-  <section class="section">
+  <section class="py-5">
     <div class="container">
-      <div class="panduan-content">
 
       <!-- Introduction -->
-      <div class="content-section">
-        <p class="section-intro">
+      <div class="mb-5">
+        <p class="fs-5 text-center text-muted">
           Selain GKS, banyak universitas dan lembaga di Korea menawarkan beasiswa merit-based dan need-based
           untuk mahasiswa internasional. Beasiswa ini bervariasi dari 30% hingga 100% biaya kuliah.
         </p>
       </div>
 
       <!-- Public University Scholarships -->
-      <div id="public-uni" class="content-section">
-        <h2 class="section-title">Beasiswa Universitas Negeri</h2>
-        <div class="scholarship-type-card">
-          <div class="university-list">
-            <div class="university-scholarship">
-              <h4>Seoul National University (SNU)</h4>
-              <ul>
-                <li><strong>Jenis:</strong> SNU Global Scholarship</li>
-                <li><strong>Cakupan:</strong> 30% - 100% biaya kuliah</li>
-                <li><strong>Syarat:</strong> IPK 3.0+, prestasi akademik</li>
-                <li><strong>Website:</strong> <a href="https://en.snu.ac.kr" target="_blank">en.snu.ac.kr</a></li>
-              </ul>
+      <div id="public-uni" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Beasiswa Universitas Negeri</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Seoul National University (SNU)</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> SNU Global Scholarship</li>
+                  <li><strong>Cakupan:</strong> 30% - 100% biaya kuliah</li>
+                  <li><strong>Syarat:</strong> IPK 3.0+, prestasi akademik</li>
+                  <li><strong>Website:</strong> <a href="https://en.snu.ac.kr" target="_blank" class="text-primary">en.snu.ac.kr</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="university-scholarship">
-              <h4>Korea Advanced Institute of Science and Technology (KAIST)</h4>
-              <ul>
-                <li><strong>Jenis:</strong> KAIST Scholarship Program</li>
-                <li><strong>Cakupan:</strong> 100% biaya kuliah + tunjangan bulanan</li>
-                <li><strong>Syarat:</strong> Prestasi akademik tinggi di bidang STEM</li>
-                <li><strong>Website:</strong> <a href="https://admission.kaist.ac.kr" target="_blank">admission.kaist.ac.kr</a></li>
-              </ul>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Korea Advanced Institute of Science and Technology (KAIST)</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> KAIST Scholarship Program</li>
+                  <li><strong>Cakupan:</strong> 100% biaya kuliah + tunjangan bulanan</li>
+                  <li><strong>Syarat:</strong> Prestasi akademik tinggi di bidang STEM</li>
+                  <li><strong>Website:</strong> <a href="https://admission.kaist.ac.kr" target="_blank" class="text-primary">admission.kaist.ac.kr</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="university-scholarship">
-              <h4>Pusan National University (PNU)</h4>
-              <ul>
-                <li><strong>Jenis:</strong> PNU International Student Scholarship</li>
-                <li><strong>Cakupan:</strong> 50% - 100% biaya kuliah</li>
-                <li><strong>Syarat:</strong> TOPIK Level 4+, IPK 3.0+</li>
-                <li><strong>Website:</strong> <a href="https://www.pusan.ac.kr" target="_blank">www.pusan.ac.kr</a></li>
-              </ul>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Pusan National University (PNU)</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> PNU International Student Scholarship</li>
+                  <li><strong>Cakupan:</strong> 50% - 100% biaya kuliah</li>
+                  <li><strong>Syarat:</strong> TOPIK Level 4+, IPK 3.0+</li>
+                  <li><strong>Website:</strong> <a href="https://www.pusan.ac.kr" target="_blank" class="text-primary">www.pusan.ac.kr</a></li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
       <!-- Private University Scholarships -->
-      <div id="private-uni" class="content-section">
-        <h2 class="section-title">Beasiswa Universitas Swasta</h2>
-        <div class="scholarship-type-card">
-          <div class="university-list">
-            <div class="university-scholarship">
-              <h4>Korea University</h4>
-              <ul>
-                <li><strong>Jenis:</strong> KU International Student Scholarship</li>
-                <li><strong>Cakupan:</strong> 30% - 100% biaya kuliah</li>
-                <li><strong>Syarat:</strong> Prestasi akademik, TOPIK/TOEFL</li>
-                <li><strong>Website:</strong> <a href="https://www.korea.edu" target="_blank">www.korea.edu</a></li>
-              </ul>
+      <div id="private-uni" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Beasiswa Universitas Swasta</h2>
+        <div class="row g-4">
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Korea University</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> KU International Student Scholarship</li>
+                  <li><strong>Cakupan:</strong> 30% - 100% biaya kuliah</li>
+                  <li><strong>Syarat:</strong> Prestasi akademik, TOPIK/TOEFL</li>
+                  <li><strong>Website:</strong> <a href="https://www.korea.edu" target="_blank" class="text-primary">www.korea.edu</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="university-scholarship">
-              <h4>Yonsei University</h4>
-              <ul>
-                <li><strong>Jenis:</strong> Yonsei University Scholarship</li>
-                <li><strong>Cakupan:</strong> 50% - 100% biaya kuliah</li>
-                <li><strong>Syarat:</strong> IPK tinggi, kemampuan bahasa</li>
-                <li><strong>Website:</strong> <a href="https://www.yonsei.ac.kr" target="_blank">www.yonsei.ac.kr</a></li>
-              </ul>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Yonsei University</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> Yonsei University Scholarship</li>
+                  <li><strong>Cakupan:</strong> 50% - 100% biaya kuliah</li>
+                  <li><strong>Syarat:</strong> IPK tinggi, kemampuan bahasa</li>
+                  <li><strong>Website:</strong> <a href="https://www.yonsei.ac.kr" target="_blank" class="text-primary">www.yonsei.ac.kr</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="university-scholarship">
-              <h4>Sungkyunkwan University (SKKU)</h4>
-              <ul>
-                <li><strong>Jenis:</strong> SKKU Global Excellence Scholarship</li>
-                <li><strong>Cakupan:</strong> 40% - 100% biaya kuliah</li>
-                <li><strong>Syarat:</strong> Prestasi akademik, aktivitas ekstrakurikuler</li>
-                <li><strong>Website:</strong> <a href="https://www.skku.edu" target="_blank">www.skku.edu</a></li>
-              </ul>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <div class="card h-100 border-primary border-2 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">Sungkyunkwan University (SKKU)</h4>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Jenis:</strong> SKKU Global Excellence Scholarship</li>
+                  <li><strong>Cakupan:</strong> 40% - 100% biaya kuliah</li>
+                  <li><strong>Syarat:</strong> Prestasi akademik, aktivitas ekstrakurikuler</li>
+                  <li><strong>Website:</strong> <a href="https://www.skku.edu" target="_blank" class="text-primary">www.skku.edu</a></li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
       <!-- Other Scholarships -->
-      <div id="other-scholarships" class="content-section">
-        <h2 class="section-title">Beasiswa Lembaga & Organisasi Lainnya</h2>
-        <div class="info-box info-box-secondary">
-          <div class="other-scholarships">
-            <div class="other-scholarship-item">
-              <h4>🏢 Korea Foundation Fellowship</h4>
-              <p>Beasiswa untuk mahasiswa pascasarjana yang meneliti topik terkait Korea (Korean Studies, hubungan internasional, dll.)</p>
-              <ul>
-                <li><strong>Cakupan:</strong> Tunjangan bulanan + biaya kuliah</li>
-                <li><strong>Website:</strong> <a href="https://www.kf.or.kr" target="_blank">www.kf.or.kr</a></li>
-              </ul>
+      <div id="other-scholarships" class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Beasiswa Lembaga & Organisasi Lainnya</h2>
+        <div class="row g-4">
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-0 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">🏢 Korea Foundation Fellowship</h4>
+                <p class="card-text">Beasiswa untuk mahasiswa pascasarjana yang meneliti topik terkait Korea (Korean Studies, hubungan internasional, dll.)</p>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Cakupan:</strong> Tunjangan bulanan + biaya kuliah</li>
+                  <li><strong>Website:</strong> <a href="https://www.kf.or.kr" target="_blank" class="text-primary">www.kf.or.kr</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="other-scholarship-item">
-              <h4>💼 Samsung Global Scholarship</h4>
-              <p>Program beasiswa dari Samsung untuk mahasiswa berprestasi di bidang teknologi dan engineering</p>
-              <ul>
-                <li><strong>Cakupan:</strong> Biaya kuliah + tunjangan + magang</li>
-                <li><strong>Fokus:</strong> STEM fields</li>
-              </ul>
+          </div>
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-0 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">💼 Samsung Global Scholarship</h4>
+                <p class="card-text">Program beasiswa dari Samsung untuk mahasiswa berprestasi di bidang teknologi dan engineering</p>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Cakupan:</strong> Biaya kuliah + tunjangan + magang</li>
+                  <li><strong>Fokus:</strong> STEM fields</li>
+                </ul>
+              </div>
             </div>
-            <div class="other-scholarship-item">
-              <h4>🌏 KOICA Scholarship</h4>
-              <p>Beasiswa dari Korea International Cooperation Agency untuk mahasiswa dari negara berkembang</p>
-              <ul>
-                <li><strong>Cakupan:</strong> Biaya kuliah + tunjangan bulanan</li>
-                <li><strong>Website:</strong> <a href="https://www.koica.go.kr" target="_blank">www.koica.go.kr</a></li>
-              </ul>
+          </div>
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-0 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">🌏 KOICA Scholarship</h4>
+                <p class="card-text">Beasiswa dari Korea International Cooperation Agency untuk mahasiswa dari negara berkembang</p>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Cakupan:</strong> Biaya kuliah + tunjangan bulanan</li>
+                  <li><strong>Website:</strong> <a href="https://www.koica.go.kr" target="_blank" class="text-primary">www.koica.go.kr</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="other-scholarship-item">
-              <h4>🎨 Korean Language Program Scholarships</h4>
-              <p>Beasiswa untuk program bahasa Korea dari berbagai universitas</p>
-              <ul>
-                <li><strong>Cakupan:</strong> 30% - 50% biaya program</li>
-                <li><strong>Durasi:</strong> 1-2 semester</li>
-              </ul>
+          </div>
+          <div class="col-md-6">
+            <div class="card h-100 bg-light border-0 shadow-sm">
+              <div class="card-body">
+                <h4 class="card-title text-primary fw-bold">🎨 Korean Language Program Scholarships</h4>
+                <p class="card-text">Beasiswa untuk program bahasa Korea dari berbagai universitas</p>
+                <ul class="list-unstyled list-divided">
+                  <li><strong>Cakupan:</strong> 30% - 50% biaya program</li>
+                  <li><strong>Durasi:</strong> 1-2 semester</li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
       <!-- Scholarship Comparison -->
-      <div class="content-section">
-        <h2 class="section-title">Perbandingan Beasiswa</h2>
-        <div class="comparison-table">
-          <table>
-            <thead>
+      <div class="mb-5">
+        <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Perbandingan Beasiswa</h2>
+        <div class="table-responsive">
+          <table class="table table-striped table-hover table-bordered">
+            <thead class="table-primary">
               <tr>
                 <th>Jenis Beasiswa</th>
                 <th>Cakupan</th>
@@ -160,49 +193,50 @@
                 <td><strong>GKS (Pemerintah)</strong></td>
                 <td>100%</td>
                 <td>₩900,000 - ₩1,200,000</td>
-                <td>Sangat Tinggi</td>
+                <td><span class="badge bg-danger">Sangat Tinggi</span></td>
               </tr>
               <tr>
                 <td><strong>Universitas Top (SKY)</strong></td>
                 <td>50% - 100%</td>
                 <td>Bervariasi</td>
-                <td>Tinggi</td>
+                <td><span class="badge bg-warning text-dark">Tinggi</span></td>
               </tr>
               <tr>
                 <td><strong>Universitas Negeri</strong></td>
                 <td>30% - 100%</td>
                 <td>Tidak semua</td>
-                <td>Sedang - Tinggi</td>
+                <td><span class="badge bg-warning text-dark">Sedang - Tinggi</span></td>
               </tr>
               <tr>
                 <td><strong>Universitas Swasta</strong></td>
                 <td>30% - 100%</td>
                 <td>Terbatas</td>
-                <td>Sedang</td>
+                <td><span class="badge bg-info text-dark">Sedang</span></td>
               </tr>
               <tr>
                 <td><strong>Lembaga Swasta</strong></td>
                 <td>Bervariasi</td>
                 <td>Bervariasi</td>
-                <td>Sedang - Tinggi</td>
+                <td><span class="badge bg-warning text-dark">Sedang - Tinggi</span></td>
               </tr>
             </tbody>
           </table>
         </div>
       </div>
 
-      <!-- CTA Section -->
-      <div class="cta-section">
-        <div class="cta-card">
-          <h3>Cari Beasiswa yang Tepat?</h3>
-          <p>Konsultasikan dengan tim kami untuk menemukan beasiswa universitas yang sesuai dengan profil dan kebutuhan Anda.</p>
-          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-lg">
-            Konsultasi Gratis Sekarang
-          </button>
+      <!-- CTA -->
+      <div class="my-5">
+        <div class="card bg-gradient text-white border-0 shadow-lg" style="background: linear-gradient(135deg, #0066cc 0%, #00a8a8 100%);">
+          <div class="card-body text-center p-5">
+            <h3 class="h3 fw-bold mb-3">Cari Beasiswa yang Tepat?</h3>
+            <p class="lead mb-4">Konsultasikan dengan tim kami untuk menemukan beasiswa universitas yang sesuai dengan profil dan kebutuhan Anda.</p>
+            <button @click="navigateTo('konsultasi')" class="btn btn-light btn-lg px-5">
+              Konsultasi Gratis Sekarang
+            </button>
+          </div>
         </div>
       </div>
 
-      </div>
     </div>
   </section>
 </div>

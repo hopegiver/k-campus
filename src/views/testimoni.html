@@ -1,0 +1,284 @@
+<div class="testimoni-page" style="margin-top: var(--header-height, 80px);">
+  <!-- Hero Section -->
+  <section class="testimoni-hero">
+    <div class="container">
+      <div class="panduan-breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <span>Testimoni</span>
+      </div>
+      <h1 class="testimoni-title">Cerita Sukses Alumni</h1>
+      <p class="testimoni-subtitle">
+        Dengarkan pengalaman langsung dari mahasiswa Indonesia yang telah meraih mimpi mereka kuliah di Korea
+      </p>
+
+      <!-- Quick Navigation -->
+      <div class="quick-nav">
+        <button @click="scrollToSection('interviews')" class="quick-nav-btn">
+          👥 Student Interviews
+        </button>
+        <button @click="scrollToSection('videos')" class="quick-nav-btn">
+          🎥 Video Testimonials
+        </button>
+        <button @click="scrollToSection('communities')" class="quick-nav-btn">
+          🌐 Join Community
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter Section -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="filter-tabs">
+        <button
+          v-for="filter in filters"
+          :key="filter"
+          @click="setFilter(filter)"
+          :class="['filter-tab', { active: activeFilter === filter }]"
+        >
+          {{ filterLabels[filter] }}
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Student Interviews Section -->
+  <section id="interviews" class="section">
+    <div class="container">
+      <h2 class="section-title">Student Interviews</h2>
+      <p class="section-intro">
+        Baca cerita inspiratif dari mahasiswa Indonesia yang sedang atau telah menyelesaikan studi mereka di Korea
+      </p>
+
+      <div class="interviews-grid">
+        <div
+          v-for="interview in filteredInterviews"
+          :key="interview.id"
+          class="interview-card"
+        >
+          <div class="interview-header">
+            <div class="student-photo">
+              <img :src="interview.photo" :alt="interview.name">
+            </div>
+            <div class="student-info">
+              <h3 class="student-name">{{ interview.name }} <span class="name-ko">{{ interview.nameKo }}</span></h3>
+              <p class="student-program">{{ interview.program }}</p>
+              <p class="student-university">📍 {{ interview.university }}</p>
+              <div class="student-meta">
+                <span class="meta-tag">{{ interview.location }}</span>
+                <span class="meta-tag">Class of {{ interview.year }}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="interview-content">
+            <blockquote class="student-quote">
+              "{{ interview.quote }}"
+            </blockquote>
+
+            <div class="student-story">
+              <h4>Cerita Saya</h4>
+              <p>{{ interview.story }}</p>
+            </div>
+
+            <div class="student-achievements">
+              <h4>🏆 Achievements</h4>
+              <ul>
+                <li v-for="achievement in interview.achievements" :key="achievement">
+                  {{ achievement }}
+                </li>
+              </ul>
+            </div>
+
+            <div class="student-tips">
+              <h4>💡 Tips untuk Calon Mahasiswa</h4>
+              <ul>
+                <li v-for="tip in interview.tips" :key="tip">
+                  {{ tip }}
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div v-if="filteredInterviews.length === 0" class="empty-state">
+        <p>Tidak ada testimoni untuk kategori ini saat ini.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Video Testimonials Section -->
+  <section id="videos" class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Video Testimonials</h2>
+      <p class="section-intro">
+        Tonton pengalaman mereka melalui video dan dapatkan insight lebih dalam tentang kehidupan kuliah di Korea
+      </p>
+
+      <div class="videos-grid">
+        <div
+          v-for="video in filteredVideos"
+          :key="video.id"
+          class="video-card"
+          @click="playVideo(video.youtubeId)"
+        >
+          <div class="video-thumbnail">
+            <img :src="video.thumbnail" :alt="video.title">
+            <div class="play-overlay">
+              <div class="play-button">
+                <span>▶</span>
+              </div>
+            </div>
+            <div class="video-duration">{{ video.duration }}</div>
+          </div>
+          <div class="video-info">
+            <h3 class="video-title">{{ video.title }}</h3>
+            <p class="video-student">{{ video.student }}</p>
+            <div class="video-meta">
+              <span class="views">👁️ {{ video.views }} views</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div v-if="filteredVideos.length === 0" class="empty-state">
+        <p>Tidak ada video untuk kategori ini saat ini.</p>
+      </div>
+
+      <div class="cta-box" style="margin-top: 3rem;">
+        <h3>Ingin berbagi cerita Anda?</h3>
+        <p>Jika Anda adalah mahasiswa atau alumni yang ingin berbagi pengalaman, kami ingin mendengar cerita Anda!</p>
+        <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+          Hubungi Kami
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Community Links Section -->
+  <section id="communities" class="section">
+    <div class="container">
+      <h2 class="section-title">Komunitas Mahasiswa Indonesia di Korea</h2>
+      <p class="section-intro">
+        Bergabung dengan komunitas mahasiswa Indonesia di berbagai kota di Korea untuk networking, sharing informasi, dan saling support
+      </p>
+
+      <div class="communities-container">
+        <div
+          v-for="community in communities"
+          :key="community.region"
+          class="community-region"
+        >
+          <div class="region-header">
+            <span class="region-icon">{{ community.icon }}</span>
+            <div class="region-info">
+              <h3 class="region-name">{{ community.region }}</h3>
+              <p class="region-description">{{ community.description }}</p>
+            </div>
+          </div>
+
+          <div class="community-groups">
+            <div
+              v-for="group in community.groups"
+              :key="group.name"
+              class="community-group"
+            >
+              <div class="group-header">
+                <h4 class="group-name">{{ group.name }}</h4>
+                <span class="group-platform">{{ group.platform }}</span>
+              </div>
+              <p class="group-description">{{ group.description }}</p>
+              <div class="group-footer">
+                <span class="group-members">👥 {{ group.members }} members</span>
+                <button @click="joinCommunity(group.link)" class="btn btn-small btn-outline">
+                  Join Group
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Community Benefits -->
+      <div class="community-benefits">
+        <h3 style="margin-bottom: 1.5rem; text-align: center;">Mengapa Bergabung dengan Komunitas?</h3>
+        <div class="benefits-grid">
+          <div class="benefit-item">
+            <span class="benefit-icon">🤝</span>
+            <h4>Networking</h4>
+            <p>Bertemu dengan sesama mahasiswa Indonesia dan alumni</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">📚</span>
+            <h4>Sharing Knowledge</h4>
+            <p>Berbagi tips kuliah, beasiswa, dan kehidupan di Korea</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🎉</span>
+            <h4>Events & Activities</h4>
+            <p>Ikuti berbagai acara budaya dan gathering</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">💼</span>
+            <h4>Career Support</h4>
+            <p>Info lowongan kerja dan mentoring karir</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🏠</span>
+            <h4>Housing Info</h4>
+            <p>Informasi tempat tinggal dan roommate</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">❤️</span>
+            <h4>Emotional Support</h4>
+            <p>Dukungan saat adaptasi dan homesick</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Success Stories Stats -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="stats-section">
+        <h2 style="text-align: center; margin-bottom: 3rem;">Alumni Success Stories</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-number">500+</div>
+            <div class="stat-label">Alumni Sukses</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">85%</div>
+            <div class="stat-label">Mendapat Pekerjaan dalam 6 Bulan</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">15+</div>
+            <div class="stat-label">Universitas Partner</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">95%</div>
+            <div class="stat-label">Tingkat Kepuasan Alumni</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-section">
+        <div class="cta-card">
+          <h3>Siap Menjadi Alumni Sukses Berikutnya?</h3>
+          <p>Mulai perjalanan Anda kuliah di Korea bersama K-Campus. Konsultasi gratis dengan tim expert kami!</p>
+          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+            Konsultasi Gratis Sekarang
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

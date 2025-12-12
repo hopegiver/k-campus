@@ -1,0 +1,412 @@
+<div class="konsultasi-page" style="margin-top: var(--header-height, 80px);">
+  <!-- Hero Section -->
+  <section class="konsultasi-hero">
+    <div class="container">
+      <div class="panduan-breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <span>Konsultasi</span>
+      </div>
+      <h1 class="konsultasi-title">Konsultasi Gratis</h1>
+      <p class="konsultasi-subtitle">
+        Dapatkan panduan lengkap dari konsultan berpengalaman untuk mempersiapkan studi Anda di Korea
+      </p>
+
+      <!-- Quick Navigation -->
+      <div class="quick-nav">
+        <button @click="scrollToSection('online-consultation')" class="quick-nav-btn">
+          💬 Konsultasi Online
+        </button>
+        <button @click="scrollToSection('inquiry-board')" class="quick-nav-btn">
+          📝 Kirim Pertanyaan
+        </button>
+        <button @click="scrollToSection('faq-section')" class="quick-nav-btn">
+          ❓ FAQ
+        </button>
+        <button @click="scrollToSection('seminar-section')" class="quick-nav-btn">
+          📅 Seminar Offline
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Online Consultation Section -->
+  <section id="online-consultation" class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Konsultasi Online</h2>
+      <p class="section-intro">
+        Pilih metode konsultasi yang paling nyaman untuk Anda
+      </p>
+
+      <div class="consultation-methods">
+        <div class="method-card">
+          <div class="method-icon">
+            <span style="font-size: 3rem;">💚</span>
+          </div>
+          <h3>WhatsApp Chat</h3>
+          <p>Konsultasi cepat melalui WhatsApp dengan response time maksimal 2 jam di hari kerja</p>
+          <ul class="method-features">
+            <li>✓ Respons cepat</li>
+            <li>✓ Gratis unlimited chat</li>
+            <li>✓ Bisa kirim dokumen</li>
+          </ul>
+          <button @click="openWhatsApp" class="btn btn-success btn-large">
+            Chat via WhatsApp
+          </button>
+        </div>
+
+        <div class="method-card">
+          <div class="method-icon">
+            <span style="font-size: 3rem;">💬</span>
+          </div>
+          <h3>Live Chat</h3>
+          <p>Chat langsung dengan konsultan kami melalui website (Senin-Jumat, 09:00-17:00 WIB)</p>
+          <ul class="method-features">
+            <li>✓ Real-time chat</li>
+            <li>✓ Tidak perlu install app</li>
+            <li>✓ History tersimpan</li>
+          </ul>
+          <button @click="openLiveChat" class="btn btn-primary btn-large">
+            Mulai Live Chat
+          </button>
+        </div>
+
+        <div class="method-card">
+          <div class="method-icon">
+            <span style="font-size: 3rem;">🎥</span>
+          </div>
+          <h3>Video Call (Zoom)</h3>
+          <p>Konsultasi mendalam via video call dengan konsultan berpengalaman (by appointment)</p>
+          <ul class="method-features">
+            <li>✓ Konsultasi 1-on-1</li>
+            <li>✓ Durasi 30-60 menit</li>
+            <li>✓ Bisa share screen</li>
+          </ul>
+          <button @click="scrollToSection('seminar-section')" class="btn btn-outline btn-large">
+            Book Appointment
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 1:1 Inquiry Board Section -->
+  <section id="inquiry-board" class="section">
+    <div class="container">
+      <h2 class="section-title">1:1 Inquiry Board</h2>
+      <p class="section-intro">
+        Kirimkan pertanyaan Anda secara privat. Kami akan merespons melalui email dalam 1-2 hari kerja.
+      </p>
+
+      <div class="inquiry-form-container">
+        <form @submit.prevent="submitInquiry" class="inquiry-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="inquiry-name">Nama Lengkap <span class="required">*</span></label>
+              <input
+                type="text"
+                id="inquiry-name"
+                v-model="inquiryForm.name"
+                placeholder="Masukkan nama lengkap Anda"
+                required
+              >
+            </div>
+
+            <div class="form-group">
+              <label for="inquiry-email">Email <span class="required">*</span></label>
+              <input
+                type="email"
+                id="inquiry-email"
+                v-model="inquiryForm.email"
+                placeholder="email@example.com"
+                required
+              >
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="inquiry-phone">Nomor Telepon/WhatsApp <span class="required">*</span></label>
+              <input
+                type="tel"
+                id="inquiry-phone"
+                v-model="inquiryForm.phone"
+                placeholder="08xxxxxxxxxx"
+                required
+              >
+            </div>
+
+            <div class="form-group">
+              <label for="inquiry-category">Kategori Pertanyaan <span class="required">*</span></label>
+              <select id="inquiry-category" v-model="inquiryForm.category" required>
+                <option value="">-- Pilih Kategori --</option>
+                <option v-for="category in inquiryCategories" :key="category" :value="category">
+                  {{ category }}
+                </option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="inquiry-title">Judul Pertanyaan <span class="required">*</span></label>
+            <input
+              type="text"
+              id="inquiry-title"
+              v-model="inquiryForm.title"
+              placeholder="Tulis judul pertanyaan Anda secara singkat"
+              required
+            >
+          </div>
+
+          <div class="form-group">
+            <label for="inquiry-content">Isi Pertanyaan <span class="required">*</span></label>
+            <textarea
+              id="inquiry-content"
+              v-model="inquiryForm.content"
+              rows="8"
+              placeholder="Tulis pertanyaan Anda secara detail di sini..."
+              required
+            ></textarea>
+          </div>
+
+          <div class="form-group">
+            <label class="checkbox-label">
+              <input type="checkbox" v-model="inquiryForm.privacy" required>
+              <span>Saya setuju dengan <a href="#" @click.prevent="navigateTo('privacy')">kebijakan privasi</a> dan penggunaan data pribadi untuk keperluan konsultasi <span class="required">*</span></span>
+            </label>
+          </div>
+
+          <div class="alert alert-info" style="margin-bottom: 1.5rem;">
+            <strong>ℹ️ Catatan:</strong> Pertanyaan Anda bersifat privat dan hanya akan dijawab melalui email. Response time: 1-2 hari kerja.
+          </div>
+
+          <div v-if="inquirySubmitted" class="alert alert-success">
+            ✓ Pertanyaan Anda berhasil dikirim! Kami akan merespons melalui email segera.
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-large" :disabled="inquirySubmitting">
+            {{ inquirySubmitting ? 'Mengirim...' : 'Kirim Pertanyaan' }}
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section id="faq-section" class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Frequently Asked Questions (FAQ)</h2>
+      <p class="section-intro">
+        Temukan jawaban atas pertanyaan yang sering diajukan
+      </p>
+
+      <div class="faq-container">
+        <div
+          v-for="faq in faqs"
+          :key="faq.id"
+          class="faq-item"
+          :class="{ active: faq.isOpen }"
+        >
+          <div class="faq-question" @click="toggleFaq(faq.id)">
+            <h4>{{ faq.question }}</h4>
+            <span class="faq-toggle">{{ faq.isOpen ? '−' : '+' }}</span>
+          </div>
+          <div v-show="faq.isOpen" class="faq-answer">
+            <p>{{ faq.answer }}</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-cta" style="margin-top: 3rem; text-align: center;">
+        <p>Tidak menemukan jawaban yang Anda cari?</p>
+        <button @click="scrollToSection('inquiry-board')" class="btn btn-primary">
+          Kirim Pertanyaan Anda
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Offline Seminar Section -->
+  <section id="seminar-section" class="section">
+    <div class="container">
+      <h2 class="section-title">Seminar Offline Bulanan</h2>
+      <p class="section-intro">
+        Ikuti seminar offline kami yang diadakan setiap bulan dengan tema berbeda
+      </p>
+
+      <!-- Next Seminar Highlight -->
+      <div class="next-seminar-card">
+        <div class="seminar-badge">Seminar Berikutnya</div>
+        <h3>{{ nextSeminar.theme }}</h3>
+        <div class="seminar-details">
+          <div class="seminar-detail-item">
+            <span class="detail-icon">📅</span>
+            <span>{{ nextSeminar.date }}</span>
+          </div>
+          <div class="seminar-detail-item">
+            <span class="detail-icon">🕐</span>
+            <span>14:00 - 16:00 WIB</span>
+          </div>
+          <div class="seminar-detail-item">
+            <span class="detail-icon">📍</span>
+            <span>Jakarta (Detail lokasi via email)</span>
+          </div>
+          <div class="seminar-detail-item">
+            <span class="detail-icon">💰</span>
+            <span>GRATIS (Terbatas 50 peserta)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Upcoming Seminars Schedule -->
+      <div class="seminar-schedule">
+        <h3 style="margin-bottom: 1.5rem;">Jadwal Seminar Mendatang</h3>
+        <div class="schedule-grid">
+          <div
+            v-for="seminar in upcomingSeminars"
+            :key="seminar.month"
+            class="schedule-card"
+          >
+            <div class="schedule-month">{{ seminar.month }}</div>
+            <div class="schedule-theme">{{ seminar.theme }}</div>
+            <div class="schedule-date">{{ seminar.date }}</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Seminar Registration Form -->
+      <div class="seminar-registration">
+        <h3 style="margin-bottom: 1.5rem;">Daftar Seminar</h3>
+        <form @submit.prevent="submitSeminar" class="seminar-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="seminar-name">Nama Lengkap <span class="required">*</span></label>
+              <input
+                type="text"
+                id="seminar-name"
+                v-model="seminarForm.name"
+                placeholder="Masukkan nama lengkap"
+                required
+              >
+            </div>
+
+            <div class="form-group">
+              <label for="seminar-email">Email <span class="required">*</span></label>
+              <input
+                type="email"
+                id="seminar-email"
+                v-model="seminarForm.email"
+                placeholder="email@example.com"
+                required
+              >
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="seminar-phone">Nomor Telepon/WhatsApp <span class="required">*</span></label>
+              <input
+                type="tel"
+                id="seminar-phone"
+                v-model="seminarForm.phone"
+                placeholder="08xxxxxxxxxx"
+                required
+              >
+            </div>
+
+            <div class="form-group">
+              <label for="seminar-university">Universitas/Sekolah Saat Ini</label>
+              <input
+                type="text"
+                id="seminar-university"
+                v-model="seminarForm.university"
+                placeholder="Nama universitas/sekolah (opsional)"
+              >
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="seminar-interest">Topik yang Diminati <span class="required">*</span></label>
+            <select id="seminar-interest" v-model="seminarForm.interest" required>
+              <option value="">-- Pilih Topik --</option>
+              <option v-for="interest in seminarInterests" :key="interest" :value="interest">
+                {{ interest }}
+              </option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label class="checkbox-label">
+              <input type="checkbox" v-model="seminarForm.privacy" required>
+              <span>Saya setuju dengan <a href="#" @click.prevent="navigateTo('privacy')">kebijakan privasi</a> <span class="required">*</span></span>
+            </label>
+          </div>
+
+          <div class="alert alert-info" style="margin-bottom: 1.5rem;">
+            <strong>ℹ️ Info:</strong> Detail lengkap lokasi dan agenda seminar akan dikirim via email dan WhatsApp setelah pendaftaran berhasil.
+          </div>
+
+          <div v-if="seminarSubmitted" class="alert alert-success">
+            ✓ Pendaftaran seminar berhasil! Cek email Anda untuk detail lebih lanjut.
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-large" :disabled="seminarSubmitting">
+            {{ seminarSubmitting ? 'Mendaftar...' : 'Daftar Sekarang' }}
+          </button>
+        </form>
+      </div>
+
+      <!-- Why Attend Seminar -->
+      <div class="seminar-benefits" style="margin-top: 3rem;">
+        <h3 style="margin-bottom: 1.5rem;">Mengapa Ikut Seminar Kami?</h3>
+        <div class="benefits-grid">
+          <div class="benefit-item">
+            <span class="benefit-icon">👨‍🏫</span>
+            <h4>Expert Speaker</h4>
+            <p>Konsultan berpengalaman & alumni Korea</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">💡</span>
+            <h4>Insight Terkini</h4>
+            <p>Info terbaru tentang beasiswa & universitas</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🤝</span>
+            <h4>Networking</h4>
+            <p>Bertemu dengan calon mahasiswa lainnya</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">📚</span>
+            <h4>Free Materials</h4>
+            <p>E-book & checklist persiapan gratis</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">❓</span>
+            <h4>Q&A Session</h4>
+            <p>Tanya jawab langsung dengan konsultan</p>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🎁</span>
+            <h4>Special Bonus</h4>
+            <p>Konsultasi gratis 1-on-1 untuk peserta</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="cta-section">
+        <div class="cta-card">
+          <h3>Masih Ragu? Hubungi Kami!</h3>
+          <p>Tim konsultan kami siap membantu Anda 24/7 melalui WhatsApp</p>
+          <button @click="openWhatsApp" class="btn btn-success btn-large">
+            💬 Chat WhatsApp Sekarang
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

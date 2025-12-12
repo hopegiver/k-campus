@@ -1,0 +1,306 @@
+<div class="berita-page" style="margin-top: var(--header-height, 80px);">
+  <!-- Hero Section -->
+  <section class="berita-hero">
+    <div class="container">
+      <div class="panduan-breadcrumb">
+        <a @click.prevent="navigateTo('home')">Beranda</a>
+        <span>›</span>
+        <span>Berita & Event</span>
+      </div>
+      <h1 class="berita-title">Berita & Event</h1>
+      <p class="berita-subtitle">
+        Temukan informasi terbaru tentang pameran pendidikan, acara budaya Korea, dan pengumuman penerimaan mahasiswa
+      </p>
+
+      <!-- Quick Stats -->
+      <div class="quick-stats">
+        <div class="stat-item">
+          <span class="stat-icon">🎓</span>
+          <div class="stat-info">
+            <div class="stat-number">{{ eventsByType.fair }}</div>
+            <div class="stat-label">Education Fairs</div>
+          </div>
+        </div>
+        <div class="stat-item">
+          <span class="stat-icon">🎎</span>
+          <div class="stat-info">
+            <div class="stat-number">{{ eventsByType.culture }}</div>
+            <div class="stat-label">Cultural Events</div>
+          </div>
+        </div>
+        <div class="stat-item">
+          <span class="stat-icon">📢</span>
+          <div class="stat-info">
+            <div class="stat-number">{{ eventsByType.admission }}</div>
+            <div class="stat-label">Admission Announcements</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Events Section -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Event Unggulan</h2>
+      <div class="featured-events-grid">
+        <div
+          v-for="event in featuredEvents"
+          :key="event.id"
+          class="featured-event-card"
+        >
+          <div class="featured-event-image">
+            <img :src="event.image" :alt="event.title">
+            <div class="event-type-badge">{{ getEventIcon(event.type) }} {{ getEventTypeLabel(event.type) }}</div>
+            <div v-if="isEventUpcoming(event.date)" class="event-countdown">
+              {{ getDaysUntil(event.date) }}
+            </div>
+          </div>
+          <div class="featured-event-content">
+            <h3 class="event-title">{{ event.title }}</h3>
+            <div class="event-meta">
+              <span class="meta-item">📅 {{ formatDate(event.date) }}</span>
+              <span v-if="event.time" class="meta-item">🕐 {{ event.time }}</span>
+              <span class="meta-item">📍 {{ event.location }}</span>
+            </div>
+            <p class="event-description">{{ event.description }}</p>
+            <div class="event-highlights">
+              <h4>Highlights:</h4>
+              <ul>
+                <li v-for="highlight in event.highlights.slice(0, 3)" :key="highlight">
+                  {{ highlight }}
+                </li>
+              </ul>
+            </div>
+            <button
+              @click="registerEvent(event)"
+              class="btn btn-primary btn-large"
+              :disabled="!isEventUpcoming(event.date)"
+            >
+              {{ isEventUpcoming(event.date) ? 'Daftar Sekarang' : 'Event Selesai' }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Upcoming Events Highlight -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Event Mendatang</h2>
+      <div class="upcoming-timeline">
+        <div
+          v-for="event in upcomingEvents"
+          :key="event.id"
+          class="timeline-event"
+        >
+          <div class="timeline-date">
+            <div class="date-day">{{ formatDateShort(event.date).split(' ')[1] }}</div>
+            <div class="date-month">{{ formatDateShort(event.date).split(' ')[0] }}</div>
+          </div>
+          <div class="timeline-content">
+            <span class="event-type-tag">{{ getEventIcon(event.type) }} {{ getEventTypeLabel(event.type) }}</span>
+            <h4>{{ event.title }}</h4>
+            <p class="timeline-location">📍 {{ event.location }}</p>
+            <p class="timeline-time">🕐 {{ event.time }}</p>
+            <button @click="registerEvent(event)" class="btn btn-small btn-primary">
+              Info & Pendaftaran
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter Section -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="filter-section">
+        <h3>Filter Event:</h3>
+        <div class="filter-tabs">
+          <button
+            v-for="filter in filters"
+            :key="filter"
+            @click="setFilter(filter)"
+            :class="['filter-tab', { active: activeFilter === filter }]"
+          >
+            {{ filterLabels[filter] }}
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- All Events Section -->
+  <section id="all-events" class="section">
+    <div class="container">
+      <h2 class="section-title">
+        {{ activeFilter === 'all' ? 'Semua Event' : filterLabels[activeFilter] }}
+      </h2>
+
+      <div class="events-grid">
+        <div
+          v-for="event in filteredEvents"
+          :key="event.id"
+          class="event-card"
+        >
+          <div class="event-card-image">
+            <img :src="event.image" :alt="event.title">
+            <div class="event-type-badge-small">{{ getEventIcon(event.type) }}</div>
+            <div v-if="isEventUpcoming(event.date)" class="event-status upcoming">Upcoming</div>
+            <div v-else class="event-status past">Past</div>
+          </div>
+
+          <div class="event-card-content">
+            <span class="event-category">{{ getEventTypeLabel(event.type) }}</span>
+            <h3 class="event-card-title">{{ event.title }}</h3>
+
+            <div class="event-card-meta">
+              <div class="meta-row">
+                <span class="meta-icon">📅</span>
+                <span>{{ formatDate(event.date) }}</span>
+              </div>
+              <div v-if="event.endDate && event.endDate !== event.date" class="meta-row">
+                <span class="meta-icon">📅</span>
+                <span>s/d {{ formatDate(event.endDate) }}</span>
+              </div>
+              <div v-if="event.time" class="meta-row">
+                <span class="meta-icon">🕐</span>
+                <span>{{ event.time }}</span>
+              </div>
+              <div class="meta-row">
+                <span class="meta-icon">📍</span>
+                <span>{{ event.location }}</span>
+              </div>
+              <div v-if="event.deadline" class="meta-row deadline">
+                <span class="meta-icon">⏰</span>
+                <span>Deadline: {{ formatDate(event.deadline) }}</span>
+              </div>
+              <div v-if="event.university" class="meta-row">
+                <span class="meta-icon">🏛️</span>
+                <span>{{ event.university }}</span>
+              </div>
+            </div>
+
+            <p class="event-card-description">{{ event.description }}</p>
+
+            <div v-if="event.highlights && event.highlights.length > 0" class="event-card-highlights">
+              <ul>
+                <li v-for="highlight in event.highlights.slice(0, 3)" :key="highlight">
+                  {{ highlight }}
+                </li>
+              </ul>
+            </div>
+
+            <div class="event-card-footer">
+              <div v-if="isEventUpcoming(event.date)" class="event-countdown-small">
+                {{ getDaysUntil(event.date) }}
+              </div>
+              <button
+                @click="registerEvent(event)"
+                :class="['btn', 'btn-small', isEventUpcoming(event.date) ? 'btn-primary' : 'btn-outline']"
+                :disabled="!isEventUpcoming(event.date)"
+              >
+                {{ isEventUpcoming(event.date) ? (event.type === 'admission' ? 'Apply Now' : 'Daftar') : 'Lihat Detail' }}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div v-if="filteredEvents.length === 0" class="empty-state">
+        <p>Tidak ada event untuk kategori ini saat ini.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter Subscription -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="newsletter-section">
+        <div class="newsletter-content">
+          <h3>📬 Jangan Lewatkan Event Terbaru!</h3>
+          <p>Subscribe newsletter kami untuk mendapat notifikasi tentang education fair, cultural events, dan admission announcements terbaru.</p>
+        </div>
+        <div class="newsletter-form">
+          <input type="email" placeholder="Masukkan email Anda" class="newsletter-input">
+          <button class="btn btn-primary">Subscribe</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Event Calendar Info -->
+  <section class="section">
+    <div class="container">
+      <div class="calendar-info">
+        <h2 class="section-title">Kalender Event 2024</h2>
+        <p class="section-intro">
+          Rencanakan perjalanan kuliah Anda dengan mengikuti berbagai event sepanjang tahun
+        </p>
+
+        <div class="calendar-grid">
+          <div class="calendar-item">
+            <div class="calendar-month">Feb - Mar</div>
+            <div class="calendar-events">
+              <div class="calendar-event">📢 GKS Embassy Track Application</div>
+              <div class="calendar-event">🎓 Education Fair - Jakarta</div>
+            </div>
+          </div>
+          <div class="calendar-item">
+            <div class="calendar-month">Apr - May</div>
+            <div class="calendar-events">
+              <div class="calendar-event">🎓 Virtual Education Fair</div>
+              <div class="calendar-event">📢 Spring Admission (Various Unis)</div>
+            </div>
+          </div>
+          <div class="calendar-item">
+            <div class="calendar-month">Jun - Jul</div>
+            <div class="calendar-events">
+              <div class="calendar-event">📢 GKS Results Announcement</div>
+              <div class="calendar-event">🎓 Education Expo - Surabaya</div>
+            </div>
+          </div>
+          <div class="calendar-item">
+            <div class="calendar-month">Aug - Sep</div>
+            <div class="calendar-events">
+              <div class="calendar-event">🎎 K-Culture Festival</div>
+              <div class="calendar-event">📢 Fall Admission Opens</div>
+              <div class="calendar-event">🎎 Chuseok Celebration</div>
+            </div>
+          </div>
+          <div class="calendar-item">
+            <div class="calendar-month">Oct - Nov</div>
+            <div class="calendar-events">
+              <div class="calendar-event">🎎 Korean Language Day</div>
+              <div class="calendar-event">📢 Spring 2025 Admission</div>
+            </div>
+          </div>
+          <div class="calendar-item">
+            <div class="calendar-month">Dec - Jan</div>
+            <div class="calendar-events">
+              <div class="calendar-event">🎓 Year-end Education Fair</div>
+              <div class="calendar-event">📢 Early Admission Results</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="cta-section">
+        <div class="cta-card">
+          <h3>Butuh Informasi Lebih Lanjut?</h3>
+          <p>Tim konsultan kami siap membantu Anda mendaftar event, mempersiapkan aplikasi, dan menjawab semua pertanyaan Anda.</p>
+          <button @click="navigateTo('konsultasi')" class="btn btn-primary btn-large">
+            Konsultasi Gratis
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

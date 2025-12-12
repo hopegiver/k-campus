@@ -55,7 +55,7 @@
         <div
           v-for="interview in filteredInterviews"
           :key="interview.id"
-          class="interview-card"
+          class="card card-overflow-hidden card-no-padding card-hover-lift interview-card"
         >
           <div class="interview-header">
             <div class="student-photo">
@@ -121,7 +121,7 @@
         <div
           v-for="video in filteredVideos"
           :key="video.id"
-          class="video-card"
+          class="card card-overflow-hidden card-no-padding card-hover-lift video-card"
           @click="playVideo(video.youtubeId)"
         >
           <div class="video-thumbnail">
@@ -169,7 +169,7 @@
         <div
           v-for="community in communities"
           :key="community.region"
-          class="community-region"
+          class="card community-region"
         >
           <div class="region-header">
             <span class="region-icon">{{ community.icon }}</span>
@@ -202,7 +202,7 @@
       </div>
 
       <!-- Community Benefits -->
-      <div class="community-benefits">
+      <div class="card community-benefits">
         <h3 style="margin-bottom: 1.5rem; text-align: center;">Mengapa Bergabung dengan Komunitas?</h3>
         <div class="benefits-grid">
           <div class="benefit-item">
@@ -246,19 +246,19 @@
       <div class="stats-section">
         <h2 style="text-align: center; margin-bottom: 3rem;">Alumni Success Stories</h2>
         <div class="stats-grid">
-          <div class="stat-card">
+          <div class="card card-center card-hover-lift stat-card">
             <div class="stat-number">500+</div>
             <div class="stat-label">Alumni Sukses</div>
           </div>
-          <div class="stat-card">
+          <div class="card card-center card-hover-lift stat-card">
             <div class="stat-number">85%</div>
             <div class="stat-label">Mendapat Pekerjaan dalam 6 Bulan</div>
           </div>
-          <div class="stat-card">
+          <div class="card card-center card-hover-lift stat-card">
             <div class="stat-number">15+</div>
             <div class="stat-label">Universitas Partner</div>
           </div>
-          <div class="stat-card">
+          <div class="card card-center card-hover-lift stat-card">
             <div class="stat-number">95%</div>
             <div class="stat-label">Tingkat Kepuasan Alumni</div>
           </div>

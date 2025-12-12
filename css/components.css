@@ -179,8 +179,33 @@
   border-left: 4px solid var(--color-secondary);
 }
 
+.card-success {
+  border-left: 4px solid var(--color-success);
+}
+
 .card-center {
   text-align: center;
+}
+
+.card-hover-lift:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.card-hover-scale:hover {
+  transform: scale(1.02);
+}
+
+.card-no-padding {
+  padding: 0;
+}
+
+.card-overflow-hidden {
+  overflow: hidden;
+}
+
+.card-gradient-bg {
+  background: linear-gradient(135deg, rgba(0, 102, 204, 0.05), rgba(0, 168, 168, 0.05));
 }
 
 /* ====================================

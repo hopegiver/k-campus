@@ -43,19 +43,7 @@
   margin-top: var(--space-xl);
 }
 
-.interview-card {
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  overflow: hidden;
-  box-shadow: var(--shadow-base);
-  transition: all var(--transition-base);
-}
-
-.interview-card:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
-}
-
+/* Interview cards - uses .card .card-overflow-hidden .card-no-padding .card-hover-lift */
 .interview-header {
   padding: var(--space-xl);
   background: linear-gradient(135deg, rgba(0, 102, 204, 0.05), rgba(0, 168, 168, 0.05));
@@ -201,18 +189,9 @@
   margin-top: var(--space-xl);
 }
 
+/* Video cards - uses .card .card-overflow-hidden .card-no-padding .card-hover-lift */
 .video-card {
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  overflow: hidden;
-  box-shadow: var(--shadow-base);
   cursor: pointer;
-  transition: all var(--transition-base);
-}
-
-.video-card:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
 }
 
 .video-card:hover .play-button {
@@ -329,12 +308,7 @@
   margin-top: var(--space-xl);
 }
 
-.community-region {
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  padding: var(--space-xl);
-  box-shadow: var(--shadow-base);
-}
+/* Community region - uses .card */
 
 .region-header {
   display: flex;
@@ -431,13 +405,9 @@
   font-weight: 600;
 }
 
-/* Community Benefits Card */
+/* Community Benefits - uses .card */
 .community-benefits {
-  background: var(--color-white);
-  padding: var(--space-xxl);
-  border-radius: var(--border-radius-lg);
   margin-top: var(--space-xxl);
-  box-shadow: var(--shadow-base);
 }
 
 /* Stats Section - Specific Layout */
@@ -451,19 +421,7 @@
   gap: var(--space-xl);
 }
 
-.stat-card {
-  text-align: center;
-  padding: var(--space-xl);
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  box-shadow: var(--shadow-base);
-  transition: all var(--transition-base);
-}
-
-.stat-card:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
-}
+/* Stat cards - uses .card .card-center .card-hover-lift */
 
 .stat-number {
   font-size: var(--font-size-4xl);

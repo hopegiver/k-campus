@@ -1,37 +1,17 @@
 /* ====================================
    Sistem Pendidikan Page Specific Styles
-   Uses common.css for shared styles
+   Most styles use components.css
    ==================================== */
 
-/* Program Grid */
-.program-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--space-lg);
-  margin-top: var(--space-lg);
-}
-
-.program-card {
-  padding: var(--space-lg);
-  background: var(--color-background);
-  border-radius: var(--border-radius-md);
-}
-
-.program-card h4 {
-  font-size: var(--font-size-lg);
-  font-weight: 600;
-  margin-bottom: var(--space-md);
-  color: var(--color-primary);
-}
-
-.program-card ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.program-card li {
-  padding: var(--space-xs) 0;
-  line-height: 1.6;
-  color: var(--color-text-secondary);
-}
+/* No page-specific styles needed */
+/* This page uses common components from components.css:
+   - .panduan-page, .panduan-hero, .panduan-content (panduan common)
+   - .grid, .grid-cols-2 (layout)
+   - .card, .card-body, .card-title, .card-text (cards)
+   - .info-card, .info-card-header, .info-card-body (info cards)
+   - .list-styled (lists)
+   - .table-responsive, .info-table (tables)
+   - .highlight-box (highlights)
+   - .alert-info (alerts)
+   - .content-cta, .btn (CTA and buttons)
+*/

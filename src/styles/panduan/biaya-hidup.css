@@ -1,7 +1,16 @@
 /* ====================================
    Biaya Hidup Page Specific Styles
-   Uses common.css for shared styles
+   Most styles use components.css
    ==================================== */
 
 /* No page-specific styles needed */
-/* This page uses common panduan styles and components.css */
+/* This page uses common components from components.css:
+   - .panduan-page, .panduan-hero, .panduan-content (panduan common)
+   - .grid, .grid-cols-2 (layout)
+   - .card, .card-body, .card-title, .card-text (cards)
+   - .icon-box (icons)
+   - .highlight-box (highlights)
+   - .info-card, .info-card-header, .info-card-body (info cards)
+   - .list-styled (lists)
+   - .content-cta, .btn (CTA and buttons)
+*/

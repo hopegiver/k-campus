@@ -1,146 +1,18 @@
 /* ====================================
    Ujian Bahasa Page Specific Styles
-   Uses common.css for shared styles
+   Most styles use components.css
    ==================================== */
 
-/* Tracks Grid */
-.tracks-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--space-lg);
-  margin-top: var(--space-lg);
-}
-
-.track-card {
-  padding: var(--space-xl);
-  background: var(--color-background);
-  border-radius: var(--border-radius-lg);
-  border: 2px solid var(--color-border);
-}
-
-.track-card h4 {
-  font-size: var(--font-size-lg);
-  font-weight: 600;
-  margin-bottom: var(--space-sm);
-  color: var(--color-text);
-}
-
-.track-card p {
-  margin-bottom: var(--space-md);
-  color: var(--color-text-secondary);
-}
-
-.track-card ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.track-card li {
-  padding: var(--space-xs) 0 var(--space-xs) var(--space-lg);
-  position: relative;
-  line-height: 1.6;
-  color: var(--color-text-secondary);
-}
-
-.track-card li::before {
-  content: '▸';
-  position: absolute;
-  left: 0;
-  color: var(--color-primary);
-}
-
-/* Tips Section */
-.tips-section {
-  margin-top: var(--space-xxl);
-}
-
-.tips-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: var(--space-lg);
-  margin-top: var(--space-lg);
-}
-
-.tip-card {
-  padding: var(--space-lg);
-  background: var(--color-white);
-  border-radius: var(--border-radius-md);
-  box-shadow: var(--shadow-base);
-  text-align: center;
-  transition: all var(--transition-base);
-}
-
-.tip-card:hover {
-  transform: translateY(-3px);
-  box-shadow: var(--shadow-lg);
-}
-
-.tip-icon {
-  width: 56px;
-  height: 56px;
-  margin: 0 auto var(--space-md);
-  background: linear-gradient(135deg, rgba(0, 102, 204, 0.1), rgba(0, 168, 168, 0.1));
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-primary);
-}
-
-.tip-icon .icon {
-  width: 28px;
-  height: 28px;
-}
-
-.tip-card h4 {
-  font-size: var(--font-size-base);
-  font-weight: 600;
-  margin-bottom: var(--space-sm);
-  color: var(--color-primary);
-}
-
-.tip-card p {
-  font-size: var(--font-size-sm);
-  line-height: 1.6;
-  color: var(--color-text-secondary);
-  margin: 0;
-}
-
-/* Resources Section */
-.resources-section {
-  margin-top: var(--space-xxl);
-  padding-top: var(--space-xxl);
-  border-top: 2px solid var(--color-border);
-}
-
-.resources-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: var(--space-lg);
-  margin-top: var(--space-lg);
-}
-
-.resource-card {
-  padding: var(--space-xl);
-  background: var(--color-white);
-  border-radius: var(--border-radius-lg);
-  box-shadow: var(--shadow-base);
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-md);
-}
-
-.resource-card h4 {
-  font-size: var(--font-size-lg);
-  font-weight: 600;
-  color: var(--color-primary);
-}
-
-.resource-card p {
-  font-size: var(--font-size-sm);
-  line-height: 1.6;
-  color: var(--color-text-secondary);
-  margin: 0;
-  flex: 1;
-}
+/* No page-specific styles needed */
+/* This page uses common components from components.css:
+   - .panduan-page, .panduan-hero, .panduan-content (panduan common)
+   - .grid, .grid-cols-2, .grid-cols-3 (layout)
+   - .card, .card-body, .card-title, .card-text (cards)
+   - .info-card, .info-card-header, .info-card-body (info cards)
+   - .list-styled (lists)
+   - .table-responsive, .info-table (tables)
+   - .highlight-box (highlights)
+   - .alert-info, .alert-warning (alerts)
+   - .content-cta, .btn (CTA and buttons)
+   - .badge, .badge-info, .badge-success (badges)
+*/

@@ -192,8 +192,16 @@
 
         <!-- Results Area -->
         <div class="col-lg-9">
+          <!-- Loading State -->
+          <div v-if="loading" class="text-center py-5">
+            <div class="spinner-border text-primary" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-3 text-muted">Memuat data universitas...</p>
+          </div>
+
           <!-- Sort & View Options -->
-          <div class="card border-0 shadow-sm mb-4">
+          <div v-if="!loading" class="card border-0 shadow-sm mb-4">
             <div class="card-body py-3 d-flex justify-content-between align-items-center flex-wrap gap-3">
               <div class="small">
                 Menampilkan <strong>{{ filteredUniversities.length }}</strong> dari {{ totalUniversities }} universitas
@@ -226,7 +234,7 @@
           </div>
 
           <!-- University Cards -->
-          <div :class="['row', viewMode === 'grid' ? 'g-4' : '']">
+          <div v-if="!loading" :class="['row', viewMode === 'grid' ? 'g-4' : '']">
             <div
               v-for="university in paginatedUniversities"
               :key="university.id"
@@ -277,7 +285,7 @@
           </div>
 
           <!-- Pagination -->
-          <div v-if="totalPages > 1" class="d-flex justify-content-center align-items-center gap-3 mt-5">
+          <div v-if="!loading && totalPages > 1" class="d-flex justify-content-center align-items-center gap-3 mt-5">
             <button
               @click="currentPage--"
               :disabled="currentPage === 1"

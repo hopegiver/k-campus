@@ -7,8 +7,9 @@ export default {
       viewMode: 'grid',
       sortBy: 'name',
       currentPage: 1,
-      itemsPerPage: 9,
+      itemsPerPage: 10,
       favorites: [],
+      loading: true,
 
       filters: {
         regions: [],
@@ -21,9 +22,14 @@ export default {
         hasLanguageInstitute: false
       },
 
-      regions: ['Seoul', 'Busan', 'Daejeon', 'Incheon', 'Gyeonggi'],
-      degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)'],
-      universityTypes: ['Negeri', 'Swasta'],
+      regions: [
+        '서울특별시', '부산광역시', '대구광역시', '인천광역시', '광주광역시',
+        '대전광역시', '울산광역시', '세종특별자치시', '경기도', '강원특별자치도',
+        '충청북도', '충청남도', '전북특별자치도', '전라남도', '경상북도',
+        '경상남도', '제주특별자치도'
+      ],
+      degreeLevels: ['D2 (Diploma 2 Tahun)', 'S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)'],
+      universityTypes: ['Universitas Negeri', 'Universitas Swasta'],
       tuitionRanges: [
         { value: 'all', label: 'Semua' },
         { value: 'low', label: 'Di bawah ₩5,000,000' },
@@ -31,224 +37,7 @@ export default {
         { value: 'high', label: 'Di atas ₩8,000,000' }
       ],
 
-      universities: [
-        {
-          id: 'snu',
-          name: 'Seoul National University',
-          nameKo: '서울대학교',
-          location: 'Seoul',
-          type: 'Negeri',
-          ranking: 'QS #41',
-          description: 'Universitas terbaik dan paling prestisius di Korea Selatan',
-          logo: '🎓',
-          image: 'https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop',
-          tuitionMin: 4000000,
-          tuitionMax: 6000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'kaist',
-          name: 'Korea Advanced Institute of Science and Technology',
-          nameKo: 'KAIST',
-          location: 'Daejeon',
-          type: 'Negeri',
-          ranking: 'QS #56',
-          description: 'Institut teknologi terkemuka di Korea',
-          logo: '🔬',
-          image: 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=400&h=250&fit=crop',
-          tuitionMin: 4500000,
-          tuitionMax: 7000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: false,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'korea-univ',
-          name: 'Korea University',
-          nameKo: '고려대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #79',
-          description: 'Salah satu universitas SKY, universitas top di Korea',
-          logo: '🦁',
-          image: 'https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=400&h=250&fit=crop',
-          tuitionMin: 8000000,
-          tuitionMax: 10000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'yonsei',
-          name: 'Yonsei University',
-          nameKo: '연세대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #76',
-          description: 'Universitas tertua di Korea, bagian dari SKY universities',
-          logo: '🦅',
-          image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop',
-          tuitionMin: 8500000,
-          tuitionMax: 11000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'skku',
-          name: 'Sungkyunkwan University',
-          nameKo: '성균관대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #97',
-          description: 'Universitas tertua di Asia Timur (didirikan 1398)',
-          logo: '📚',
-          image: 'https://images.unsplash.com/photo-1519452575417-564c1401ecc0?w=400&h=250&fit=crop',
-          tuitionMin: 7500000,
-          tuitionMax: 9500000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'hanyang',
-          name: 'Hanyang University',
-          nameKo: '한양대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #164',
-          description: 'Terkenal dengan program teknik dan arsitektur',
-          logo: '🏛️',
-          image: 'https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=400&h=250&fit=crop',
-          tuitionMin: 7000000,
-          tuitionMax: 9000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'pusan',
-          name: 'Pusan National University',
-          nameKo: '부산대학교',
-          location: 'Busan',
-          type: 'Negeri',
-          ranking: 'Top 10',
-          description: 'Universitas negeri terkemuka di wilayah Busan',
-          logo: '🌊',
-          image: 'https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=400&h=250&fit=crop',
-          tuitionMin: 3500000,
-          tuitionMax: 5500000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'kyunghee',
-          name: 'Kyung Hee University',
-          nameKo: '경희대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #270',
-          description: 'Universitas dengan kampus indah dan program internasional kuat',
-          logo: '🌸',
-          image: 'https://images.unsplash.com/photo-1568792923760-d70635a89fdc?w=400&h=250&fit=crop',
-          tuitionMin: 7000000,
-          tuitionMax: 8500000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'ewha',
-          name: 'Ewha Womans University',
-          nameKo: '이화여자대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'QS #362',
-          description: 'Universitas wanita terbesar di dunia',
-          logo: '🌺',
-          image: 'https://images.unsplash.com/photo-1605289355680-75fb41239154?w=400&h=250&fit=crop',
-          tuitionMin: 7500000,
-          tuitionMax: 9000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'sogang',
-          name: 'Sogang University',
-          nameKo: '서강대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'Top 10',
-          description: 'Universitas Jesuit dengan program liberal arts terkemuka',
-          logo: '⛪',
-          image: 'https://images.unsplash.com/photo-1607706009771-de8808640bcf?w=400&h=250&fit=crop',
-          tuitionMin: 7500000,
-          tuitionMax: 9000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'inha',
-          name: 'Inha University',
-          nameKo: '인하대학교',
-          location: 'Incheon',
-          type: 'Swasta',
-          ranking: 'Top 20',
-          description: 'Universitas dengan program teknik dan logistik terkemuka',
-          logo: '✈️',
-          image: 'https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=400&h=250&fit=crop',
-          tuitionMin: 6500000,
-          tuitionMax: 8000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        },
-        {
-          id: 'konkuk',
-          name: 'Konkuk University',
-          nameKo: '건국대학교',
-          location: 'Seoul',
-          type: 'Swasta',
-          ranking: 'Top 20',
-          description: 'Universitas dengan kampus hijau di pusat Seoul',
-          logo: '🐂',
-          image: 'https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=400&h=250&fit=crop',
-          tuitionMin: 6500000,
-          tuitionMax: 8000000,
-          hasScholarship: true,
-          hasEnglishProgram: true,
-          hasDormitory: true,
-          hasLanguageInstitute: true,
-          degreeLevels: ['S1 (Sarjana)', 'S2 (Magister)', 'S3 (Doktor)']
-        }
-      ]
+      universities: []
     };
   },
   computed: {
@@ -406,14 +195,30 @@ export default {
       window.scrollTo(0, 0);
     }
   },
-  mounted() {
+  async mounted() {
     // Load favorites from localStorage
     const savedFavorites = localStorage.getItem('favoriteUniversities');
     if (savedFavorites) {
       this.favorites = JSON.parse(savedFavorites);
     }
 
-    this.log('info', 'Universitas page loaded with', this.universities.length, 'universities');
+    // Load universities from JSON file
+    try {
+      this.loading = true;
+      const response = await fetch('data/universities.json');
+      if (!response.ok) {
+        throw new Error('Failed to load universities data');
+      }
+      this.universities = await response.json();
+      this.log('info', 'Loaded', this.universities.length, 'universities from JSON');
+    } catch (error) {
+      this.log('error', 'Error loading universities:', error);
+      // Fallback to empty array
+      this.universities = [];
+    } finally {
+      this.loading = false;
+    }
+
     window.scrollTo(0, 0);
   }
 };

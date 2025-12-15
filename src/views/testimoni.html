@@ -16,13 +16,13 @@
       <!-- Quick Navigation -->
       <div class="d-flex flex-wrap gap-3">
         <button @click="scrollToSection('interviews')" class="btn btn-light">
-          👥 Student Interviews
+          👥 Wawancara Mahasiswa
         </button>
         <button @click="scrollToSection('videos')" class="btn btn-light">
-          🎥 Video Testimonials
+          🎥 Video Testimoni
         </button>
         <button @click="scrollToSection('communities')" class="btn btn-light">
-          🌐 Join Community
+          🌐 Bergabung Komunitas
         </button>
       </div>
     </div>
@@ -47,7 +47,7 @@
   <!-- Student Interviews Section -->
   <section id="interviews" class="py-5">
     <div class="container">
-      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Student Interviews</h2>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Wawancara Mahasiswa</h2>
       <p class="text-muted mb-5">
         Baca cerita inspiratif dari mahasiswa Indonesia yang sedang atau telah menyelesaikan studi mereka di Korea
       </p>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="mb-4">
-                <h4 class="h6 fw-bold mb-2">Achievements</h4>
+                <h4 class="h6 fw-bold mb-2">Pencapaian</h4>
                 <ul class="list-unstyled small">
                   <li v-for="achievement in interview.achievements" :key="achievement" class="mb-1">
                     ✓ {{ achievement }}
@@ -116,9 +116,9 @@
   <!-- Video Testimonials Section -->
   <section id="videos" class="py-5 bg-light">
     <div class="container">
-      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Video Testimonials</h2>
+      <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Video Testimoni</h2>
       <p class="text-muted mb-5">
-        Tonton pengalaman mereka melalui video dan dapatkan insight lebih dalam tentang kehidupan kuliah di Korea
+        Tonton pengalaman mereka melalui video dan dapatkan wawasan lebih dalam tentang kehidupan kuliah di Korea
       </p>
 
       <div class="row g-4">
@@ -140,7 +140,7 @@
             <div class="card-body">
               <h3 class="card-title h6 fw-bold">{{ video.title }}</h3>
               <p class="card-text small text-muted mb-2">{{ video.student }}</p>
-              <p class="card-text small text-muted">{{ video.views }} views</p>
+              <p class="card-text small text-muted">{{ video.views }} tayangan</p>
             </div>
           </div>
         </div>
@@ -197,9 +197,9 @@
                 </div>
                 <p class="card-text small text-muted mb-3">{{ group.description }}</p>
                 <div class="d-flex justify-content-between align-items-center">
-                  <span class="small text-muted">{{ group.members }} members</span>
+                  <span class="small text-muted">{{ group.members }} anggota</span>
                   <button @click="joinCommunity(group.link)" class="btn btn-sm btn-outline-primary">
-                    Join Group
+                    Bergabung Grup
                   </button>
                 </div>
               </div>
@@ -216,43 +216,43 @@
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">🤝</div>
-                <h4 class="h6 fw-bold mb-2">Networking</h4>
+                <h4 class="h6 fw-bold mb-2">Jaringan Profesional</h4>
                 <p class="small text-muted">Bertemu dengan sesama mahasiswa Indonesia dan alumni</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">📚</div>
-                <h4 class="h6 fw-bold mb-2">Sharing Knowledge</h4>
+                <h4 class="h6 fw-bold mb-2">Berbagi Pengetahuan</h4>
                 <p class="small text-muted">Berbagi tips kuliah, beasiswa, dan kehidupan di Korea</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">🎉</div>
-                <h4 class="h6 fw-bold mb-2">Events & Activities</h4>
-                <p class="small text-muted">Ikuti berbagai acara budaya dan gathering</p>
+                <h4 class="h6 fw-bold mb-2">Acara & Aktivitas</h4>
+                <p class="small text-muted">Ikuti berbagai acara budaya dan pertemuan</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">💼</div>
-                <h4 class="h6 fw-bold mb-2">Career Support</h4>
-                <p class="small text-muted">Info lowongan kerja dan mentoring karir</p>
+                <h4 class="h6 fw-bold mb-2">Dukungan Karir</h4>
+                <p class="small text-muted">Info lowongan kerja dan bimbingan karir</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">🏠</div>
-                <h4 class="h6 fw-bold mb-2">Housing Info</h4>
-                <p class="small text-muted">Informasi tempat tinggal dan roommate</p>
+                <h4 class="h6 fw-bold mb-2">Info Perumahan</h4>
+                <p class="small text-muted">Informasi tempat tinggal dan teman sekamar</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="text-center">
                 <div class="fs-1 mb-3">❤️</div>
-                <h4 class="h6 fw-bold mb-2">Emotional Support</h4>
-                <p class="small text-muted">Dukungan saat adaptasi dan homesick</p>
+                <h4 class="h6 fw-bold mb-2">Dukungan Emosional</h4>
+                <p class="small text-muted">Dukungan saat adaptasi dan rindu kampung halaman</p>
               </div>
             </div>
           </div>
@@ -264,7 +264,7 @@
   <!-- Success Stories Stats -->
   <section class="py-5 bg-light">
     <div class="container">
-      <h2 class="h2 fw-bold text-center text-primary mb-5">Alumni Success Stories</h2>
+      <h2 class="h2 fw-bold text-center text-primary mb-5">Cerita Sukses Alumni</h2>
       <div class="row g-4">
         <div class="col-md-6 col-lg-3">
           <div class="card h-100 border-0 shadow-sm text-center">

@@ -42,7 +42,7 @@
               </div>
               <p class="card-text text-muted mb-3">{{ event.description }}</p>
               <div v-if="event.highlights && event.highlights.length > 0" class="mb-3">
-                <h4 class="h6 fw-bold mb-2">Highlights:</h4>
+                <h4 class="h6 fw-bold mb-2">Sorotan:</h4>
                 <ul class="list-unstyled small">
                   <li v-for="highlight in event.highlights.slice(0, 3)" :key="highlight" class="mb-1">
                     ✓ {{ highlight }}

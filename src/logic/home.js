@@ -59,7 +59,8 @@ export default {
     formattedNews() {
       return this.latestNews.map(news => ({
         ...news,
-        date: this.formatDate(news.date)
+        date: this.formatDate(news.date),
+        categoryType: this.getEventCategoryType(news.type)
       }));
     }
   },
@@ -69,6 +70,31 @@ export default {
       const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'];
       const date = new Date(dateString);
       return `${date.getDate()} ${months[date.getMonth()]} ${date.getFullYear()}`;
+    },
+
+    getEventCategoryType(eventType) {
+      const typeMap = {
+        'education_fair': 'primary',
+        'cultural': 'success',
+        'admission': 'info'
+      };
+      return typeMap[eventType] || 'secondary';
+    },
+
+    getEventCategoryLabel(eventType) {
+      const labelMap = {
+        'education_fair': 'Education Fair',
+        'cultural': 'Acara Budaya',
+        'admission': 'Penerimaan'
+      };
+      return labelMap[eventType] || 'Acara';
+    },
+
+    isEventUpcoming(dateString) {
+      const eventDate = new Date(dateString);
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      return eventDate >= today;
     },
 
     handleSearch() {
@@ -103,40 +129,46 @@ export default {
     try {
       this.loading = true;
 
-      // Load top universities
-      const universitiesResponse = await fetch('data/home-universities.json');
-      if (universitiesResponse.ok) {
-        this.topUniversities = await universitiesResponse.json();
-        this.log('info', 'Loaded', this.topUniversities.length, 'top universities from JSON');
+      // Load home page static content (universities, scholarships, testimonials)
+      const homeResponse = await fetch('data/home.json');
+      if (homeResponse.ok) {
+        const homeData = await homeResponse.json();
+        this.topUniversities = homeData.topUniversities || [];
+        this.scholarships = homeData.scholarships || [];
+        this.testimonials = homeData.testimonials || [];
+        this.log('info', 'Loaded home page data:', {
+          universities: this.topUniversities.length,
+          scholarships: this.scholarships.length,
+          testimonials: this.testimonials.length
+        });
       } else {
-        this.log('error', 'Failed to load home-universities.json');
+        this.log('error', 'Failed to load home.json');
       }
 
-      // Load scholarships
-      const scholarshipsResponse = await fetch('data/home-scholarships.json');
-      if (scholarshipsResponse.ok) {
-        this.scholarships = await scholarshipsResponse.json();
-        this.log('info', 'Loaded', this.scholarships.length, 'scholarships from JSON');
-      } else {
-        this.log('error', 'Failed to load home-scholarships.json');
-      }
+      // Load latest news from events.json (real-time data)
+      const eventsResponse = await fetch('data/events.json');
+      if (eventsResponse.ok) {
+        const allEvents = await eventsResponse.json();
 
-      // Load testimonials
-      const testimonialsResponse = await fetch('data/home-testimonials.json');
-      if (testimonialsResponse.ok) {
-        this.testimonials = await testimonialsResponse.json();
-        this.log('info', 'Loaded', this.testimonials.length, 'testimonials from JSON');
-      } else {
-        this.log('error', 'Failed to load home-testimonials.json');
-      }
+        // Get upcoming events, sort by date, take first 3
+        this.latestNews = allEvents
+          .filter(event => this.isEventUpcoming(event.date))
+          .sort((a, b) => new Date(a.date) - new Date(b.date))
+          .slice(0, 3)
+          .map(event => ({
+            id: event.id,
+            title: event.title,
+            category: this.getEventCategoryLabel(event.type),
+            categoryType: this.getEventCategoryType(event.type),
+            image: event.image,
+            excerpt: event.description,
+            date: event.date,
+            type: event.type
+          }));
 
-      // Load latest news
-      const newsResponse = await fetch('data/home-news.json');
-      if (newsResponse.ok) {
-        this.latestNews = await newsResponse.json();
-        this.log('info', 'Loaded', this.latestNews.length, 'news items from JSON');
+        this.log('info', 'Loaded', this.latestNews.length, 'latest events from events.json');
       } else {
-        this.log('error', 'Failed to load home-news.json');
+        this.log('error', 'Failed to load events.json');
       }
 
     } catch (error) {

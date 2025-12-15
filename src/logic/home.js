@@ -12,34 +12,6 @@ export default {
         kota: ''
       },
 
-      // Why Korea Section (static content)
-      whyKorea: [
-        {
-          id: 1,
-          icon: '🎓',
-          title: 'Pendidikan Berkualitas',
-          description: 'Universitas Korea masuk dalam ranking dunia dengan kurikulum internasional dan fasilitas modern'
-        },
-        {
-          id: 2,
-          icon: '🌏',
-          title: 'Teknologi Canggih',
-          description: 'Negara dengan teknologi terdepan, pusat inovasi dan penelitian global'
-        },
-        {
-          id: 3,
-          icon: '💼',
-          title: 'Peluang Karir',
-          description: 'Lulusan Korea memiliki prospek karir cerah di perusahaan multinasional'
-        },
-        {
-          id: 4,
-          icon: '🎯',
-          title: 'Beasiswa Melimpah',
-          description: 'Banyak program beasiswa pemerintah dan universitas untuk mahasiswa internasional'
-        }
-      ],
-
       // Data loaded from JSON
       topUniversities: [],
       scholarships: [],
@@ -110,7 +82,7 @@ export default {
 
     viewUniversity(universityId) {
       this.log('info', 'Viewing university', { universityId });
-      this.navigateTo('universitas/detail', { id: universityId });
+      this.navigateTo('universitas-detail', { id: universityId });
     },
 
     viewScholarship(scholarshipId) {
@@ -120,7 +92,7 @@ export default {
 
     viewNews(newsId) {
       this.log('info', 'Viewing news', { newsId });
-      this.navigateTo('berita/detail', { id: newsId });
+      this.navigateTo('berita-detail', { id: newsId });
     }
   },
 

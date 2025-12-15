@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Rina Wijaya",
+    "nameKo": "리나",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
+    "program": "S1 Business Administration",
+    "university": "Seoul National University",
+    "location": "Seoul",
+    "year": "2023",
+    "quote": "GKS membuka pintu untuk impian saya kuliah di universitas top Korea. Prosesnya menantang tapi sangat worth it!",
+    "story": "Saya lulus dari SMA di Jakarta dengan IPK 3.8. Setelah mencoba berbagai beasiswa, akhirnya diterima di GKS Embassy Track 2022. Proses aplikasi membutuhkan persiapan matang, terutama untuk essay dan dokumen. Saya mulai belajar bahasa Korea 6 bulan sebelum mendaftar, yang sangat membantu untuk TOPIK. Sekarang saya sudah semester 3 di SNU dan sangat menikmati kehidupan kampus di Korea.",
+    "achievements": [
+      "Penerima GKS Scholarship 2022",
+      "TOPIK Level 5",
+      "Dean's List Semester 1 & 2",
+      "Anggota Indonesian Student Association SNU"
+    ],
+    "tips": [
+      "Mulai persiapan minimal 1 tahun sebelumnya",
+      "Fokus pada essay yang personal dan authentic",
+      "Belajar bahasa Korea sedini mungkin",
+      "Join komunitas mahasiswa Indonesia untuk support system"
+    ],
+    "category": "gks"
+  },
+  {
+    "id": 2,
+    "name": "Budi Santoso",
+    "nameKo": "부디",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
+    "program": "S2 Computer Science",
+    "university": "KAIST",
+    "location": "Daejeon",
+    "year": "2022",
+    "quote": "KAIST memberikan research opportunity yang luar biasa. Fasilitas lab-nya world-class!",
+    "story": "Background saya S1 Teknik Informatika dari ITB dengan IPK 3.9. Saya apply untuk S2 di KAIST melalui university scholarship karena research interest saya match dengan salah satu profesor di sana. Proses aplikasi cukup kompetitif, tapi portfolio research dan publikasi saya di Indonesia sangat membantu. Sekarang saya sedang research di AI Lab dengan full scholarship dan monthly allowance.",
+    "achievements": [
+      "KAIST Graduate Scholarship (Full)",
+      "Published 2 papers di international conference",
+      "Research Assistant di AI & Robotics Lab",
+      "TOPIK Level 6"
+    ],
+    "tips": [
+      "Build strong research portfolio sejak S1",
+      "Hubungi profesor yang ingin jadi supervisor sebelum apply",
+      "Persiapkan research proposal yang solid",
+      "GRE/TOEFL score yang tinggi sangat membantu"
+    ],
+    "category": "university"
+  },
+  {
+    "id": 3,
+    "name": "Siti Nurhaliza",
+    "nameKo": "시티",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",
+    "program": "S1 Korean Language & Literature",
+    "university": "Yonsei University",
+    "location": "Seoul",
+    "year": "2024",
+    "quote": "Yonsei Korean Language program adalah yang terbaik. Saya belajar langsung dari native speakers dengan metode yang sangat interaktif.",
+    "story": "Passion saya terhadap budaya Korea dimulai sejak SMA. Saya mengikuti program KLI (Korean Language Institute) di Yonsei selama 1 tahun, kemudian apply untuk undergraduate program. Dengan TOPIK Level 5 dan essay yang kuat tentang minat saya di Korean literature, saya diterima dengan 50% scholarship. Kehidupan di Sinchon sangat vibrant dengan banyak international students.",
+    "achievements": [
+      "Yonsei University Scholarship (50% tuition)",
+      "TOPIK Level 5",
+      "Active member di Korean Culture Club",
+      "Part-time Korean-Indonesian translator"
+    ],
+    "tips": [
+      "Ikuti KLI dulu untuk adaptasi bahasa dan budaya",
+      "TOPIK minimal Level 4 sangat recommended",
+      "Tunjukkan genuine interest pada Korean culture di essay",
+      "Budget living cost sekitar 10-12 juta/bulan di Seoul"
+    ],
+    "category": "university"
+  },
+  {
+    "id": 4,
+    "name": "Ahmad Fadhil",
+    "nameKo": "파딜",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
+    "program": "S1 Mechanical Engineering",
+    "university": "Hanyang University",
+    "location": "Seoul",
+    "year": "2023",
+    "quote": "Hanyang's engineering program sangat hands-on. Praktikum dan project-based learning-nya excellent!",
+    "story": "Saya alumni SMK Teknik Mesin di Surabaya. Karena background teknik yang kuat dan prestasi lomba robotik nasional, saya berhasil mendapat scholarship dari Hanyang. Program engineering di sini sangat intensive dengan banyak lab work dan industry collaboration. Saya juga part-time kerja di lab sebagai research assistant yang membantu biaya hidup.",
+    "achievements": [
+      "Hanyang International Student Scholarship (70%)",
+      "Winner National Robotics Competition Indonesia",
+      "Research Assistant di Mechanical Engineering Lab",
+      "TOPIK Level 4"
+    ],
+    "tips": [
+      "Portfolio prestasi dan kompetisi sangat membantu aplikasi",
+      "Engineering program butuh TOEFL/IELTS yang bagus",
+      "Cari part-time job di kampus untuk tambahan income",
+      "Hanyang punya banyak industry connection untuk internship"
+    ],
+    "category": "university"
+  },
+  {
+    "id": 5,
+    "name": "Diana Putri",
+    "nameKo": "디아나",
+    "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&h=200&fit=crop",
+    "program": "S2 International Relations",
+    "university": "Korea University",
+    "location": "Seoul",
+    "year": "2022",
+    "quote": "KU's GSIS program membuka networking global. Classmates saya dari 30+ negara!",
+    "story": "Setelah bekerja 3 tahun di Kementerian Luar Negeri Indonesia, saya memutuskan lanjut S2 di Korea University GSIS. Program ini fully in English, jadi tidak butuh TOPIK. Dengan work experience dan recommendation letter yang kuat, saya mendapat KU Graduate Scholarship. Program GSIS sangat internasional dan faculty-nya world-renowned. Perfect untuk yang ingin career di international organizations.",
+    "achievements": [
+      "Korea University GSIS Scholarship (100%)",
+      "TOEFL iBT 110",
+      "Graduate Assistant di GSIS Office",
+      "Presenter di International Relations Conference"
+    ],
+    "tips": [
+      "Work experience 2-3 tahun sangat valuable untuk graduate program",
+      "GSIS programs usually fully in English, no TOPIK needed",
+      "Networking di GSIS incredible untuk career opportunities",
+      "Seoul living cost tinggi, tapi scholarship biasanya cukup"
+    ],
+    "category": "gsis"
+  },
+  {
+    "id": 6,
+    "name": "Kevin Tanaka",
+    "nameKo": "케빈",
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop",
+    "program": "S3 Bio-Engineering",
+    "university": "POSTECH",
+    "location": "Pohang",
+    "year": "2021",
+    "quote": "POSTECH research facilities setara dengan top universities di US. PhD scholarship juga sangat generous!",
+    "story": "Background saya S1 & S2 Biomedical Engineering dari UI dan UGM. Saya apply PhD di POSTECH karena research group Prof. Kim di bio-engineering sangat align dengan research interest saya. PhD di Korea fully funded dengan monthly stipend sekitar 1.5 juta won. Meskipun Pohang lebih kecil dari Seoul, research environment-nya sangat kondusif dengan less distraction.",
+    "achievements": [
+      "POSTECH PhD Full Scholarship + Stipend",
+      "Published 5 papers (2 as first author)",
+      "Teaching Assistant untuk undergrad courses",
+      "TOPIK Level 5"
+    ],
+    "tips": [
+      "PhD application butuh clear research proposal dan publications",
+      "Email professor dulu untuk gauge interest sebelum apply",
+      "PhD scholarship di Korea sangat competitive tapi generous",
+      "Living cost di smaller cities much more affordable"
+    ],
+    "category": "university"
+  }
+]

@@ -194,30 +194,45 @@ export default {
       this.inquirySubmitting = true;
 
       try {
-        // Simulate API call
-        await new Promise(resolve => setTimeout(resolve, 1500));
+        // Call API endpoint
+        const response = await fetch('/api/request', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            type: 'inquiry',
+            ...this.inquiryForm
+          })
+        });
 
-        this.log('info', 'Inquiry submitted:', this.inquiryForm);
+        const data = await response.json();
 
-        // Reset form
-        this.inquiryForm = {
-          name: '',
-          email: '',
-          phone: '',
-          category: '',
-          title: '',
-          content: '',
-          privacy: false
-        };
+        if (data.success) {
+          this.log('info', 'Inquiry submitted successfully');
 
-        this.inquirySubmitted = true;
+          // Reset form
+          this.inquiryForm = {
+            name: '',
+            email: '',
+            phone: '',
+            category: '',
+            title: '',
+            content: '',
+            privacy: false
+          };
 
-        // Hide success message after 5 seconds
-        setTimeout(() => {
-          this.inquirySubmitted = false;
-        }, 5000);
+          this.inquirySubmitted = true;
 
-        alert('Pertanyaan Anda telah dikirim! Kami akan merespons melalui email dalam 1-2 hari kerja.');
+          // Hide success message after 5 seconds
+          setTimeout(() => {
+            this.inquirySubmitted = false;
+          }, 5000);
+
+          alert(data.message || 'Pertanyaan Anda telah dikirim! Kami akan merespons melalui email dalam 1-2 hari kerja.');
+        } else {
+          throw new Error(data.error || 'Failed to submit inquiry');
+        }
 
       } catch (error) {
         this.log('error', 'Error submitting inquiry:', error);
@@ -259,29 +274,44 @@ export default {
       this.seminarSubmitting = true;
 
       try {
-        // Simulate API call
-        await new Promise(resolve => setTimeout(resolve, 1500));
+        // Call API endpoint
+        const response = await fetch('/api/request', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            type: 'seminar',
+            ...this.seminarForm
+          })
+        });
 
-        this.log('info', 'Seminar registration submitted:', this.seminarForm);
+        const data = await response.json();
 
-        // Reset form
-        this.seminarForm = {
-          name: '',
-          email: '',
-          phone: '',
-          university: '',
-          interest: '',
-          privacy: false
-        };
+        if (data.success) {
+          this.log('info', 'Seminar registration submitted successfully');
 
-        this.seminarSubmitted = true;
+          // Reset form
+          this.seminarForm = {
+            name: '',
+            email: '',
+            phone: '',
+            university: '',
+            interest: '',
+            privacy: false
+          };
 
-        // Hide success message after 5 seconds
-        setTimeout(() => {
-          this.seminarSubmitted = false;
-        }, 5000);
+          this.seminarSubmitted = true;
 
-        alert('Pendaftaran seminar berhasil! Kami akan mengirimkan detail acara melalui email dan WhatsApp.');
+          // Hide success message after 5 seconds
+          setTimeout(() => {
+            this.seminarSubmitted = false;
+          }, 5000);
+
+          alert(data.message || 'Pendaftaran seminar berhasil! Kami akan mengirimkan detail acara melalui email dan WhatsApp.');
+        } else {
+          throw new Error(data.error || 'Failed to submit seminar registration');
+        }
 
       } catch (error) {
         this.log('error', 'Error submitting seminar registration:', error);

@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "title": "Korea Education Fair 2026 - Jakarta",
+    "type": "education_fair",
+    "date": "2026-03-15",
+    "endDate": "2026-03-17",
+    "time": "10:00 - 17:00 WIB",
+    "location": "JCC (Jakarta Convention Center), Hall A",
+    "image": "https://picsum.photos/seed/education_fair0/400/250",
+    "description": "Pameran pendidikan terbesar tahun ini dengan 50+ universitas Korea. Konsultasi langsung, info beasiswa, dan seminar gratis!",
+    "highlights": [
+      "50+ universitas Korea hadir",
+      "Konsultasi gratis dengan admission officers",
+      "Seminar tentang GKS Scholarship",
+      "Workshop TOPIK preparation",
+      "On-site application assistance",
+      "Door prizes dan giveaways"
+    ],
+    "deadline": "2026-03-10",
+    "registrationUrl": "#",
+    "fee": "Gratis (registrasi online)",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "GKS 2026 Application Workshop",
+    "type": "admission",
+    "date": "2026-04-20",
+    "time": "14:00 - 16:00 WIB",
+    "location": "Online via Zoom",
+    "image": "https://picsum.photos/seed/event2/400/250",
+    "description": "Workshop intensif untuk persiapan aplikasi GKS 2026: essay writing, document preparation, dan interview tips.",
+    "highlights": [
+      "GKS essay writing workshop",
+      "Document checklist review",
+      "Interview simulation",
+      "Q&A with GKS alumni",
+      "Application timeline planning"
+    ],
+    "deadline": "2026-04-18",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Korean Cultural Festival 2026",
+    "type": "cultural",
+    "date": "2026-05-05",
+    "endDate": "2026-05-07",
+    "time": "11:00 - 20:00 WIB",
+    "location": "Senayan Park, Jakarta",
+    "image": "https://picsum.photos/seed/cultural2/400/250",
+    "description": "Festival budaya Korea dengan K-pop dance competition, traditional performances, food booths, dan education corner.",
+    "highlights": [
+      "K-pop dance competition",
+      "Traditional Korean performances",
+      "Korean food festival",
+      "Study in Korea booth",
+      "Korean language games",
+      "Photo booth dan merchandise"
+    ],
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "title": "Virtual Education Fair - Spring 2026",
+    "type": "education_fair",
+    "date": "2026-04-10",
+    "endDate": "2026-04-12",
+    "time": "10:00 - 16:00 WIB (daily)",
+    "location": "Online Platform",
+    "image": "https://picsum.photos/seed/event4/400/250",
+    "description": "Virtual fair dengan 30+ universitas Korea. Live chat, webinars, dan virtual campus tours dari rumah!",
+    "highlights": [
+      "30+ university booths",
+      "Live webinars setiap hari",
+      "Virtual campus tours",
+      "One-on-one counseling sessions",
+      "Downloadable university brochures",
+      "Lucky draw untuk participants"
+    ],
+    "deadline": "2026-04-08",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "TOPIK Preparation Bootcamp",
+    "type": "admission",
+    "date": "2026-06-01",
+    "endDate": "2026-06-30",
+    "time": "Weekends (Sabtu-Minggu)",
+    "location": "Jakarta & Online Hybrid",
+    "image": "https://picsum.photos/seed/event5/400/250",
+    "description": "Intensive 1-month bootcamp untuk persiapan TOPIK dengan native Korean instructors dan alumni TOPIK level 6.",
+    "highlights": [
+      "Intensive reading & listening practice",
+      "Writing correction by native teachers",
+      "Mock tests setiap minggu",
+      "Study materials & practice books",
+      "Small class (max 15 students)"
+    ],
+    "deadline": "2026-05-25",
+    "registrationUrl": "#",
+    "fee": "Rp 2.500.000 (early bird: Rp 2.000.000)",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "title": "Korea University Admission Briefing",
+    "type": "admission",
+    "date": "2026-07-15",
+    "time": "15:00 - 17:00 WIB",
+    "location": "Online via Zoom",
+    "university": "Korea University",
+    "image": "https://picsum.photos/seed/event6/400/250",
+    "description": "Direct session dengan Korea University admission team tentang Fall 2026 admission, scholarship, dan program highlights.",
+    "highlights": [
+      "Fall 2025 admission information",
+      "Scholarship opportunities (up to 100%)",
+      "GSIS program introduction",
+      "Campus life presentation",
+      "Q&A with admission officers"
+    ],
+    "deadline": "2026-07-13",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "title": "Study in Korea Expo - Surabaya",
+    "type": "education_fair",
+    "date": "2026-08-10",
+    "endDate": "2026-08-11",
+    "time": "10:00 - 17:00 WIB",
+    "location": "Grand City Convention Center, Surabaya",
+    "image": "https://picsum.photos/seed/education_fair6/400/250",
+    "description": "Education expo khusus Surabaya dan sekitarnya dengan 25 universitas Korea dan special guest dari NIIED.",
+    "highlights": [
+      "25 Korean universities",
+      "GKS information session",
+      "Alumni sharing session",
+      "Visa application workshop",
+      "Free university application review"
+    ],
+    "deadline": "2026-08-05",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "title": "Chuseok Festival & Korean Culture Experience",
+    "type": "cultural",
+    "date": "2026-09-15",
+    "time": "13:00 - 18:00 WIB",
+    "location": "Korea Cultural Center, Jakarta",
+    "image": "https://picsum.photos/seed/cultural7/400/250",
+    "description": "Rayakan Chuseok (Korean Thanksgiving) dengan traditional games, hanbok experience, dan songpyeon making class!",
+    "highlights": [
+      "Traditional Chuseok games",
+      "Hanbok trying & photo session",
+      "Songpyeon (rice cake) making class",
+      "Korean traditional performances",
+      "Study in Korea consultation booth"
+    ],
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 9,
+    "title": "Fall Admission Application Marathon",
+    "type": "admission",
+    "date": "2026-09-28",
+    "time": "10:00 - 16:00 WIB",
+    "location": "Jakarta & Bandung (Multiple venues)",
+    "image": "https://picsum.photos/seed/admission8/400/250",
+    "description": "Full-day application assistance untuk Fall 2026 admission. Bawa laptop dan dokumen, selesaikan aplikasi di tempat!",
+    "highlights": [
+      "On-site application assistance",
+      "Document verification",
+      "Essay review by counselors",
+      "Langsung submit aplikasi",
+      "Free lunch & refreshments"
+    ],
+    "deadline": "2026-09-25",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "title": "Hangeul Day Celebration 2026",
+    "type": "cultural",
+    "date": "2026-10-09",
+    "time": "14:00 - 17:00 WIB",
+    "location": "Korea Cultural Center, Jakarta",
+    "image": "https://picsum.photos/seed/cultural9/400/250",
+    "description": "Peringatan Hari Hangeul dengan Korean language games, calligraphy workshop, dan special talk about Korean language learning.",
+    "highlights": [
+      "Korean calligraphy workshop",
+      "Language learning games",
+      "TOPIK information session",
+      "Free Korean textbooks (limited)",
+      "Korean language level test"
+    ],
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": false
+  },
+  {
+    "id": 11,
+    "title": "Spring 2026 Admission Webinar Series",
+    "type": "admission",
+    "date": "2026-10-20",
+    "endDate": "2026-11-10",
+    "time": "19:00 - 20:30 WIB (Setiap Minggu)",
+    "location": "Online via Zoom",
+    "image": "https://picsum.photos/seed/event11/400/250",
+    "description": "4-week webinar series tentang Spring 2026 admission process, covering everything from university selection to visa application.",
+    "highlights": [
+      "Week 1: University Selection Strategy",
+      "Week 2: Application Documents Preparation",
+      "Week 3: Scholarship Opportunities",
+      "Week 4: Visa Process & Pre-Departure",
+      "Recorded sessions available"
+    ],
+    "deadline": "2026-10-18",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": true
+  },
+  {
+    "id": 12,
+    "title": "Year-End Education Fair 2026",
+    "type": "education_fair",
+    "date": "2026-12-14",
+    "endDate": "2026-12-15",
+    "time": "10:00 - 17:00 WIB",
+    "location": "Balai Kartini, Jakarta",
+    "image": "https://picsum.photos/seed/education_fair11/400/250",
+    "description": "Year-end mega education fair dengan special focus pada Spring 2026 dan GKS 2026 intake!",
+    "highlights": [
+      "40+ Korean universities",
+      "GKS 2025 timeline briefing",
+      "Spring 2025 last-minute application support",
+      "Alumni networking session",
+      "Grand lucky draw prizes",
+      "Special year-end promotions"
+    ],
+    "deadline": "2026-12-10",
+    "registrationUrl": "#",
+    "fee": "Gratis",
+    "isFeatured": true
+  }
+]

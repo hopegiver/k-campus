@@ -194,10 +194,23 @@
           <p class="text-muted mb-0">Subscribe newsletter kami untuk mendapat notifikasi tentang education fair, cultural events, dan admission announcements terbaru.</p>
         </div>
         <div class="col-md-6">
-          <div class="input-group">
-            <input type="email" class="form-control" placeholder="Masukkan email Anda">
-            <button class="btn btn-primary" type="button">Subscribe</button>
-          </div>
+          <form @submit.prevent="subscribeNewsletter">
+            <div class="input-group">
+              <input
+                type="email"
+                v-model="newsletterEmail"
+                class="form-control"
+                placeholder="Masukkan email Anda"
+                required
+              >
+              <button class="btn btn-primary" type="submit" :disabled="newsletterSubmitting">
+                {{ newsletterSubmitting ? 'Mengirim...' : 'Subscribe' }}
+              </button>
+            </div>
+            <div v-if="newsletterMessage" class="small mt-2" :class="newsletterSuccess ? 'text-success' : 'text-danger'">
+              {{ newsletterMessage }}
+            </div>
+          </form>
         </div>
       </div>
     </div>

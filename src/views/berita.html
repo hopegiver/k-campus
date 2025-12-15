@@ -167,9 +167,8 @@
                   {{ getDaysUntil(event.date) }}
                 </div>
                 <button
-                  @click="registerEvent(event)"
+                  @click="isEventUpcoming(event.date) ? registerEvent(event) : viewEventDetail(event.id)"
                   :class="['btn', 'btn-sm', isEventUpcoming(event.date) ? 'btn-primary' : 'btn-outline-primary']"
-                  :disabled="!isEventUpcoming(event.date)"
                 >
                   {{ isEventUpcoming(event.date) ? (event.type === 'admission' ? 'Apply Now' : 'Daftar') : 'Lihat Detail' }}
                 </button>

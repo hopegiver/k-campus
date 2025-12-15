@@ -138,13 +138,24 @@ export default {
       }
     },
 
-    navigateTo(route) {
+    navigateTo(route, params) {
       if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route);
+        window.router.navigateTo(route, params);
       } else {
-        window.location.hash = `#/${route}`;
+        let hash = `#/${route}`;
+        if (params) {
+          const queryString = Object.entries(params)
+            .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
+            .join('&');
+          hash += `?${queryString}`;
+        }
+        window.location.hash = hash;
       }
       window.scrollTo(0, 0);
+    },
+
+    viewEventDetail(eventId) {
+      this.navigateTo('berita-detail', { id: eventId });
     },
 
     async subscribeNewsletter() {

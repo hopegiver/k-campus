@@ -102,12 +102,9 @@ project/
 │   │   ├── UserCard.js
 │   │   ├── Modal.js
 │   │   └── Button.js
-│   ├── layouts/            # Layout templates
-│   │   ├── default.html    # Default layout wrapper
-│   │   └── admin.html      # Admin-specific layout
-│   └── styles/             # Page-specific CSS files
-│       ├── home.css
-│       └── user-profile.css
+│   └── layouts/            # Layout templates
+│       ├── default.html    # Default layout wrapper
+│       └── admin.html      # Admin-specific layout
 ├── css/                    # Global CSS files
 │   └── base.css            # Base styles and common components
 ├── js/                     # JavaScript library files

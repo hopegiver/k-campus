@@ -69,6 +69,27 @@ export default {
       return eventDate >= today;
     },
 
+    getDaysUntil(dateString) {
+      const eventDate = new Date(dateString);
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      const diffTime = eventDate - today;
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+      if (diffDays === 0) return 'Hari ini';
+      if (diffDays === 1) return 'Besok';
+      return `${diffDays} hari lagi`;
+    },
+
+    registerEvent(event) {
+      if (event.registrationUrl && event.registrationUrl !== '#') {
+        window.open(event.registrationUrl, '_blank');
+      } else {
+        this.navigateTo('konsultasi');
+      }
+    },
+
     handleSearch() {
       this.log('info', 'Search submitted', this.searchForm);
 
@@ -135,7 +156,8 @@ export default {
             image: event.image,
             excerpt: event.description,
             date: event.date,
-            type: event.type
+            type: event.type,
+            registrationUrl: event.registrationUrl
           }));
 
         this.log('info', 'Loaded', this.latestNews.length, 'latest events from events.json');

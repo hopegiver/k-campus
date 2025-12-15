@@ -225,8 +225,15 @@
               <h3 class="h5 fw-bold mb-2">{{ news.title }}</h3>
               <p class="card-text small text-muted mb-3">{{ news.excerpt }}</p>
               <div class="d-flex justify-content-between align-items-center">
-                <small class="text-muted">{{ news.date }}</small>
-                <button @click="viewNews(news.id)" class="btn btn-sm btn-outline-primary">Baca</button>
+                <div v-if="isEventUpcoming(news.date)" class="small text-muted">
+                  {{ getDaysUntil(news.date) }}
+                </div>
+                <button
+                  @click="isEventUpcoming(news.date) ? registerEvent(news) : viewNews(news.id)"
+                  :class="['btn', 'btn-sm', isEventUpcoming(news.date) ? 'btn-primary' : 'btn-outline-primary']"
+                >
+                  {{ isEventUpcoming(news.date) ? 'Daftar' : 'Lihat Detail' }}
+                </button>
               </div>
             </div>
           </div>

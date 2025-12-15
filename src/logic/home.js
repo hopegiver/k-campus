@@ -106,9 +106,10 @@ export default {
       this.navigateTo('universitas-detail', { id: universityId });
     },
 
-    viewScholarship(scholarshipId) {
-      this.log('info', 'Viewing scholarship', { scholarshipId });
-      this.navigateTo('beasiswa/detail', { id: scholarshipId });
+    viewScholarship(scholarship) {
+      this.log('info', 'Viewing scholarship', { scholarship: scholarship.name });
+      // Navigate to consultation page for scholarship inquiries
+      this.navigateTo('konsultasi');
     },
 
     viewNews(newsId) {

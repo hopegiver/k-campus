@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Seoul National University",
+    "image": "https://picsum.photos/seed/snu/400/300",
+    "ranking": "Top 50 Dunia",
+    "location": "Seoul",
+    "description": "Universitas tertua dan terprestisius di Korea dengan berbagai program studi unggulan"
+  },
+  {
+    "id": 2,
+    "name": "KAIST",
+    "image": "https://picsum.photos/seed/kaist/400/300",
+    "ranking": "Top 100 Dunia",
+    "location": "Daejeon",
+    "description": "Institut teknologi terkemuka dengan fokus pada sains dan engineering"
+  },
+  {
+    "id": 3,
+    "name": "Korea University",
+    "image": "https://picsum.photos/seed/ku/400/300",
+    "ranking": "Top 150 Dunia",
+    "location": "Seoul",
+    "description": "Salah satu universitas tertua dengan reputasi internasional yang kuat"
+  },
+  {
+    "id": 4,
+    "name": "Yonsei University",
+    "image": "https://picsum.photos/seed/yonsei/400/300",
+    "ranking": "Top 150 Dunia",
+    "location": "Seoul",
+    "description": "Universitas swasta terkemuka dengan program bisnis dan kedokteran yang sangat baik"
+  },
+  {
+    "id": 5,
+    "name": "Sungkyunkwan University",
+    "image": "https://picsum.photos/seed/skku/400/300",
+    "ranking": "Top 200 Dunia",
+    "location": "Seoul",
+    "description": "Universitas bersejarah dengan program akademik yang komprehensif"
+  },
+  {
+    "id": 6,
+    "name": "Hanyang University",
+    "image": "https://picsum.photos/seed/hanyang/400/300",
+    "ranking": "Top 250 Dunia",
+    "location": "Seoul",
+    "description": "Terkenal dengan program teknik dan teknologi yang unggul"
+  }
+]

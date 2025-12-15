@@ -3,6 +3,8 @@ export default {
 
   data() {
     return {
+      loading: true,
+
       // Search Form
       searchForm: {
         jurusan: '',
@@ -10,7 +12,7 @@ export default {
         kota: ''
       },
 
-      // Why Korea Section
+      // Why Korea Section (static content)
       whyKorea: [
         {
           id: 1,
@@ -38,172 +40,37 @@ export default {
         }
       ],
 
-      // Top Universities
-      topUniversities: [
-        {
-          id: 1,
-          name: 'Seoul National University',
-          image: 'https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=300&fit=crop',
-          ranking: 'Top 50 Dunia',
-          location: 'Seoul',
-          description: 'Universitas tertua dan terprestisius di Korea dengan berbagai program studi unggulan'
-        },
-        {
-          id: 2,
-          name: 'KAIST',
-          image: 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=400&h=300&fit=crop',
-          ranking: 'Top 100 Dunia',
-          location: 'Daejeon',
-          description: 'Institut teknologi terkemuka dengan fokus pada sains dan engineering'
-        },
-        {
-          id: 3,
-          name: 'Korea University',
-          image: 'https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=400&h=300&fit=crop',
-          ranking: 'Top 150 Dunia',
-          location: 'Seoul',
-          description: 'Salah satu universitas tertua dengan reputasi internasional yang kuat'
-        },
-        {
-          id: 4,
-          name: 'Yonsei University',
-          image: 'https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=400&h=300&fit=crop',
-          ranking: 'Top 150 Dunia',
-          location: 'Seoul',
-          description: 'Universitas swasta terkemuka dengan program bisnis dan kedokteran yang sangat baik'
-        },
-        {
-          id: 5,
-          name: 'Sungkyunkwan University',
-          image: 'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop',
-          ranking: 'Top 200 Dunia',
-          location: 'Seoul',
-          description: 'Universitas bersejarah dengan program akademik yang komprehensif'
-        },
-        {
-          id: 6,
-          name: 'Hanyang University',
-          image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop',
-          ranking: 'Top 250 Dunia',
-          location: 'Seoul',
-          description: 'Terkenal dengan program teknik dan teknologi yang unggul'
-        }
-      ],
-
-      // Scholarships
-      scholarships: [
-        {
-          id: 1,
-          name: 'GKS (Global Korea Scholarship)',
-          category: 'Pemerintah',
-          type: 'primary',
-          description: 'Beasiswa penuh dari pemerintah Korea untuk program S1, S2, dan S3 termasuk biaya hidup',
-          deadline: '30 September 2024'
-        },
-        {
-          id: 2,
-          name: 'Seoul National University Scholarship',
-          category: 'Universitas',
-          type: 'secondary',
-          description: 'Beasiswa prestasi akademik untuk mahasiswa internasional berprestasi',
-          deadline: '31 Agustus 2024'
-        },
-        {
-          id: 3,
-          name: 'KAIST International Student Scholarship',
-          category: 'Universitas',
-          type: 'secondary',
-          description: 'Beasiswa penuh untuk program S2 dan S3 di bidang sains dan teknologi',
-          deadline: '15 Oktober 2024'
-        },
-        {
-          id: 4,
-          name: 'Art Major Asian Scholarship',
-          category: 'Swasta',
-          type: 'info',
-          description: 'Beasiswa khusus untuk mahasiswa seni dan desain dari negara Asia',
-          deadline: '31 Juli 2024'
-        },
-        {
-          id: 5,
-          name: 'Korea Foundation Fellowship',
-          category: 'Yayasan',
-          type: 'success',
-          description: 'Beasiswa untuk penelitian dan studi lanjut di berbagai bidang',
-          deadline: '30 November 2024'
-        },
-        {
-          id: 6,
-          name: 'Samsung Global Scholarship',
-          category: 'Perusahaan',
-          type: 'warning',
-          description: 'Beasiswa dari Samsung untuk mahasiswa berprestasi di bidang teknologi',
-          deadline: '31 Agustus 2024'
-        }
-      ],
-
-      // Testimonials
-      testimonials: [
-        {
-          id: 1,
-          name: 'Ahmad Pratama',
-          initial: 'AP',
-          university: 'Seoul National University',
-          major: 'Teknik Informatika',
-          message: 'Kuliah di Korea membuka banyak kesempatan bagi saya. Fasilitas kampus sangat lengkap dan dosen-dosen sangat supportive!'
-        },
-        {
-          id: 2,
-          name: 'Siti Nurhaliza',
-          initial: 'SN',
-          university: 'Korea University',
-          major: 'Bisnis Internasional',
-          message: 'Mendapat beasiswa GKS adalah mimpi yang jadi kenyataan. Sekarang saya belajar dari professor terbaik di Korea.'
-        },
-        {
-          id: 3,
-          name: 'Budi Santoso',
-          initial: 'BS',
-          university: 'KAIST',
-          major: 'Robotika',
-          message: 'KAIST memberikan pengalaman belajar yang luar biasa dengan teknologi terkini. Recommended banget untuk yang suka teknologi!'
-        }
-      ],
-
-      // Latest News
-      latestNews: [
-        {
-          id: 1,
-          title: 'Pendaftaran GKS 2025 Dibuka!',
-          category: 'Beasiswa',
-          categoryType: 'primary',
-          image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=300&fit=crop',
-          excerpt: 'Program beasiswa pemerintah Korea untuk tahun 2025 resmi dibuka. Daftar sekarang dan raih kesempatan kuliah gratis di Korea!',
-          date: '1 Juni 2024'
-        },
-        {
-          id: 2,
-          title: 'Education Fair Korea 2024 di Jakarta',
-          category: 'Acara',
-          categoryType: 'success',
-          image: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop',
-          excerpt: 'Bertemu langsung dengan perwakilan 30+ universitas Korea di Jakarta Convention Center, 15-16 Juli 2024.',
-          date: '28 Mei 2024'
-        },
-        {
-          id: 3,
-          title: 'Tips Lolos Seleksi Beasiswa Korea',
-          category: 'Panduan',
-          categoryType: 'info',
-          image: 'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=300&fit=crop',
-          excerpt: 'Simak tips dan trik dari alumni penerima beasiswa untuk meningkatkan peluang lolos seleksi beasiswa Korea.',
-          date: '25 Mei 2024'
-        }
-      ]
+      // Data loaded from JSON
+      topUniversities: [],
+      scholarships: [],
+      testimonials: [],
+      latestNews: []
     };
   },
 
+  computed: {
+    formattedScholarships() {
+      return this.scholarships.map(scholarship => ({
+        ...scholarship,
+        deadline: this.formatDate(scholarship.deadline)
+      }));
+    },
+
+    formattedNews() {
+      return this.latestNews.map(news => ({
+        ...news,
+        date: this.formatDate(news.date)
+      }));
+    }
+  },
+
   methods: {
+    formatDate(dateString) {
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'];
+      const date = new Date(dateString);
+      return `${date.getDate()} ${months[date.getMonth()]} ${date.getFullYear()}`;
+    },
+
     handleSearch() {
       this.log('info', 'Search submitted', this.searchForm);
 
@@ -231,7 +98,53 @@ export default {
     }
   },
 
-  mounted() {
+  async mounted() {
+    // Load data from JSON files
+    try {
+      this.loading = true;
+
+      // Load top universities
+      const universitiesResponse = await fetch('data/home-universities.json');
+      if (universitiesResponse.ok) {
+        this.topUniversities = await universitiesResponse.json();
+        this.log('info', 'Loaded', this.topUniversities.length, 'top universities from JSON');
+      } else {
+        this.log('error', 'Failed to load home-universities.json');
+      }
+
+      // Load scholarships
+      const scholarshipsResponse = await fetch('data/home-scholarships.json');
+      if (scholarshipsResponse.ok) {
+        this.scholarships = await scholarshipsResponse.json();
+        this.log('info', 'Loaded', this.scholarships.length, 'scholarships from JSON');
+      } else {
+        this.log('error', 'Failed to load home-scholarships.json');
+      }
+
+      // Load testimonials
+      const testimonialsResponse = await fetch('data/home-testimonials.json');
+      if (testimonialsResponse.ok) {
+        this.testimonials = await testimonialsResponse.json();
+        this.log('info', 'Loaded', this.testimonials.length, 'testimonials from JSON');
+      } else {
+        this.log('error', 'Failed to load home-testimonials.json');
+      }
+
+      // Load latest news
+      const newsResponse = await fetch('data/home-news.json');
+      if (newsResponse.ok) {
+        this.latestNews = await newsResponse.json();
+        this.log('info', 'Loaded', this.latestNews.length, 'news items from JSON');
+      } else {
+        this.log('error', 'Failed to load home-news.json');
+      }
+
+    } catch (error) {
+      this.log('error', 'Error loading home page data:', error);
+    } finally {
+      this.loading = false;
+    }
+
     this.log('info', 'Home page loaded');
   }
 };

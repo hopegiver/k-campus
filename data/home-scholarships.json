@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "GKS (Global Korea Scholarship)",
+    "category": "Pemerintah",
+    "type": "primary",
+    "description": "Beasiswa penuh dari pemerintah Korea untuk program S1, S2, dan S3 termasuk biaya hidup",
+    "deadline": "2026-09-30"
+  },
+  {
+    "id": 2,
+    "name": "Seoul National University Scholarship",
+    "category": "Universitas",
+    "type": "secondary",
+    "description": "Beasiswa prestasi akademik untuk mahasiswa internasional berprestasi",
+    "deadline": "2026-08-31"
+  },
+  {
+    "id": 3,
+    "name": "KAIST International Student Scholarship",
+    "category": "Universitas",
+    "type": "secondary",
+    "description": "Beasiswa penuh untuk program S2 dan S3 di bidang sains dan teknologi",
+    "deadline": "2026-10-15"
+  },
+  {
+    "id": 4,
+    "name": "Art Major Asian Scholarship",
+    "category": "Swasta",
+    "type": "info",
+    "description": "Beasiswa khusus untuk mahasiswa seni dan desain dari negara Asia",
+    "deadline": "2026-07-31"
+  },
+  {
+    "id": 5,
+    "name": "Korea Foundation Fellowship",
+    "category": "Yayasan",
+    "type": "success",
+    "description": "Beasiswa untuk penelitian dan studi lanjut di berbagai bidang",
+    "deadline": "2026-11-30"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Global Scholarship",
+    "category": "Perusahaan",
+    "type": "warning",
+    "description": "Beasiswa dari Samsung untuk mahasiswa berprestasi di bidang teknologi",
+    "deadline": "2026-08-31"
+  }
+]

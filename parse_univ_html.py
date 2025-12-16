@@ -165,8 +165,8 @@ def clean_university_data(universities):
             'type': univ.get('type', ''),
             'description': univ.get('description', ''),
             'degrees': degrees,
-            'logoUrl': logo_url,
-            'imageUrl': image_url
+            'logo': logo_url,
+            'image': image_url
         }
 
         cleaned.append(cleaned_univ)
@@ -195,10 +195,10 @@ def main():
             print(f"  Location: {univ['location']}")
             print(f"  Type: {univ['type']}")
             print(f"  Degrees: {', '.join(univ['degrees'])}")
-            if univ.get('logoUrl'):
-                print(f"  Logo: {univ['logoUrl']}")
-            if univ.get('imageUrl'):
-                print(f"  Image: {univ['imageUrl'][:80]}...")
+            if univ.get('logo'):
+                print(f"  Logo: {univ['logo']}")
+            if univ.get('image'):
+                print(f"  Image: {univ['image'][:80]}...")
             if univ['description']:
                 print(f"  Description: {univ['description'][:50]}...")
 

@@ -62,8 +62,8 @@
     "location": "Jeollanam-do",
     "type": "Universitas Swasta",
     "description": "Politeknik di Jeollanam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100231_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911060233413460_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -80,7 +80,8 @@
       "website": "https://www.hanyeong.ac.kr",
       "phone": "061-650-4109",
       "address": "전라남도 여수시 장군산길 18-43 (여서동, 한영대학)"
-    }
+    },
+    "univCd": "100231"
   },
   {
     "id": "hyejeon",
@@ -1149,8 +1150,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Swasta",
     "description": "Politeknik di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100280_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902251032525200_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -1167,7 +1168,8 @@
       "website": "https://www.motor.ac.kr",
       "phone": "041-939-3008",
       "address": "충청남도 보령시 주포면 대학길 106"
-    }
+    },
+    "univCd": "100280"
   },
   {
     "id": "ong-science",
@@ -2710,8 +2712,8 @@
     "location": "Busan",
     "type": "Universitas Swasta",
     "description": "Politeknik di Busan, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100190_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107140433517640_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -2728,7 +2730,8 @@
       "website": "https://www.dpc.ac.kr",
       "phone": "051-542-8891",
       "address": "부산광역시 해운대구 운봉길 60 (반송동, 동부산대학교)"
-    }
+    },
+    "univCd": "100190"
   },
   {
     "id": "dong-seoul",
@@ -7744,8 +7747,8 @@
     "location": "Jeju-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Jeju-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100094_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108050851514050_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7764,7 +7767,8 @@
       "website": "https://www.jeju.ac.kr",
       "phone": "064-754-0215",
       "address": "제주특별자치도 제주시 516로 2870 (영평동)"
-    }
+    },
+    "univCd": "100094"
   },
   {
     "id": "jeju-national",

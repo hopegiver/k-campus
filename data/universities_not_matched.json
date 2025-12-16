@@ -1,0 +1,462 @@
+[
+  {
+    "id": "hanyeong",
+    "name": "Hanyeong University",
+    "nameKo": "한영대학교"
+  },
+  {
+    "id": "hosan",
+    "name": "Hosan University",
+    "nameKo": "호산대학교"
+  },
+  {
+    "id": "korea-national-agriculture-fisheries",
+    "name": "Korea National University Of Agriculture And Fisheries",
+    "nameKo": "한국농수산대학교"
+  },
+  {
+    "id": "jangan",
+    "name": "Jangan College",
+    "nameKo": "장안대학교"
+  },
+  {
+    "id": "jeju-technology",
+    "name": "Jeju College Of Technology",
+    "nameKo": "제주산업정보대학"
+  },
+  {
+    "id": "changshin",
+    "name": "Changshin College",
+    "nameKo": "창신대학"
+  },
+  {
+    "id": "shinheung",
+    "name": "Shinheungcollege",
+    "nameKo": "신흥대학교"
+  },
+  {
+    "id": "ajou-motor",
+    "name": "Ajou Motor College",
+    "nameKo": "아주자동차대학교"
+  },
+  {
+    "id": "youngnam-foreign-language",
+    "name": "Youngnam Foreign Language College",
+    "nameKo": "영남외국어대학"
+  },
+  {
+    "id": "woongji-accounting-tax",
+    "name": "Woongji Accounting & Tax College",
+    "nameKo": "웅지세무대학교"
+  },
+  {
+    "id": "busan-science-technology",
+    "name": "Busan Institute Of Science And Technology",
+    "nameKo": "부산과학기술대학교"
+  },
+  {
+    "id": "sorabol",
+    "name": "Sorabol University",
+    "nameKo": "서라벌대학교"
+  },
+  {
+    "id": "sohae",
+    "name": "Sohae College",
+    "nameKo": "서해대학"
+  },
+  {
+    "id": "sungsim-foreign-languages",
+    "name": "Sungsim College Of Foreign Languages",
+    "nameKo": "성심외국어대학"
+  },
+  {
+    "id": "daegu-future",
+    "name": "Daegu Future College",
+    "nameKo": "대구미래대학교"
+  },
+  {
+    "id": "dong-pusan",
+    "name": "Dong-Pusan College",
+    "nameKo": "동부산대학교"
+  },
+  {
+    "id": "dong-u",
+    "name": "Dong-U College",
+    "nameKo": "동우대학"
+  },
+  {
+    "id": "kyongbuk-science",
+    "name": "Kyongbuk Science College",
+    "nameKo": "경북과학대학교"
+  },
+  {
+    "id": "gwangyang-health-sciences",
+    "name": "Gwangyang Health Sciences University",
+    "nameKo": "광양보건대학교"
+  },
+  {
+    "id": "salvationarmyficertrainingkoreaterritory",
+    "name": "Salvationarmyofficertrainingcollegekoreaterritory",
+    "nameKo": "구세군사관학교"
+  },
+  {
+    "id": "naju",
+    "name": "Naju College",
+    "nameKo": "나주대학교"
+  },
+  {
+    "id": "namseoul",
+    "name": "Namseoul University",
+    "nameKo": "남서울대학교(산업대)"
+  },
+  {
+    "id": "dankook",
+    "name": "Dankook University",
+    "nameKo": "단국대학교"
+  },
+  {
+    "id": "dankook",
+    "name": "Dankook University",
+    "nameKo": "단국대학교"
+  },
+  {
+    "id": "daegu-arts",
+    "name": "Daegu Arts University",
+    "nameKo": "대구예술대학교"
+  },
+  {
+    "id": "daegu-foreign-studies",
+    "name": "Daegu University Of Foreign Studies",
+    "nameKo": "대구외국어대학교"
+  },
+  {
+    "id": "myongji-natural-science-campus",
+    "name": "Myongji University Natural Science Campus",
+    "nameKo": "명지대학교"
+  },
+  {
+    "id": "myongji-social-science-campus",
+    "name": "Myongji University Social Science Campus",
+    "nameKo": "명지대학교"
+  },
+  {
+    "id": "sangmyung-seoul",
+    "name": "Sangmyung University (Seoul)",
+    "nameKo": "상명대학교"
+  },
+  {
+    "id": "sangmyung",
+    "name": "Sangmyung University",
+    "nameKo": "상명대학교"
+  },
+  {
+    "id": "seonam",
+    "name": "Seonam University",
+    "nameKo": "서남대학교"
+  },
+  {
+    "id": "seonam",
+    "name": "Seonam University",
+    "nameKo": "서남대학교"
+  },
+  {
+    "id": "seoul-christian",
+    "name": "Seoul Christian University",
+    "nameKo": "서울기독대학교"
+  },
+  {
+    "id": "shinhan-unvirsity",
+    "name": "Shinhan Unvirsity",
+    "nameKo": "신한대학교"
+  },
+  {
+    "id": "shinhan",
+    "name": "Shinhan University",
+    "nameKo": "신한대학교"
+  },
+  {
+    "id": "anyang",
+    "name": "Anyang University",
+    "nameKo": "안양대학교"
+  },
+  {
+    "id": "anyang",
+    "name": "Anyang University",
+    "nameKo": "안양대학교"
+  },
+  {
+    "id": "youngsan",
+    "name": "Youngsan University",
+    "nameKo": "영산대학교(양산)"
+  },
+  {
+    "id": "youngsan",
+    "name": "Youngsan University",
+    "nameKo": "영산대학교(해운대)"
+  },
+  {
+    "id": "yewon-arts",
+    "name": "Yewon Arts University",
+    "nameKo": "예원예술대학교"
+  },
+  {
+    "id": "yewon-arts",
+    "name": "Yewon Arts University",
+    "nameKo": "예원예술대학교"
+  },
+  {
+    "id": "yong-in",
+    "name": "Yong In University",
+    "nameKo": "용인대학교"
+  },
+  {
+    "id": "woosong",
+    "name": "Woosong University",
+    "nameKo": "우송대학교(산업대)"
+  },
+  {
+    "id": "ulsan",
+    "name": "University Of Ulsan",
+    "nameKo": "울산대학교"
+  },
+  {
+    "id": "u1",
+    "name": "U1 University",
+    "nameKo": "유원대학교"
+  },
+  {
+    "id": "eulji",
+    "name": "Eulji University",
+    "nameKo": "을지대학교"
+  },
+  {
+    "id": "eulji",
+    "name": "Eulji University",
+    "nameKo": "을지대학교"
+  },
+  {
+    "id": "eulji",
+    "name": "Eulji University",
+    "nameKo": "을지대학교"
+  },
+  {
+    "id": "inje",
+    "name": "Inje University",
+    "nameKo": "인제대학교"
+  },
+  {
+    "id": "inje",
+    "name": "Inje University",
+    "nameKo": "인제대학교"
+  },
+  {
+    "id": "incheon-catholic",
+    "name": "Incheon Catholic University",
+    "nameKo": "인천가톨릭대학교"
+  },
+  {
+    "id": "incheon-catholic",
+    "name": "Incheon Catholic University",
+    "nameKo": "인천가톨릭대학교"
+  },
+  {
+    "id": "jungseok-technology",
+    "name": "Jungseok Institute Of Technology",
+    "nameKo": "정석대학"
+  },
+  {
+    "id": "jejuinternational",
+    "name": "Jejuinternationaluniversity",
+    "nameKo": "제주국제대학교"
+  },
+  {
+    "id": "chung-ang",
+    "name": "Chung-Ang University",
+    "nameKo": "중앙대학교"
+  },
+  {
+    "id": "chung-ang",
+    "name": "Chung-Ang University",
+    "nameKo": "중앙대학교"
+  },
+  {
+    "id": "jinju-national",
+    "name": "Jinju National University",
+    "nameKo": "진주산업대학교(산업대)"
+  },
+  {
+    "id": "chodang",
+    "name": "Chodang University",
+    "nameKo": "초당대학교"
+  },
+  {
+    "id": "calvin",
+    "name": "Calvin University",
+    "nameKo": "칼빈대학교"
+  },
+  {
+    "id": "hankyong-national",
+    "name": "Hankyong National University",
+    "nameKo": "한경국립대학교"
+  },
+  {
+    "id": "hanlyo",
+    "name": "Hanlyo University",
+    "nameKo": "한려대학교"
+  },
+  {
+    "id": "hanbat-national",
+    "name": "Hanbat National University",
+    "nameKo": "한밭대학교(산업대)"
+  },
+  {
+    "id": "hanbuk",
+    "name": "Hanbuk University",
+    "nameKo": "한북대학교"
+  },
+  {
+    "id": "hansung",
+    "name": "Hansung University",
+    "nameKo": "한성대학교"
+  },
+  {
+    "id": "haniluniv-presb-ol-sem",
+    "name": "Haniluniv.&Presb.Theol.Sem.",
+    "nameKo": "한일장신대학교"
+  },
+  {
+    "id": "hanzhong",
+    "name": "Hanzhong University",
+    "nameKo": "한중대학교"
+  },
+  {
+    "id": "hongik",
+    "name": "Hongik University",
+    "nameKo": "홍익대학교"
+  },
+  {
+    "id": "hongik",
+    "name": "Hongik University",
+    "nameKo": "홍익대학교"
+  },
+  {
+    "id": "hwasung-medi-science",
+    "name": "HWASUNG MEDI-SCIENCE UNIVERSITY",
+    "nameKo": "화성의과학대학교"
+  },
+  {
+    "id": "kangwon-tourism",
+    "name": "Kangwon Tourism College",
+    "nameKo": "강원관광대학교"
+  },
+  {
+    "id": "catholic-kwong",
+    "name": "Catholic Kwandong University",
+    "nameKo": "가톨릭관동대학교"
+  },
+  {
+    "id": "catholic-korea",
+    "name": "The Catholic University Of Korea",
+    "nameKo": "가톨릭대학교"
+  },
+  {
+    "id": "catholic-korea",
+    "name": "The Catholic University Of Korea",
+    "nameKo": "가톨릭대학교"
+  },
+  {
+    "id": "catholic-korea",
+    "name": "The Catholic University Of Korea",
+    "nameKo": "가톨릭대학교"
+  },
+  {
+    "id": "kangwon-national",
+    "name": "Kangwon National University",
+    "nameKo": "강원대학교"
+  },
+  {
+    "id": "kangwon-national",
+    "name": "Kangwon National University",
+    "nameKo": "강원대학교"
+  },
+  {
+    "id": "konyang",
+    "name": "Konyang University",
+    "nameKo": "건양대학교"
+  },
+  {
+    "id": "konyang",
+    "name": "Konyang University",
+    "nameKo": "건양대학교"
+  },
+  {
+    "id": "kyonggi",
+    "name": "Kyonggi University",
+    "nameKo": "경기대학교"
+  },
+  {
+    "id": "kyonggi",
+    "name": "Kyonggi University",
+    "nameKo": "경기대학교"
+  },
+  {
+    "id": "kyungdong",
+    "name": "Kyungdong University",
+    "nameKo": "경동대학교"
+  },
+  {
+    "id": "kyungdong",
+    "name": "Kyungdong University",
+    "nameKo": "경동대학교"
+  },
+  {
+    "id": "kyungdong",
+    "name": "Kyungdong University",
+    "nameKo": "경동대학교"
+  },
+  {
+    "id": "kyungdong",
+    "name": "Kyungdong University",
+    "nameKo": "경동대학교"
+  },
+  {
+    "id": "kyungwoon",
+    "name": "Kyungwoon University",
+    "nameKo": "경운대학교(산업대)"
+  },
+  {
+    "id": "gyeongin-national-education",
+    "name": "Gyeongin National University Of Education",
+    "nameKo": "경인교육대학교"
+  },
+  {
+    "id": "gyeongin-national-education",
+    "name": "Gyeongin National University Of Education",
+    "nameKo": "경인교육대학교"
+  },
+  {
+    "id": "gangneung-wonju-national",
+    "name": "Gangneung Wonju National University",
+    "nameKo": "강릉원주대학교"
+  },
+  {
+    "id": "gangneung-wonju-national",
+    "name": "Gangneung Wonju National University",
+    "nameKo": "강릉원주대학교"
+  },
+  {
+    "id": "gyeongguk-national",
+    "name": "Gyeongguk National University",
+    "nameKo": "경국대학교"
+  },
+  {
+    "id": "kongju-national",
+    "name": "Kongju National University",
+    "nameKo": "공주대학교"
+  },
+  {
+    "id": "kunsan-national",
+    "name": "Kunsan National University",
+    "nameKo": "군산대학교"
+  }
+]

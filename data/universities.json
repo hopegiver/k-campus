@@ -24,7 +24,8 @@
       "website": "https://www.hsc.ac.kr",
       "phone": "033-240-9000",
       "address": "강원특별자치도 춘천시 동면 장학길 48"
-    }
+    },
+    "univCd": "100479"
   },
   {
     "id": "hanyang-women-s",
@@ -51,7 +52,8 @@
       "website": "https://www.hywoman.ac.kr",
       "phone": "02-2290-2114",
       "address": "서울특별시 성동구 살곶이길 200 (사근동, 한양여자대학)"
-    }
+    },
+    "univCd": "100490"
   },
   {
     "id": "hanyeong",
@@ -105,7 +107,8 @@
       "website": "https://www.hj.ac.kr",
       "phone": "041-630-2455",
       "address": "충청남도 홍성군 홍성읍 대학1길 19"
-    }
+    },
+    "univCd": "100497"
   },
   {
     "id": "hosan",
@@ -186,7 +189,8 @@
       "website": "https://www.knuw.ac.kr",
       "phone": "031-610-4600",
       "address": "경기도 평택시 삼남로 283 (장안동, 한국복지대학교)"
-    }
+    },
+    "univCd": "100417"
   },
   {
     "id": "korea-lift",
@@ -213,7 +217,8 @@
       "website": "https://www.klc.ac.kr",
       "phone": "055-949-2220",
       "address": "경상남도 거창군 거창읍 운정1길 120 (송정리, 한국승강기대학)"
-    }
+    },
+    "univCd": "100422"
   },
   {
     "id": "korea-media-arts",
@@ -240,7 +245,8 @@
       "website": "https://www.pro.ac.kr",
       "phone": "044-850-9000",
       "address": "세종특별자치시 장군면 대학길 300 (금암리, 한국영상대학)"
-    }
+    },
+    "univCd": "100425"
   },
   {
     "id": "jangan",
@@ -294,7 +300,8 @@
       "website": "https://www.jeiu.ac.kr",
       "phone": "032-890-7000",
       "address": "인천광역시 동구 재능로 178 (송림동, 재능대학)"
-    }
+    },
+    "univCd": "100339"
   },
   {
     "id": "red-cross-nursing",
@@ -321,7 +328,8 @@
       "website": "https://redcross.cau.ac.kr",
       "phone": "02-3700-3632",
       "address": "서울특별시 동작구 흑석로 84 (흑석동, 중앙대학교)"
-    }
+    },
+    "univCd": "100345"
   },
   {
     "id": "chunnam-techno",
@@ -348,7 +356,8 @@
       "website": "https://www.cntu.ac.kr",
       "phone": "061-360-5000",
       "address": "전라남도 곡성군 옥과면 대학로 113 (옥과리)"
-    }
+    },
+    "univCd": "100346"
   },
   {
     "id": "jeonnam-state",
@@ -375,7 +384,8 @@
       "website": "https://www.dorip.ac.kr",
       "phone": "061-380-8419",
       "address": "전라남도 담양군 담양읍 죽녹원로 152 (향교리, 전남도립대학)"
-    }
+    },
+    "univCd": "100349"
   },
   {
     "id": "jeonbuk-science",
@@ -402,7 +412,8 @@
       "website": "https://www.jbsc.ac.kr",
       "phone": "063-530-9114",
       "address": "전북특별자치도 정읍시 정읍사로 509 (시기동, 전북과학대학)"
-    }
+    },
+    "univCd": "100350"
   },
   {
     "id": "jeonju-kijeon",
@@ -429,7 +440,8 @@
       "website": "https://www.kijeon.ac.kr",
       "phone": "063-280-5208",
       "address": "전북특별자치도 전주시 완산구 전주천서로 267 (중화산동1가, 전주기전대학)"
-    }
+    },
+    "univCd": "100353"
   },
   {
     "id": "vision-jeonju",
@@ -456,7 +468,8 @@
       "website": "https://www.jvision.ac.kr",
       "phone": "063-220-4114",
       "address": "전북특별자치도 전주시 완산구 천잠로 235 (효자동2가, 전주비전대학)"
-    }
+    },
+    "univCd": "100356"
   },
   {
     "id": "jeju-tourism",
@@ -483,7 +496,8 @@
       "website": "https://www.jtu.ac.kr",
       "phone": "064-740-8700",
       "address": "제주특별자치도 제주시 애월읍 평화로 2715 (광령리, 제주관광대학)"
-    }
+    },
+    "univCd": "100358"
   },
   {
     "id": "jeju-technology",
@@ -537,7 +551,8 @@
       "website": "https://www.chu.ac.kr",
       "phone": "064-741-7575",
       "address": "제주특별자치도 제주시 한라대학로 38 (노형동, 제주한라대학)"
-    }
+    },
+    "univCd": "100361"
   },
   {
     "id": "chosun-nursing",
@@ -564,7 +579,8 @@
       "website": "https://www.cnc.ac.kr",
       "phone": "062-231-7000",
       "address": "광주광역시 동구 조선대2길 70(서석동)"
-    }
+    },
+    "univCd": "100362"
   },
   {
     "id": "chosun-science-technoloy",
@@ -591,7 +607,8 @@
       "website": "https://www.cst.ac.kr",
       "phone": "062-230-8114",
       "address": "광주광역시 동구 조선이공대길 11(서석동)"
-    }
+    },
+    "univCd": "100364"
   },
   {
     "id": "jinju-health",
@@ -618,7 +635,8 @@
       "website": "https://www.jhc.ac.kr",
       "phone": "055-740-1700",
       "address": "경상남도 진주시 의병로 51 (상봉동, 진주보건대학)"
-    }
+    },
+    "univCd": "100372"
   },
   {
     "id": "changshin",
@@ -672,7 +690,8 @@
       "website": "https://www.cmu.ac.kr",
       "phone": "055-279-5114",
       "address": "경상남도 창원시 성산구 충혼로 91(두대동)"
-    }
+    },
+    "univCd": "100376"
   },
   {
     "id": "chungkang-cultural-industries",
@@ -699,7 +718,8 @@
       "website": "https://www.ck.ac.kr",
       "phone": "031-637-1114",
       "address": "경기도 이천시 마장면 청강가창로 389-94 (해월리, 청강문화산업대학)"
-    }
+    },
+    "univCd": "100377"
   },
   {
     "id": "cheongam",
@@ -726,7 +746,8 @@
       "website": "https://ca.ac.kr",
       "phone": "061-740-7100",
       "address": "전라남도 순천시 녹색로 1641 (덕월동, 순천청암대학)"
-    }
+    },
+    "univCd": "100378"
   },
   {
     "id": "choonhae-health-sciences",
@@ -753,7 +774,8 @@
       "website": "https://www.ch.ac.kr",
       "phone": "052-270-0100",
       "address": "울산광역시 울주군 웅촌면 대학길 9 (곡천리, 춘해보건대학)"
-    }
+    },
+    "univCd": "100387"
   },
   {
     "id": "chungnam-state",
@@ -780,7 +802,8 @@
       "website": "https://www.cnsu.ac.kr",
       "phone": "041-635-6600",
       "address": "충청남도 청양군 청양읍 학사길 55 (벽천리, 충남도립대학교)"
-    }
+    },
+    "univCd": "100389"
   },
   {
     "id": "chungbuk-provincial",
@@ -807,7 +830,8 @@
       "website": "https://www.cpu.ac.kr",
       "phone": "043-220-5313",
       "address": "충청북도 옥천군 옥천읍 대학길 15 (문정리)"
-    }
+    },
+    "univCd": "100391"
   },
   {
     "id": "chungbuk-health-science",
@@ -834,7 +858,8 @@
       "website": "https://www.chsu.ac.kr",
       "phone": "043-210-8133",
       "address": "충청북도 청주시 청원구 내수읍 덕암길 10 (덕암리, 충북보건과학대학교)"
-    }
+    },
+    "univCd": "100392"
   },
   {
     "id": "chungcheong",
@@ -861,7 +886,8 @@
       "website": "https://www.ok.ac.kr",
       "phone": "043-230-2114",
       "address": "충청북도 청주시 흥덕구 강내면 월곡길 38 (월곡리, 충청대학)"
-    }
+    },
+    "univCd": "100393"
   },
   {
     "id": "pohang",
@@ -888,7 +914,8 @@
       "website": "https://www.pohang.ac.kr",
       "phone": "054-251-8000",
       "address": "경상북도 포항시 북구 흥해읍 포항대학로 7"
-    }
+    },
+    "univCd": "100401"
   },
   {
     "id": "korea-golf-science-technology",
@@ -915,7 +942,8 @@
       "website": "https://www.kg.ac.kr",
       "phone": "033-810-1041",
       "address": "강원특별자치도 횡성군 우천면 하대5길 109"
-    }
+    },
+    "univCd": "100404"
   },
   {
     "id": "korea-tourism",
@@ -942,7 +970,8 @@
       "website": "https://www.ktc.ac.kr",
       "phone": "031-644-1000",
       "address": "경기도 이천시 신둔면 이장로311번길 197-73 (고척리, 한국관광대학)"
-    }
+    },
+    "univCd": "100407"
   },
   {
     "id": "suncheon-jeil",
@@ -969,7 +998,8 @@
       "website": "https://www.suncheon.ac.kr",
       "phone": "061-740-1234",
       "address": "전라남도 순천시 제일대학길 17 (덕월동, 순천제일대학)"
-    }
+    },
+    "univCd": "100265"
   },
   {
     "id": "soongeui-women-s",
@@ -996,7 +1026,8 @@
       "website": "https://www.sewu.ac.kr",
       "phone": "02-3708-9052",
       "address": "서울특별시 중구 소파로2길 10 (예장동, 숭의여자대학)"
-    }
+    },
+    "univCd": "100269"
   },
   {
     "id": "shingu",
@@ -1023,7 +1054,8 @@
       "website": "https://www.shingu.ac.kr",
       "phone": "031-740-1114",
       "address": "경기도 성남시 중원구 광명로 377 (금광동, 신구대학)"
-    }
+    },
+    "univCd": "100271"
   },
   {
     "id": "shinsung",
@@ -1050,7 +1082,8 @@
       "website": "https://www.shinsung.ac.kr",
       "phone": "041-350-1114",
       "address": "충청남도 당진시 정미면 대학로 1 (덕마리, 신성대학교)"
-    }
+    },
+    "univCd": "100273"
   },
   {
     "id": "shin-ansan",
@@ -1077,7 +1110,8 @@
       "website": "https://www.sau.ac.kr",
       "phone": "031-490-6000",
       "address": "경기도 안산시 단원구 신안산대학로 135 (초지동, 신안산대학교)"
-    }
+    },
+    "univCd": "100274"
   },
   {
     "id": "shinheung",
@@ -1158,7 +1192,8 @@
       "website": "https://www.asc.ac.kr",
       "phone": "054-851-3500",
       "address": "경상북도 안동시 서후면 서선길 189 (교리, 안동과학대학교)"
-    }
+    },
+    "univCd": "100281"
   },
   {
     "id": "ansan",
@@ -1185,7 +1220,8 @@
       "website": "https://www.ansan.ac.kr",
       "phone": "031-400-6900",
       "address": "경기도 안산시 상록구 안산대학로 155 (일동, 안산대학교)"
-    }
+    },
+    "univCd": "100283"
   },
   {
     "id": "yeoju-technology",
@@ -1212,7 +1248,8 @@
       "website": "https://www.yit.ac.kr",
       "phone": "031-880-5000",
       "address": "경기도 여주시 세종로 338 (교동, 여주대학교)"
-    }
+    },
+    "univCd": "100286"
   },
   {
     "id": "yeonsung",
@@ -1239,7 +1276,8 @@
       "website": "https://www.yeonsung.ac.kr",
       "phone": "031-441-2168",
       "address": "경기도 안양시 만안구 양화로37번길 34 (안양동, 연성대학교)"
-    }
+    },
+    "univCd": "100287"
   },
   {
     "id": "yonam-technology",
@@ -1266,7 +1304,8 @@
       "website": "https://www.yc.ac.kr",
       "phone": "055-751-2000",
       "address": "경상남도 진주시 진주대로 629번길 35(가좌동, 연암공과대학교)"
-    }
+    },
+    "univCd": "100291"
   },
   {
     "id": "yonam",
@@ -1293,7 +1332,8 @@
       "website": "https://www.yonam.ac.kr",
       "phone": "041-580-1114",
       "address": "충청남도 천안시 서북구 성환읍 연암로 313 (수향리, 천안연암대학)"
-    }
+    },
+    "univCd": "100292"
   },
   {
     "id": "youngnam-foreign-language",
@@ -1347,7 +1387,8 @@
       "website": "https://www.ync.ac.kr",
       "phone": "053-650-9114",
       "address": "대구광역시 남구 현충로 170 (대명동, 영남이공대학)"
-    }
+    },
+    "univCd": "100296"
   },
   {
     "id": "yeungjin",
@@ -1374,7 +1415,8 @@
       "website": "https://www.yju.ac.kr",
       "phone": "053-940-5132",
       "address": "대구광역시 북구 복현로 35 (복현동, 영진전문대학)"
-    }
+    },
+    "univCd": "100302"
   },
   {
     "id": "osan",
@@ -1401,7 +1443,8 @@
       "website": "https://www.osan.ac.kr",
       "phone": "031-370-2500",
       "address": "경기도 오산시 청학로 45 (청학동, 오산대학)"
-    }
+    },
+    "univCd": "100307"
   },
   {
     "id": "yong-in-arts-science",
@@ -1428,7 +1471,8 @@
       "website": "https://www.ysc.ac.kr",
       "phone": "031-330-9000",
       "address": "경기도 용인시 처인구 동부로 61 (마평동, 용인송담대학교)"
-    }
+    },
+    "univCd": "100311"
   },
   {
     "id": "woosong",
@@ -1455,7 +1499,8 @@
       "website": "https://www.wsi.ac.kr",
       "phone": "042-629-6114",
       "address": "대전광역시 동구 백룡로 59(자양동 101-17) 우송정보대학"
-    }
+    },
+    "univCd": "100315"
   },
   {
     "id": "ulsan",
@@ -1482,7 +1527,8 @@
       "website": "https://www.uc.ac.kr",
       "phone": "052-230-0500",
       "address": "울산광역시 동구 봉수로 101 (화정동, 울산과학대학동부캠퍼스)"
-    }
+    },
+    "univCd": "100317"
   },
   {
     "id": "woongji-accounting-tax",
@@ -1536,7 +1582,8 @@
       "website": "https://www.wu.ac.kr",
       "phone": "063-840-1114",
       "address": "전북특별자치도 익산시 익산대로 514 (신용동, 원광보건대학)"
-    }
+    },
+    "univCd": "100322"
   },
   {
     "id": "yuhan",
@@ -1563,7 +1610,8 @@
       "website": "https://www.yuhan.ac.kr",
       "phone": "02-2610-0600",
       "address": "경기도 부천시 소사구 경인로 590 (괴안동, 유한대학)"
-    }
+    },
+    "univCd": "100328"
   },
   {
     "id": "induk",
@@ -1590,7 +1638,8 @@
       "website": "https://www.induk.ac.kr",
       "phone": "02-950-7000",
       "address": "서울특별시 노원구 초안산로 12 (월계동, 인덕대학)"
-    }
+    },
+    "univCd": "100333"
   },
   {
     "id": "inha-technical",
@@ -1617,7 +1666,8 @@
       "website": "https://www.inhatc.ac.kr",
       "phone": "032-870-2114",
       "address": "인천광역시 미추홀구 인하로 100 (용현동, 인하대,인하공전,정석항공고)"
-    }
+    },
+    "univCd": "100340"
   },
   {
     "id": "baekseok-culture",
@@ -1644,7 +1694,8 @@
       "website": "https://www.bscu.ac.kr",
       "phone": "041-550-0700",
       "address": "충청남도 천안시 동남구 백석대학로 1 (안서동)"
-    }
+    },
+    "univCd": "100181"
   },
   {
     "id": "paekche-arts",
@@ -1671,7 +1722,8 @@
       "website": "https://www.paekche.ac.kr",
       "phone": "063-260-9114",
       "address": "전북특별자치도 완주군 봉동읍 백제대학로 171 (제내리, 백제예술대학)"
-    }
+    },
+    "univCd": "100182"
   },
   {
     "id": "busan-kyungsang",
@@ -1698,7 +1750,8 @@
       "website": "https://www.bsks.ac.kr",
       "phone": "051-850-1000",
       "address": "부산광역시 연제구 고분로 170 (연산동, 부산경상대학)"
-    }
+    },
+    "univCd": "100187"
   },
   {
     "id": "busan-science-technology",
@@ -1752,7 +1805,8 @@
       "website": "https://www.bhu.ac.kr/",
       "phone": "051-200-3300",
       "address": "부산광역시 사하구 사리로55번길 16 (괴정동, 동주대학)"
-    }
+    },
+    "univCd": "100164"
   },
   {
     "id": "busanwomens",
@@ -1779,7 +1833,8 @@
       "website": "https://www.bwc.ac.kr",
       "phone": "051-852-0081",
       "address": "부산광역시 부산진구 진남로 506 (양정동, 부산여자대학)"
-    }
+    },
+    "univCd": "100192"
   },
   {
     "id": "busan-arts",
@@ -1806,7 +1861,8 @@
       "website": "https://www.busanarts.ac.kr",
       "phone": "051-628-3991",
       "address": "부산광역시 남구 못골번영로71번길 74 (대연동, 부산예술대학)"
-    }
+    },
+    "univCd": "100193"
   },
   {
     "id": "bucheon",
@@ -1833,7 +1889,8 @@
       "website": "https://www.bc.ac.kr",
       "phone": "032-610-0114",
       "address": "경기도 부천시 원미구 신흥로56번길 25 (심곡동, 부천대학)"
-    }
+    },
+    "univCd": "100196"
   },
   {
     "id": "sahmyook-health",
@@ -1860,7 +1917,8 @@
       "website": "https://www.shu.ac.kr",
       "phone": "02-2212-0082",
       "address": "서울특별시 동대문구 망우로 82 (휘경동, 삼육보건대학)"
-    }
+    },
+    "univCd": "100200"
   },
   {
     "id": "sangji-youngseo",
@@ -1887,7 +1945,8 @@
       "website": "https://www.sy.ac.kr",
       "phone": "033-744-4150",
       "address": "강원특별자치도 원주시 상지대길 83 (우산동)"
-    }
+    },
+    "univCd": "100204"
   },
   {
     "id": "sorabol",
@@ -1941,7 +2000,8 @@
       "website": "https://www.seoyeong.ac.kr",
       "phone": "062-520-5114",
       "address": "광주광역시 북구 서강로 1 (운암동, 서영대학교)"
-    }
+    },
+    "univCd": "100210"
   },
   {
     "id": "seoul-women-s-nursing",
@@ -1968,7 +2028,8 @@
       "website": "https://www.snjc.ac.kr",
       "phone": "02-2287-1771",
       "address": "서울특별시 서대문구 간호대로 38 (홍제동, 서울여자간호대학교)"
-    }
+    },
+    "univCd": "100226"
   },
   {
     "id": "seoul-arts",
@@ -1995,7 +2056,8 @@
       "website": "https://www.seoularts.ac.kr",
       "phone": "031-412-7100",
       "address": "경기도 안산시 단원구 예술대학로 171 (고잔동, 서울예술대학)"
-    }
+    },
+    "univCd": "730780"
   },
   {
     "id": "seoil",
@@ -2022,7 +2084,8 @@
       "website": "https://www.seoil.ac.kr",
       "phone": "02-490-7300",
       "address": "서울특별시 중랑구 용마산로90길 28 (면목동)"
-    }
+    },
+    "univCd": "100233"
   },
   {
     "id": "seojeong",
@@ -2049,7 +2112,8 @@
       "website": "https://www.seojeong.ac.kr",
       "phone": "031-859-6900",
       "address": "경기도 양주시 은현면 서정로 27"
-    }
+    },
+    "univCd": "100234"
   },
   {
     "id": "sohae",
@@ -2103,7 +2167,8 @@
       "website": "https://www.sunlin.ac.kr",
       "phone": "054-260-5000",
       "address": "경상북도 포항시 북구 흥해읍 초곡길36번길 30 (초곡리, 선린대학)"
-    }
+    },
+    "univCd": "100236"
   },
   {
     "id": "sungsim-foreign-languages",
@@ -2157,7 +2222,8 @@
       "website": "https://www.sw.ac.kr",
       "phone": "054-330-8800",
       "address": "경상북도 영천시 신녕면 대학길 105 (화남리, 성덕대학교)"
-    }
+    },
+    "univCd": "100246"
   },
   {
     "id": "saekyung",
@@ -2184,7 +2250,8 @@
       "website": "https://www.saekyung.ac.kr",
       "phone": "033-371-3000",
       "address": "강원특별자치도 영월군 영월읍 하송로 197"
-    }
+    },
+    "univCd": "100247"
   },
   {
     "id": "songgok",
@@ -2211,7 +2278,8 @@
       "website": "https://www.songgok.ac.kr",
       "phone": "033-260-3600",
       "address": "강원특별자치도 춘천시 남산면 송곡대학길 34"
-    }
+    },
+    "univCd": "100253"
   },
   {
     "id": "songho",
@@ -2238,7 +2306,8 @@
       "website": "https://www.songho.ac.kr",
       "phone": "033-340-1000",
       "address": "강원특별자치도 횡성군 횡성읍 남산로 210"
-    }
+    },
+    "univCd": "100255"
   },
   {
     "id": "suseong",
@@ -2265,7 +2334,8 @@
       "website": "https://www.sc.ac.kr",
       "phone": "053-749-7000",
       "address": "대구광역시 수성구 달구벌대로528길 15 (만촌동, 수성대학교)"
-    }
+    },
+    "univCd": "100256"
   },
   {
     "id": "suwon-science",
@@ -2292,7 +2362,8 @@
       "website": "https://www.ssc.ac.kr",
       "phone": "031-350-2000",
       "address": "경기도 화성시 정남면 세자로 288 (보통리, 수원과학대학)"
-    }
+    },
+    "univCd": "100258"
   },
   {
     "id": "suwon-women-s",
@@ -2319,7 +2390,8 @@
       "website": "https://www.swc.ac.kr",
       "phone": "031-290-8042",
       "address": "경기도 수원시 권선구 온정로 72 (오목천동, 수원여자대학)"
-    }
+    },
+    "univCd": "100260"
   },
   {
     "id": "taegu-science",
@@ -2346,7 +2418,8 @@
       "website": "https://www.tsu.ac.kr",
       "phone": "053-320-1114",
       "address": "대구광역시 북구 영송로 47 (태전동, 대구과학대학)"
-    }
+    },
+    "univCd": "100124"
   },
   {
     "id": "daegu-future",
@@ -2400,7 +2473,8 @@
       "website": "https://www.dhc.ac.kr",
       "phone": "053-320-1300",
       "address": "대구광역시 북구 영송로 15 (태전동, 대구보건대학)"
-    }
+    },
+    "univCd": "100127"
   },
   {
     "id": "daeduk",
@@ -2427,7 +2501,8 @@
       "website": "https://www.ddu.ac.kr",
       "phone": "042-866-0200",
       "address": "대전광역시 유성구 가정북로 68 (장동, 대덕대학)"
-    }
+    },
+    "univCd": "100132"
   },
   {
     "id": "daedong",
@@ -2454,7 +2529,8 @@
       "website": "https://www.daedong.ac.kr",
       "phone": "051-518-5444",
       "address": "부산광역시 금정구 동부곡로27번길 88 (부곡동, 대동대학교)"
-    }
+    },
+    "univCd": "100133"
   },
   {
     "id": "daelim",
@@ -2481,7 +2557,8 @@
       "website": "https://www.daelim.ac.kr",
       "phone": "031-467-4756",
       "address": "경기도 안양시 동안구 임곡로 29 (비산동, 대림대학교)"
-    }
+    },
+    "univCd": "100134"
   },
   {
     "id": "daewon",
@@ -2508,7 +2585,8 @@
       "website": "https://www.daewon.ac.kr",
       "phone": "043-645-9171",
       "address": "충청북도 제천시 대학로 316 (신월동, 대원대학)"
-    }
+    },
+    "univCd": "100136"
   },
   {
     "id": "daejeon-science-technology",
@@ -2535,7 +2613,8 @@
       "website": "https://www.dst.ac.kr",
       "phone": "042-580-6114",
       "address": "대전광역시 서구 혜천로 100 (복수동, 대전과학기술대학교)"
-    }
+    },
+    "univCd": "100138"
   },
   {
     "id": "daejeon-health",
@@ -2562,7 +2641,8 @@
       "website": "https://www.hit.ac.kr",
       "phone": "042-670-9000",
       "address": "대전광역시 동구 충정로 21 (가양동, 대전보건대학)"
-    }
+    },
+    "univCd": "100140"
   },
   {
     "id": "donggang",
@@ -2589,7 +2669,8 @@
       "website": "https://www.dkc.ac.kr",
       "phone": "062-520-2212",
       "address": "광주광역시 북구 동문대로 50 (풍향동, 동강대학)"
-    }
+    },
+    "univCd": "100145"
   },
   {
     "id": "dongnam-health",
@@ -2616,7 +2697,8 @@
       "website": "https://www.dongnam.ac.kr",
       "phone": "031-249-6333",
       "address": "경기도 수원시 장안구 천천로74번길 50 (정자동, 동남보건전문대학)"
-    }
+    },
+    "univCd": "100148"
   },
   {
     "id": "dong-pusan",
@@ -2670,7 +2752,8 @@
       "website": "https://www.du.ac.kr",
       "phone": "031-720-2114",
       "address": "경기도 성남시 수정구 복정로 76 (복정동, 동서울대학)"
-    }
+    },
+    "univCd": "100153"
   },
   {
     "id": "dong-ah-media-arts",
@@ -2697,7 +2780,8 @@
       "website": "https://www.dima.ac.kr",
       "phone": "031-670-6600",
       "address": "경기도 안성시 삼죽면 동아예대길 47 (진촌리, 동아방송예술대학교)"
-    }
+    },
+    "univCd": "100156"
   },
   {
     "id": "donga-health",
@@ -2724,7 +2808,8 @@
       "website": "https://www.duh.ac.kr",
       "phone": "061-470-1700",
       "address": "전라남도 영암군 학산면 영산로 76-57 (독천리, 동아보건대학교)"
-    }
+    },
+    "univCd": "100157"
   },
   {
     "id": "dongyang-mirae",
@@ -2751,7 +2836,8 @@
       "website": "https://www.dongyang.ac.kr/",
       "phone": "02-2610-1700",
       "address": "서울특별시 구로구 경인로 445 (고척동, 동양미래대학)"
-    }
+    },
+    "univCd": "100159"
   },
   {
     "id": "dong-u",
@@ -2805,7 +2891,8 @@
       "website": "https://www.dist.ac.kr",
       "phone": "055-370-8100",
       "address": "경상남도 양산시 명곡로 321 (명곡동, 동원과학기술대학교)"
-    }
+    },
+    "univCd": "100160"
   },
   {
     "id": "tongwon",
@@ -2832,7 +2919,8 @@
       "website": "https://www.tw.ac.kr",
       "phone": "1544-4114",
       "address": "경기도 광주시 곤지암읍 경충대로 26 (신촌리, 동원대학)"
-    }
+    },
+    "univCd": "100161"
   },
   {
     "id": "dong-eui-technology",
@@ -2859,7 +2947,8 @@
       "website": "https://www.dit.ac.kr",
       "phone": "051-852-0011",
       "address": "부산광역시 부산진구 양지로 54 (양정동, 동의과학대학)"
-    }
+    },
+    "univCd": "100162"
   },
   {
     "id": "doowon-technical",
@@ -2886,7 +2975,8 @@
       "website": "https://www.doowon.ac.kr",
       "phone": "031-8056-7000",
       "address": "경기도 안성시 죽산면 관음당길 51 (장원리, 두원공과대학교)"
-    }
+    },
+    "univCd": "100165"
   },
   {
     "id": "masan",
@@ -2913,7 +3003,8 @@
       "website": "https://www.masan.ac.kr",
       "phone": "055-230-1212",
       "address": "경상남도 창원시 마산회원구 내서읍 함마대로 2640 (용담리, 마산대학)"
-    }
+    },
+    "univCd": "100168"
   },
   {
     "id": "myongji",
@@ -2940,7 +3031,8 @@
       "website": "https://www.mjc.ac.kr",
       "phone": "02-300-1000",
       "address": "서울특별시 서대문구 가좌로 134 (홍은동, 명지전문대학)"
-    }
+    },
+    "univCd": "100171"
   },
   {
     "id": "mokpo-science",
@@ -2967,7 +3059,8 @@
       "website": "https://www.msu.ac.kr",
       "phone": "061-278-8651",
       "address": "전라남도 목포시 영산로 413-1 (상동, 목포과학대학)"
-    }
+    },
+    "univCd": "100174"
   },
   {
     "id": "munkyung",
@@ -2994,7 +3087,8 @@
       "website": "https://www.mkc.ac.kr",
       "phone": "054-559-1114",
       "address": "경상북도 문경시 호계면 대학길 161 (별암리)"
-    }
+    },
+    "univCd": "100177"
   },
   {
     "id": "baewha-women-s",
@@ -3021,7 +3115,8 @@
       "website": "https://www.baewha.ac.kr",
       "phone": "02-399-0700",
       "address": "서울특별시 종로구 필운대로1길 34 (필운동, 배화여자대학)"
-    }
+    },
+    "univCd": "100179"
   },
   {
     "id": "gyeongnam-geochang",
@@ -3048,7 +3143,8 @@
       "website": "https://www.gc.ac.kr",
       "phone": "055-254-2800",
       "address": "경상남도 거창군 거창읍 거창대학로 72 (대평리, 경남도립거창대학)"
-    }
+    },
+    "univCd": "100038"
   },
   {
     "id": "gyeongnam-namhae",
@@ -3075,7 +3171,8 @@
       "website": "https://univ.namhae.ac.kr",
       "phone": "055-254-2400",
       "address": "경상남도 남해군 남해읍 화전로78번길 30 (남변리, 경남도립남해대학)"
-    }
+    },
+    "univCd": "100039"
   },
   {
     "id": "kyungnam-information-technology",
@@ -3102,7 +3199,8 @@
       "website": "https://www.kit.ac.kr",
       "phone": "051-324-5555",
       "address": "부산광역시 사상구 주례로 45 (주례동, 경남정보대학교)"
-    }
+    },
+    "univCd": "100040"
   },
   {
     "id": "kyungmin",
@@ -3129,7 +3227,8 @@
       "website": "https://www.kyungmin.ac.kr",
       "phone": "031-828-7005",
       "address": "경기도 의정부시 서부로 545 (가능동, 경민대학)"
-    }
+    },
+    "univCd": "100044"
   },
   {
     "id": "kyungbok",
@@ -3156,7 +3255,8 @@
       "website": "https://www.kbu.ac.kr",
       "phone": "031-570-9901",
       "address": "경기도 남양주시 진접읍 경복대로 425 (금곡리, 경복대학교)"
-    }
+    },
+    "univCd": "100045"
   },
   {
     "id": "kyongbuk-science",
@@ -3210,7 +3310,8 @@
       "website": "https://www.gpc.ac.kr",
       "phone": "054-650-0128",
       "address": "경상북도 예천군 예천읍 도립대학길 114 (청복리, 경북도립대학교)"
-    }
+    },
+    "univCd": "100048"
   },
   {
     "id": "gyeongbuk-health",
@@ -3237,7 +3338,8 @@
       "website": "https://www.gch.ac.kr",
       "phone": "054-420-9200",
       "address": "경상북도 김천시 대학로 168 (삼락동, 경북보건대학교)"
-    }
+    },
+    "univCd": "100049"
   },
   {
     "id": "kyungbuk",
@@ -3264,7 +3366,8 @@
       "website": "https://www.kbc.ac.kr",
       "phone": "054-630-5114",
       "address": "경상북도 영주시 대학로 77 (휴천동, 경북전문대학교)"
-    }
+    },
+    "univCd": "100050"
   },
   {
     "id": "kyung-in-women-s",
@@ -3291,7 +3394,8 @@
       "website": "https://www.kiwu.ac.kr",
       "phone": "032-540-0114",
       "address": "인천광역시 계양구 계양산로 63 (계산동, 경인여자대학)"
-    }
+    },
+    "univCd": "100058"
   },
   {
     "id": "keimyung",
@@ -3318,7 +3422,8 @@
       "website": "https://www.kmcu.ac.kr",
       "phone": "053-589-7744",
       "address": "대구광역시 달서구 달서대로 675 (신당동, 계명문화대학교)"
-    }
+    },
+    "univCd": "100066"
   },
   {
     "id": "kaywon-art-design",
@@ -3345,7 +3450,8 @@
       "website": "https://www.kaywon.ac.kr",
       "phone": "031-420-1700",
       "address": "경기도 의왕시 계원대학로 66 (내손동, 계원예술대학교)"
-    }
+    },
+    "univCd": "100068"
   },
   {
     "id": "gwangyang-health-sciences",
@@ -3399,7 +3505,8 @@
       "website": "https://www.ghu.ac.kr",
       "phone": "062-958-7500",
       "address": "광주광역시 광산구 북문대로419번길 73 (신창동, 광주보건대학)"
-    }
+    },
+    "univCd": "100085"
   },
   {
     "id": "gumi",
@@ -3426,7 +3533,8 @@
       "website": "https://www.gumi.ac.kr",
       "phone": "054-440-1114",
       "address": "경상북도 구미시 야은로 37 (부곡동, 구미대학교)"
-    }
+    },
+    "univCd": "100088"
   },
   {
     "id": "salvationarmyficertrainingkoreaterritory",
@@ -3482,7 +3590,8 @@
       "website": "https://www.kookje.ac.kr",
       "phone": "031-610-8000",
       "address": "경기도 평택시 장안웃길 56 (장안동, 국제대학교)"
-    }
+    },
+    "univCd": "100094"
   },
   {
     "id": "kunsan-nursing",
@@ -3509,7 +3618,8 @@
       "website": "https://www.kcn.ac.kr",
       "phone": "063-450-3803",
       "address": "전북특별자치도 군산시 동개정길 7 (개정동, 군산간호대학교)"
-    }
+    },
+    "univCd": "100101"
   },
   {
     "id": "kunjang",
@@ -3536,7 +3646,8 @@
       "website": "https://www.kunjang.ac.kr",
       "phone": "063-450-8114",
       "address": "전북특별자치도 군산시 성산면 군장대길 13 (도암리, 군장대학)"
-    }
+    },
+    "univCd": "100103"
   },
   {
     "id": "christian-nursing",
@@ -3563,7 +3674,8 @@
       "website": "https://ccn.ac.kr",
       "phone": "062-650-8021",
       "address": "광주광역시 남구 백서로70번길 6 (양림동, 기독간호대학)"
-    }
+    },
+    "univCd": "100108"
   },
   {
     "id": "kimpo",
@@ -3590,7 +3702,8 @@
       "website": "https://ukp.ac.kr",
       "phone": "031-999-4042",
       "address": "경기도 김포시 모담공원로 10 (운양동)"
-    }
+    },
+    "univCd": "100110"
   },
   {
     "id": "gimhae",
@@ -3617,7 +3730,8 @@
       "website": "https://www.gimhae.ac.kr",
       "phone": "055-320-1600",
       "address": "경상남도 김해시 삼안로112번길 198 (삼방동, 김해대학교)"
-    }
+    },
+    "univCd": "100111"
   },
   {
     "id": "naju",
@@ -3671,7 +3785,8 @@
       "website": "https://www.nonghyup.ac.kr",
       "phone": "031-960-4000",
       "address": "경기도 고양시 덕양구 서삼릉길 281 (원당동, 농협대학)"
-    }
+    },
+    "univCd": "100116"
   },
   {
     "id": "daekyeung",
@@ -3698,7 +3813,8 @@
       "website": "https://www.tk.ac.kr",
       "phone": "053-850-1000",
       "address": "경상북도 경산시 자인면 단북1길 65 (단북리, 대경대학)"
-    }
+    },
+    "univCd": "100120"
   },
   {
     "id": "daegutechnical",
@@ -3725,7 +3841,8 @@
       "website": "https://www.ttc.ac.kr",
       "phone": "053-560-3700",
       "address": "대구광역시 달서구 송현로 205 (본동, 대구공업대학)"
-    }
+    },
+    "univCd": "100123"
   },
   {
     "id": "kumoh-national-technology",
@@ -3754,7 +3871,8 @@
       "website": "https://www.kumoh.ac.kr",
       "phone": "054-478-7114",
       "address": "경상북도 구미시 대학로 61 (양호동, 금오공과대학교)"
-    }
+    },
+    "univCd": "100107"
   },
   {
     "id": "mokpo-national",
@@ -3783,7 +3901,8 @@
       "website": "https://www.mokpo.ac.kr",
       "phone": "061-450-2114",
       "address": "전라남도 무안군 청계면 영산로 1666 (도림리, 목포대학교)"
-    }
+    },
+    "univCd": "100175"
   },
   {
     "id": "mokpo-national-maritime",
@@ -3812,7 +3931,8 @@
       "website": "https://www.mmu.ac.kr",
       "phone": "061-240-7114",
       "address": "전라남도 목포시 해양대학로 91 (죽교동, 목포해양대학교)"
-    }
+    },
+    "univCd": "100176"
   },
   {
     "id": "pukyong-national",
@@ -3841,7 +3961,8 @@
       "website": "https://www.pknu.ac.kr",
       "phone": "051-629-4114",
       "address": "부산광역시 남구 용소로 45 (대연동, 부경대학교대연캠퍼스)"
-    }
+    },
+    "univCd": "100185"
   },
   {
     "id": "sunchon-national",
@@ -3870,7 +3991,8 @@
       "website": "https://www.scnu.ac.kr/SCNU/main.do",
       "phone": "061-750-3114",
       "address": "전라남도 순천시 중앙로 255 (석현동, 순천대학교)"
-    }
+    },
+    "univCd": "100264"
   },
   {
     "id": "changwon-national",
@@ -3899,7 +4021,8 @@
       "website": "https://www.changwon.ac.kr",
       "phone": "055-213-2114",
       "address": "경상남도 창원시 의창구 창원대학로 20 (사림동, 창원대학교)"
-    }
+    },
+    "univCd": "100375"
   },
   {
     "id": "korea-national-transportation",
@@ -3928,7 +4051,8 @@
       "website": "https://www.ut.ac.kr",
       "phone": "043-841-5002",
       "address": "충청북도 충주시 대소원면 대학로 50 (검단리, 한국교통대학교)"
-    }
+    },
+    "univCd": "993152"
   },
   {
     "id": "korea-maritime-ocean",
@@ -3957,7 +4081,8 @@
       "website": "https://www.kmou.ac.kr",
       "phone": "051-410-4114",
       "address": "부산광역시 영도구 태종로 727 (동삼동, 한국해양대학교)"
-    }
+    },
+    "univCd": "100472"
   },
   {
     "id": "hanbat-national",
@@ -3986,7 +4111,8 @@
       "website": "https://www.hanbat.ac.kr",
       "phone": "042-821-1114",
       "address": "대전광역시 유성구 동서대로 125 (덕명동, 한밭대학교)"
-    }
+    },
+    "univCd": "100481"
   },
   {
     "id": "kookmin",
@@ -4015,7 +4141,8 @@
       "website": "https://www.kookmin.ac.kr",
       "phone": "02-910-4114",
       "address": "서울특별시 성북구 정릉로 77 (정릉동, 국민대학교)"
-    }
+    },
+    "univCd": "100092"
   },
   {
     "id": "far-east",
@@ -4044,7 +4171,8 @@
       "website": "https://www.kdu.ac.kr",
       "phone": "043-879-3500",
       "address": "충청북도 음성군 감곡면 대학길 76-32 (왕장리, 극동대학교)"
-    }
+    },
+    "univCd": "100104"
   },
   {
     "id": "geumgang",
@@ -4073,7 +4201,8 @@
       "website": "https://www.ggu.ac.kr",
       "phone": "041-731-3100",
       "address": "충청남도 논산시 상월면 상월로 522 (대명리, 금강대학교)"
-    }
+    },
+    "univCd": "100106"
   },
   {
     "id": "gimcheon",
@@ -4102,7 +4231,8 @@
       "website": "https://www.gimcheon.ac.kr",
       "phone": "054-420-4000",
       "address": "경상북도 김천시 대학로 214 (삼락동, 김천대학교)"
-    }
+    },
+    "univCd": "100109"
   },
   {
     "id": "korea-nazarene",
@@ -4131,7 +4261,8 @@
       "website": "https://www.kornu.ac.kr",
       "phone": "041-570-7794",
       "address": "충청남도 천안시 서북구 월봉로 48 (쌍용동, 나사렛대학교)"
-    }
+    },
+    "univCd": "100113"
   },
   {
     "id": "nambu",
@@ -4160,7 +4291,8 @@
       "website": "https://www.nambu.ac.kr",
       "phone": "062-970-0001",
       "address": "광주광역시 광산구 남부대길 1 (월계동)"
-    }
+    },
+    "univCd": "100114"
   },
   {
     "id": "namseoul",
@@ -4189,7 +4321,8 @@
       "website": "https://www.nsu.ac.kr/",
       "phone": "041-580-2000",
       "address": "충청남도 천안시 서북구 성환읍 대학로 91 (매주리, 남서울대학교)"
-    }
+    },
+    "univCd": "100115"
   },
   {
     "id": "namseoul",
@@ -4305,7 +4438,8 @@
       "website": "https://www.cu.ac.kr",
       "phone": "053-850-3114",
       "address": "경상북도 경산시 하양읍 하양로 13-13 (금락리, 대구가톨릭대학교)"
-    }
+    },
+    "univCd": "100121"
   },
   {
     "id": "dgist",
@@ -4334,7 +4468,8 @@
       "website": "https://www.dgist.ac.kr",
       "phone": "053-785-0114",
       "address": "대구광역시 달성군 현풍읍 테크노중앙대로 333"
-    }
+    },
+    "univCd": "100122"
   },
   {
     "id": "daegu-national-education",
@@ -4363,7 +4498,8 @@
       "website": "https://www.dnue.ac.kr",
       "phone": "053-620-1202",
       "address": "대구광역시 남구 중앙대로 219 (대명동, 대구교육대학교)"
-    }
+    },
+    "univCd": "100125"
   },
   {
     "id": "daegu",
@@ -4392,7 +4528,8 @@
       "website": "https://www.daegu.ac.kr",
       "phone": "053-850-5000",
       "address": "경상북도 경산시 진량읍 대구대로 201 (내리리, 대구대학교경산캠퍼스)"
-    }
+    },
+    "univCd": "100126"
   },
   {
     "id": "daegu-arts",
@@ -4479,7 +4616,8 @@
       "website": "https://www.dhu.ac.kr",
       "phone": "053-819-1000",
       "address": "경상북도 경산시 한의대로 1(유곡동)"
-    }
+    },
+    "univCd": "100131"
   },
   {
     "id": "daeshin",
@@ -4508,7 +4646,8 @@
       "website": "https://www.daeshin.ac.kr",
       "phone": "053-810-0701",
       "address": "경상북도 경산시 경청로222길 33 (백천동, 대신대학교)"
-    }
+    },
+    "univCd": "100135"
   },
   {
     "id": "daejeoncatholic",
@@ -4537,7 +4676,8 @@
       "website": "https://www.dcatholic.ac.kr",
       "phone": "044-861-7101",
       "address": "세종특별자치시 전의면 가톨릭대학로 30 (신방리, 대전가톨릭대학교)"
-    }
+    },
+    "univCd": "100137"
   },
   {
     "id": "daejeon",
@@ -4566,7 +4706,8 @@
       "website": "https://www.dju.ac.kr",
       "phone": "042-280-2114",
       "address": "대전광역시 동구 대학로 62 (용운동, 대전대학교)"
-    }
+    },
+    "univCd": "100139"
   },
   {
     "id": "daejeon-ological",
@@ -4595,7 +4736,8 @@
       "website": "https://www.daejeon.ac.kr",
       "phone": "042-606-0114",
       "address": "대전광역시 대덕구 한남로 41 (오정동, 대전신학대학교)"
-    }
+    },
+    "univCd": "100141"
   },
   {
     "id": "daejin",
@@ -4624,7 +4766,8 @@
       "website": "https://www.daejin.ac.kr",
       "phone": "031-539-1114",
       "address": "경기도 포천시 호국로 1007 (선단동, 대진대학교)"
-    }
+    },
+    "univCd": "100142"
   },
   {
     "id": "duksung-women-s",
@@ -4653,7 +4796,8 @@
       "website": "https://www.duksung.ac.kr",
       "phone": "02-901-8000",
       "address": "서울특별시 도봉구 삼양로144길 33 (쌍문동, 덕성여자대학교)"
-    }
+    },
+    "univCd": "100144"
   },
   {
     "id": "dongguk",
@@ -4682,7 +4826,8 @@
       "website": "https://www.dongguk.edu",
       "phone": "02-2260-3114",
       "address": "서울특별시 중구 필동로1길 30 (장충동2가, 동국대학교)"
-    }
+    },
+    "univCd": "100147"
   },
   {
     "id": "dongguk",
@@ -4711,7 +4856,8 @@
       "website": "https://wise.dongguk.ac.kr",
       "phone": "054-770-2844",
       "address": "경상북도 경주시 동대로 123(석장동)"
-    }
+    },
+    "univCd": "100146"
   },
   {
     "id": "dongduk-women-s",
@@ -4740,7 +4886,8 @@
       "website": "https://www.dongduk.ac.kr",
       "phone": "02-940-4000",
       "address": "서울특별시 성북구 화랑로13길 60 (하월곡동, 동덕여자대학교)"
-    }
+    },
+    "univCd": "100149"
   },
   {
     "id": "tongmyong",
@@ -4769,7 +4916,8 @@
       "website": "https://www.tu.ac.kr",
       "phone": "051-629-1000",
       "address": "부산광역시 남구 신선로 428 (용당동, 동명대학교)"
-    }
+    },
+    "univCd": "100150"
   },
   {
     "id": "dongseo",
@@ -4798,7 +4946,8 @@
       "website": "https://www.dongseo.ac.kr",
       "phone": "051-313-2001",
       "address": "부산광역시 사상구 주례로 47 (주례동, 동서대학교)"
-    }
+    },
+    "univCd": "100152"
   },
   {
     "id": "dongshin",
@@ -4827,7 +4976,8 @@
       "website": "https://www.dsu.ac.kr",
       "phone": "061-330-3114",
       "address": "전라남도 나주시 동신대길 67 (대호동)"
-    }
+    },
+    "univCd": "100154"
   },
   {
     "id": "dong-a",
@@ -4856,7 +5006,8 @@
       "website": "https://www.donga.ac.kr",
       "phone": "051-200-6114",
       "address": "부산광역시 사하구 낙동대로550번길 37 (하단동, 동아대학교)"
-    }
+    },
+    "univCd": "100155"
   },
   {
     "id": "dongyang",
@@ -4885,7 +5036,8 @@
       "website": "https://www.dyu.ac.kr",
       "phone": "054-630-1114",
       "address": "경상북도 영주시 풍기읍 동양대로 145 (산법리, 동양대학교)"
-    }
+    },
+    "univCd": "100158"
   },
   {
     "id": "dong-eui",
@@ -4914,7 +5066,8 @@
       "website": "https://www.deu.ac.kr",
       "phone": "051-890-1114",
       "address": "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교)"
-    }
+    },
+    "univCd": "100163"
   },
   {
     "id": "lur",
@@ -4943,7 +5096,8 @@
       "website": "https://www.ltu.ac.kr",
       "phone": "031-679-2300",
       "address": "경기도 용인시 기흥구 금화로82번길 20 (상갈동, 루터대학교)"
-    }
+    },
+    "univCd": "100167"
   },
   {
     "id": "myongji-natural-science-campus",
@@ -5030,7 +5184,8 @@
       "website": "https://www.mokwon.ac.kr",
       "phone": "042-829-7114",
       "address": "대전광역시 서구 도안북로 88 (도안동, 목원대학교)"
-    }
+    },
+    "univCd": "100172"
   },
   {
     "id": "mokpo-catholic",
@@ -5059,7 +5214,8 @@
       "website": "https://www.mcu.ac.kr",
       "phone": "061-280-5102",
       "address": "전라남도 목포시 영산로 697 (석현동, 목포가톨릭대학교)"
-    }
+    },
+    "univCd": "100173"
   },
   {
     "id": "pai-chai",
@@ -5088,7 +5244,8 @@
       "website": "https://www.pcu.ac.kr",
       "phone": "042-520-5114",
       "address": "대전광역시 서구 배재로 155-40 (도마동, 배재대학교)"
-    }
+    },
+    "univCd": "100178"
   },
   {
     "id": "baekseok",
@@ -5117,7 +5274,8 @@
       "website": "https://www.bu.ac.kr",
       "phone": "041-550-9114",
       "address": "충청남도 천안시 동남구 백석대학로 1 (안서동)"
-    }
+    },
+    "univCd": "100180"
   },
   {
     "id": "catholic-pusan",
@@ -5146,7 +5304,8 @@
       "website": "https://www.cup.ac.kr",
       "phone": "051-515-5811",
       "address": "부산광역시 금정구 오륜대로 57 (부곡동, 부산가톨릭대학교)"
-    }
+    },
+    "univCd": "100186"
   },
   {
     "id": "busan-national-education",
@@ -5175,7 +5334,8 @@
       "website": "https://www.bnue.ac.kr",
       "phone": "051-500-7141",
       "address": "부산광역시 연제구 교대로 24 (거제동, 부산교육대학교)"
-    }
+    },
+    "univCd": "100189"
   },
   {
     "id": "pusan-national",
@@ -5204,7 +5364,8 @@
       "website": "https://www.pusan.ac.kr",
       "phone": "051-512-0311",
       "address": "부산광역시 금정구 부산대학로63번길 2 (장전동, 부산대학교)"
-    }
+    },
+    "univCd": "100190"
   },
   {
     "id": "busan-foreign-studies",
@@ -5233,7 +5394,8 @@
       "website": "https://www.bufs.ac.kr",
       "phone": "051-509-5000",
       "address": "부산광역시 금정구 금샘로485번길 65 (남산동, 부산외국어대학교)"
-    }
+    },
+    "univCd": "100194"
   },
   {
     "id": "busan-presbyterian",
@@ -5262,7 +5424,8 @@
       "website": "https://www.bpu.ac.kr",
       "phone": "055-320-2500",
       "address": "경상남도 김해시 김해대로 1894-68 (구산동)"
-    }
+    },
+    "univCd": "100195"
   },
   {
     "id": "sahmyook",
@@ -5291,7 +5454,8 @@
       "website": "https://www.syu.ac.kr",
       "phone": "02-3399-3636",
       "address": "서울특별시 노원구 화랑로 815 (공릉동, 삼육대학교)"
-    }
+    },
+    "univCd": "100199"
   },
   {
     "id": "sangmyung-seoul",
@@ -5378,7 +5542,8 @@
       "website": "https://www.sangji.ac.kr",
       "phone": "033-730-0114",
       "address": "강원특별자치도 원주시 상지대길 83 (우산동)"
-    }
+    },
+    "univCd": "100203"
   },
   {
     "id": "sogang",
@@ -5407,7 +5572,8 @@
       "website": "https://www.sogang.ac.kr",
       "phone": "02-705-8114",
       "address": "서울특별시 마포구 백범로 35 (신수동, 서강대학교)"
-    }
+    },
+    "univCd": "100205"
   },
   {
     "id": "seokyeong",
@@ -5436,7 +5602,8 @@
       "website": "https://www.skuniv.ac.kr",
       "phone": "02-940-7114",
       "address": "서울특별시 성북구 서경로 124 (정릉동, 서경대학교)"
-    }
+    },
+    "univCd": "100206"
   },
   {
     "id": "seonam",
@@ -5523,7 +5690,8 @@
       "website": "https://www.seoultech.ac.kr",
       "phone": "02-970-6114",
       "address": "서울특별시 노원구 공릉로 232 (공릉동, 서울과학기술대학교)"
-    }
+    },
+    "univCd": "100211"
   },
   {
     "id": "seoul-national-education",
@@ -5552,7 +5720,8 @@
       "website": "https://www.snue.ac.kr",
       "phone": "02-3475-2114",
       "address": "서울특별시 서초구 서초중앙로 96 (서초동, 서울교육대학교)"
-    }
+    },
+    "univCd": "100213"
   },
   {
     "id": "seoul-christian",
@@ -5610,7 +5779,8 @@
       "website": "https://www.snu.ac.kr",
       "phone": "02-880-5114",
       "address": "서울특별시 관악구 관악로 1 (신림동, 서울대학교)"
-    }
+    },
+    "univCd": "100215"
   },
   {
     "id": "seoul",
@@ -5639,7 +5809,8 @@
       "website": "https://www.uos.ac.kr",
       "phone": "02-6490-6114",
       "address": "서울특별시 동대문구 서울시립대로 163 (전농동, 서울시립대학교)"
-    }
+    },
+    "univCd": "100224"
   },
   {
     "id": "seoul-ological",
@@ -5668,7 +5839,8 @@
       "website": "https://www.stu.ac.kr",
       "phone": "032-340-9114",
       "address": "경기도 부천시 소사구 호현로489번길 52 (소사본동, 서울신학대학교)"
-    }
+    },
+    "univCd": "100225"
   },
   {
     "id": "seoul-women-s",
@@ -5697,7 +5869,8 @@
       "website": "https://www.swu.ac.kr",
       "phone": "02-970-5114",
       "address": "서울특별시 노원구 화랑로 621 (공릉동, 서울여자대학교)"
-    }
+    },
+    "univCd": "100227"
   },
   {
     "id": "seoul-jangsin",
@@ -5726,7 +5899,8 @@
       "website": "https://www.sjs.ac.kr",
       "phone": "031-799-9113",
       "address": "경기도 광주시 경안로 145 (경안동, 서울장신대학교)"
-    }
+    },
+    "univCd": "100230"
   },
   {
     "id": "seoul-hanyoung",
@@ -5755,7 +5929,8 @@
       "website": "https://shyu.ac.kr",
       "phone": "02-2669-2200",
       "address": "서울특별시 구로구 경인로 290-42 (개봉동)"
-    }
+    },
+    "univCd": "100231"
   },
   {
     "id": "seowon",
@@ -5784,7 +5959,8 @@
       "website": "https://www.seowon.ac.kr",
       "phone": "043-299-8114",
       "address": "충청북도 청주시 서원구 무심서로 377-3 (모충동, 서원대학교)"
-    }
+    },
+    "univCd": "100232"
   },
   {
     "id": "sun-moon",
@@ -5813,7 +5989,8 @@
       "website": "https://www.sunmoon.ac.kr",
       "phone": "041-530-2114",
       "address": "충청남도 아산시 탕정면 선문로221번길 70 (갈산리, 선문대학교)"
-    }
+    },
+    "univCd": "100237"
   },
   {
     "id": "sungkyul",
@@ -5842,7 +6019,8 @@
       "website": "https://www.sungkyul.ac.kr",
       "phone": "031-467-8114",
       "address": "경기도 안양시 만안구 성결대학로 53 (안양동, 성결대학교)"
-    }
+    },
+    "univCd": "100239"
   },
   {
     "id": "sungkonghoe",
@@ -5871,7 +6049,8 @@
       "website": "https://www.skhu.ac.kr",
       "phone": "02-2610-4114",
       "address": "서울특별시 구로구 연동로 320 (항동, 성공회대학교)"
-    }
+    },
+    "univCd": "100240"
   },
   {
     "id": "sungkyunkwan",
@@ -5900,7 +6079,8 @@
       "website": "https://www.skku.edu",
       "phone": "02-760-0114",
       "address": "서울특별시 종로구 성균관로 25-2 (명륜3가, 성균관대학교)"
-    }
+    },
+    "univCd": "100241"
   },
   {
     "id": "sungshin-women-s",
@@ -5929,7 +6109,8 @@
       "website": "https://www.sungshin.ac.kr",
       "phone": "02-920-7114",
       "address": "서울특별시 성북구 보문로34다길 2 (돈암동, 성신여자대학교)"
-    }
+    },
+    "univCd": "100244"
   },
   {
     "id": "semyung",
@@ -5958,7 +6139,8 @@
       "website": "https://www.semyung.ac.kr",
       "phone": "043-645-1125",
       "address": "충청북도 제천시 세명로 65 (신월동, 세명대학교)"
-    }
+    },
+    "univCd": "100249"
   },
   {
     "id": "sejong",
@@ -5987,7 +6169,8 @@
       "website": "https://www.sejong.ac.kr",
       "phone": "02-3408-3114",
       "address": "서울특별시 광진구 능동로 209 (군자동, 세종대학교)"
-    }
+    },
+    "univCd": "100250"
   },
   {
     "id": "sehan",
@@ -6016,7 +6199,8 @@
       "website": "https://www.sehan.ac.kr",
       "phone": "061-469-1114",
       "address": "전라남도 영암군 삼호읍 녹색로 1113 (산호리, 세한대학교)"
-    }
+    },
+    "univCd": "100252"
   },
   {
     "id": "songwon",
@@ -6045,7 +6229,8 @@
       "website": "https://www.songwon.ac.kr",
       "phone": "062-360-5700",
       "address": "광주광역시 남구 송암로 73 (송하동, 송원대학)"
-    }
+    },
+    "univCd": "100254"
   },
   {
     "id": "suwon-catholic",
@@ -6074,7 +6259,8 @@
       "website": "https://www.suwoncatholic.ac.kr",
       "phone": "031-290-8821",
       "address": "경기도 화성시 봉담읍 왕림1길 67 (왕림리, 수원가톨릭대학교)"
-    }
+    },
+    "univCd": "100257"
   },
   {
     "id": "suwon",
@@ -6103,7 +6289,8 @@
       "website": "https://www.suwon.ac.kr",
       "phone": "031-220-2114",
       "address": "경기도 화성시 봉담읍 와우안길 17 (와우리, 수원대학교)"
-    }
+    },
+    "univCd": "100259"
   },
   {
     "id": "sookmyung-women-s",
@@ -6132,7 +6319,8 @@
       "website": "https://www.sookmyung.ac.kr/",
       "phone": "02-710-9114",
       "address": "서울특별시 용산구 청파로47길 90 (청파동2가, 숙명여자대학교)"
-    }
+    },
+    "univCd": "100261"
   },
   {
     "id": "korea-christian",
@@ -6161,7 +6349,8 @@
       "website": "https://www.kcc.ac.kr",
       "phone": "043-645-5571",
       "address": "충청북도 제천시 덕산면 도전로 320 (도전리)"
-    }
+    },
+    "univCd": "100263"
   },
   {
     "id": "soonchunhyang",
@@ -6190,7 +6379,8 @@
       "website": "https://www.sch.ac.kr/",
       "phone": "041-530-1114",
       "address": "충청남도 아산시 신창면 순천향로 22 (읍내리, 순천향대학교)"
-    }
+    },
+    "univCd": "100266"
   },
   {
     "id": "soongsil",
@@ -6219,7 +6409,8 @@
       "website": "https://www.ssu.ac.kr",
       "phone": "02-820-0114",
       "address": "서울특별시 동작구 상도로 369 (상도동, 숭실대학교)"
-    }
+    },
+    "univCd": "100267"
   },
   {
     "id": "singyeongju",
@@ -6248,7 +6439,8 @@
       "website": "https://www.gju.ac.kr",
       "phone": "054-770-5114",
       "address": "경상북도 경주시 태종로 188 (효현동, 경주대학교)"
-    }
+    },
+    "univCd": "100060"
   },
   {
     "id": "silla",
@@ -6277,7 +6469,8 @@
       "website": "https://www.silla.ac.kr",
       "phone": "051-999-5000",
       "address": "부산광역시 사상구 백양대로700번길 140 (괘법동, 신라대학교)"
-    }
+    },
+    "univCd": "100272"
   },
   {
     "id": "shinhan-unvirsity",
@@ -6364,7 +6557,8 @@
       "website": "https://www.acts.ac.kr",
       "phone": "031-770-7700",
       "address": "경기도 양평군 옥천면 경강로 1276"
-    }
+    },
+    "univCd": "100278"
   },
   {
     "id": "ajou",
@@ -6393,7 +6587,8 @@
       "website": "https://www.ajou.ac.kr",
       "phone": "031-219-2114",
       "address": "경기도 수원시 영통구 월드컵로 206 (원천동, 아주대학교)"
-    }
+    },
+    "univCd": "100279"
   },
   {
     "id": "anyang",
@@ -6480,7 +6675,8 @@
       "website": "https://www.yonsei.ac.kr",
       "phone": "1599-1885",
       "address": "서울특별시 서대문구 연세로 50 (신촌동, 연세대학교)"
-    }
+    },
+    "univCd": "100289"
   },
   {
     "id": "yonsei-mirae-campus",
@@ -6509,7 +6705,8 @@
       "website": "https://www.yonsei.ac.kr/wj",
       "phone": "033-760-2114",
       "address": "강원특별자치도 원주시 흥업면 연세대길 1"
-    }
+    },
+    "univCd": "100290"
   },
   {
     "id": "yeungnam",
@@ -6538,7 +6735,8 @@
       "website": "https://www.yu.ac.kr",
       "phone": "053-810-2114",
       "address": "경상북도 경산시 대학로 280 (대동, 영남대학교)"
-    }
+    },
+    "univCd": "100293"
   },
   {
     "id": "youngnam-ological-seminary",
@@ -6567,7 +6765,8 @@
       "website": "https://www.ytus.ac.kr",
       "phone": "053-850-0500",
       "address": "경상북도 경산시 진량읍 봉회1길 26 (봉회리, 영남신학대학교)"
-    }
+    },
+    "univCd": "100294"
   },
   {
     "id": "youngsan",
@@ -6654,7 +6853,8 @@
       "website": "https://www.youngsan.ac.kr",
       "phone": "061-350-6015",
       "address": "전라남도 영광군 백수읍 성지로 1357 (길용리)"
-    }
+    },
+    "univCd": "530840"
   },
   {
     "id": "jesus",
@@ -6683,7 +6883,8 @@
       "website": "https://www.jesus.ac.kr",
       "phone": "063-230-7700",
       "address": "전북특별자치도 전주시 완산구 서원로 383 (중화산동1가, 예수대학교)"
-    }
+    },
+    "univCd": "100304"
   },
   {
     "id": "yewon-arts",
@@ -6799,7 +7000,8 @@
       "website": "https://www.woosuk.ac.kr",
       "phone": "063-290-1114",
       "address": "전북특별자치도 완주군 삼례읍 삼례로 443 (후정리, 우석대학교)"
-    }
+    },
+    "univCd": "100312"
   },
   {
     "id": "woosong",
@@ -6828,7 +7030,8 @@
       "website": "https://www.wsu.ac.kr",
       "phone": "042-630-9600",
       "address": "대전광역시 동구 동대전로 171 (자양동, 우송정보대학)"
-    }
+    },
+    "univCd": "100313"
   },
   {
     "id": "woosong",
@@ -6886,7 +7089,8 @@
       "website": "https://www.unist.ac.kr",
       "phone": "052-217-0114",
       "address": "울산광역시 울주군 언양읍 유니스트길 50 (반연리, 울산과학기술원)"
-    }
+    },
+    "univCd": "100316"
   },
   {
     "id": "ulsan",
@@ -6944,7 +7148,8 @@
       "website": "https://www.wku.ac.kr",
       "phone": "063-850-5114",
       "address": "전북특별자치도 익산시 익산대로 460 (신동, 원광대학교)"
-    }
+    },
+    "univCd": "100320"
   },
   {
     "id": "uiduk",
@@ -6973,7 +7178,8 @@
       "website": "https://www.uu.ac.kr",
       "phone": "054-760-1096",
       "address": "경상북도 경주시 강동면 동해대로 261 (유금리, 위덕대학교)"
-    }
+    },
+    "univCd": "100325"
   },
   {
     "id": "u1",
@@ -7118,7 +7324,8 @@
       "website": "https://www.ewha.ac.kr",
       "phone": "02-3277-2114",
       "address": "서울특별시 서대문구 이화여대길 52 (대현동, 이화여자대학교)"
-    }
+    },
+    "univCd": "100332"
   },
   {
     "id": "inje",
@@ -7263,7 +7470,8 @@
       "website": "https://www.inu.ac.kr/",
       "phone": "032-835-8114",
       "address": "인천광역시 연수구 아카데미로 119 (송도동, 인천대학교)"
-    }
+    },
+    "univCd": "100338"
   },
   {
     "id": "inha",
@@ -7292,7 +7500,8 @@
       "website": "https://www.inha.ac.kr",
       "phone": "032-860-7114",
       "address": "인천광역시 미추홀구 인하로 100(용현동)"
-    }
+    },
+    "univCd": "100341"
   },
   {
     "id": "presbyterian-ological-seminary",
@@ -7321,7 +7530,8 @@
       "website": "https://www.puts.ac.kr",
       "phone": "02-450-0700",
       "address": "서울특별시 광진구 광장로5길 25-1 (광장동, 장로회신학대학교)"
-    }
+    },
+    "univCd": "100343"
   },
   {
     "id": "chonnam-national",
@@ -7350,7 +7560,8 @@
       "website": "https://www.chonnam.ac.kr",
       "phone": "062-530-5114",
       "address": "광주광역시 북구 용봉로 45 (용봉동, 전남대학교)"
-    }
+    },
+    "univCd": "100347"
   },
   {
     "id": "chonnam-national",
@@ -7379,7 +7590,8 @@
       "website": "https://www.chonnam.ac.kr",
       "phone": "061-659-6114",
       "address": "전라남도 여수시 대학로 50 (둔덕동, 전남대학교여수캠퍼스)"
-    }
+    },
+    "univCd": "100347"
   },
   {
     "id": "jeonbuk-national",
@@ -7408,7 +7620,8 @@
       "website": "https://www.jbnu.ac.kr",
       "phone": "063-270-2114",
       "address": "전북특별자치도 전주시 덕진구 백제대로 567 (금암동, 전북대학교)"
-    }
+    },
+    "univCd": "100351"
   },
   {
     "id": "jeonju-national-education",
@@ -7437,7 +7650,8 @@
       "website": "https://www.jnue.kr",
       "phone": "063-281-7114",
       "address": "전북특별자치도 전주시 완산구 서학로 50 (동서학동)"
-    }
+    },
+    "univCd": "100352"
   },
   {
     "id": "jeonju",
@@ -7466,7 +7680,8 @@
       "website": "https://www.jj.ac.kr",
       "phone": "1577-7177",
       "address": "전북특별자치도 전주시 완산구 천잠로 303 (효자동2가, 전주대학교)"
-    }
+    },
+    "univCd": "100354"
   },
   {
     "id": "jungseok-technology",
@@ -7553,7 +7768,8 @@
       "website": "https://www.jejunu.ac.kr",
       "phone": "064-754-2114",
       "address": "제주특별자치도 제주시 제주대학로 102 (아라일동, 제주대학교)"
-    }
+    },
+    "univCd": "100360"
   },
   {
     "id": "chosun",
@@ -7582,7 +7798,8 @@
       "website": "https://www.chosun.ac.kr",
       "phone": "062-230-7114",
       "address": "광주광역시 동구 조선대길 146(서석동)"
-    }
+    },
+    "univCd": "100363"
   },
   {
     "id": "joongbu",
@@ -7611,7 +7828,8 @@
       "website": "https://www.joongbu.ac.kr",
       "phone": "041-750-6500",
       "address": "충청남도 금산군 추부면 대학로 201 (마전리, 중부대학교)"
-    }
+    },
+    "univCd": "100366"
   },
   {
     "id": "chung-ang",
@@ -7698,7 +7916,8 @@
       "website": "https://admission.sangha.ac.kr",
       "phone": "031-980-7709",
       "address": "경기도 김포시 승가로 123 (풍무동)"
-    }
+    },
+    "univCd": "100369"
   },
   {
     "id": "jungwon",
@@ -7727,7 +7946,8 @@
       "website": "https://www.jwu.ac.kr",
       "phone": "043-830-8114",
       "address": "충청북도 괴산군 괴산읍 문무로 85 (동부리, 중원대학교)"
-    }
+    },
+    "univCd": "100370"
   },
   {
     "id": "chinju-national-uinversity-education",
@@ -7756,7 +7976,8 @@
       "website": "https://www.cue.ac.kr",
       "phone": "055-740-1114",
       "address": "경상남도 진주시 진양호로369번길 3 (신안동, 진주교육대학교)"
-    }
+    },
+    "univCd": "100371"
   },
   {
     "id": "jinju-national",
@@ -7814,7 +8035,8 @@
       "website": "https://www.cha.ac.kr",
       "phone": "1899-2010",
       "address": "경기도 포천시 해룡로 120 (동교동, 포천중문의과대학)"
-    }
+    },
+    "univCd": "100373"
   },
   {
     "id": "changshin",
@@ -7843,7 +8065,8 @@
       "website": "https://www.cs.ac.kr",
       "phone": "055-250-3001",
       "address": "경상남도 창원시 마산회원구 팔용로 262 (합성동, 창신대학)"
-    }
+    },
+    "univCd": "100374"
   },
   {
     "id": "chungwoon",
@@ -7872,7 +8095,8 @@
       "website": "https://www.chungwoon.ac.kr",
       "phone": "041-630-3114",
       "address": "충청남도 홍성군 홍성읍 대학길 25 (남장리, 청운대학교)"
-    }
+    },
+    "univCd": "100379"
   },
   {
     "id": "chongjunationaleducation",
@@ -7901,7 +8125,8 @@
       "website": "https://www.cje.ac.kr",
       "phone": "043-299-0632",
       "address": "충청북도 청주시 서원구 청남로 2065 (수곡동, 청주교육대학교)"
-    }
+    },
+    "univCd": "100381"
   },
   {
     "id": "cheongju",
@@ -7930,7 +8155,8 @@
       "website": "https://www.cju.ac.kr",
       "phone": "043-229-8114",
       "address": "충청북도 청주시 청원구 대성로 298 (내덕동, 청주대학교)"
-    }
+    },
+    "univCd": "100382"
   },
   {
     "id": "chodang",
@@ -7988,7 +8214,8 @@
       "website": "https://www.chongshin.ac.kr",
       "phone": "02-3479-0200",
       "address": "서울특별시 동작구 사당로 143 (사당동, 총신대학교)"
-    }
+    },
+    "univCd": "100384"
   },
   {
     "id": "chugye-for-arts",
@@ -8017,7 +8244,8 @@
       "website": "https://www.chugye.ac.kr",
       "phone": "02-362-5700",
       "address": "서울특별시 서대문구 북아현로11가길 7 (북아현동, 추계예술대학교)"
-    }
+    },
+    "univCd": "100385"
   },
   {
     "id": "chuncheon-national-education",
@@ -8046,7 +8274,8 @@
       "website": "https://www.cnue.ac.kr",
       "phone": "033-260-6000",
       "address": "강원특별자치도 춘천시 공지로 126 (석사동)"
-    }
+    },
+    "univCd": "100386"
   },
   {
     "id": "chungnam-national",
@@ -8075,7 +8304,8 @@
       "website": "https://www.cnu.ac.kr",
       "phone": "042-821-5114",
       "address": "대전광역시 유성구 대학로 99 (궁동, 충남대학교)"
-    }
+    },
+    "univCd": "100388"
   },
   {
     "id": "chungbuk-national",
@@ -8104,7 +8334,8 @@
       "website": "https://www.chungbuk.ac.kr",
       "phone": "043-261-2114",
       "address": "충청북도 청주시 서원구 충대로 1 (개신동, 충북대학교)"
-    }
+    },
+    "univCd": "100390"
   },
   {
     "id": "calvin",
@@ -8162,7 +8393,8 @@
       "website": "https://www.tnu.ac.kr",
       "phone": "064-754-0215",
       "address": "제주특별자치도 서귀포시 1100로 506-1 (하원동, 탐라대학교)"
-    }
+    },
+    "univCd": "100397"
   },
   {
     "id": "pyeongtaek",
@@ -8191,7 +8423,8 @@
       "website": "https://www.ptu.ac.kr",
       "phone": "031-659-8114",
       "address": "경기도 평택시 서동대로 3825 (용이동, 평택대학교)"
-    }
+    },
+    "univCd": "100399"
   },
   {
     "id": "pohang-science-technology-postech",
@@ -8220,7 +8453,8 @@
       "website": "https://www.postech.ac.kr",
       "phone": "054-279-0114",
       "address": "경상북도 포항시 남구 청암로 77 (지곡동, 포항공과대학교)"
-    }
+    },
+    "univCd": "100400"
   },
   {
     "id": "hankyong-national",
@@ -8278,7 +8512,8 @@
       "website": "https://www.tukorea.ac.kr",
       "phone": "031-8041-1000",
       "address": "경기도 시흥시 산기대학로 237 (정왕동)"
-    }
+    },
+    "univCd": "100405"
   },
   {
     "id": "korea-advanced-science-technology-kaist",
@@ -8307,7 +8542,8 @@
       "website": "https://www.kaist.ac.kr",
       "phone": "042-350-2114",
       "address": "대전광역시 유성구 대학로 291 (구성동, 한국과학기술원)"
-    }
+    },
+    "univCd": "100406"
   },
   {
     "id": "korea-national-education",
@@ -8336,7 +8572,8 @@
       "website": "https://www.knue.ac.kr",
       "phone": "043-230-3114",
       "address": "충청북도 청주시 흥덕구 강내면 태성탑연로 250 (다락리, 한국교원대학교)"
-    }
+    },
+    "univCd": "100408"
   },
   {
     "id": "korea-technology-education",
@@ -8365,7 +8602,8 @@
       "website": "https://www.koreatech.ac.kr",
       "phone": "041-560-1114",
       "address": "충청남도 천안시 동남구 병천면 충절로 1600 (가전리, 한국기술교육대학교)"
-    }
+    },
+    "univCd": "100413"
   },
   {
     "id": "korean-bible",
@@ -8394,7 +8632,8 @@
       "website": "https://www.bible.ac.kr",
       "phone": "02-950-5424",
       "address": "서울특별시 노원구 동일로214길 32 (상계동, 한국성서대학교)"
-    }
+    },
+    "univCd": "100421"
   },
   {
     "id": "korea-energy-technology",
@@ -8423,7 +8662,8 @@
       "website": "https://www.kentech.ac.kr/",
       "phone": "061-320-9551",
       "address": "전라남도 나주시 켄텍길 21(빛가람동)"
-    }
+    },
+    "univCd": "100423"
   },
   {
     "id": "korea-national-arts",
@@ -8452,7 +8692,8 @@
       "website": "https://Karts.ac.kr/",
       "phone": "02-746-9067",
       "address": "서울특별시 성북구 화랑로32길 146-37 (석관동, 한국종합예술학교)"
-    }
+    },
+    "univCd": "100426"
   },
   {
     "id": "hankuk-foreign-studies",
@@ -8481,7 +8722,8 @@
       "website": "https://www.hufs.ac.kr",
       "phone": "02-2173-2114",
       "address": "서울특별시 동대문구 이문로 107 (이문동, 한국외국어대학교)"
-    }
+    },
+    "univCd": "100427"
   },
   {
     "id": "korea-national-cultural-heritage",
@@ -8510,7 +8752,8 @@
       "website": "https://www.knuh.ac.kr",
       "phone": "041-830-7114",
       "address": "충청남도 부여군 규암면 백제문로 367 (합정리, 한국전통문화대학교)"
-    }
+    },
+    "univCd": "100431"
   },
   {
     "id": "korea-national-sport",
@@ -8539,7 +8782,8 @@
       "website": "https://www.knsu.ac.kr/",
       "phone": "02-410-6700",
       "address": "서울특별시 송파구 양재대로 1239 (방이동, 한국체육대학교)"
-    }
+    },
+    "univCd": "100435"
   },
   {
     "id": "korea-baptist-ological-seminary",
@@ -8568,7 +8812,8 @@
       "website": "https://www.kbtus.ac.kr",
       "phone": "042-828-3114",
       "address": "대전광역시 유성구 북유성대로 190 (하기동, 침례신학대학)"
-    }
+    },
+    "univCd": "100436"
   },
   {
     "id": "korea-aerospace",
@@ -8597,7 +8842,8 @@
       "website": "https://www.kau.ac.kr",
       "phone": "02-300-0114",
       "address": "경기도 고양시 덕양구 항공대학로 76 (화전동, 한국항공대학교)"
-    }
+    },
+    "univCd": "100471"
   },
   {
     "id": "hannam",
@@ -8626,7 +8872,8 @@
       "website": "https://www.hannam.ac.kr",
       "phone": "042-629-7114",
       "address": "대전광역시 대덕구 한남로 70 (오정동, 한남대학교)"
-    }
+    },
+    "univCd": "100473"
   },
   {
     "id": "hong-global",
@@ -8655,7 +8902,8 @@
       "website": "https://www.handong.edu",
       "phone": "054-260-1111",
       "address": "경상북도 포항시 북구 흥해읍 한동로 558 (남송리, 한동대학교)"
-    }
+    },
+    "univCd": "100474"
   },
   {
     "id": "halla",
@@ -8684,7 +8932,8 @@
       "website": "https://www.halla.ac.kr",
       "phone": "033-760-1114",
       "address": "강원특별자치도 원주시 흥업면 한라대길 28"
-    }
+    },
+    "univCd": "100475"
   },
   {
     "id": "hanlyo",
@@ -8742,7 +8991,8 @@
       "website": "https://www.hallym.ac.kr",
       "phone": "033-248-1000",
       "address": "강원특별자치도 춘천시 한림대학길 1 (옥천동)"
-    }
+    },
+    "univCd": "100478"
   },
   {
     "id": "hanbat-national",
@@ -8829,7 +9079,8 @@
       "website": "https://www.hanseo.ac.kr",
       "phone": "041-660-1144",
       "address": "충청남도 서산시 해미면 한서1로 46 (대곡리, 한서대학교)"
-    }
+    },
+    "univCd": "100483"
   },
   {
     "id": "hansung",
@@ -8887,7 +9138,8 @@
       "website": "https://www.hansei.ac.kr",
       "phone": "031-450-5114",
       "address": "경기도 군포시 한세로 30 (당정동)"
-    }
+    },
+    "univCd": "100485"
   },
   {
     "id": "hanshin",
@@ -8916,7 +9168,8 @@
       "website": "https://www.hs.ac.kr",
       "phone": "031-379-0114",
       "address": "경기도 오산시 한신대길 137 (양산동, 한신대학교)"
-    }
+    },
+    "univCd": "100486"
   },
   {
     "id": "hanyang",
@@ -8945,7 +9198,8 @@
       "website": "https://www.hanyang.ac.kr",
       "phone": "02-2220-0114",
       "address": "서울특별시 성동구 왕십리로 222 (사근동, 한양대학교)"
-    }
+    },
+    "univCd": "100487"
   },
   {
     "id": "hanyang-erica-campus",
@@ -8974,7 +9228,8 @@
       "website": "https://www.hanyang.ac.kr",
       "phone": "031-400-5114",
       "address": "경기도 안산시 상록구 한양대학로 55 (사동, 한양대학교)"
-    }
+    },
+    "univCd": "100488"
   },
   {
     "id": "haniluniv-presb-ol-sem",
@@ -9061,7 +9316,8 @@
       "website": "https://www.uhs.ac.kr",
       "phone": "031-299-0900",
       "address": "경기도 화성시 봉담읍 최루백로 72 (상리, 협성대학교)"
-    }
+    },
+    "univCd": "100496"
   },
   {
     "id": "honam",
@@ -9090,7 +9346,8 @@
       "website": "https://www.honam.ac.kr",
       "phone": "062-940-5000",
       "address": "광주광역시 광산구 호남대길 120 (서봉동, 호남대학본부)"
-    }
+    },
+    "univCd": "100498"
   },
   {
     "id": "honam-ological-seminary",
@@ -9119,7 +9376,8 @@
       "website": "https://www.htus.ac.kr",
       "phone": "062-650-1552",
       "address": "광주광역시 남구 제중로 77 (양림동, 호남신학대학교)"
-    }
+    },
+    "univCd": "100499"
   },
   {
     "id": "hoseo",
@@ -9148,7 +9406,8 @@
       "website": "https://www.hoseo.ac.kr",
       "phone": "041-540-5114",
       "address": "충청남도 아산시 배방읍 호서로79번길 20 (세출리, 호서대학교)"
-    }
+    },
+    "univCd": "100501"
   },
   {
     "id": "howon",
@@ -9177,7 +9436,8 @@
       "website": "https://www.howon.ac.kr",
       "phone": "063-450-7114",
       "address": "전북특별자치도 군산시 임피면 호원대3길 64 (월하리, 호원대학교)"
-    }
+    },
+    "univCd": "100502"
   },
   {
     "id": "hongik",
@@ -9293,7 +9553,8 @@
       "website": "https://www.ict.ac.kr",
       "phone": "031-764-3301",
       "address": "경기도 광주시 순암로 16-26 (역동)"
-    }
+    },
+    "univCd": "100001"
   },
   {
     "id": "catholic-sangji",
@@ -9320,7 +9581,8 @@
       "website": "https://www.csj.ac.kr",
       "phone": "054-851-3000",
       "address": "경상북도 안동시 상지길 45 (율세동, 가톨릭상지대학교)"
-    }
+    },
+    "univCd": "100012"
   },
   {
     "id": "gangdong",
@@ -9347,7 +9609,8 @@
       "website": "https://www.gangdong.ac.kr",
       "phone": "043-879-3300",
       "address": "충청북도 음성군 감곡면 대학길 278 (단평리, 강동대학교)"
-    }
+    },
+    "univCd": "100015"
   },
   {
     "id": "gangneung-yeongdong",
@@ -9374,7 +9637,8 @@
       "website": "https://www.gyu.ac.kr",
       "phone": "033-610-0114",
       "address": "강원특별자치도 강릉시 공제로 357 (홍제동)"
-    }
+    },
+    "univCd": "100016"
   },
   {
     "id": "kangwon-tourism",
@@ -9428,7 +9692,8 @@
       "website": "https://www.gw.ac.kr",
       "phone": "033-660-8000",
       "address": "강원특별자치도 강릉시 주문진읍 연주로 270"
-    }
+    },
+    "univCd": "100022"
   },
   {
     "id": "geoje",
@@ -9455,7 +9720,8 @@
       "website": "https://www.koje.ac.kr",
       "phone": "055-680-1504",
       "address": "경상남도 거제시 마전1길 91 (장승포동, 거제대학)"
-    }
+    },
+    "univCd": "100024"
   },
   {
     "id": "gyeonggi-science-technology",
@@ -9482,7 +9748,8 @@
       "website": "https://www.gtec.ac.kr",
       "phone": "031-496-4532",
       "address": "경기도 시흥시 경기과기대로 269 (정왕동, 경기과학기술대학교)"
-    }
+    },
+    "univCd": "100033"
   },
   {
     "id": "kaya",
@@ -9511,7 +9778,8 @@
       "website": "https://WWW.KAYA.AC.KR",
       "phone": "055-330-1000",
       "address": "경상북도 고령군 대가야읍 대가야로 1103 (지산리, 가야대학교)"
-    }
+    },
+    "univCd": "100003"
   },
   {
     "id": "kaya",
@@ -9540,7 +9808,8 @@
       "website": "https://WWW.KAYA.AC.KR",
       "phone": "055-330-1000",
       "address": "경상남도 김해시 삼계로 208 (삼계동)"
-    }
+    },
+    "univCd": "100002"
   },
   {
     "id": "gachon",
@@ -9569,7 +9838,8 @@
       "website": "https://www.gachon.ac.kr",
       "phone": "031-750-5114",
       "address": "경기도 성남시 수정구 성남대로 1342 (복정동, 가천대학교)"
-    }
+    },
+    "univCd": "100004"
   },
   {
     "id": "catholic-kwong",
@@ -9627,7 +9897,8 @@
       "website": "https://www.kkot.ac.kr",
       "phone": "043-270-0109",
       "address": "충청북도 청주시 서원구 현도면 상삼길 133 (상삼리, 꽃동네대학교)"
-    }
+    },
+    "univCd": "100112"
   },
   {
     "id": "catholic-korea",
@@ -9743,7 +10014,8 @@
       "website": "https://www.mtu.ac.kr",
       "phone": "02-361-9257",
       "address": "서울특별시 서대문구 독립문로 56 (냉천동, 감리교신학대학)"
-    }
+    },
+    "univCd": "100013"
   },
   {
     "id": "kangnam",
@@ -9772,7 +10044,8 @@
       "website": "https://www.kangnam.ac.kr",
       "phone": "031-280-3500",
       "address": "경기도 용인시 기흥구 강남로 40 (구갈동, 강남대학교)"
-    }
+    },
+    "univCd": "100014"
   },
   {
     "id": "gangseo",
@@ -9801,7 +10074,8 @@
       "website": "https://gangseo.ac.kr",
       "phone": "02-2600-2400",
       "address": "서울특별시 강서구 까치산로24길 47 (화곡동, 케이씨대학교)"
-    }
+    },
+    "univCd": "100396"
   },
   {
     "id": "kangwon-national",
@@ -9888,7 +10162,8 @@
       "website": "https://www.konkuk.ac.kr",
       "phone": "02-450-3114",
       "address": "서울특별시 광진구 능동로 120 (화양동, 건국대학교)"
-    }
+    },
+    "univCd": "100026"
   },
   {
     "id": "konkuk",
@@ -9917,7 +10192,8 @@
       "website": "https://www.kku.ac.kr",
       "phone": "043-840-3114",
       "address": "충청북도 충주시 충원대로 268 (단월동, 건국대학교 글로컬캠퍼스)"
-    }
+    },
+    "univCd": "100027"
   },
   {
     "id": "konyang",
@@ -10062,7 +10338,8 @@
       "website": "https://www.gntech.ac.kr",
       "phone": "055-751-3114",
       "address": "경상남도 진주시 동진로 33 (칠암동, 경남과학기술대학교)"
-    }
+    },
+    "univCd": "100036"
   },
   {
     "id": "kyungnam",
@@ -10091,7 +10368,8 @@
       "website": "https://www.kyungnam.ac.kr",
       "phone": "055-245-5000",
       "address": "경상남도 창원시 마산합포구 경남대학로 7 (월영동, 경남대학교)"
-    }
+    },
+    "univCd": "100037"
   },
   {
     "id": "kyungdong",
@@ -10236,7 +10514,8 @@
       "website": "https://www.knu.ac.kr",
       "phone": "053-950-5114",
       "address": "대구광역시 북구 대학로 80 (산격동, 경북대학교)"
-    }
+    },
+    "univCd": "100047"
   },
   {
     "id": "gyeongsang-national",
@@ -10265,7 +10544,8 @@
       "website": "https://www.gnu.ac.kr",
       "phone": "055-772-1114",
       "address": "경상남도 진주시 진주대로 501 (가좌동)"
-    }
+    },
+    "univCd": "100051"
   },
   {
     "id": "kyungsung",
@@ -10294,7 +10574,8 @@
       "website": "https://ks.ac.kr",
       "phone": "051-663-4114",
       "address": "부산광역시 남구 수영로 309 (대연동, 경성대학교)"
-    }
+    },
+    "univCd": "100052"
   },
   {
     "id": "kyungwoon",
@@ -10323,7 +10604,8 @@
       "website": "https://www.ikw.ac.kr",
       "phone": "054-479-1114",
       "address": "경상북도 구미시 산동면 강동로 730 (인덕리, 경운대학교)"
-    }
+    },
+    "univCd": "100054"
   },
   {
     "id": "kyungwoon",
@@ -10439,7 +10721,8 @@
       "website": "https://www.kiu.ac.kr",
       "phone": "053-600-4000",
       "address": "경상북도 경산시 하양읍 가마실길 50 (부호리, 경일대학교)"
-    }
+    },
+    "univCd": "100059"
   },
   {
     "id": "kyung-hee",
@@ -10468,7 +10751,8 @@
       "website": "https://www.khu.ac.kr",
       "phone": "02-961-0114",
       "address": "서울특별시 동대문구 경희대로 26 (회기동, 경희대학교)"
-    }
+    },
+    "univCd": "100061"
   },
   {
     "id": "keimyung",
@@ -10497,7 +10781,8 @@
       "website": "https://www.kmu.ac.kr",
       "phone": "053-580-5114",
       "address": "대구광역시 달서구 달구벌대로 1095 (신당동, 계명대학교성서캠퍼스)"
-    }
+    },
+    "univCd": "100065"
   },
   {
     "id": "korea",
@@ -10526,7 +10811,8 @@
       "website": "https://www.korea.ac.kr",
       "phone": "02-3290-1114",
       "address": "서울특별시 성북구 안암로 145 (안암동5가, 고려대학교안암캠퍼스(인문사회계))"
-    }
+    },
+    "univCd": "100070"
   },
   {
     "id": "korea-sejong-campus",
@@ -10555,7 +10841,8 @@
       "website": "https://sejong.korea.ac.kr",
       "phone": "044-860-1114",
       "address": "세종특별자치시 조치원읍 세종로 2511 (서창리, 고려대학교세종캠퍼스)"
-    }
+    },
+    "univCd": "100071"
   },
   {
     "id": "kosin",
@@ -10584,7 +10871,8 @@
       "website": "https://www.kosin.ac.kr",
       "phone": "051-990-2114",
       "address": "부산광역시 영도구 와치로 194 (동삼동, 고신대학교)"
-    }
+    },
+    "univCd": "100073"
   },
   {
     "id": "gongju-national-education",
@@ -10613,7 +10901,8 @@
       "website": "https://www.gjue.ac.kr",
       "phone": "041-850-1377",
       "address": "충청남도 공주시 웅진로 27 (봉황동, 공주교육대학교)"
-    }
+    },
+    "univCd": "100074"
   },
   {
     "id": "kwangshin",
@@ -10642,7 +10931,8 @@
       "website": "https://www.kwangshin.ac.kr",
       "phone": "062-605-1004",
       "address": "광주광역시 북구 양산택지소로 36 (본촌동, 광신대학교)"
-    }
+    },
+    "univCd": "100078"
   },
   {
     "id": "kwangwoon",
@@ -10671,7 +10961,8 @@
       "website": "https://www.kw.ac.kr",
       "phone": "02-940-5026",
       "address": "서울특별시 노원구 광운로 20 (월계동, 광운대학교)"
-    }
+    },
+    "univCd": "100080"
   },
   {
     "id": "gwangju-catholic",
@@ -10700,7 +10991,8 @@
       "website": "https://www.gjc.ac.kr",
       "phone": "061-337-2181",
       "address": "전라남도 나주시 남평읍 중남길 12-25 (남석리, 광주가톨릭대학교)"
-    }
+    },
+    "univCd": "100081"
   },
   {
     "id": "gwangju-science-technology",
@@ -10729,7 +11021,8 @@
       "website": "https://www.gist.ac.kr",
       "phone": "062-715-2114",
       "address": "광주광역시 북구 첨단과기로 123 (오룡동, 광주과학기술원)"
-    }
+    },
+    "univCd": "100082"
   },
   {
     "id": "gwangju-national-education",
@@ -10758,7 +11051,8 @@
       "website": "https://www.gnue.ac.kr",
       "phone": "062-520-4114",
       "address": "광주광역시 북구 필문대로 55 (풍향동, 광주교육대학교)"
-    }
+    },
+    "univCd": "100083"
   },
   {
     "id": "gwangju",
@@ -10787,7 +11081,8 @@
       "website": "https://www.gwangju.ac.kr",
       "phone": "062-670-2114",
       "address": "광주광역시 남구 효덕로 277 (진월동, 광주대학교)"
-    }
+    },
+    "univCd": "100084"
   },
   {
     "id": "kwangju-women-s",
@@ -10816,7 +11111,8 @@
       "website": "https://www.kwu.ac.kr",
       "phone": "062-956-2500",
       "address": "광주광역시 광산구 광주여대길 40 (산정동)"
-    }
+    },
+    "univCd": "100086"
   },
   {
     "id": "gangneung-wonju-national",

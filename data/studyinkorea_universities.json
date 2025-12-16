@@ -1,0 +1,4852 @@
+{
+  "total": 431,
+  "universities": [
+    {
+      "univCd": "100249",
+      "nameKo": "세명대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "교육부지정유학생유치및관리인증최우수대학,정부장학생수학대학/한방융합바이오,디자인,IT가 강한대학, 세명대학교★☆★",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100341",
+      "nameKo": "인하대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "나의 브랜드, 나의 인하",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100094",
+      "nameKo": "국제대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "대한민국 반도체 클러스터의 중추기지로 도약하는 평택시 그 중심에 국제대학교가 있습니다.",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100052",
+      "nameKo": "경성대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "우수 외국인 유학생 관리학교로 인정, 많은 서비스 제공, 안전하고 편리한 위치, 영어 기반 전공들 제공, 저렴한 수업료, 1학년 2학기 부터 100% 장학금 혜택",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생",
+        "학사편입",
+        "석사편입",
+        "박사편입"
+      ]
+    },
+    {
+      "univCd": "100211",
+      "nameKo": "서울과학기술대학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "SeoulTech 서울 유일의 4년제 국립종합대학교, 합리적 등록금과 외국인 유학생을 위한 풍부한 장학금!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100377",
+      "nameKo": "청강문화산업대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100313",
+      "nameKo": "우송대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "우송대학교 - 3개의 인터내셔널 학교는 100% 영어로 진행됩니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100020",
+      "nameKo": "강원대학교(본교)",
+      "location": "강원도",
+      "type": "국립",
+      "description": "130여개의 다양한 전공, 합리적인 등록금, 서울 1시간 거리의 지역 거점 국립대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100318",
+      "nameKo": "울산대학교(본교)",
+      "location": "울산",
+      "type": "사립",
+      "description": "어디에 있어도 희망이 되는 이름, 울산대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100367",
+      "nameKo": "중앙대학교(본교)",
+      "location": "서울",
+      "type": "사립",
+      "description": "Study In Chung-Ang University one of the most prestigious universities in Korea!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100073",
+      "nameKo": "고신대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "담대한 혁신과 새로운 도전",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100186",
+      "nameKo": "부산가톨릭대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "가톨릭 정신을 바탕으로 하는 진리·사랑·봉사",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100351",
+      "nameKo": "전북대학교",
+      "location": "전라북도",
+      "type": "국립",
+      "description": "미래를 이끄는 전북대 Global TOP 100",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100098",
+      "nameKo": "수도국제대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100227",
+      "nameKo": "서울여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "미래와 공감하며 사람의 가치를 키우는 대학",
+      "degrees": [
+        "학사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100382",
+      "nameKo": "청주대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "CHEONGJU UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100080",
+      "nameKo": "광운대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "도약하라 광운! KW LEAP!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입",
+        "석사편입"
+      ]
+    },
+    {
+      "univCd": "730780",
+      "nameKo": "서울예술대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "21세기를 선도하는 세계수준의 예술교육과 신예술 창작활동을 펼칠 수 있는 대학",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100392",
+      "nameKo": "충북보건과학대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "학생이 행복한 대학, 잘 가르치는 대학, 잘 취업시키는 대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100403",
+      "nameKo": "한국개발연구원국제정책대학원대학교",
+      "location": "세종시",
+      "type": "사립",
+      "description": "KDI School, where the difference begins. No.1 Think tank in Asia, the 1st and only school in Korea to receive the NASPAA accreditation.",
+      "degrees": [
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100501",
+      "nameKo": "호서대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "호서대학교, 혁신으로 새로운 세상의 중심에 서다. AI와 SW를 바탕으로 한 교육 혁신과 지식의 융합을 실천하는 벤처정신으로 새로운 세상을 여는 호서대학교와 함께 빛나는 미래를 만들어 보세요!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100272",
+      "nameKo": "신라대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "신라에서 꿈을 펼쳐라. 글로벌 시대를 선도하는 지역창조대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100390",
+      "nameKo": "충북대학교",
+      "location": "충청북도",
+      "type": "국립",
+      "description": "THE Impact Rankings '양질의 교육' 국립거점대 공동 1위, 교육부 추진  '글로컬 대학 30' 사업 선정",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100104",
+      "nameKo": "극동대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "실전형 커리큘럼으로 극동답게, 실력있게! 이제 꿈꾸지 마세요, 꿈의 기지 극동에서 이루세요!",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100302",
+      "nameKo": "영진전문대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "모든 대학을 압도하다! 영진전문대학교",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100084",
+      "nameKo": "광주대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "미래를 품은 당신의 빛, 기업가정신 광주대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100241",
+      "nameKo": "성균관대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "Inspring Future, Grand Chanllenge / 2026 QS 세계대학순위 126위 & QS 아시아대학순위 16위, 2026 THE 세계대학순위 87위",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100015",
+      "nameKo": "강동대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100041",
+      "nameKo": "경동대학교(본교)",
+      "location": "강원도",
+      "type": "사립",
+      "description": "We lead the World with new traditions!",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100025",
+      "nameKo": "개신대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100152",
+      "nameKo": "동서대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "My Bright Future",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100200",
+      "nameKo": "삼육보건대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "최고의 직무능력을 갖춘 보건의료 분야 전문인재 양성",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100283",
+      "nameKo": "안산대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "''진심이 키운다. 나를 알아주는 대학 안산대학교\"",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100075",
+      "nameKo": "국립공주대학교",
+      "location": "충청남도",
+      "type": "국립",
+      "description": "반 세기에 걸쳐 구축된 풍부한 전통으로 양질의 교육을 제공하고, 저렴한 등록금으로 뛰어난 교육 서비스를 제공하는 국립공주대학교!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100187",
+      "nameKo": "부산경상대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100037",
+      "nameKo": "경남대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "꿈이 현실로 현실이 미래로",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100217",
+      "nameKo": "서울미디어대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "Nurturing creative talents who can realize new values in the future media field",
+      "degrees": [
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100387",
+      "nameKo": "춘해보건대학교",
+      "location": "울산",
+      "type": "사립",
+      "description": "세계적 수준의 보건의료·휴먼서비스 직업교육 혁신대학",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100149",
+      "nameKo": "동덕여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "성실과 고결을 바탕으로 창의적인 통합형 인재를 양성하는 교육의 완전성에 도전하는 동덕.",
+      "degrees": [
+        "학사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100339",
+      "nameKo": "재능대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "글로벌 센터",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100054",
+      "nameKo": "경운대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "KYUNGWOON UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100175",
+      "nameKo": "국립목포대학교",
+      "location": "전라남도",
+      "type": "국립",
+      "description": "힘이 넘치는 대학, 행복이 넘치는 대학",
+      "degrees": [
+        "학사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100269",
+      "nameKo": "숭의여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "세계의 중심 명동에서 글로벌 여성인재 양성",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100039",
+      "nameKo": "경남도립남해대학",
+      "location": "경상남도",
+      "type": "공립",
+      "description": "나의 꿈이 곧 직업이 되는 실무인재 양성 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100122",
+      "nameKo": "대구경북과학기술원",
+      "location": "대구",
+      "type": "국립",
+      "description": "혁신으로 세상을 바꾸는 융복합 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100140",
+      "nameKo": "대전보건대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "더 큰 미래를 더하고, 더 멋진 내일을 배우는 것 #Hi  Tomorrow!",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100102",
+      "nameKo": "국립군산대학교",
+      "location": "전라북도",
+      "type": "국립",
+      "description": "다함께 미래가치를 높이는 든든한 국립군산대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100470",
+      "nameKo": "한국학중앙연구원 한국학대학원",
+      "location": "경기도",
+      "type": "사립",
+      "description": "한국학 진흥을 위해 정부가 설립한 대학원",
+      "degrees": [
+        "석사",
+        "박사",
+        "비정규과정"
+      ]
+    },
+    {
+      "univCd": "100047",
+      "nameKo": "경북대학교",
+      "location": "대구",
+      "type": "국립",
+      "description": "No.1 National University in Korea! Best Quality Education with Affordable Tuition",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100086",
+      "nameKo": "광주여자대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "광주여자대학교 외국인 유학생 입학안내",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100332",
+      "nameKo": "이화여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "글로벌 명문사학 이화는 선한 영향력을 바탕으로 창조적이고 포용적인 혁신을 통해  사람 중심의 가치를 창출하며 시대의 변화를  선도해 나갈 것입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100475",
+      "nameKo": "한라대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "HL그룹이 만들고 지원하는 채용형 기업대학",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100155",
+      "nameKo": "동아대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "당신의 역사를 만드는 동아대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100360",
+      "nameKo": "제주대학교",
+      "location": "제주도",
+      "type": "국립",
+      "description": "함께 만드는 미래, 새로움을 향한 도약",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100498",
+      "nameKo": "호남대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "꿈을 이루는 행복한 대학",
+      "degrees": [
+        "학사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100111",
+      "nameKo": "김해대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "차별적 역량의 현장중심 건강보건복지 특성화 대학",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100276",
+      "nameKo": "신한대학교(본교)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "“UNI-VERSITY를 넘어 NEW-VERSITY로”",
+      "degrees": [
+        "학사",
+        "석사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100114",
+      "nameKo": "남부대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100127",
+      "nameKo": "대구보건대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "지역사회 상생 가치 창출의 글로컬 보건의료·산업 특성화 대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100268",
+      "nameKo": "숭실사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "최초이자 최고의 사이버대학! 콘텐츠가 강한 대학!(온라인 수업으로 4년제 학위취득)",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100145",
+      "nameKo": "동강대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "\"동강이 만드는 인재, 인재가 만드는 미래\" 동강대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100256",
+      "nameKo": "수성대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "뷰티, 조리/제과제빵, IT계열 특성화 대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100266",
+      "nameKo": "순천향대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "미래 한국을 선도하는 존경받는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100271",
+      "nameKo": "신구대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "\"서울 근교, 성남시에 위치\"한 직업교육의 최고 브랜드 신구대학교는 언제나 시대가 요구하는 역량 있는 전문인을 배출해왔습니다. 앞으로도 신구대학교는 21세기를 이끌어갈 전문화된 인재 양성을 위해 멈추지 않고 노력할 것입니다.",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100430",
+      "nameKo": "한국전력국제원자력대학원대학교",
+      "location": "울산",
+      "type": "사립",
+      "description": "‘지도자급 에너지 전문가’ 양성 기관, KINGS",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100026",
+      "nameKo": "건국대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "건국, 세계를 이끌 녹색의 물결",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100338",
+      "nameKo": "인천대학교",
+      "location": "인천",
+      "type": "국립",
+      "description": "인천 송도국제도시에 위치한 국립대학이자 2009년 캠퍼스 조성, 최첨단 교육시설을 자랑하는 외국인이 유학하기 좋은 수도권 국립대학입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100065",
+      "nameKo": "계명대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "세계를 향해 빛을 여는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100091",
+      "nameKo": "국립암센터국제암대학원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Hub for Global Cancer Education and Research",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100147",
+      "nameKo": "동국대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "영화, 예술, 사회과학 분야 최고의 역사와 실력을 바탕으로 세계속 한류를 이끄는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100406",
+      "nameKo": "한국과학기술원",
+      "location": "대전",
+      "type": "공립",
+      "description": "#53 QS World University Rankings 2025 in the World / #24 QS World University by Subjects (Engineering & Technology)",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100090",
+      "nameKo": "국립경국대학교",
+      "location": "경상북도",
+      "type": "국립",
+      "description": "학생 역량 강화 경북거점국립대(S-CORE GKNU) 국립경국대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100414",
+      "nameKo": "국립한국농수산대학교",
+      "location": "전라북도",
+      "type": "국립",
+      "description": "미래 농어업을 선도하는  창의적 인재 육성 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100107",
+      "nameKo": "국립금오공과대학교",
+      "location": "경상북도",
+      "type": "국립",
+      "description": "국립금오공과대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100316",
+      "nameKo": "울산과학기술원",
+      "location": "울산",
+      "type": "국립",
+      "description": "The national leading research institute, 100% English classes and full tuition scholarships('24 CWTS Leiden Ranking 1st in Korea for 8 consecutive years, 150th in the world)",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100440",
+      "nameKo": "한국폴리텍 IV 대학 대전캠퍼스",
+      "location": "대전",
+      "type": "사립",
+      "description": "뿌리산업부터 신기술까지 다양한 교육서비스를 제공하기 위해 미래 유망 산업의 융복합 학과를 운영하고 있습니다.",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100460",
+      "nameKo": "한국폴리텍 VI 대학 대구캠퍼스",
+      "location": "대구",
+      "type": "사립",
+      "description": "한국폴리텍대학 대구캠퍼스는 일하고자 하는 사람은 누구나 일할 수 있도록 평생직업 능력개발에 앞장서고 있는 대학으로 고등학교 졸업(예정)자, 대졸 미취업자, 경력단절여성, 신중년, 외국인 등 다양한 세대를 위한 맞춤형 교육을 운영하고 있으며 국내 산업의 핵심 인력들을 양성하고",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100489",
+      "nameKo": "한양사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "한국유학도 온라인으로 시작하세요!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100289",
+      "nameKo": "연세대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "미래를 여는 연세다움",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100066",
+      "nameKo": "계명문화대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "계명대학교는 1962년 개교 이래 지속적으로 성장해 왔으며 고등직업교육기관으로서의 사명을 다해 왔습니다. 특히 전문성을 갖춘 인재를 양성하기 위해 교육의 우수성을 추구합니다.",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100296",
+      "nameKo": "영남이공대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "세계적 수준의 직업교육 중심대학 영남이공대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100190",
+      "nameKo": "부산대학교",
+      "location": "부산",
+      "type": "국립",
+      "description": "대한민국 최초&최고의 종합 국립 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100236",
+      "nameKo": "선린대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "바른 인성과 현장실무능력을 갖추고 도전하는 창의 인재",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100484",
+      "nameKo": "한성대학교(본교)",
+      "location": "서울",
+      "type": "사립",
+      "description": "서울의 Center 상상력 인큐베이터 한성대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100088",
+      "nameKo": "구미대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "산학협력우수대학의 리더",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100468",
+      "nameKo": "한국폴리텍 특성화대학 항공캠퍼스",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "한국폴리텍대학 \"항공캠퍼스\"는  폴리텍대학 유일한 항공산업분야 특성화대학이며, K-우주항공산업분야 인재양성의 요람입니다.",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "993220",
+      "nameKo": "한국폴리텍대학",
+      "location": "인천",
+      "type": "공립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100038",
+      "nameKo": "경남도립거창대학",
+      "location": "경상남도",
+      "type": "공립",
+      "description": "최고를 위한 열정! 세계를 향한 도전!",
+      "degrees": [
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100121",
+      "nameKo": "대구가톨릭대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "100년의 역사가 숨쉬는 대학! 취업 잘 되는 대학! 대구가톨릭대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100156",
+      "nameKo": "동아방송예술대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "대한민국 최고의 K-wave(Pop/Arts/Media/Movie/Beauty)+한국어 융합 교육기관",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100234",
+      "nameKo": "서정대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "세상의 힘이 되다",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100400",
+      "nameKo": "포항공과대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "세계적인 연구중심대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100496",
+      "nameKo": "협성대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "학생이 먼저다, 협성대학교",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100034",
+      "nameKo": "경기대학교(본교)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "서울과 수원에 2개의 캠퍼스. 수원캠퍼스에서 서울까지 40분. 한국최초 관광대학 설립. 신입생 최대 100% 장학금. 재학생 최대 100% 장학금 가능!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100060",
+      "nameKo": "신경주대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100413",
+      "nameKo": "한국기술교육대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "\"좋은 대학을 넘어 위대한 대학으로\" 한국기술교육대학교는 1991년 정부가 설립한 국책대학으로 전국 최고 수준의 교육 인프라로 4차 산업혁명 시대 핵심인재 양성을 선도하는 대학, 일반 국민의 평생직업능력개발을 선도하는 허브대학 역할을 하고 있습니다. 우리 대학은 사실에 토대를 두",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100051",
+      "nameKo": "경상국립대학교",
+      "location": "경상남도",
+      "type": "국립",
+      "description": "혁신을 이끄는 국가거점국립대학의 리더",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100045",
+      "nameKo": "경복대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Cultivating Talents, Training Champions!",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생",
+        "전문기술석사"
+      ]
+    },
+    {
+      "univCd": "100012",
+      "nameKo": "가톨릭상지대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100071",
+      "nameKo": "고려대학교(세종)",
+      "location": "세종시",
+      "type": "사립",
+      "description": "2025 QS 세계대학평가 61위, 국내 종합사립대 2위",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100049",
+      "nameKo": "경북보건대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "미래를 위한 현명한 선택! 경북보건대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100120",
+      "nameKo": "대경대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "DIFFERENCE IS THE VALUE!",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100058",
+      "nameKo": "경인여자대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "Student First University Student First Education",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100425",
+      "nameKo": "한국영상대학교",
+      "location": "세종시",
+      "type": "사립",
+      "description": "20살의 프로",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100407",
+      "nameKo": "한국관광대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "관광 한국을 향한 비상을 꿈꾸는 지식대학, 한국관광대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100077",
+      "nameKo": "과학기술연합대학원대학교",
+      "location": "대전",
+      "type": "국립",
+      "description": "대한민국 국가연구소대학원│이공계 특성화 대학│학생연구원 전액장학제도",
+      "degrees": [
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100160",
+      "nameKo": "동원과학기술대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "전국 Top 10 취업중심대학/대학 국제화 특성화 내용:  국내외 산업체 취업을 위한 프로그램 운영 및 글로벌인재 양성",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100454",
+      "nameKo": "한국폴리텍 I 대학 성남캠퍼스",
+      "location": "경기도",
+      "type": "사립",
+      "description": "전문기술인이 되고 싶다면 한국폴리텍 성남캠퍼스로 오세요",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100017",
+      "nameKo": "국립강릉원주대학교",
+      "location": "강원도",
+      "type": "국립",
+      "description": "꿈을 향한 동행, 미래를 여는 대학.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100449",
+      "nameKo": "한국폴리텍 특성화대학 반도체융합캠퍼스",
+      "location": "경기도",
+      "type": "사립",
+      "description": "한국폴리텍대학반도체융합캠퍼스는 고용노동부 산하 국책대학으로 국내 유일의 반도체종합기술대학입니다. 정부의 \"시스템 반도체 비전과 전략\"에 따라 반도체 설계과 소재,부품,장비 분야에서 기업이 원하는 우수 반도체 기술인재를 양성합니다.",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100163",
+      "nameKo": "동의대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "GLOBAL LEADER - Prepare For A Better Future And Career",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생",
+        "석사편입",
+        "박사편입"
+      ]
+    },
+    {
+      "univCd": "100431",
+      "nameKo": "한국전통문화대학교",
+      "location": "충청남도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100131",
+      "nameKo": "대구한의대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "한방웰니스산업분야 Asia Top Class",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "993219",
+      "nameKo": "태재대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "THE NEXT ANSWER",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100180",
+      "nameKo": "백석대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "기독교대학의 글로벌리더 백석대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100194",
+      "nameKo": "부산외국어대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "세상을 누비다! 세계의 중심이 되다!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100205",
+      "nameKo": "서강대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "서강대학교는 외국인 학생들의 정착과 적응을 위해 최상의 서비스를 제공합니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100004",
+      "nameKo": "가천대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "한계를 넘어 세상을 바꾸는 가천대학교",
+      "degrees": [
+        "학사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100009",
+      "nameKo": "가톨릭대학교(본교)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "생명과 진리를 향하여",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100024",
+      "nameKo": "거제대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "조선산업의 중심 거제시! 실용교육의 중심 거제대학교!",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100027",
+      "nameKo": "건국대학교(글로컬)",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "지역과 세계로 뻗어나가는 건국대학교 글로컬캠퍼스가 여러분을 환영합니다",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100029",
+      "nameKo": "건양대학교(본교)",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "A growing force in higher education",
+      "degrees": [
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100033",
+      "nameKo": "경기과학기술대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "대한민국 정부(산업통상자원부)가 설립한 창조적 전문기술인 양성대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100040",
+      "nameKo": "경남정보대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "경남정보대학교는 ‘입학이 곧 취업인 대학’으로 자 타가 공인하는 위치에 우뚝 섰습니다. 그 동안의 교육 노하우를 바탕으로 부모님과 같은 마음으로 인성과 지식을 겸비한 인재를 양성하겠습니다.",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100053",
+      "nameKo": "경안대학원대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100059",
+      "nameKo": "경일대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "누구나 믿을 수 있는(信), 언제, 어디서나 새로움을 추구하는(新), 무엇이든 도전하는(伸) 인재",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100061",
+      "nameKo": "경희대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "대학다운 미래대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100070",
+      "nameKo": "고려대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "Korea University, Next Intelligence",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100082",
+      "nameKo": "광주과학기술원",
+      "location": "광주",
+      "type": "국립",
+      "description": "The cradle of creative science and future technology",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100085",
+      "nameKo": "광주보건대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100092",
+      "nameKo": "국민대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "기업가 정신, 국민대",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100099",
+      "nameKo": "국제언어대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "Design Your Life at IGSE",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100103",
+      "nameKo": "군장대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "창조적인 인간을 배양하고 새로운 문화가치를 창조",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100109",
+      "nameKo": "김천대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100113",
+      "nameKo": "나사렛대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "내일을 향한 꿈이 있는 재활복지 특성화·글로컬나눔품성 특성화 명문대학",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100115",
+      "nameKo": "남서울대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "글로벌리더를 양성하는 남서울대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100118",
+      "nameKo": "단국대학교(본교)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Founding Spirit of the University: National Salvation, Independence and Self-Reliance",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100126",
+      "nameKo": "대구대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "사회 복지, 재활 과학, 공학과 디자인에 특화된 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100134",
+      "nameKo": "대림대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "ACE 대림 (성실성을 갖춘 교양인, 창의적인 기술인, 근면성을 갖춘 직업인)",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100135",
+      "nameKo": "대신대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100139",
+      "nameKo": "대전대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "미래 대학의 새로운 표준, 대전대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100142",
+      "nameKo": "대진대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "창의융합인재를 양성하는 학생성공의 중심, 대진대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100144",
+      "nameKo": "덕성여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "덕성여자대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100146",
+      "nameKo": "동국대학교(WISE)",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "한국어부터 취업까지 유학의 꿈이 이뤄지는  동국대학교 WISE캠퍼스",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100151",
+      "nameKo": "동방문화대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "새로운 인생의 리뉴얼 대학",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100154",
+      "nameKo": "동신대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "착한 인재로 세상을 바꾼다",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100162",
+      "nameKo": "동의과학대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100169",
+      "nameKo": "명지대학교(서울캠퍼스)",
+      "location": "서울",
+      "type": "사립",
+      "description": "Your Future Begins Here! MYONGJI UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100172",
+      "nameKo": "목원대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "대전 최초의 사립대학에서 중부권 최강의 혁신대학으로",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "비정규과정",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100174",
+      "nameKo": "목포과학대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100178",
+      "nameKo": "배재대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "140년의 전통과 역사에 빛나는 배재학당이 경영하는 교육기관에서 여러분의 미래의 꿈을 디자인하세요!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100185",
+      "nameKo": "국립부경대학교",
+      "location": "부산",
+      "type": "국립",
+      "description": "부산 최초의 대학, 가장 혁신적인 국립대학, 부경대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "학사편입",
+        "석사편입",
+        "박사편입"
+      ]
+    },
+    {
+      "univCd": "100188",
+      "nameKo": "부산과학기술대학교(본교)",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100193",
+      "nameKo": "부산예술대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "예술특성화 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100196",
+      "nameKo": "부천대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "사람다운 사람, 퍼팩트한 인재",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100203",
+      "nameKo": "상지대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "상상하는 대학 -- 상지",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100206",
+      "nameKo": "서경대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "The CREOS. We are SEO KYEONG.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100212",
+      "nameKo": "서울과학종합대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "경영과 첨단공학을 선도하는 석·박사 중심 전문대학원",
+      "degrees": [
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100215",
+      "nameKo": "서울대학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "대전환 시대를 이끌어가는 학문공동체",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100224",
+      "nameKo": "서울시립대학교",
+      "location": "서울",
+      "type": "공립",
+      "description": "시대정신과 미래가치를 선도하는 대학, 서울시립대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100225",
+      "nameKo": "서울신학대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Shine The Universe! 세상의 빛 STU!",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100229",
+      "nameKo": "서울외국어대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "현장 통역실습 중심, 전문지식을 지닌 고급 통번역인재 양성",
+      "degrees": [
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100237",
+      "nameKo": "선문대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "세계와 미래가 만나는 곳. Re-Create Yourself, 선문대학교입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100238",
+      "nameKo": "선학유피대학원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100239",
+      "nameKo": "성결대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100244",
+      "nameKo": "성신여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "Bright Sungshin.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100250",
+      "nameKo": "세종대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "창조하라 세종 / 아시아 TOP 1%",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100252",
+      "nameKo": "세한대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "세계 인재를 양성하는 글로컬 교육 선도대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100253",
+      "nameKo": "송곡대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "믿음, 소망, 사랑을 실천하는 전문인재양성 대학교",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100261",
+      "nameKo": "숙명여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "세계 최상의 디지털 휴머니티 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입",
+        "석사편입",
+        "박사편입"
+      ]
+    },
+    {
+      "univCd": "100264",
+      "nameKo": "국립순천대학교",
+      "location": "전라남도",
+      "type": "국립",
+      "description": "혁신과 융합! 지·산·학 협력 거점, 글로컬 국립순천대학교.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100267",
+      "nameKo": "숭실대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "대한민국 최초, 최고의 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100279",
+      "nameKo": "아주대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "융합학문을 선도하는 세계수준의 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100284",
+      "nameKo": "안양대학교(본교)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "ANYANG UNIVERSITY",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100290",
+      "nameKo": "연세대학교(미래)",
+      "location": "강원도",
+      "type": "사립",
+      "description": "연세대학교는 서울캠퍼스, 미래캠퍼스(원주), 국제캠퍼스 3개의 캠퍼스로 이루어져 있으며, 총 26,000여명의 학생들과 5,000여명의 교직원이 재직하고 있습니다. 연세대학교는 국제평가기관으로 부터 세계대학 랭킹 100위 이내, 세계사립대학 20위 이내, 아시아사립대학 1위를 차지하고 있",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100293",
+      "nameKo": "영남대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "Yeungnam University will lead the brand new 21st century paradigm in human resources development!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100298",
+      "nameKo": "영산대학교(본교)",
+      "location": "부산",
+      "type": "사립",
+      "description": "세계대학평가기관 영국QS가 인정한 교육명품대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100303",
+      "nameKo": "예명대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "예수님의 선교 비전을 실현해 갈 여러분이 바로 예명대학원대학교의 주인입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100307",
+      "nameKo": "오산대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Love is the key to teaching and learning at Osan University.",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100308",
+      "nameKo": "온석대학원대학교(본교)",
+      "location": "서울",
+      "type": "사립",
+      "description": "섬김과 나눔을 실천하는 대학",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100311",
+      "nameKo": "용인예술과학대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "지역사회기반 송담역량을 갖춘 학생성공 용인송담대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100312",
+      "nameKo": "우석대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "나를 알아주는 우석대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100315",
+      "nameKo": "우송정보대학",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100317",
+      "nameKo": "울산과학대학교",
+      "location": "울산",
+      "type": "사립",
+      "description": "대한민국 산업수도 울산에서 글로벌 전문직업인의 꿈을 이루어보세요!",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100320",
+      "nameKo": "원광대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "두렷한 통합과 혁신! 원광대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100334",
+      "nameKo": "인제대학교(본교)",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "Spread your dream in the world, INJE UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100340",
+      "nameKo": "인하공업전문대학",
+      "location": "인천",
+      "type": "사립",
+      "description": "Inha, Fly with Dreams!",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100347",
+      "nameKo": "전남대학교",
+      "location": "광주",
+      "type": "국립",
+      "description": "당당하고 자유로운 지성, 전남대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100353",
+      "nameKo": "전주기전대학",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "취업에 강한 대학! 전주기전대학!",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100356",
+      "nameKo": "전주비전대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "WITH A VISION AND EXCITEMENT,  THAT WILL HELP YOU FIND A CAREER  Find an endless and ever-new challenges for the future and the other, A brighter future, and more choice for the near future, Vision College of Jeonju.",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100363",
+      "nameKo": "조선대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "조선대학교, 지역과 함께 100년, 학생과 함께 미래로!",
+      "degrees": [
+        "학사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100366",
+      "nameKo": "중부대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "중부대학교는 창의(고양)캠퍼스와 국제(충청)캠퍼스 TWO CAMPUS를 운영하고 있으며 훌륭한 GLOBAL 인재를 육성하는 세계 5000위권 대학입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100369",
+      "nameKo": "중앙승가대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100370",
+      "nameKo": "중원대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "중원은 세계로 세계는 대한민국으로",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100375",
+      "nameKo": "국립창원대학교",
+      "location": "경상남도",
+      "type": "국립",
+      "description": "경남의 중심에서 아시아로 세계로",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "교환학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100385",
+      "nameKo": "추계예술대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100388",
+      "nameKo": "충남대학교",
+      "location": "대전",
+      "type": "국립",
+      "description": "미래사회를 선도할 강한 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100396",
+      "nameKo": "강서대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100399",
+      "nameKo": "평택대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "융복합인재 양성과 지역발전을 선도하는 글로컬혁신대학",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100408",
+      "nameKo": "한국교원대학교",
+      "location": "충청북도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100427",
+      "nameKo": "한국외국어대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "외대를 만나면 세계가 보인다",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100471",
+      "nameKo": "한국항공대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "경계를 넘어 혁신을 선도하는 항공우주특성화 대학!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100472",
+      "nameKo": "국립한국해양대학교",
+      "location": "부산",
+      "type": "국립",
+      "description": "글로벌해양선도대학, 국립한국해양대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100473",
+      "nameKo": "한남대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "지역과 함께, 세계로 대전환",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100474",
+      "nameKo": "한동대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "세상을 변화 시킬 사람들이 모인 우수한 글로벌, 기독교 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100478",
+      "nameKo": "한림대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "THE NEW HALLYM : 한림대학교, 미래를 향한 교육/연구/봉사를 추구하는 지성의 산실",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100481",
+      "nameKo": "국립한밭대학교",
+      "location": "대전",
+      "type": "국립",
+      "description": "글로컬 산학일체 혁신대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100483",
+      "nameKo": "한서대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "Great leap forward , Hanseo University",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "비정규과정"
+      ]
+    },
+    {
+      "univCd": "100485",
+      "nameKo": "한세대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100487",
+      "nameKo": "한양대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "대한민국 성장동력 - 국내 최초 공과대학을 포함한 우수 글로벌 종합대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100488",
+      "nameKo": "한양대학교(ERICA)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "학연산 클러스터의 새로운 기준",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100490",
+      "nameKo": "한양여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "미래를 품고 세계를 여는 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100500",
+      "nameKo": "호산대학교(본교)",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "글로벌 웰니스 인재 양성 선도대학, 인간존중 융합형 인재 양성",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100503",
+      "nameKo": "홍익대학교(본교)",
+      "location": "서울",
+      "type": "사립",
+      "description": "산업과 예술의 만남",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100506",
+      "nameKo": "횃불트리니티신학대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "말씀으로 세계를 변화시키는 횃불트리니티신학대학원대학교",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "993152",
+      "nameKo": "국립한국교통대학교",
+      "location": "충청북도",
+      "type": "국립",
+      "description": "세상에 통하는 국립한국교통대학교!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100170",
+      "nameKo": "명지대학교(용인캠퍼스)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Your future begins here, MYONGJI UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100274",
+      "nameKo": "신안산대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100380",
+      "nameKo": "청운대학교(인천캠퍼스)",
+      "location": "인천",
+      "type": "사립",
+      "description": "Find Your Hidden Talents",
+      "degrees": []
+    },
+    {
+      "univCd": "100136",
+      "nameKo": "대원대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "글로벌화의 리더 대원대학교",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100168",
+      "nameKo": "마산대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "Make U Professional, MASAN UNIVERSITY",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100373",
+      "nameKo": "차의과학대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "한국 최고의 메디컬 그룹, 차병원&바이오그룹의 의생명특화 명문대",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100502",
+      "nameKo": "호원대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "안녕하십니까. 호원대학교에 방문해주신 여러분을 진심으로 환영합니다.",
+      "degrees": [
+        "학사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100325",
+      "nameKo": "위덕대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "학생성공을 실현하는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100171",
+      "nameKo": "명지전문대학",
+      "location": "서울",
+      "type": "사립",
+      "description": "나를 전문가로 만드는 대학,  명지전문대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100404",
+      "nameKo": "한국골프과학기술대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100354",
+      "nameKo": "전주대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "수퍼스타를 키우는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "학사편입",
+        "석사편입",
+        "박사편입"
+      ]
+    },
+    {
+      "univCd": "100201",
+      "nameKo": "상명대학교(본교)",
+      "location": "서울",
+      "type": "사립",
+      "description": "Global Light, Sangmyung 세상을 조명하다, 상명",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100415",
+      "nameKo": "한국뉴욕주립대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "History Makers. We Change the World! 한국뉴욕주립대학교는 미국 뉴욕주립대학교의 학위프로그램을 한국에서 제공하기 위해 설립된 SUNY의 확장 캠퍼스로 이공학예술 분야에 특화된 글로벌 대학입니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100258",
+      "nameKo": "수원과학대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "SUWON SCIENCE COLLEGE",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100159",
+      "nameKo": "동양미래대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "\"미래를 여는 실용교육, 동양미래대학교!  창의와 혁신으로 앞서가는 글로벌 인재 양성의 요람! 동양미래대학교에서 당신의 꿈을 현실로 만들세요!\"",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100328",
+      "nameKo": "유한대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100358",
+      "nameKo": "제주관광대학교",
+      "location": "제주도",
+      "type": "사립",
+      "description": "학생이 행복한 대학, 제주관광대학교!",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100391",
+      "nameKo": "충북도립대학교",
+      "location": "충청북도",
+      "type": "공립",
+      "description": "더 넓은 세상과 통하는 대학",
+      "degrees": []
+    },
+    {
+      "univCd": "100199",
+      "nameKo": "삼육대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "세상을 바꾸는 교육 중심의 MVP 대학, 삼육대학교, MVP 대학 선정 더 큰 도약을 하고 있습니다. 117년의 긴 역사, 인성교육을 바탕으로 한 탄탄한 교육철학, 글로컬 리더를 양성하는 진정한 MVP 대학으로의 도약은 삼육대학교가 나아가야 할 길입니다. 삼육대학교 MVP는 Mission, Vision, P",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100287",
+      "nameKo": "연성대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "다양한 가능성을 연결해 차별화된 경쟁력을 만드는 연성대학교",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100181",
+      "nameKo": "백석문화대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100421",
+      "nameKo": "한국성서대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "행동하는 지식인, 앞서가는 기독교인의 시작. 사명과 열정으로 변화를 이끌어가는 기독교 명문대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100453",
+      "nameKo": "한국폴리텍 I 대학 서울정수캠퍼스",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100072",
+      "nameKo": "고려사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "The Next 고려사이버대학교",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100148",
+      "nameKo": "동남보건대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "지식의 힘으로 새로운 가치를 창조하는 No.1 드림플러스 동남보건대학교",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100150",
+      "nameKo": "동명대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "산학실용교육 명문대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100164",
+      "nameKo": "부산보건대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "The new Professionals of tomorrow!",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100246",
+      "nameKo": "성운대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100281",
+      "nameKo": "안동과학대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "50년 역사를 바탕 한 기본과 혁신의 직업교육 선도대학",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100331",
+      "nameKo": "을지대학교(제3캠퍼스)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "보건의료특성화 대학",
+      "degrees": []
+    },
+    {
+      "univCd": "100081",
+      "nameKo": "광주가톨릭대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100330",
+      "nameKo": "을지대학교(제2캠퍼스)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "취업에 강한 보건의료특성화 대학",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100405",
+      "nameKo": "한국공학대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "미래를 선도하는 핵심인재 양성대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100230",
+      "nameKo": "서울장신대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "A grain of wheat, making the world go around !",
+      "degrees": [
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100231",
+      "nameKo": "서울한영대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100497",
+      "nameKo": "혜전대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "혜전대학교 국제교육원은 한국어를 전문적으로 배우고자하는 외국인을 위해 외국 생활을 이해하고 어려움을 해결해 줄 수 있는 친구같은 존재가 되려고 합니다.",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100333",
+      "nameKo": "인덕대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "내 꿈을 디자인하는 플랫폼",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100467",
+      "nameKo": "한국폴리텍 특성화대학 로봇캠퍼스",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "한국 유일 로봇특성화대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100179",
+      "nameKo": "배화여자대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "글로벌 실무형 인재로 세계를 품다",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100198",
+      "nameKo": "사이버한국외국어대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "\"미래를 열어온 20년, 경계를 넘어 위대한 세상으로!\" 사이버한국외국어대학교",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100280",
+      "nameKo": "아주자동차대학",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100254",
+      "nameKo": "송원대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "Ch?o m?ng b?n đ?n v?i Tr??ng ??i H?c Songwon",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100022",
+      "nameKo": "강원도립대학교",
+      "location": "강원도",
+      "type": "공립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100286",
+      "nameKo": "여주대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100346",
+      "nameKo": "전남과학대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100106",
+      "nameKo": "금강대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "한국형 Liberal Arts College",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100402",
+      "nameKo": "한경대학교",
+      "location": "경기도",
+      "type": "국립",
+      "description": "AIM YOUR DREAM FOR YOUR FUTURE. Hankyong National University HELPS YOU TO ACHIEVE THESE GOALS!",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100378",
+      "nameKo": "청암대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100137",
+      "nameKo": "대전가톨릭대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100259",
+      "nameKo": "수원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "미래를 선도하는 글로벌 창의융합 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100361",
+      "nameKo": "제주한라대학교",
+      "location": "제주도",
+      "type": "사립",
+      "description": "세계적 수준의 전문대학, 국내 최초 2-3-4년제 탄력적 학사학위제도 운영 대학교",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100124",
+      "nameKo": "대구과학대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "대구과학대학교는 ‘참교육으로 미래를 밝히리라’는 건학이념 아래 1960년 대구·경북 최초의 전문대학으로 설립되어 62년의 역사 동안 고등직업교육 선도대학이라는 자부심으로 국가와 지역사회 발전에 기여할 수 있는 우수한 전문 기술인재를 양성해 왔습니다.",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100064",
+      "nameKo": "경희사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "교육부 원격대학 역량진단 최우수 평가 기관, 경희사이버대학교는 누구나 시간과 공간의 제약 없이 합리적인 비용으로 학습할 수 있는 온라인 학위 과정을 제공합니다.",
+      "degrees": [
+        "학사",
+        "석사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100265",
+      "nameKo": "순천제일대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "미래를 향한 비상! 세계로의 비상! 당신에게 날개를 달아주는 순천제일대학교",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100110",
+      "nameKo": "김포대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "세계를 움직이는 힘!",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100138",
+      "nameKo": "대전과학기술대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "무한 가능성과 역동적 리더십으로 미래사회를 선도하는 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100014",
+      "nameKo": "강남대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "복지와 ICT융합을 선도하여 세상을 이롭게 하는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100007",
+      "nameKo": "가톨릭관동대학교(본교)",
+      "location": "강원도",
+      "type": "사립",
+      "description": "융합시대를 선도하며 미래를 준비하는 글로벌 캠퍼스 가톨릭관동대학교.",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100042",
+      "nameKo": "경동대학교(메트로폴캠퍼스/양주)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100349",
+      "nameKo": "전남도립대학교",
+      "location": "전라남도",
+      "type": "공립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100384",
+      "nameKo": "총신대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "기독교 인재를 양성하는 대학",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100176",
+      "nameKo": "국립목포해양대학교",
+      "location": "전라남도",
+      "type": "국립",
+      "description": "바다로 70년, 세계로 100년, 미래로 1,000년. 국립 목포해양대학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100210",
+      "nameKo": "서영대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "서영대학교는 대학 진학과 한국 정착을 원하는 외국인에게 한국어연수과정, 전문학사학위과정 등을 제공합니다.  외국인과 재외동포를 대상으로 한 한국어연수과정은 한국어활용능력 신장을 통한 대학수학능력 증진 및 원활한 한국생활 적응을 돕기 위해 개설됐습니다.  전문학사학위과정은",
+      "degrees": []
+    },
+    {
+      "univCd": "100240",
+      "nameKo": "성공회대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "열림ㆍ나눔ㆍ섬김",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100002",
+      "nameKo": "가야대학교(김해)",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "Challenge and passion KAYA UNIVERSITY",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100192",
+      "nameKo": "부산여자대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "전문성과 인성을 겸비한  혁신인재 양성대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100435",
+      "nameKo": "한국체육대학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100177",
+      "nameKo": "문경대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100426",
+      "nameKo": "한국예술종합학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "제대로 예술하는 예술학교",
+      "degrees": [
+        "학사",
+        "석사",
+        "교환학생"
+      ]
+    },
+    {
+      "univCd": "100423",
+      "nameKo": "한국에너지공과대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100050",
+      "nameKo": "경북전문대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "이상을 현실로, 꿈을 준비하는 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100078",
+      "nameKo": "광신대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100161",
+      "nameKo": "동원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "Learn Today, Lead Tomorrow",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100157",
+      "nameKo": "동아보건대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100153",
+      "nameKo": "동서울대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "인성에 기술을 채워 공존의 가치를 실천하는 실용교육 선도대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100003",
+      "nameKo": "가야대학교(고령)",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100112",
+      "nameKo": "가톨릭꽃동네대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100119",
+      "nameKo": "단국대학교(제2캠퍼스)",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "세계로 도약하는 민족사학, 단국대학교",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100183",
+      "nameKo": "베뢰아국제대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "BEREA INTERNATIONAL THEOLOGICAL SEMINARY",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100133",
+      "nameKo": "대동대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100016",
+      "nameKo": "강릉영동대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100233",
+      "nameKo": "서일대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "창의융합형 교육, 현장중심형 교육, 자기주도형 교육, 인성지성형 교육",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100158",
+      "nameKo": "동양대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100434",
+      "nameKo": "한국조지메이슨대학교(본교)",
+      "location": "인천",
+      "type": "공립",
+      "description": "A World Class U.S Degree in the heart of KOREA",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100021",
+      "nameKo": "강원대학교(제2캠퍼스)",
+      "location": "강원도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100056",
+      "nameKo": "경인교육대학교(본교)",
+      "location": "인천",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100165",
+      "nameKo": "두원공과대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100262",
+      "nameKo": "순복음대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100379",
+      "nameKo": "청운대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "The age of student success!",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100374",
+      "nameKo": "창신대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "A Small and Strong University",
+      "degrees": [
+        "학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100032",
+      "nameKo": "겐트대학교 글로벌캠퍼스",
+      "location": "인천",
+      "type": "사립",
+      "description": "셰계적 수준의 생명공학대 겐트대학교 글로벌캠퍼스",
+      "degrees": []
+    },
+    {
+      "univCd": "100044",
+      "nameKo": "경민대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "뜨거운 열정, 힘찬 비상! 사람을 키우는 경민대학교",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100260",
+      "nameKo": "수원여자대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100393",
+      "nameKo": "충청대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "Welcome to Chung Cheong University! Since opening in 1983, Chung Cheong has constantly strived to improve educational quality through its emphasis on the consistency of knowledge and action \"Do as you learned\", unity of knowledge and virtue, and service to the communit",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100322",
+      "nameKo": "원광보건대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "Wonkwang Health Science University a Place where Students are Happy",
+      "degrees": [
+        "학사",
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100273",
+      "nameKo": "신성대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "내일이 더 기대되는 대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100278",
+      "nameKo": "아신대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100422",
+      "nameKo": "한국승강기대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100062",
+      "nameKo": "경희대학교 국제캠퍼스",
+      "location": "경기도",
+      "type": "사립",
+      "description": "TOWARDS GLOBAL EMINENCE__ 경희대학교는 1949년에 창립되었으며 아름다운 정원과 유럽식 건물을 갖춘 캠퍼스는 한국에서 가장 아름다운 대학 캠퍼스 중 하나입니다. 경희대학교는 수원에 국제캠퍼스를 두고 있습니다. 수원에는 문학, 정치, 경제학, 경영학, 의학, 약학, 한의학, 공학, 예",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100480",
+      "nameKo": "한반도국제대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100486",
+      "nameKo": "한신대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "한신대학교에 온 것을 환영합니다 !",
+      "degrees": [
+        "학사",
+        "유학생/어학생",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100097",
+      "nameKo": "국제사이버대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100436",
+      "nameKo": "한국침례신학대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100492",
+      "nameKo": "한일장신대학교(본교)",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100417",
+      "nameKo": "한국복지대학교",
+      "location": "경기도",
+      "type": "국립",
+      "description": "대한민국 유일한 3, 4년제 국립대학교 (사람을 배웁니다. 함께하는 그들이 아름답습니다.)",
+      "degrees": [
+        "전문학사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100232",
+      "nameKo": "서원대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "세상을 움직이는 배움, 내일의 변화! Bridge to the Future, Seowon University!",
+      "degrees": [
+        "학사",
+        "석사",
+        "유학생/어학생"
+      ]
+    },
+    {
+      "univCd": "100128",
+      "nameKo": "대구사이버대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "대구사이버대학교는 한국 교육부 인가 정규 4년제 사이버대학교로서 온라인으로 수업을 듣고 학사학위를 취득할수 있습니다.",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100036",
+      "nameKo": "경남과학기술대학교",
+      "location": "경상남도",
+      "type": "국립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100105",
+      "nameKo": "글로벌사이버대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "한류 선도 대학, 뇌교육 특성화 대학",
+      "degrees": [
+        "학사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100495",
+      "nameKo": "합동신학대학원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "주님의 부르심에 응답하는 합신 : 개혁신학은 합신입니다",
+      "degrees": [
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100292",
+      "nameKo": "연암대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "LG가 설립하고 LG가 지원하는 국내 최고의 차세대농업기술 선도대학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100247",
+      "nameKo": "세경대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100343",
+      "nameKo": "장로회신학대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100365",
+      "nameKo": "주안대학원대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "민족복음화와 세계선교",
+      "degrees": []
+    },
+    {
+      "univCd": "100371",
+      "nameKo": "진주교육대학교",
+      "location": "경상남도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100100",
+      "nameKo": "국제예술대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "아트人 국제예대, Arts in KUKJE",
+      "degrees": []
+    },
+    {
+      "univCd": "100218",
+      "nameKo": "서울벤처대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100350",
+      "nameKo": "전북과학대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100108",
+      "nameKo": "기독간호대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "간호명문사학",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100202",
+      "nameKo": "상명대학교(제2캠퍼스)",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "글로벌 상명, 다이내믹 상명! 더 넓은 세상으로 도약합니다.",
+      "degrees": [
+        "학사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100364",
+      "nameKo": "조선이공대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100309",
+      "nameKo": "용문상담심리대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100132",
+      "nameKo": "대덕대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "학생이 행복한 대학, 미래가 열리는 대학",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100324",
+      "nameKo": "웨스트민스터신학대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "웨스트민스터신학대학원대학교",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100242",
+      "nameKo": "성산효대학원대학교",
+      "location": "인천",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100336",
+      "nameKo": "인천가톨릭대학교(본교)",
+      "location": "인천",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "530840",
+      "nameKo": "영산선학대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100063",
+      "nameKo": "경희대학교 평화복지대학원",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100257",
+      "nameKo": "수원가톨릭대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100013",
+      "nameKo": "감리교신학대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100018",
+      "nameKo": "강릉원주대학교(제2캠퍼스)",
+      "location": "강원도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100048",
+      "nameKo": "경북도립대학교",
+      "location": "경상북도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100074",
+      "nameKo": "공주교육대학교",
+      "location": "충청남도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100083",
+      "nameKo": "광주교육대학교",
+      "location": "광주",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100093",
+      "nameKo": "국제뇌교육종합대학원대학교",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100125",
+      "nameKo": "대구교육대학교",
+      "location": "대구",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100189",
+      "nameKo": "부산교육대학교",
+      "location": "부산",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100191",
+      "nameKo": "부산디지털대학교",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100216",
+      "nameKo": "서울디지털대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100352",
+      "nameKo": "전주교육대학교",
+      "location": "전라북도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100368",
+      "nameKo": "중앙대학교(제2캠퍼스)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100381",
+      "nameKo": "청주교육대학교",
+      "location": "충청북도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100401",
+      "nameKo": "포항대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100410",
+      "nameKo": "한국교통대학교 증평캠퍼스",
+      "location": "충청북도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100424",
+      "nameKo": "한국열린사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100428",
+      "nameKo": "한국외국어대학교(글로벌캠퍼스)",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100479",
+      "nameKo": "한림성심대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100504",
+      "nameKo": "홍익대학교(제2캠퍼스)",
+      "location": "세종시",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100001",
+      "nameKo": "ICT폴리텍대학",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100055",
+      "nameKo": "경원전문대학",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100221",
+      "nameKo": "서울사회복지대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100304",
+      "nameKo": "예수대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100348",
+      "nameKo": "전남대학교(제2캠퍼스)",
+      "location": "전라남도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100389",
+      "nameKo": "충남도립대학교",
+      "location": "충청남도",
+      "type": "공립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100409",
+      "nameKo": "한국교통대학교 의왕캠퍼스",
+      "location": "경기도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100386",
+      "nameKo": "춘천교육대학교",
+      "location": "강원도",
+      "type": "국립",
+      "description": "소통과 공감을 중시하는 신나는 춘천교육대학교",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100028",
+      "nameKo": "건신대학원대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100301",
+      "nameKo": "영진사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100255",
+      "nameKo": "송호대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100327",
+      "nameKo": "유타대학교 아시아캠퍼스",
+      "location": "인천",
+      "type": "공립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "학사편입"
+      ]
+    },
+    {
+      "univCd": "100297",
+      "nameKo": "영동대학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100213",
+      "nameKo": "서울교육대학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100220",
+      "nameKo": "서울사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100167",
+      "nameKo": "루터대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100005",
+      "nameKo": "가천대학교 글로벌캠퍼스",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100263",
+      "nameKo": "순복음총회신학교",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100031",
+      "nameKo": "건양사이버대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100197",
+      "nameKo": "북한대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100439",
+      "nameKo": "한국폴리텍 III 대학 춘천캠퍼스",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100441",
+      "nameKo": "한국폴리텍 IV 대학 아산캠퍼스",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100442",
+      "nameKo": "한국폴리텍 IV 대학 청주캠퍼스",
+      "location": "충청북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100443",
+      "nameKo": "한국폴리텍 IV 대학 홍성캠퍼스",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100444",
+      "nameKo": "한국폴리텍 V 대학 전북캠퍼스",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100445",
+      "nameKo": "한국폴리텍 VII 대학 울산캠퍼스",
+      "location": "울산",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100447",
+      "nameKo": "한국폴리텍 VII 대학 창원캠퍼스",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100448",
+      "nameKo": "한국폴리텍 VI 대학 영남융합기술캠퍼스",
+      "location": "대구",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100459",
+      "nameKo": "한국폴리텍 VI 대학 구미캠퍼스",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100463",
+      "nameKo": "한국폴리텍 VII 대학 부산캠퍼스",
+      "location": "부산",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100464",
+      "nameKo": "한국폴리텍 V 대학 익산캠퍼스",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100466",
+      "nameKo": "한국폴리텍 특성화대학 바이오캠퍼스",
+      "location": "충청남도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "993179",
+      "nameKo": "한국폴리텍대학 서울정수캠퍼스",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100451",
+      "nameKo": "한국폴리텍 V 대학 광주캠퍼스",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100437",
+      "nameKo": "한국폴리텍 III 대학 강릉캠퍼스",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100243",
+      "nameKo": "성서침례대학원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100226",
+      "nameKo": "서울여자간호대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100429",
+      "nameKo": "한국재활복지대학교",
+      "location": "경기도",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100068",
+      "nameKo": "계원예술대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100101",
+      "nameKo": "군산간호대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100116",
+      "nameKo": "농협대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100123",
+      "nameKo": "대구공업대학교",
+      "location": "대구",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100182",
+      "nameKo": "백제예술대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100204",
+      "nameKo": "상지영서대학교",
+      "location": "강원도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100362",
+      "nameKo": "조선간호대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100372",
+      "nameKo": "진주보건대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100499",
+      "nameKo": "호남신학대학교",
+      "location": "광주",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100166",
+      "nameKo": "디지털서울문화예술대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100173",
+      "nameKo": "목포가톨릭대학교",
+      "location": "전라남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100248",
+      "nameKo": "세계사이버대학",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100251",
+      "nameKo": "세종사이버대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100294",
+      "nameKo": "영남신학대학교",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100345",
+      "nameKo": "적십자간호대학",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100376",
+      "nameKo": "창원문성대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100416",
+      "nameKo": "한국방송통신대학교",
+      "location": "서울",
+      "type": "국립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100418",
+      "nameKo": "한국복지사이버대학",
+      "location": "경상북도",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100089",
+      "nameKo": "구세군사관대학원대학교",
+      "location": "경기도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100321",
+      "nameKo": "원광디지털대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사"
+      ]
+    },
+    {
+      "univCd": "100323",
+      "nameKo": "원불교대학원대학교",
+      "location": "전라북도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100397",
+      "nameKo": "탐라대학교",
+      "location": "제주도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "석박사"
+      ]
+    },
+    {
+      "univCd": "100420",
+      "nameKo": "한국상담대학원대학교",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100450",
+      "nameKo": "한국폴리텍 I 대학 서울강서캠퍼스",
+      "location": "서울",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100457",
+      "nameKo": "한국폴리텍 II 대학 인천캠퍼스",
+      "location": "인천",
+      "type": "사립",
+      "description": "",
+      "degrees": []
+    },
+    {
+      "univCd": "100141",
+      "nameKo": "대전신학대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사"
+      ]
+    },
+    {
+      "univCd": "100291",
+      "nameKo": "연암공과대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "전문학사"
+      ]
+    },
+    {
+      "univCd": "100195",
+      "nameKo": "부산장신대학교",
+      "location": "경상남도",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사"
+      ]
+    },
+    {
+      "univCd": "100432",
+      "nameKo": "한국정보통신대학교",
+      "location": "대전",
+      "type": "사립",
+      "description": "",
+      "degrees": [
+        "학사",
+        "석사",
+        "박사",
+        "석박사"
+      ]
+    }
+  ]
+}

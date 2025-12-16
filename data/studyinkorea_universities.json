@@ -12,7 +12,9 @@
         "석사",
         "박사",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100249_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903210431279510_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100341",
@@ -27,7 +29,9 @@
         "석박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100341_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903251012037830_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100094",
@@ -38,7 +42,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100094_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108050851514050_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100052",
@@ -55,7 +61,9 @@
         "학사편입",
         "석사편입",
         "박사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100052_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201806291145430090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100211",
@@ -69,7 +77,9 @@
         "박사",
         "석박사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100211_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404020343439920_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100377",
@@ -80,7 +90,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100377_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507170621005130_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100313",
@@ -94,7 +106,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100313_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906271104261290_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100020",
@@ -110,7 +124,9 @@
         "유학생/어학생",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100020_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202308090526133970_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100318",
@@ -125,7 +141,9 @@
         "석박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100318_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201504020522076590_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100367",
@@ -138,7 +156,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100367_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202511181114380830_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100073",
@@ -151,7 +171,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100186",
@@ -165,7 +187,9 @@
         "박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100186_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202511131112077000_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100351",
@@ -177,7 +201,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100351_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907020321219830_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100098",
@@ -190,7 +216,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100098_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202301260418282090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100227",
@@ -201,7 +229,9 @@
       "degrees": [
         "학사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100227_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201508180235113290_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100382",
@@ -214,7 +244,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100382_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907040524483730_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100080",
@@ -230,7 +262,9 @@
         "유학생/어학생",
         "학사편입",
         "석사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100080_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903150243370420_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "730780",
@@ -241,7 +275,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/730780_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004270940331240_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100392",
@@ -252,7 +288,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100403",
@@ -262,7 +300,9 @@
       "description": "KDI School, where the difference begins. No.1 Think tank in Asia, the 1st and only school in Korea to receive the NASPAA accreditation.",
       "degrees": [
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100501",
@@ -275,7 +315,9 @@
         "석사",
         "박사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100501_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406270302588130_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100272",
@@ -289,7 +331,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100390",
@@ -303,7 +347,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100390_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502200457586980_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100104",
@@ -314,7 +360,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100104_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404191156169580_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100302",
@@ -326,7 +374,9 @@
         "전문학사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100084",
@@ -340,7 +390,9 @@
         "박사",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100241",
@@ -353,7 +405,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100241_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402161027488690_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100015",
@@ -363,7 +417,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100041",
@@ -374,7 +430,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100025",
@@ -384,7 +442,9 @@
       "description": "",
       "degrees": [
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100025_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202405240221390150_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100152",
@@ -397,7 +457,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100152_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705121037260120_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100200",
@@ -408,7 +470,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100283",
@@ -418,7 +482,9 @@
       "description": "''진심이 키운다. 나를 알아주는 대학 안산대학교\"",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100283_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504150259336630_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100075",
@@ -432,7 +498,9 @@
         "박사",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100075_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303300927169330_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100187",
@@ -442,7 +510,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100037",
@@ -456,7 +526,9 @@
         "박사",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100037_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106080230175360_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100217",
@@ -466,7 +538,9 @@
       "description": "Nurturing creative talents who can realize new values in the future media field",
       "degrees": [
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100217_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507160925506280_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100387",
@@ -477,7 +551,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100387_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202208050310528100_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100149",
@@ -488,7 +564,9 @@
       "degrees": [
         "학사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100149_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106030510327790_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100339",
@@ -498,7 +576,9 @@
       "description": "글로벌 센터",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100339_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509151200266730_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100054",
@@ -509,7 +589,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100175",
@@ -520,7 +602,9 @@
       "degrees": [
         "학사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100175_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404041020378170_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100269",
@@ -530,7 +614,9 @@
       "description": "세계의 중심 명동에서 글로벌 여성인재 양성",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100039",
@@ -540,7 +626,9 @@
       "description": "나의 꿈이 곧 직업이 되는 실무인재 양성 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100122",
@@ -553,7 +641,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100122_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202304030505003530_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100140",
@@ -565,7 +655,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100140_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009240258016820_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100102",
@@ -577,7 +669,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100470",
@@ -589,7 +683,9 @@
         "석사",
         "박사",
         "비정규과정"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100470_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003100822127650_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100047",
@@ -602,7 +698,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100047_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402261046476690_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100086",
@@ -614,7 +712,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100086_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009241004538560_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100332",
@@ -628,7 +728,9 @@
         "박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100332_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404040323183140_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100475",
@@ -639,7 +741,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100475_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504100333315010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100155",
@@ -654,7 +758,9 @@
         "석박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100155_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201910180127319990_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100360",
@@ -669,7 +775,9 @@
         "석박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100360_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106020836448630_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100498",
@@ -681,7 +789,9 @@
         "학사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100498_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011180539012010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100111",
@@ -692,7 +802,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100111_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705111053208320_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100276",
@@ -705,7 +817,9 @@
         "석사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100114",
@@ -717,7 +831,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100127",
@@ -728,7 +844,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100127_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107111052366040_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100268",
@@ -738,7 +856,9 @@
       "description": "최초이자 최고의 사이버대학! 콘텐츠가 강한 대학!(온라인 수업으로 4년제 학위취득)",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100268_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303230351122930_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100145",
@@ -748,7 +868,9 @@
       "description": "\"동강이 만드는 인재, 인재가 만드는 미래\" 동강대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100145_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509040915366360_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100256",
@@ -759,7 +881,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100256_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201710170743255810_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100266",
@@ -773,7 +897,9 @@
         "박사",
         "석박사",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100266_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404161029559330_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100271",
@@ -784,7 +910,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100271_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903191103473420_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100430",
@@ -795,7 +923,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100026",
@@ -809,7 +939,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100026_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509040228352540_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100338",
@@ -821,7 +953,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100338_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509030556466150_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100065",
@@ -836,7 +970,9 @@
         "석박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100065_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903250611246560_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100091",
@@ -847,7 +983,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100091_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202305150136342680_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100147",
@@ -861,7 +999,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100147_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201207300752516400_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100406",
@@ -873,7 +1013,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100090",
@@ -886,7 +1028,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100090_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504090510485790_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100414",
@@ -896,7 +1040,9 @@
       "description": "미래 농어업을 선도하는  창의적 인재 육성 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202407170227560230_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100107",
@@ -908,7 +1054,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100107_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201602260308048970_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100316",
@@ -921,7 +1069,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100316_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411141100541400_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100440",
@@ -931,7 +1081,9 @@
       "description": "뿌리산업부터 신기술까지 다양한 교육서비스를 제공하기 위해 미래 유망 산업의 융복합 학과를 운영하고 있습니다.",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202508251124103010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100460",
@@ -941,7 +1093,9 @@
       "description": "한국폴리텍대학 대구캠퍼스는 일하고자 하는 사람은 누구나 일할 수 있도록 평생직업 능력개발에 앞장서고 있는 대학으로 고등학교 졸업(예정)자, 대졸 미취업자, 경력단절여성, 신중년, 외국인 등 다양한 세대를 위한 맞춤형 교육을 운영하고 있으며 국내 산업의 핵심 인력들을 양성하고",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100460_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202508181147504040_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100489",
@@ -953,7 +1107,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100489_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403280151239640_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100289",
@@ -967,7 +1123,9 @@
         "박사",
         "석박사",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100289_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906270413103950_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100066",
@@ -977,7 +1135,9 @@
       "description": "계명대학교는 1962년 개교 이래 지속적으로 성장해 왔으며 고등직업교육기관으로서의 사명을 다해 왔습니다. 특히 전문성을 갖춘 인재를 양성하기 위해 교육의 우수성을 추구합니다.",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100066_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107290333262450_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100296",
@@ -987,7 +1147,9 @@
       "description": "세계적 수준의 직업교육 중심대학 영남이공대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100190",
@@ -1001,7 +1163,9 @@
         "박사",
         "석박사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100190_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107140433517640_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100236",
@@ -1012,7 +1176,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100484",
@@ -1025,7 +1191,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100484_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403260953100540_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100088",
@@ -1036,7 +1204,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100088_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507170332101980_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100468",
@@ -1046,7 +1216,9 @@
       "description": "한국폴리텍대학 \"항공캠퍼스\"는  폴리텍대학 유일한 항공산업분야 특성화대학이며, K-우주항공산업분야 인재양성의 요람입니다.",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100468_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202506241127473310_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "993220",
@@ -1056,7 +1228,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/993220_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507181115267950_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100038",
@@ -1066,7 +1240,9 @@
       "description": "최고를 위한 열정! 세계를 향한 도전!",
       "degrees": [
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100038_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903260156350620_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100121",
@@ -1080,7 +1256,9 @@
         "박사",
         "석박사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100121_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105120353582900_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100156",
@@ -1090,7 +1268,9 @@
       "description": "대한민국 최고의 K-wave(Pop/Arts/Media/Movie/Beauty)+한국어 융합 교육기관",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100156_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106040452232140_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100234",
@@ -1101,7 +1281,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100234_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202207280537467730_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100400",
@@ -1114,7 +1296,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100400_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205180958299860_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100496",
@@ -1124,7 +1308,9 @@
       "description": "학생이 먼저다, 협성대학교",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100496_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504160514174070_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100034",
@@ -1136,7 +1322,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100034_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507151112294220_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100060",
@@ -1149,7 +1337,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100060_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507150235266100_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100413",
@@ -1162,7 +1352,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100413_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404301027278220_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100051",
@@ -1178,7 +1370,9 @@
         "유학생/어학생",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100045",
@@ -1191,7 +1385,9 @@
         "전문학사",
         "유학생/어학생",
         "전문기술석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100045_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201711170708382060_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100012",
@@ -1201,7 +1397,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100071",
@@ -1211,7 +1409,9 @@
       "description": "2025 QS 세계대학평가 61위, 국내 종합사립대 2위",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100071_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803090539520440_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100049",
@@ -1221,7 +1421,9 @@
       "description": "미래를 위한 현명한 선택! 경북보건대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100120",
@@ -1233,7 +1435,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100120_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205110342116900_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100058",
@@ -1243,7 +1447,9 @@
       "description": "Student First University Student First Education",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100058_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202012031107438220_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100425",
@@ -1255,7 +1461,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100425_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202305190446107990_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100407",
@@ -1265,7 +1473,9 @@
       "description": "관광 한국을 향한 비상을 꿈꾸는 지식대학, 한국관광대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100407_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507071053222350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100077",
@@ -1277,7 +1487,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100077_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903221029383870_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100160",
@@ -1287,7 +1499,9 @@
       "description": "전국 Top 10 취업중심대학/대학 국제화 특성화 내용:  국내외 산업체 취업을 위한 프로그램 운영 및 글로벌인재 양성",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100160_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201712290343031070_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100454",
@@ -1297,7 +1511,9 @@
       "description": "전문기술인이 되고 싶다면 한국폴리텍 성남캠퍼스로 오세요",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100454_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202506230243449240_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100017",
@@ -1309,7 +1525,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100017_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180259232640_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100449",
@@ -1319,7 +1537,9 @@
       "description": "한국폴리텍대학반도체융합캠퍼스는 고용노동부 산하 국책대학으로 국내 유일의 반도체종합기술대학입니다. 정부의 \"시스템 반도체 비전과 전략\"에 따라 반도체 설계과 소재,부품,장비 분야에서 기업이 원하는 우수 반도체 기술인재를 양성합니다.",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100449_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202410231001524400_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100163",
@@ -1335,7 +1555,9 @@
         "교환학생",
         "석사편입",
         "박사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100163_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903251043340850_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100431",
@@ -1346,7 +1568,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100131",
@@ -1360,7 +1584,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "993219",
@@ -1370,7 +1596,9 @@
       "description": "THE NEXT ANSWER",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/993219_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402021029066240_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100180",
@@ -1383,7 +1611,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100180_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201912110434263270_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100194",
@@ -1398,7 +1628,9 @@
         "석박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100194_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202407011109570770_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100205",
@@ -1412,7 +1644,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100205_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202006261041489530_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100004",
@@ -1423,7 +1657,9 @@
       "degrees": [
         "학사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100009",
@@ -1437,7 +1673,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100024",
@@ -1448,7 +1686,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100024_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003040624481500_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100027",
@@ -1461,7 +1701,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100029",
@@ -1471,7 +1713,9 @@
       "description": "A growing force in higher education",
       "degrees": [
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100029_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504030556007350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100033",
@@ -1482,7 +1726,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100033_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108121129369730_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100040",
@@ -1493,7 +1739,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100053",
@@ -1503,7 +1751,9 @@
       "description": "",
       "degrees": [
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100059",
@@ -1515,7 +1765,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100059_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404090623386000_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100061",
@@ -1529,7 +1781,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100061_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201406020431190890_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100070",
@@ -1543,7 +1797,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100070_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201304011055539700_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100082",
@@ -1556,7 +1812,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100085",
@@ -1568,7 +1826,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100092",
@@ -1581,7 +1841,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100092_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803240847507110_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100099",
@@ -1592,7 +1854,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100103",
@@ -1602,7 +1866,9 @@
       "description": "창조적인 인간을 배양하고 새로운 문화가치를 창조",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100109",
@@ -1613,7 +1879,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100113",
@@ -1624,7 +1892,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100113_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011250520493160_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100115",
@@ -1638,7 +1908,9 @@
         "박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100115_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406250525140450_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100118",
@@ -1652,7 +1924,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100118_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404170956290310_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100126",
@@ -1664,7 +1938,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100126_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502170540273550_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100134",
@@ -1674,7 +1950,9 @@
       "description": "ACE 대림 (성실성을 갖춘 교양인, 창의적인 기술인, 근면성을 갖춘 직업인)",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100134_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011110543478090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100135",
@@ -1685,7 +1963,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100139",
@@ -1698,7 +1978,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100139_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504160457335180_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100142",
@@ -1711,7 +1993,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100144",
@@ -1725,7 +2009,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100144_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202302281114101210_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100146",
@@ -1737,7 +2023,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100146_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403210152349280_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100151",
@@ -1747,7 +2035,9 @@
       "description": "새로운 인생의 리뉴얼 대학",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100151_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404120216482080_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100154",
@@ -1760,7 +2050,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100154_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105271019161510_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100162",
@@ -1770,7 +2062,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100169",
@@ -1782,7 +2076,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100169_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202204281019291540_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100172",
@@ -1796,7 +2092,9 @@
         "박사",
         "비정규과정",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100172_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201710160932147130_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100174",
@@ -1806,7 +2104,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100178",
@@ -1819,7 +2119,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100178_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105110449147610_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100185",
@@ -1836,7 +2138,9 @@
         "학사편입",
         "석사편입",
         "박사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100185_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404040114104240_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100188",
@@ -1847,7 +2151,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100193",
@@ -1857,7 +2163,9 @@
       "description": "예술특성화 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100196",
@@ -1868,7 +2176,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100196_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201704100541274490_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100203",
@@ -1880,7 +2190,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100203_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202407021146223870_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100206",
@@ -1894,7 +2206,9 @@
         "박사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100206_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202305150953362410_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100212",
@@ -1907,7 +2221,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100212_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404041051173660_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100215",
@@ -1920,7 +2236,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100215_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180240537250_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100224",
@@ -1933,7 +2251,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100224_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009100748091200_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100225",
@@ -1943,7 +2263,9 @@
       "description": "Shine The Universe! 세상의 빛 STU!",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100225_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202204050142310450_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100229",
@@ -1953,7 +2275,9 @@
       "description": "현장 통역실습 중심, 전문지식을 지닌 고급 통번역인재 양성",
       "degrees": [
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100229_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201901300319054090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100237",
@@ -1966,7 +2290,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100237_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105110351558060_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100238",
@@ -1974,7 +2300,9 @@
       "location": "경기도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100239",
@@ -1986,7 +2314,9 @@
         "학사",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100239_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201802200444191220_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100244",
@@ -2002,7 +2332,9 @@
         "유학생/어학생",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100250",
@@ -2015,7 +2347,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100250_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202204270937353950_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100252",
@@ -2029,7 +2363,9 @@
         "박사",
         "석박사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504150517117390_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100253",
@@ -2040,7 +2376,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100253_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404300521256970_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100261",
@@ -2056,7 +2394,9 @@
         "학사편입",
         "석사편입",
         "박사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100261_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907040556558670_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100264",
@@ -2069,7 +2409,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100264_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911221119087580_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100267",
@@ -2083,7 +2425,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100279",
@@ -2097,7 +2441,9 @@
         "박사",
         "석박사",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100279_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504020633213070_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100284",
@@ -2107,7 +2453,9 @@
       "description": "ANYANG UNIVERSITY",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100284_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205261157017760_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100290",
@@ -2118,7 +2466,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100290_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507301141367940_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100293",
@@ -2130,7 +2480,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100298",
@@ -2143,7 +2495,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100303",
@@ -2155,7 +2509,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100307",
@@ -2166,7 +2522,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100307_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107290356120090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100308",
@@ -2177,7 +2535,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100308_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202211110418456920_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100311",
@@ -2187,7 +2547,9 @@
       "description": "지역사회기반 송담역량을 갖춘 학생성공 용인송담대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100311_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105100244377880_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100312",
@@ -2200,7 +2562,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100312_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202306160247011570_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100315",
@@ -2210,7 +2574,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100317",
@@ -2222,7 +2588,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100317_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803141225175640_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100320",
@@ -2235,7 +2603,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100320_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303060450306440_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100334",
@@ -2250,7 +2620,9 @@
         "석박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100334_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110090458491730_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100340",
@@ -2260,7 +2632,9 @@
       "description": "Inha, Fly with Dreams!",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100340_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202002191131157920_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100347",
@@ -2273,7 +2647,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100347_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202311080128420610_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100353",
@@ -2284,7 +2660,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100353_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507310554505210_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100356",
@@ -2295,7 +2673,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100363",
@@ -2308,7 +2688,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100363_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201901230401327620_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100366",
@@ -2320,7 +2702,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100369",
@@ -2330,7 +2714,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100370",
@@ -2344,7 +2730,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100370_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605130845160460_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100375",
@@ -2359,7 +2747,9 @@
         "석박사",
         "교환학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100385",
@@ -2371,7 +2761,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100388",
@@ -2383,7 +2775,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100388_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180125574350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100396",
@@ -2395,7 +2789,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100399",
@@ -2406,7 +2802,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100408",
@@ -2418,7 +2816,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100427",
@@ -2430,7 +2830,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100427_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202211160440320680_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100471",
@@ -2443,7 +2845,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100471_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202208290201302010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100472",
@@ -2455,7 +2859,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100472_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105250940091420_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100473",
@@ -2469,7 +2875,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100473_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201512110218294600_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100474",
@@ -2481,7 +2889,9 @@
         "학사",
         "석사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100474_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011170125028720_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100478",
@@ -2492,7 +2902,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100478_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403040459348580_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100481",
@@ -2505,7 +2917,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100483",
@@ -2518,7 +2932,9 @@
         "석사",
         "박사",
         "비정규과정"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100483_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009240544386830_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100485",
@@ -2530,7 +2946,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100485_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303070329380800_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100487",
@@ -2543,7 +2961,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100487_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803090618040420_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100488",
@@ -2553,7 +2973,9 @@
       "description": "학연산 클러스터의 새로운 기준",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100488_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003130500198120_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100490",
@@ -2563,7 +2985,9 @@
       "description": "미래를 품고 세계를 여는 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100490_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105270328254720_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100500",
@@ -2574,7 +2998,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100500_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201802210235240010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100503",
@@ -2587,7 +3013,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100506",
@@ -2598,7 +3026,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100506_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902271123580710_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "993152",
@@ -2612,7 +3042,9 @@
         "박사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100170",
@@ -2625,7 +3057,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100170_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202505260205156240_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100274",
@@ -2636,7 +3070,9 @@
       "degrees": [
         "석사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100380",
@@ -2644,7 +3080,9 @@
       "location": "인천",
       "type": "사립",
       "description": "Find Your Hidden Talents",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100380_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202111160450534150_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100136",
@@ -2655,7 +3093,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100168",
@@ -2666,7 +3106,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100168_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504300410275350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100373",
@@ -2679,7 +3121,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100373_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411220843579320_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100502",
@@ -2691,7 +3135,9 @@
         "학사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100502_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406260149499630_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100325",
@@ -2703,7 +3149,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100325_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202306130514178360_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100171",
@@ -2714,7 +3162,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100171_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201207240418049750_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100404",
@@ -2725,7 +3175,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100354",
@@ -2741,7 +3193,9 @@
         "학사편입",
         "석사편입",
         "박사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100201",
@@ -2754,7 +3208,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100201_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201710100250268390_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100415",
@@ -2767,7 +3223,9 @@
         "석사",
         "박사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100415_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110291101561680_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100258",
@@ -2777,7 +3235,9 @@
       "description": "SUWON SCIENCE COLLEGE",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100258_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110281055404400_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100159",
@@ -2787,7 +3247,9 @@
       "description": "\"미래를 여는 실용교육, 동양미래대학교!  창의와 혁신으로 앞서가는 글로벌 인재 양성의 요람! 동양미래대학교에서 당신의 꿈을 현실로 만들세요!\"",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100159_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503250206368060_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100328",
@@ -2797,7 +3259,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100328_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503311035191450_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100358",
@@ -2808,7 +3272,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100358_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402271147445250_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100391",
@@ -2816,7 +3282,9 @@
       "location": "충청북도",
       "type": "공립",
       "description": "더 넓은 세상과 통하는 대학",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100391_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404050936188170_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100199",
@@ -2829,7 +3297,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100199_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004031023039340_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100287",
@@ -2840,7 +3310,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100287_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503181142339820_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100181",
@@ -2851,7 +3323,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100181_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411070551494300_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100421",
@@ -2864,7 +3338,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100421_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309180525013310_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100453",
@@ -2872,7 +3348,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100072",
@@ -2882,7 +3360,9 @@
       "description": "The Next 고려사이버대학교",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503050351535150_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100148",
@@ -2893,7 +3373,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100150",
@@ -2905,7 +3387,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100150_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201508190223258620_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100164",
@@ -2916,7 +3400,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100164_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502200434327170_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100246",
@@ -2927,7 +3413,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502120523418890_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100281",
@@ -2939,7 +3427,9 @@
         "전문학사",
         "유학생/어학생",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100281_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107291018580300_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100331",
@@ -2947,7 +3437,9 @@
       "location": "경기도",
       "type": "사립",
       "description": "보건의료특성화 대학",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502141013096540_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100081",
@@ -2960,7 +3452,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502200409479490_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100330",
@@ -2972,7 +3466,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201303040322169940_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100405",
@@ -2984,7 +3480,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100230",
@@ -2994,7 +3492,9 @@
       "description": "A grain of wheat, making the world go around !",
       "degrees": [
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100230_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403281008157240_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100231",
@@ -3006,7 +3506,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100231_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911060233413460_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100497",
@@ -3017,7 +3519,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100333",
@@ -3027,7 +3531,9 @@
       "description": "내 꿈을 디자인하는 플랫폼",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100333_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202207250530019990_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100467",
@@ -3037,7 +3543,9 @@
       "description": "한국 유일 로봇특성화대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100467_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202410220359333810_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100179",
@@ -3047,7 +3555,9 @@
       "description": "글로벌 실무형 인재로 세계를 품다",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100198",
@@ -3058,7 +3568,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100198_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404170332228840_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100280",
@@ -3069,7 +3581,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100280_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902251032525200_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100254",
@@ -3080,7 +3594,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100022",
@@ -3090,7 +3606,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100286",
@@ -3100,7 +3618,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100286_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201801110942493290_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100346",
@@ -3110,7 +3630,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100106",
@@ -3121,7 +3643,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100402",
@@ -3134,7 +3658,9 @@
         "석사",
         "박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100378",
@@ -3144,7 +3670,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100378_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202408011017209350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100137",
@@ -3155,7 +3683,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100259",
@@ -3167,7 +3697,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100361",
@@ -3179,7 +3711,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100124",
@@ -3190,7 +3724,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100124_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309141030331430_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100064",
@@ -3202,7 +3738,9 @@
         "학사",
         "석사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100064_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907010133066960_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100265",
@@ -3213,7 +3751,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100265_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202405081003150270_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100110",
@@ -3223,7 +3763,9 @@
       "description": "세계를 움직이는 힘!",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100110_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404230219226850_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100138",
@@ -3233,7 +3775,9 @@
       "description": "무한 가능성과 역동적 리더십으로 미래사회를 선도하는 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100138_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201603100132041560_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100014",
@@ -3245,7 +3789,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100014_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202307181144560950_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100007",
@@ -3257,7 +3803,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100007_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004230327539740_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100042",
@@ -3265,7 +3813,9 @@
       "location": "경기도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100349",
@@ -3275,7 +3825,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100349_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202306270215423810_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100384",
@@ -3287,7 +3839,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404150551159970_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100176",
@@ -3299,7 +3853,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100176_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404110542532440_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100210",
@@ -3307,7 +3863,9 @@
       "location": "광주",
       "type": "사립",
       "description": "서영대학교는 대학 진학과 한국 정착을 원하는 외국인에게 한국어연수과정, 전문학사학위과정 등을 제공합니다.  외국인과 재외동포를 대상으로 한 한국어연수과정은 한국어활용능력 신장을 통한 대학수학능력 증진 및 원활한 한국생활 적응을 돕기 위해 개설됐습니다.  전문학사학위과정은",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100240",
@@ -3319,7 +3877,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100240_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309010401546090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100002",
@@ -3331,7 +3891,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100002_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105210113329140_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100192",
@@ -3341,7 +3903,9 @@
       "description": "전문성과 인성을 겸비한  혁신인재 양성대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100192_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202006241034082920_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100435",
@@ -3353,7 +3917,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100177",
@@ -3364,7 +3930,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100426",
@@ -3376,7 +3944,9 @@
         "학사",
         "석사",
         "교환학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100426_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004270313421600_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100423",
@@ -3384,7 +3954,9 @@
       "location": "전라남도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100050",
@@ -3394,7 +3966,9 @@
       "description": "이상을 현실로, 꿈을 준비하는 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100078",
@@ -3406,7 +3980,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100161",
@@ -3418,7 +3994,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100161_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202308030406264430_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100157",
@@ -3428,7 +4006,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100153",
@@ -3438,7 +4018,9 @@
       "description": "인성에 기술을 채워 공존의 가치를 실천하는 실용교육 선도대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100153_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202006030936065280_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100003",
@@ -3446,7 +4028,9 @@
       "location": "경상북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100112",
@@ -3456,7 +4040,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100119",
@@ -3467,7 +4053,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100119_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705100339232950_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100183",
@@ -3478,7 +4066,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100133",
@@ -3488,7 +4078,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100133_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004161148079410_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100016",
@@ -3496,7 +4088,9 @@
       "location": "강원도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100233",
@@ -3506,7 +4100,9 @@
       "description": "창의융합형 교육, 현장중심형 교육, 자기주도형 교육, 인성지성형 교육",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100158",
@@ -3518,7 +4114,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100434",
@@ -3528,7 +4126,9 @@
       "description": "A World Class U.S Degree in the heart of KOREA",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100021",
@@ -3541,7 +4141,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100056",
@@ -3552,7 +4154,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100165",
@@ -3562,7 +4166,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100262",
@@ -3570,7 +4176,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100379",
@@ -3581,7 +4189,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100379_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507300357321380_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100374",
@@ -3592,7 +4202,9 @@
       "degrees": [
         "학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100374_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202007011155125130_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100032",
@@ -3600,7 +4212,9 @@
       "location": "인천",
       "type": "사립",
       "description": "셰계적 수준의 생명공학대 겐트대학교 글로벌캠퍼스",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100032_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605101126054110_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100044",
@@ -3610,7 +4224,9 @@
       "description": "뜨거운 열정, 힘찬 비상! 사람을 키우는 경민대학교",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100044_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107150355553130_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100260",
@@ -3620,7 +4236,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100393",
@@ -3631,7 +4249,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100393_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201211120319466990_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100322",
@@ -3643,7 +4263,9 @@
         "학사",
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100273",
@@ -3653,7 +4275,9 @@
       "description": "내일이 더 기대되는 대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100273_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202103041013377290_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100278",
@@ -3664,7 +4288,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100422",
@@ -3674,7 +4300,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100422_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201604141145598880_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100062",
@@ -3688,7 +4316,9 @@
         "박사",
         "석박사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100480",
@@ -3699,7 +4329,9 @@
       "degrees": [
         "석사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100486",
@@ -3711,7 +4343,9 @@
         "학사",
         "유학생/어학생",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100486_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507281131010010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100097",
@@ -3719,7 +4353,9 @@
       "location": "경기도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100436",
@@ -3730,7 +4366,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100492",
@@ -3742,7 +4380,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100417",
@@ -3753,7 +4393,9 @@
       "degrees": [
         "전문학사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100417_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011200254484720_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100232",
@@ -3765,7 +4407,9 @@
         "학사",
         "석사",
         "유학생/어학생"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100128",
@@ -3776,7 +4420,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100128_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009170304219350_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100036",
@@ -3784,7 +4430,9 @@
       "location": "경상남도",
       "type": "국립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100036_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202010230509234090_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100105",
@@ -3795,7 +4443,9 @@
       "degrees": [
         "학사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100495",
@@ -3807,7 +4457,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100292",
@@ -3817,7 +4469,9 @@
       "description": "LG가 설립하고 LG가 지원하는 국내 최고의 차세대농업기술 선도대학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100247",
@@ -3827,7 +4481,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004240258326590_B.png&fileStorePath=univStorePath"
     },
     {
       "univCd": "100343",
@@ -3838,7 +4494,9 @@
       "degrees": [
         "학사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100365",
@@ -3846,7 +4504,9 @@
       "location": "인천",
       "type": "사립",
       "description": "민족복음화와 세계선교",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100371",
@@ -3856,7 +4516,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100371_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902120240266430_B.JPG&fileStorePath=univStorePath"
     },
     {
       "univCd": "100100",
@@ -3864,7 +4526,9 @@
       "location": "서울",
       "type": "사립",
       "description": "아트人 국제예대, Arts in KUKJE",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100218",
@@ -3872,7 +4536,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100350",
@@ -3882,7 +4548,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100108",
@@ -3892,7 +4560,9 @@
       "description": "간호명문사학",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100202",
@@ -3903,7 +4573,9 @@
       "degrees": [
         "학사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100364",
@@ -3913,7 +4585,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100309",
@@ -3924,7 +4598,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100309_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201704251240245170_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100132",
@@ -3935,7 +4611,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100132_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201901210430587490_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100324",
@@ -3946,7 +4624,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100242",
@@ -3956,7 +4636,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100336",
@@ -3967,7 +4649,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "530840",
@@ -3977,7 +4661,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100063",
@@ -3987,7 +4673,9 @@
       "description": "",
       "degrees": [
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100257",
@@ -3997,7 +4685,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100013",
@@ -4009,7 +4699,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100018",
@@ -4019,7 +4711,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100048",
@@ -4029,7 +4723,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100074",
@@ -4039,7 +4735,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100083",
@@ -4050,7 +4748,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100093",
@@ -4061,7 +4761,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705190236363010_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100125",
@@ -4072,7 +4774,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100189",
@@ -4083,7 +4787,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100191",
@@ -4091,7 +4797,9 @@
       "location": "부산",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100216",
@@ -4101,7 +4809,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100352",
@@ -4112,7 +4822,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100368",
@@ -4122,7 +4834,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100381",
@@ -4133,7 +4847,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100401",
@@ -4144,7 +4860,9 @@
       "degrees": [
         "석사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100410",
@@ -4155,7 +4873,9 @@
       "degrees": [
         "석사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100424",
@@ -4165,7 +4885,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100428",
@@ -4176,7 +4898,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100479",
@@ -4186,7 +4910,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100504",
@@ -4197,7 +4923,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100001",
@@ -4205,7 +4933,9 @@
       "location": "경기도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100055",
@@ -4215,7 +4945,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100221",
@@ -4223,7 +4955,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100304",
@@ -4233,7 +4967,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100348",
@@ -4245,7 +4981,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100389",
@@ -4253,7 +4991,9 @@
       "location": "충청남도",
       "type": "공립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100409",
@@ -4263,7 +5003,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100386",
@@ -4273,7 +5015,9 @@
       "description": "소통과 공감을 중시하는 신나는 춘천교육대학교",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100028",
@@ -4284,7 +5028,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100301",
@@ -4294,7 +5040,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100255",
@@ -4304,7 +5052,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100255_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605311152161710_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100327",
@@ -4315,7 +5065,9 @@
       "degrees": [
         "학사",
         "학사편입"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/univ_logo/100327_logo.jpg",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605240242159110_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100297",
@@ -4326,7 +5078,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100213",
@@ -4337,7 +5091,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100220",
@@ -4348,7 +5104,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100167",
@@ -4358,7 +5116,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100005",
@@ -4368,7 +5128,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100263",
@@ -4376,7 +5138,9 @@
       "location": "충청북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100031",
@@ -4384,7 +5148,9 @@
       "location": "대전",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100197",
@@ -4395,7 +5161,9 @@
       "degrees": [
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100439",
@@ -4403,7 +5171,9 @@
       "location": "강원도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100441",
@@ -4411,7 +5181,9 @@
       "location": "충청남도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100442",
@@ -4419,7 +5191,9 @@
       "location": "충청북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100443",
@@ -4427,7 +5201,9 @@
       "location": "충청남도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100444",
@@ -4435,7 +5211,9 @@
       "location": "전라북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100445",
@@ -4443,7 +5221,9 @@
       "location": "울산",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100447",
@@ -4451,7 +5231,9 @@
       "location": "경상남도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100448",
@@ -4459,7 +5241,9 @@
       "location": "대구",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100459",
@@ -4467,7 +5251,9 @@
       "location": "경상북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100463",
@@ -4475,7 +5261,9 @@
       "location": "부산",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100464",
@@ -4483,7 +5271,9 @@
       "location": "전라북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100466",
@@ -4491,7 +5281,9 @@
       "location": "충청남도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "993179",
@@ -4499,7 +5291,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100451",
@@ -4507,7 +5301,9 @@
       "location": "광주",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100437",
@@ -4515,7 +5311,9 @@
       "location": "강원도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100243",
@@ -4525,7 +5323,9 @@
       "description": "",
       "degrees": [
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100226",
@@ -4535,7 +5335,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100429",
@@ -4545,7 +5347,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100068",
@@ -4555,7 +5359,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100101",
@@ -4565,7 +5371,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100116",
@@ -4575,7 +5383,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100123",
@@ -4585,7 +5395,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100182",
@@ -4595,7 +5407,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100204",
@@ -4605,7 +5419,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100362",
@@ -4615,7 +5431,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100372",
@@ -4626,7 +5444,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100499",
@@ -4637,7 +5457,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100166",
@@ -4647,7 +5469,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100173",
@@ -4657,7 +5481,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100248",
@@ -4667,7 +5493,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100251",
@@ -4677,7 +5505,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503310132486430_B.jpg&fileStorePath=univStorePath"
     },
     {
       "univCd": "100294",
@@ -4689,7 +5519,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100345",
@@ -4699,7 +5531,9 @@
       "description": "",
       "degrees": [
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100376",
@@ -4710,7 +5544,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100416",
@@ -4721,7 +5557,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100418",
@@ -4729,7 +5567,9 @@
       "location": "경상북도",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100089",
@@ -4742,7 +5582,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100321",
@@ -4752,7 +5594,9 @@
       "description": "",
       "degrees": [
         "학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100323",
@@ -4763,7 +5607,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100397",
@@ -4775,7 +5621,9 @@
         "학사",
         "석사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100420",
@@ -4783,7 +5631,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100450",
@@ -4791,7 +5641,9 @@
       "location": "서울",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100457",
@@ -4799,7 +5651,9 @@
       "location": "인천",
       "type": "사립",
       "description": "",
-      "degrees": []
+      "degrees": [],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100141",
@@ -4811,7 +5665,9 @@
         "학사",
         "석사",
         "박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100291",
@@ -4822,7 +5678,9 @@
       "degrees": [
         "학사",
         "전문학사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100195",
@@ -4833,7 +5691,9 @@
       "degrees": [
         "학사",
         "석사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     },
     {
       "univCd": "100432",
@@ -4846,7 +5706,9 @@
         "석사",
         "박사",
         "석박사"
-      ]
+      ],
+      "logoUrl": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+      "imageUrl": "https://studyinkorea.go.kr/public/new/images/img_univ2.png"
     }
   ]
 }

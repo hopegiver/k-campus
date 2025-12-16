@@ -49,6 +49,12 @@ def match_universities():
             # Add univCd to our university
             our_univ['univCd'] = sik_univ['univCd']
 
+            # Add logo and image URLs
+            if sik_univ.get('logoUrl'):
+                our_univ['logoUrl'] = sik_univ['logoUrl']
+            if sik_univ.get('imageUrl'):
+                our_univ['imageUrl'] = sik_univ['imageUrl']
+
             # Optionally update other fields if they're missing or empty
             if not our_univ.get('description') and sik_univ.get('description'):
                 our_univ['descriptionKo'] = sik_univ['description']

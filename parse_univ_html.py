@@ -13,6 +13,8 @@ class UniversityHTMLParser(HTMLParser):
         self.in_description = False
         self.in_division_items = False
         self.in_univ_code = False
+        self.in_image_wrap = False
+        self.in_symbol = False
         self.current_link = ''
 
     def handle_starttag(self, tag, attrs):
@@ -25,6 +27,28 @@ class UniversityHTMLParser(HTMLParser):
             self.current_univ = {
                 'degrees': []
             }
+
+        # Image wrap (for main university image)
+        elif tag == 'div' and attrs_dict.get('class') == 'image-wrap':
+            self.in_image_wrap = True
+
+        # University main image
+        elif tag == 'img' and self.in_image_wrap:
+            if 'src' in attrs_dict:
+                src = attrs_dict['src']
+                # Store the image URL (will be processed later)
+                self.current_univ['imageUrl'] = src
+
+        # Symbol/Logo span
+        elif tag == 'span' and attrs_dict.get('class') == 'simbol':
+            self.in_symbol = True
+
+        # University logo
+        elif tag == 'img' and self.in_symbol:
+            if 'src' in attrs_dict:
+                src = attrs_dict['src']
+                # Store logo URL
+                self.current_univ['logoUrl'] = src
 
         # University name link
         elif tag == 'a' and 'href' in attrs_dict:
@@ -90,6 +114,9 @@ class UniversityHTMLParser(HTMLParser):
         elif tag == 'div':
             self.in_division_items = False
             self.in_univ_code = False
+            self.in_image_wrap = False
+        elif tag == 'span':
+            self.in_symbol = False
 
 def parse_html_file(filepath):
     """Parse the HTML file and extract university data"""
@@ -110,6 +137,7 @@ def parse_html_file(filepath):
 def clean_university_data(universities):
     """Clean and standardize university data"""
     cleaned = []
+    base_url = 'https://studyinkorea.go.kr'
 
     for univ in universities:
         # Skip if no name or code
@@ -120,13 +148,25 @@ def clean_university_data(universities):
         degrees = [d.strip() for d in univ.get('degrees', []) if d.strip()]
         degrees = list(dict.fromkeys(degrees))  # Remove duplicates while preserving order
 
+        # Process logo URL
+        logo_url = univ.get('logoUrl', '')
+        if logo_url and not logo_url.startswith('http'):
+            logo_url = base_url + logo_url
+
+        # Process image URL
+        image_url = univ.get('imageUrl', '')
+        if image_url and not image_url.startswith('http'):
+            image_url = base_url + image_url
+
         cleaned_univ = {
             'univCd': univ.get('univCd', univ.get('universityCode', '')),
             'nameKo': univ.get('nameKo', ''),
             'location': univ.get('location', ''),
             'type': univ.get('type', ''),
             'description': univ.get('description', ''),
-            'degrees': degrees
+            'degrees': degrees,
+            'logoUrl': logo_url,
+            'imageUrl': image_url
         }
 
         cleaned.append(cleaned_univ)
@@ -155,6 +195,10 @@ def main():
             print(f"  Location: {univ['location']}")
             print(f"  Type: {univ['type']}")
             print(f"  Degrees: {', '.join(univ['degrees'])}")
+            if univ.get('logoUrl'):
+                print(f"  Logo: {univ['logoUrl']}")
+            if univ.get('imageUrl'):
+                print(f"  Image: {univ['imageUrl'][:80]}...")
             if univ['description']:
                 print(f"  Description: {univ['description'][:50]}...")
 

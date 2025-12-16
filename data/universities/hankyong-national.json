@@ -2,8 +2,8 @@
   "id": "hankyong-national",
   "name": "Hankyong National University",
   "nameKo": "한경국립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "4096",
@@ -31,7 +31,7 @@
     "email": "admission@hknu.ac.kr",
     "phone": "031-670-5114",
     "website": "https://www.hknu.ac.kr",
-    "address": "경기도 안성시 중앙로 327 (석정동, 한경대학교)"
+    "address": "Gyeonggi-do Anseong 중앙ro 327 (석정dong, 한경대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

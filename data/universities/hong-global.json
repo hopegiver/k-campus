@@ -2,8 +2,8 @@
   "id": "hong-global",
   "name": "Handong Global University",
   "nameKo": "한동대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100474_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011170125028720_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3467",
@@ -31,7 +31,7 @@
     "email": "admission@handong.edu",
     "phone": "054-260-1111",
     "website": "https://www.handong.edu",
-    "address": "경상북도 포항시 북구 흥해읍 한동로 558 (남송리, 한동대학교)"
+    "address": "Gyeongsangbuk-do Pohang Buk-gu 흥해eup 한dongro 558 (남송ri, 한dong대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

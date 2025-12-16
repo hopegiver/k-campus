@@ -2,8 +2,8 @@
   "id": "dongguk",
   "name": "Dongguk University",
   "nameKo": "동국대학교(WISE)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100146_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403210152349280_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2877",
@@ -31,7 +31,7 @@
     "email": "admission@wise.dongguk.ac.kr",
     "phone": "054-770-2844",
     "website": "https://wise.dongguk.ac.kr",
-    "address": "경상북도 경주시 동대로 123(석장동)"
+    "address": "Gyeongsangbuk-do Gyeongju dong대ro 123(석장dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "incheon-national",
   "name": "Incheon National University",
   "nameKo": "인천대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100338_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509030556466150_B.jpg&fileStorePath=univStorePath",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "2892",
@@ -31,7 +31,7 @@
     "email": "admission@inu.ac.kr/",
     "phone": "032-835-8114",
     "website": "https://www.inu.ac.kr/",
-    "address": "인천광역시 연수구 아카데미로 119 (송도동, 인천대학교)"
+    "address": "Incheon Yeonsu-gu 아카데미ro 119 (송도dong, 인천대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

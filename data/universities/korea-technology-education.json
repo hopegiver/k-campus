@@ -2,8 +2,8 @@
   "id": "korea-technology-education",
   "name": "Korea University of Technology and Education",
   "nameKo": "한국기술교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100413_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404301027278220_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3354",
@@ -31,7 +31,7 @@
     "email": "admission@koreatech.ac.kr",
     "phone": "041-560-1114",
     "website": "https://www.koreatech.ac.kr",
-    "address": "충청남도 천안시 동남구 병천면 충절로 1600 (가전리, 한국기술교육대학교)"
+    "address": "Chungcheongnam-do Cheonan dongNam-gu 병천myeon 충절ro 1600 (ga전ri, 한국기술교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

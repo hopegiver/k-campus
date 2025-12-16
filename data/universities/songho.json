@@ -2,8 +2,8 @@
   "id": "songho",
   "name": "Songho University",
   "nameKo": "송호대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100255_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605311152161710_B.jpg&fileStorePath=univStorePath",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3651",
@@ -31,7 +31,7 @@
     "email": "admission@songho.ac.kr",
     "phone": "033-340-1000",
     "website": "https://www.songho.ac.kr",
-    "address": "강원특별자치도 횡성군 횡성읍 남산로 210"
+    "address": "Gangwon-do 횡성군 횡성eup 남산ro 210"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

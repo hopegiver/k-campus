@@ -2,8 +2,8 @@
   "id": "yeonsung",
   "name": "Yeonsung University",
   "nameKo": "연성대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100287_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503181142339820_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2818",
@@ -31,7 +31,7 @@
     "email": "admission@yeonsung.ac.kr",
     "phone": "031-441-2168",
     "website": "https://www.yeonsung.ac.kr",
-    "address": "경기도 안양시 만안구 양화로37번길 34 (안양동, 연성대학교)"
+    "address": "Gyeonggi-do Anyang 만안구 양화ro37번gil 34 (안양dong, 연성대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

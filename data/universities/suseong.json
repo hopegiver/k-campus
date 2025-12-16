@@ -2,8 +2,8 @@
   "id": "suseong",
   "name": "Suseong University",
   "nameKo": "수성대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100256_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201710170743255810_B.png&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "2701",
@@ -31,7 +31,7 @@
     "email": "admission@sc.ac.kr",
     "phone": "053-749-7000",
     "website": "https://www.sc.ac.kr",
-    "address": "대구광역시 수성구 달구벌대로528길 15 (만촌동, 수성대학교)"
+    "address": "Daegu Suseong-gu 달구벌대ro528gil 15 (만촌dong, 수성대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

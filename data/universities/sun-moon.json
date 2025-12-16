@@ -2,8 +2,8 @@
   "id": "sun-moon",
   "name": "Sun Moon University",
   "nameKo": "선문대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100237_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105110351558060_B.JPG&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3294",
@@ -31,7 +31,7 @@
     "email": "admission@sunmoon.ac.kr",
     "phone": "041-530-2114",
     "website": "https://www.sunmoon.ac.kr",
-    "address": "충청남도 아산시 탕정면 선문로221번길 70 (갈산리, 선문대학교)"
+    "address": "Chungcheongnam-do Asan 탕정myeon 선문ro221번gil 70 (갈산ri, 선문대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

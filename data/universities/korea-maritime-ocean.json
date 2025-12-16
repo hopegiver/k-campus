@@ -2,8 +2,8 @@
   "id": "korea-maritime-ocean",
   "name": "Korea Maritime & Ocean University",
   "nameKo": "국립한국해양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100472_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105250940091420_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "1674",
@@ -31,7 +31,7 @@
     "email": "admission@kmou.ac.kr",
     "phone": "051-410-4114",
     "website": "https://www.kmou.ac.kr",
-    "address": "부산광역시 영도구 태종로 727 (동삼동, 한국해양대학교)"
+    "address": "Busan 영도구 태종ro 727 (dong삼dong, 한국해양대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

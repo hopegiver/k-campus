@@ -2,8 +2,8 @@
   "id": "busanwomens",
   "name": "Busanwomenscollege",
   "nameKo": "부산여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100192_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202006241034082920_B.JPG&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "2885",
@@ -31,7 +31,7 @@
     "email": "admission@bwc.ac.kr",
     "phone": "051-852-0081",
     "website": "https://www.bwc.ac.kr",
-    "address": "부산광역시 부산진구 진남로 506 (양정동, 부산여자대학)"
+    "address": "Busan 부산진구 진남ro 506 (양정dong, 부산여자대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

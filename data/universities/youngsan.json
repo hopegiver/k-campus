@@ -2,8 +2,8 @@
   "id": "youngsan",
   "name": "Youngsan University",
   "nameKo": "영산대학교(해운대)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "",
@@ -31,7 +31,7 @@
     "email": "admission@ysu.ac.kr",
     "phone": "051-540-7000",
     "website": "https://www.ysu.ac.kr",
-    "address": "부산광역시 해운대구 반송순환로 142 (반송동)"
+    "address": "Busan 해운대구 반송순환ro 142 (반송dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

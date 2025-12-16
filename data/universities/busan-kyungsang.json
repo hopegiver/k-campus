@@ -2,8 +2,8 @@
   "id": "busan-kyungsang",
   "name": "Busan Kyungsang College",
   "nameKo": "부산경상대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "2917",
@@ -31,7 +31,7 @@
     "email": "admission@bsks.ac.kr",
     "phone": "051-850-1000",
     "website": "https://www.bsks.ac.kr",
-    "address": "부산광역시 연제구 고분로 170 (연산동, 부산경상대학)"
+    "address": "Busan 연제구 고분ro 170 (연산dong, 부산경상대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

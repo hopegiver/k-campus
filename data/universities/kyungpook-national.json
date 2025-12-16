@@ -2,8 +2,8 @@
   "id": "kyungpook-national",
   "name": "Kyungpook National University",
   "nameKo": "경북대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100047_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402261046476690_B.jpg&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "1695",
@@ -31,7 +31,7 @@
     "email": "admission@knu.ac.kr",
     "phone": "053-950-5114",
     "website": "https://www.knu.ac.kr",
-    "address": "대구광역시 북구 대학로 80 (산격동, 경북대학교)"
+    "address": "Daegu Buk-gu 대학ro 80 (산격dong, 경북대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "chosun",
   "name": "Chosun University",
   "nameKo": "조선대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100363_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201901230401327620_B.jpg&fileStorePath=univStorePath",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "1707",
@@ -31,7 +31,7 @@
     "email": "admission@chosun.ac.kr",
     "phone": "062-230-7114",
     "website": "https://www.chosun.ac.kr",
-    "address": "광주광역시 동구 조선대길 146(서석동)"
+    "address": "Gwangju Dong-gu 조선대gil 146(서석dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

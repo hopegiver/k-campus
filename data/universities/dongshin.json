@@ -2,8 +2,8 @@
   "id": "dongshin",
   "name": "Dongshinuniversity",
   "nameKo": "동신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100154_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105271019161510_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3177",
@@ -31,7 +31,7 @@
     "email": "admission@dsu.ac.kr",
     "phone": "061-330-3114",
     "website": "https://www.dsu.ac.kr",
-    "address": "전라남도 나주시 동신대길 67 (대호동)"
+    "address": "Jeollanam-do Naju dong신대gil 67 (대호dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

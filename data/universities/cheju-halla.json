@@ -2,8 +2,8 @@
   "id": "cheju-halla",
   "name": "Cheju Halla University",
   "nameKo": "제주한라대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeju-do",
   "region": "Jeju-do",
   "founded": "2529",
@@ -31,7 +31,7 @@
     "email": "admission@chu.ac.kr",
     "phone": "064-741-7575",
     "website": "https://www.chu.ac.kr",
-    "address": "제주특별자치도 제주시 한라대학로 38 (노형동, 제주한라대학)"
+    "address": "Jeju-do Jeju 한라대학ro 38 (노형dong, 제주한라대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

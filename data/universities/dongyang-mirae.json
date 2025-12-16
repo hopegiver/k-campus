@@ -2,8 +2,8 @@
   "id": "dongyang-mirae",
   "name": "Dongyang Mirae University",
   "nameKo": "동양미래대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100159_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503250206368060_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2385",
@@ -31,7 +31,7 @@
     "email": "admission@dongyang.ac.kr/",
     "phone": "02-2610-1700",
     "website": "https://www.dongyang.ac.kr/",
-    "address": "서울특별시 구로구 경인로 445 (고척동, 동양미래대학)"
+    "address": "Seoul 구ro구 경인ro 445 (고척dong, dong양미래대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

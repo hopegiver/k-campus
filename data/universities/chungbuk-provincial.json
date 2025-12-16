@@ -2,8 +2,8 @@
   "id": "chungbuk-provincial",
   "name": "Chungbuk Provincial University",
   "nameKo": "충북도립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100391_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404050936188170_B.png&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3586",
@@ -31,7 +31,7 @@
     "email": "admission@cpu.ac.kr",
     "phone": "043-220-5313",
     "website": "https://www.cpu.ac.kr",
-    "address": "충청북도 옥천군 옥천읍 대학길 15 (문정리)"
+    "address": "Chungcheongbuk-do 옥천군 옥천eup 대학gil 15 (문정ri)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

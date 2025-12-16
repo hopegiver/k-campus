@@ -2,8 +2,8 @@
   "id": "sehan",
   "name": "Sehan University",
   "nameKo": "세한대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504150517117390_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3440",
@@ -31,7 +31,7 @@
     "email": "admission@sehan.ac.kr",
     "phone": "061-469-1114",
     "website": "https://www.sehan.ac.kr",
-    "address": "전라남도 영암군 삼호읍 녹색로 1113 (산호리, 세한대학교)"
+    "address": "Jeollanam-do 영암군 삼호eup 녹색ro 1113 (산호ri, 세한대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

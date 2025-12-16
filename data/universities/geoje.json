@@ -2,8 +2,8 @@
   "id": "geoje",
   "name": "Geoje University",
   "nameKo": "거제대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100024_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003040624481500_B.png&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3284",
@@ -31,7 +31,7 @@
     "email": "admission@koje.ac.kr",
     "phone": "055-680-1504",
     "website": "https://www.koje.ac.kr",
-    "address": "경상남도 거제시 마전1길 91 (장승포동, 거제대학)"
+    "address": "Gyeongsangnam-do Geoje 마전1gil 91 (장승포dong, 거제대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

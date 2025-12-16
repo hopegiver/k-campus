@@ -2,8 +2,8 @@
   "id": "seoul-jangsin",
   "name": "Seoul Jangsin University",
   "nameKo": "서울장신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100230_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403281008157240_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3103",
@@ -31,7 +31,7 @@
     "email": "admission@sjs.ac.kr",
     "phone": "031-799-9113",
     "website": "https://www.sjs.ac.kr",
-    "address": "경기도 광주시 경안로 145 (경안동, 서울장신대학교)"
+    "address": "Gyeonggi-do Gwangju 경안ro 145 (경안dong, 서울장신대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

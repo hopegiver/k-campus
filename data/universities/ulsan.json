@@ -2,8 +2,8 @@
   "id": "ulsan",
   "name": "University Of Ulsan",
   "nameKo": "울산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100318_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201504020522076590_B.jpg&fileStorePath=univStorePath",
   "location": "Ulsan",
   "region": "Ulsan",
   "founded": "2564",
@@ -31,7 +31,7 @@
     "email": "admission@ulsan.ac.kr",
     "phone": "052-277-3101",
     "website": "https://www.ulsan.ac.kr",
-    "address": "울산광역시 남구 대학로 93 (무거동, 울산대학교)"
+    "address": "Ulsan Nam-gu 대학ro 93 (무거dong, 울산대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

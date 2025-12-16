@@ -2,8 +2,8 @@
   "id": "yong-in-arts-science",
   "name": "Yong-In Arts & Science University",
   "nameKo": "용인예술과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100311_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105100244377880_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3465",
@@ -31,7 +31,7 @@
     "email": "admission@ysc.ac.kr",
     "phone": "031-330-9000",
     "website": "https://www.ysc.ac.kr",
-    "address": "경기도 용인시 처인구 동부로 61 (마평동, 용인송담대학교)"
+    "address": "Gyeonggi-do Yongin 처인구 dong부ro 61 (마평dong, 용인송담대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

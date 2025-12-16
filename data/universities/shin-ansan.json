@@ -2,8 +2,8 @@
   "id": "shin-ansan",
   "name": "Shin Ansan University",
   "nameKo": "신안산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3445",
@@ -31,7 +31,7 @@
     "email": "admission@sau.ac.kr",
     "phone": "031-490-6000",
     "website": "https://www.sau.ac.kr",
-    "address": "경기도 안산시 단원구 신안산대학로 135 (초지동, 신안산대학교)"
+    "address": "Gyeonggi-do Ansan 단원구 신안산대학ro 135 (초지dong, 신안산대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

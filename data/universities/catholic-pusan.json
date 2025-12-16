@@ -2,8 +2,8 @@
   "id": "catholic-pusan",
   "name": "Catholic University Of Pusan",
   "nameKo": "부산가톨릭대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100186_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202511131112077000_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "3323",
@@ -31,7 +31,7 @@
     "email": "admission@cup.ac.kr",
     "phone": "051-515-5811",
     "website": "https://www.cup.ac.kr",
-    "address": "부산광역시 금정구 오륜대로 57 (부곡동, 부산가톨릭대학교)"
+    "address": "Busan 금정구 오륜대ro 57 (부곡dong, 부산ga톨릭대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

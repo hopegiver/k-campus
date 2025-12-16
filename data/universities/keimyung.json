@@ -2,8 +2,8 @@
   "id": "keimyung",
   "name": "Keimyung University",
   "nameKo": "계명대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100065_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903250611246560_B.jpg&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "1986",
@@ -31,7 +31,7 @@
     "email": "admission@kmu.ac.kr",
     "phone": "053-580-5114",
     "website": "https://www.kmu.ac.kr",
-    "address": "대구광역시 달서구 달구벌대로 1095 (신당동, 계명대학교성서캠퍼스)"
+    "address": "Daegu Dalseo-gu 달구벌대ro 1095 (신당dong, 계명대학교성서캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

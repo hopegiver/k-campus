@@ -2,8 +2,8 @@
   "id": "songgok",
   "name": "Songgok University",
   "nameKo": "송곡대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100253_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404300521256970_B.jpg&fileStorePath=univStorePath",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3757",
@@ -31,7 +31,7 @@
     "email": "admission@songgok.ac.kr",
     "phone": "033-260-3600",
     "website": "https://www.songgok.ac.kr",
-    "address": "강원특별자치도 춘천시 남산면 송곡대학길 34"
+    "address": "Gangwon-do Chuncheon 남산myeon 송곡대학gil 34"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "mokpo-science",
   "name": "Mokpo Science University",
   "nameKo": "목포과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "2782",
@@ -31,7 +31,7 @@
     "email": "admission@msu.ac.kr",
     "phone": "061-278-8651",
     "website": "https://www.msu.ac.kr",
-    "address": "전라남도 목포시 영산로 413-1 (상동, 목포과학대학)"
+    "address": "Jeollanam-do Mokpo 영산ro 413-1 (상dong, 목포과학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

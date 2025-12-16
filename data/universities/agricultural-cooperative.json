@@ -2,8 +2,8 @@
   "id": "agricultural-cooperative",
   "name": "Agricultural Cooperative University",
   "nameKo": "농협대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2300",
@@ -31,7 +31,7 @@
     "email": "admission@nonghyup.ac.kr",
     "phone": "031-960-4000",
     "website": "https://www.nonghyup.ac.kr",
-    "address": "경기도 고양시 덕양구 서삼릉길 281 (원당동, 농협대학)"
+    "address": "Gyeonggi-do Goyang 덕양구 서삼릉gil 281 (원당dong, 농협대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

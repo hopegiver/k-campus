@@ -2,8 +2,8 @@
   "id": "dong-eui-technology",
   "name": "Dong Eui Institute Of Technology",
   "nameKo": "동의과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "2664",
@@ -31,7 +31,7 @@
     "email": "admission@dit.ac.kr",
     "phone": "051-852-0011",
     "website": "https://www.dit.ac.kr",
-    "address": "부산광역시 부산진구 양지로 54 (양정동, 동의과학대학)"
+    "address": "Busan 부산진구 양지ro 54 (양정dong, dong의과학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

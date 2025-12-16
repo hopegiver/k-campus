@@ -2,8 +2,8 @@
   "id": "woosuk",
   "name": "Woosuk University",
   "nameKo": "우석대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100312_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202306160247011570_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "2898",
@@ -31,7 +31,7 @@
     "email": "admission@woosuk.ac.kr",
     "phone": "063-290-1114",
     "website": "https://www.woosuk.ac.kr",
-    "address": "전북특별자치도 완주군 삼례읍 삼례로 443 (후정리, 우석대학교)"
+    "address": "Jeollabuk-do 완주군 삼례eup 삼례ro 443 (후정ri, 우석대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "saekyung",
   "name": "Saekyung University",
   "nameKo": "세경대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004240258326590_B.png&fileStorePath=univStorePath",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3429",
@@ -31,7 +31,7 @@
     "email": "admission@saekyung.ac.kr",
     "phone": "033-371-3000",
     "website": "https://www.saekyung.ac.kr",
-    "address": "강원특별자치도 영월군 영월읍 하송로 197"
+    "address": "Gangwon-do 영월군 영월eup 하송ro 197"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

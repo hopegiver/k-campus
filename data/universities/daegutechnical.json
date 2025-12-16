@@ -2,8 +2,8 @@
   "id": "daegutechnical",
   "name": "Daegutechnical University",
   "nameKo": "대구공업대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "2783",
@@ -31,7 +31,7 @@
     "email": "admission@ttc.ac.kr",
     "phone": "053-560-3700",
     "website": "https://www.ttc.ac.kr",
-    "address": "대구광역시 달서구 송현로 205 (본동, 대구공업대학)"
+    "address": "Daegu Dalseo-gu 송현ro 205 (본dong, 대구공업대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

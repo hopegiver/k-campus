@@ -2,8 +2,8 @@
   "id": "pusan-national",
   "name": "Pusan National University",
   "nameKo": "부산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100190_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107140433517640_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "1693",
@@ -31,7 +31,7 @@
     "email": "admission@pusan.ac.kr",
     "phone": "051-512-0311",
     "website": "https://www.pusan.ac.kr",
-    "address": "부산광역시 금정구 부산대학로63번길 2 (장전동, 부산대학교)"
+    "address": "Busan 금정구 부산대학ro63번gil 2 (장전dong, 부산대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

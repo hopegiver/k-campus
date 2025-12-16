@@ -2,8 +2,8 @@
   "id": "sunchon-national",
   "name": "Sunchon National University",
   "nameKo": "국립순천대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100264_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911221119087580_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3002",
@@ -31,7 +31,7 @@
     "email": "admission@scnu.ac.kr/SCNU/main.do",
     "phone": "061-750-3114",
     "website": "https://www.scnu.ac.kr/SCNU/main.do",
-    "address": "전라남도 순천시 중앙로 255 (석현동, 순천대학교)"
+    "address": "Jeollanam-do Suncheon 중앙ro 255 (석현dong, 순천대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

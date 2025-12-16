@@ -2,8 +2,8 @@
   "id": "kwangshin",
   "name": "Kwangshin University",
   "nameKo": "광신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "3541",
@@ -31,7 +31,7 @@
     "email": "admission@kwangshin.ac.kr",
     "phone": "062-605-1004",
     "website": "https://www.kwangshin.ac.kr",
-    "address": "광주광역시 북구 양산택지소로 36 (본촌동, 광신대학교)"
+    "address": "Gwangju Buk-gu 양산택지소ro 36 (본촌dong, 광신대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

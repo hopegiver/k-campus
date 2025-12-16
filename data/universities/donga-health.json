@@ -2,8 +2,8 @@
   "id": "donga-health",
   "name": "Donga University of Health",
   "nameKo": "동아보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3440",
@@ -31,7 +31,7 @@
     "email": "admission@duh.ac.kr",
     "phone": "061-470-1700",
     "website": "https://www.duh.ac.kr",
-    "address": "전라남도 영암군 학산면 영산로 76-57 (독천리, 동아보건대학교)"
+    "address": "Jeollanam-do 영암군 학산myeon 영산ro 76-57 (독천ri, dong아보건대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

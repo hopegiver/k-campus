@@ -2,8 +2,8 @@
   "id": "mokpo-national-maritime",
   "name": "Mokpo National Maritime University",
   "nameKo": "국립목포해양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100176_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404110542532440_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3402",
@@ -31,7 +31,7 @@
     "email": "admission@mmu.ac.kr",
     "phone": "061-240-7114",
     "website": "https://www.mmu.ac.kr",
-    "address": "전라남도 목포시 해양대학로 91 (죽교동, 목포해양대학교)"
+    "address": "Jeollanam-do Mokpo 해양대학ro 91 (죽교dong, 목포해양대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "inha-technical",
   "name": "Inha Technical College",
   "nameKo": "인하공업전문대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100340_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202002191131157920_B.jpg&fileStorePath=univStorePath",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "2122",
@@ -31,7 +31,7 @@
     "email": "admission@inhatc.ac.kr",
     "phone": "032-870-2114",
     "website": "https://www.inhatc.ac.kr",
-    "address": "인천광역시 미추홀구 인하로 100 (용현동, 인하대,인하공전,정석항공고)"
+    "address": "Incheon 미추홀구 인하ro 100 (용현dong, 인하대,인하공전,정석항공고)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

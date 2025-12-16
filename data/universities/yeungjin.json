@@ -2,8 +2,8 @@
   "id": "yeungjin",
   "name": "Yeungjin University",
   "nameKo": "영진전문대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "2819",
@@ -31,7 +31,7 @@
     "email": "admission@yju.ac.kr",
     "phone": "053-940-5132",
     "website": "https://www.yju.ac.kr",
-    "address": "대구광역시 북구 복현로 35 (복현동, 영진전문대학)"
+    "address": "Daegu Buk-gu 복현ro 35 (복현dong, 영진전문대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

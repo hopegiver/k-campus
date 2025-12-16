@@ -2,8 +2,8 @@
   "id": "soonchunhyang",
   "name": "Soonchunhyang University",
   "nameKo": "순천향대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100266_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404161029559330_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "2855",
@@ -31,7 +31,7 @@
     "email": "admission@sch.ac.kr/",
     "phone": "041-530-1114",
     "website": "https://www.sch.ac.kr/",
-    "address": "충청남도 아산시 신창면 순천향로 22 (읍내리, 순천향대학교)"
+    "address": "Chungcheongnam-do Asan 신창myeon 순천향ro 22 (eup내ri, 순천향대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

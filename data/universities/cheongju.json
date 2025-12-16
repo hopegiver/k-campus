@@ -2,8 +2,8 @@
   "id": "cheongju",
   "name": "Cheongju University",
   "nameKo": "청주대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100382_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907040524483730_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "1732",
@@ -31,7 +31,7 @@
     "email": "admission@cju.ac.kr",
     "phone": "043-229-8114",
     "website": "https://www.cju.ac.kr",
-    "address": "충청북도 청주시 청원구 대성로 298 (내덕동, 청주대학교)"
+    "address": "Chungcheongbuk-do Cheongju 청원구 대성ro 298 (내덕dong, 청주대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

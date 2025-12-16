@@ -2,8 +2,8 @@
   "id": "tongwon",
   "name": "Tongwon University",
   "nameKo": "동원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100161_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202308030406264430_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3506",
@@ -31,7 +31,7 @@
     "email": "admission@tw.ac.kr",
     "phone": "1544-4114",
     "website": "https://www.tw.ac.kr",
-    "address": "경기도 광주시 곤지암읍 경충대로 26 (신촌리, 동원대학)"
+    "address": "Gyeonggi-do Gwangju 곤지암eup 경충대ro 26 (신촌ri, dong원대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "daejeon",
   "name": "Daejeon University",
   "nameKo": "대전대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100139_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504160457335180_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "2958",
@@ -31,7 +31,7 @@
     "email": "admission@dju.ac.kr",
     "phone": "042-280-2114",
     "website": "https://www.dju.ac.kr",
-    "address": "대전광역시 동구 대학로 62 (용운동, 대전대학교)"
+    "address": "Daejeon Dong-gu 대학ro 62 (용운dong, 대전대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

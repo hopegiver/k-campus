@@ -2,8 +2,8 @@
   "id": "korean-bible",
   "name": "Korean Bible University",
   "nameKo": "한국성서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100421_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309180525013310_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3541",
@@ -31,7 +31,7 @@
     "email": "admission@bible.ac.kr",
     "phone": "02-950-5424",
     "website": "https://www.bible.ac.kr",
-    "address": "서울특별시 노원구 동일로214길 32 (상계동, 한국성서대학교)"
+    "address": "Seoul 노원구 dong일ro214gil 32 (상계dong, 한국성서대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

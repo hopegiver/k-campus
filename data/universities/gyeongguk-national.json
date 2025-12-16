@@ -2,8 +2,8 @@
   "id": "gyeongguk-national",
   "name": "Gyeongguk National University",
   "nameKo": "경국대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100090_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504090510485790_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2892",
@@ -31,7 +31,7 @@
     "email": "admission@andong.ac.kr/main/index.do",
     "phone": "054-820-5114",
     "website": "https://www.andong.ac.kr/main/index.do",
-    "address": "경상북도 안동시 경동로 1375 (송천동, 안동대학교)"
+    "address": "Gyeongsangbuk-do Andong 경dongro 1375 (송천dong, 안dong대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

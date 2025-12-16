@@ -2,8 +2,8 @@
   "id": "bucheon",
   "name": "Bucheon University",
   "nameKo": "부천대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100196_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201704100541274490_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2892",
@@ -31,7 +31,7 @@
     "email": "admission@bc.ac.kr",
     "phone": "032-610-0114",
     "website": "https://www.bc.ac.kr",
-    "address": "경기도 부천시 원미구 신흥로56번길 25 (심곡동, 부천대학)"
+    "address": "Gyeonggi-do Bucheon 원미구 신흥ro56번gil 25 (심곡dong, 부천대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

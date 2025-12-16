@@ -2,8 +2,8 @@
   "id": "busan-health",
   "name": "Busan Health University",
   "nameKo": "부산보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100164_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502200434327170_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "2853",
@@ -31,7 +31,7 @@
     "email": "admission@bhu.ac.kr/",
     "phone": "051-200-3300",
     "website": "https://www.bhu.ac.kr/",
-    "address": "부산광역시 사하구 사리로55번길 16 (괴정동, 동주대학)"
+    "address": "Busan 사하구 사riro55번gil 16 (괴정dong, dong주대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

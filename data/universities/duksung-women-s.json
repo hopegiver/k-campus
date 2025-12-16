@@ -2,8 +2,8 @@
   "id": "duksung-women-s",
   "name": "Duksung Women’S University",
   "nameKo": "덕성여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100144_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202302281114101210_B.png&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1840",
@@ -31,7 +31,7 @@
     "email": "admission@duksung.ac.kr",
     "phone": "02-901-8000",
     "website": "https://www.duksung.ac.kr",
-    "address": "서울특별시 도봉구 삼양로144길 33 (쌍문동, 덕성여자대학교)"
+    "address": "Seoul 도봉구 삼양ro144gil 33 (쌍문dong, 덕성여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

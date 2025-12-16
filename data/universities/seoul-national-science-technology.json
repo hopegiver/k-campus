@@ -2,8 +2,8 @@
   "id": "seoul-national-science-technology",
   "name": "Seoul National University Of Science And Technology",
   "nameKo": "서울과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100211_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404020343439920_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "4096",
@@ -31,7 +31,7 @@
     "email": "admission@seoultech.ac.kr",
     "phone": "02-970-6114",
     "website": "https://www.seoultech.ac.kr",
-    "address": "서울특별시 노원구 공릉로 232 (공릉동, 서울과학기술대학교)"
+    "address": "Seoul 노원구 공릉ro 232 (공릉dong, 서울과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

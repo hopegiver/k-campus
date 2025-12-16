@@ -2,8 +2,8 @@
   "id": "seoil",
   "name": "Seoil University",
   "nameKo": "서일대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2738",
@@ -31,7 +31,7 @@
     "email": "admission@seoil.ac.kr",
     "phone": "02-490-7300",
     "website": "https://www.seoil.ac.kr",
-    "address": "서울특별시 중랑구 용마산로90길 28 (면목동)"
+    "address": "Seoul 중랑구 용마산ro90gil 28 (myeon목dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

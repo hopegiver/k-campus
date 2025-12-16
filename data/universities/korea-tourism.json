@@ -2,8 +2,8 @@
   "id": "korea-tourism",
   "name": "Korea Tourism College",
   "nameKo": "한국관광대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100407_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507071053222350_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3691",
@@ -31,7 +31,7 @@
     "email": "admission@ktc.ac.kr",
     "phone": "031-644-1000",
     "website": "https://www.ktc.ac.kr",
-    "address": "경기도 이천시 신둔면 이장로311번길 197-73 (고척리, 한국관광대학)"
+    "address": "Gyeonggi-do Icheon 신둔myeon 이장ro311번gil 197-73 (고척ri, 한국관광대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

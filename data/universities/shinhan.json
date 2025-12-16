@@ -2,8 +2,8 @@
   "id": "shinhan",
   "name": "Shinhan University",
   "nameKo": "신한대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "4169",
@@ -31,7 +31,7 @@
     "email": "admission@shinhan.ac.kr/",
     "phone": "031-870-3114",
     "website": "https://www.shinhan.ac.kr/",
-    "address": "경기도 의정부시 호암로 95 (호원동, 신한대학교)"
+    "address": "Gyeonggi-do Uijeongbu 호암ro 95 (호원dong, 신한대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

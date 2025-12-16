@@ -2,8 +2,8 @@
   "id": "korea",
   "name": "Korea University",
   "nameKo": "고려대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100070_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201304011055539700_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1952",
@@ -31,7 +31,7 @@
     "email": "admission@korea.ac.kr",
     "phone": "02-3290-1114",
     "website": "https://www.korea.ac.kr",
-    "address": "서울특별시 성북구 안암로 145 (안암동5가, 고려대학교안암캠퍼스(인문사회계))"
+    "address": "Seoul 성Buk-gu 안암ro 145 (안암dong5ga, 고려대학교안암캠퍼스(인문사회계))"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "seoul-women-s",
   "name": "Seoul Women’s University",
   "nameKo": "서울여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100227_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201508180235113290_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2226",
@@ -31,7 +31,7 @@
     "email": "admission@swu.ac.kr",
     "phone": "02-970-5114",
     "website": "https://www.swu.ac.kr",
-    "address": "서울특별시 노원구 화랑로 621 (공릉동, 서울여자대학교)"
+    "address": "Seoul 노원구 화랑ro 621 (공릉dong, 서울여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "hansei",
   "name": "Hansei University",
   "nameKo": "한세대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100485_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303070329380800_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "1948",
@@ -31,7 +31,7 @@
     "email": "admission@hansei.ac.kr",
     "phone": "031-450-5114",
     "website": "https://www.hansei.ac.kr",
-    "address": "경기도 군포시 한세로 30 (당정동)"
+    "address": "Gyeonggi-do Gunpo 한세ro 30 (당정dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

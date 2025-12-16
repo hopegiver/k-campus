@@ -2,8 +2,8 @@
   "id": "songwon",
   "name": "Songwon University",
   "nameKo": "송원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "4096",
@@ -31,7 +31,7 @@
     "email": "admission@songwon.ac.kr",
     "phone": "062-360-5700",
     "website": "https://www.songwon.ac.kr",
-    "address": "광주광역시 남구 송암로 73 (송하동, 송원대학)"
+    "address": "Gwangju Nam-gu 송암ro 73 (송하dong, 송원대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

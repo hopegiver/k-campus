@@ -2,8 +2,8 @@
   "id": "hanyang",
   "name": "Hanyang University",
   "nameKo": "한양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100488_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003130500198120_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1771",
@@ -31,7 +31,7 @@
     "email": "admission@hanyang.ac.kr",
     "phone": "02-2220-0114",
     "website": "https://www.hanyang.ac.kr",
-    "address": "서울특별시 성동구 왕십리로 222 (사근동, 한양대학교)"
+    "address": "Seoul 성Dong-gu 왕십riro 222 (사근dong, 한양대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

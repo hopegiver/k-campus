@@ -2,8 +2,8 @@
   "id": "wonkwang",
   "name": "Wonkwang University",
   "nameKo": "원광대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100320_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303060450306440_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "1887",
@@ -31,7 +31,7 @@
     "email": "admission@wku.ac.kr",
     "phone": "063-850-5114",
     "website": "https://www.wku.ac.kr",
-    "address": "전북특별자치도 익산시 익산대로 460 (신동, 원광대학교)"
+    "address": "Jeollabuk-do Iksan 익산대ro 460 (신dong, 원광대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

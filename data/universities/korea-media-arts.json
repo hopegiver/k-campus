@@ -2,8 +2,8 @@
   "id": "korea-media-arts",
   "name": "Korea University Of Media Arts",
   "nameKo": "한국영상대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100425_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202305190446107990_B.jpg&fileStorePath=univStorePath",
   "location": "Sejong",
   "region": "Sejong",
   "founded": "3394",
@@ -31,7 +31,7 @@
     "email": "admission@pro.ac.kr",
     "phone": "044-850-9000",
     "website": "https://www.pro.ac.kr",
-    "address": "세종특별자치시 장군면 대학길 300 (금암리, 한국영상대학)"
+    "address": "Sejong 장군myeon 대학gil 300 (금암ri, 한국영상대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

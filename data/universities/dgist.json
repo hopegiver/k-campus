@@ -2,8 +2,8 @@
   "id": "dgist",
   "name": "DGIST",
   "nameKo": "대구경북과학기술원",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100122_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202304030505003530_B.jpg&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "4060",
@@ -31,7 +31,7 @@
     "email": "admission@dgist.ac.kr",
     "phone": "053-785-0114",
     "website": "https://www.dgist.ac.kr",
-    "address": "대구광역시 달성군 현풍읍 테크노중앙대로 333"
+    "address": "Daegu Dalseong-gun 현풍eup 테크노중앙대ro 333"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

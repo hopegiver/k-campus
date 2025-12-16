@@ -2,8 +2,8 @@
   "id": "jeonnam-state",
   "name": "Jeonnam State University",
   "nameKo": "전남도립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100349_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202306270215423810_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3586",
@@ -31,7 +31,7 @@
     "email": "admission@dorip.ac.kr",
     "phone": "061-380-8419",
     "website": "https://www.dorip.ac.kr",
-    "address": "전라남도 담양군 담양읍 죽녹원로 152 (향교리, 전남도립대학)"
+    "address": "Jeollanam-do 담양군 담양eup 죽녹원ro 152 (향교ri, 전남도립대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

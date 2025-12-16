@@ -2,8 +2,8 @@
   "id": "kyung-hee",
   "name": "Kyung Hee University",
   "nameKo": "경희대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100061_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201406020431190890_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1876",
@@ -31,7 +31,7 @@
     "email": "admission@khu.ac.kr",
     "phone": "02-961-0114",
     "website": "https://www.khu.ac.kr",
-    "address": "서울특별시 동대문구 경희대로 26 (회기동, 경희대학교)"
+    "address": "Seoul dong대문구 경희대ro 26 (회기dong, 경희대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

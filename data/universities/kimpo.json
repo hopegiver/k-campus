@@ -2,8 +2,8 @@
   "id": "kimpo",
   "name": "Kimpo University",
   "nameKo": "김포대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100110_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404230219226850_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3512",
@@ -31,7 +31,7 @@
     "email": "admission@ukp.ac.kr",
     "phone": "031-999-4042",
     "website": "https://ukp.ac.kr",
-    "address": "경기도 김포시 모담공원로 10 (운양동)"
+    "address": "Gyeonggi-do Gimpo 모담공원ro 10 (운양dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "ong-science",
   "name": "Andong Science College",
   "nameKo": "안동과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100281_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107291018580300_B.png&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3037",
@@ -31,7 +31,7 @@
     "email": "admission@asc.ac.kr",
     "phone": "054-851-3500",
     "website": "https://www.asc.ac.kr",
-    "address": "경상북도 안동시 서후면 서선길 189 (교리, 안동과학대학교)"
+    "address": "Gyeongsangbuk-do Andong 서후myeon 서선gil 189 (교ri, 안dong과학대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

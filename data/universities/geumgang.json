@@ -2,8 +2,8 @@
   "id": "geumgang",
   "name": "Geumgang University",
   "nameKo": "금강대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3757",
@@ -31,7 +31,7 @@
     "email": "admission@ggu.ac.kr",
     "phone": "041-731-3100",
     "website": "https://www.ggu.ac.kr",
-    "address": "충청남도 논산시 상월면 상월로 522 (대명리, 금강대학교)"
+    "address": "Chungcheongnam-do Nonsan 상월myeon 상월ro 522 (대명ri, 금강대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

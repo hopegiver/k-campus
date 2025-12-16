@@ -2,8 +2,8 @@
   "id": "daegu-catholic",
   "name": "Daegu Catholic University",
   "nameKo": "대구가톨릭대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100121_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105120353582900_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "5388",
@@ -31,7 +31,7 @@
     "email": "admission@cu.ac.kr",
     "phone": "053-850-3114",
     "website": "https://www.cu.ac.kr",
-    "address": "경상북도 경산시 하양읍 하양로 13-13 (금락리, 대구가톨릭대학교)"
+    "address": "Gyeongsangbuk-do Gyeongsan 하양eup 하양ro 13-13 (금락ri, 대구ga톨릭대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

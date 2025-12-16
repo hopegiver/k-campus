@@ -2,8 +2,8 @@
   "id": "daegu-health",
   "name": "Daegu Health College",
   "nameKo": "대구보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100127_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107111052366040_B.jpg&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "2629",
@@ -31,7 +31,7 @@
     "email": "admission@dhc.ac.kr",
     "phone": "053-320-1300",
     "website": "https://www.dhc.ac.kr",
-    "address": "대구광역시 북구 영송로 15 (태전동, 대구보건대학)"
+    "address": "Daegu Buk-gu 영송ro 15 (태전dong, 대구보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "silla",
   "name": "Silla University",
   "nameKo": "신라대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "2556",
@@ -31,7 +31,7 @@
     "email": "admission@silla.ac.kr",
     "phone": "051-999-5000",
     "website": "https://www.silla.ac.kr",
-    "address": "부산광역시 사상구 백양대로700번길 140 (괘법동, 신라대학교)"
+    "address": "Busan 사상구 백양대ro700번gil 140 (괘법dong, 신라대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

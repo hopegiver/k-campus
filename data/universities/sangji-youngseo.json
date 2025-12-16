@@ -2,8 +2,8 @@
   "id": "sangji-youngseo",
   "name": "Sangji Youngseo College",
   "nameKo": "상지영서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "2673",
@@ -31,7 +31,7 @@
     "email": "admission@sy.ac.kr",
     "phone": "033-744-4150",
     "website": "https://www.sy.ac.kr",
-    "address": "강원특별자치도 원주시 상지대길 83 (우산동)"
+    "address": "Gangwon-do Wonju 상지대gil 83 (우산dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

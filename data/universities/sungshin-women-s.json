@@ -2,8 +2,8 @@
   "id": "sungshin-women-s",
   "name": "Sungshin Women’S University",
   "nameKo": "성신여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2375",
@@ -31,7 +31,7 @@
     "email": "admission@sungshin.ac.kr",
     "phone": "02-920-7114",
     "website": "https://www.sungshin.ac.kr",
-    "address": "서울특별시 성북구 보문로34다길 2 (돈암동, 성신여자대학교)"
+    "address": "Seoul 성Buk-gu 보문ro34다gil 2 (돈암dong, 성신여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

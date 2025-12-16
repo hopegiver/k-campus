@@ -2,8 +2,8 @@
   "id": "soongeui-women-s",
   "name": "Soongeui Women’s University",
   "nameKo": "숭의여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1400",
@@ -31,7 +31,7 @@
     "email": "admission@sewu.ac.kr",
     "phone": "02-3708-9052",
     "website": "https://www.sewu.ac.kr",
-    "address": "서울특별시 중구 소파로2길 10 (예장동, 숭의여자대학)"
+    "address": "Seoul Jung-gu 소파ro2gil 10 (예장dong, 숭의여자대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

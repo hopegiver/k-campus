@@ -2,8 +2,8 @@
   "id": "hallym-polytechnic",
   "name": "Hallym Polytechnic University",
   "nameKo": "한림성심대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "1433",
@@ -31,7 +31,7 @@
     "email": "admission@hsc.ac.kr",
     "phone": "033-240-9000",
     "website": "https://www.hsc.ac.kr",
-    "address": "강원특별자치도 춘천시 동면 장학길 48"
+    "address": "Gangwon-do Chuncheon dongmyeon 장학gil 48"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

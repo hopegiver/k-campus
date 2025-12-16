@@ -2,8 +2,8 @@
   "id": "gyeongbuk-provincial",
   "name": "Gyeongbuk Provincial College",
   "nameKo": "경북도립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3542",
@@ -31,7 +31,7 @@
     "email": "admission@gpc.ac.kr",
     "phone": "054-650-0128",
     "website": "https://www.gpc.ac.kr",
-    "address": "경상북도 예천군 예천읍 도립대학길 114 (청복리, 경북도립대학교)"
+    "address": "Gyeongsangbuk-do 예천군 예천eup 도립대학gil 114 (청복ri, 경북도립대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

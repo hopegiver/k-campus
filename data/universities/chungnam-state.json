@@ -2,8 +2,8 @@
   "id": "chungnam-state",
   "name": "Chungnam State University",
   "nameKo": "충남도립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3587",
@@ -31,7 +31,7 @@
     "email": "admission@cnsu.ac.kr",
     "phone": "041-635-6600",
     "website": "https://www.cnsu.ac.kr",
-    "address": "충청남도 청양군 청양읍 학사길 55 (벽천리, 충남도립대학교)"
+    "address": "Chungcheongnam-do 청양군 청양eup 학사gil 55 (벽천ri, 충남도립대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

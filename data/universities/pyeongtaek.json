@@ -2,8 +2,8 @@
   "id": "pyeongtaek",
   "name": "Pyeongtaek University",
   "nameKo": "평택대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3320",
@@ -31,7 +31,7 @@
     "email": "admission@ptu.ac.kr",
     "phone": "031-659-8114",
     "website": "https://www.ptu.ac.kr",
-    "address": "경기도 평택시 서동대로 3825 (용이동, 평택대학교)"
+    "address": "Gyeonggi-do Pyeongtaek 서dong대ro 3825 (용이dong, 평택대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

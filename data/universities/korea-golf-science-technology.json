@@ -2,8 +2,8 @@
   "id": "korea-golf-science-technology",
   "name": "Korea Golf University of Science & Technology",
   "nameKo": "한국골프과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "4060",
@@ -31,7 +31,7 @@
     "email": "admission@kg.ac.kr",
     "phone": "033-810-1041",
     "website": "https://www.kg.ac.kr",
-    "address": "강원특별자치도 횡성군 우천면 하대5길 109"
+    "address": "Gangwon-do 횡성군 우천myeon 하대5gil 109"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

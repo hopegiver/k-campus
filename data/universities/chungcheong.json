@@ -2,8 +2,8 @@
   "id": "chungcheong",
   "name": "Chungcheong University",
   "nameKo": "충청대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100393_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201211120319466990_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3029",
@@ -31,7 +31,7 @@
     "email": "admission@ok.ac.kr",
     "phone": "043-230-2114",
     "website": "https://www.ok.ac.kr",
-    "address": "충청북도 청주시 흥덕구 강내면 월곡길 38 (월곡리, 충청대학)"
+    "address": "Chungcheongbuk-do Cheongju 흥덕구 강내myeon 월곡gil 38 (월곡ri, 충청대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

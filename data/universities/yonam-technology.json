@@ -2,8 +2,8 @@
   "id": "yonam-technology",
   "name": "Yonam Institute Of Technology",
   "nameKo": "연암공과대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3081",
@@ -31,7 +31,7 @@
     "email": "admission@yc.ac.kr",
     "phone": "055-751-2000",
     "website": "https://www.yc.ac.kr",
-    "address": "경상남도 진주시 진주대로 629번길 35(가좌동, 연암공과대학교)"
+    "address": "Gyeongsangnam-do Jinju 진주대ro 629번gil 35(ga좌dong, 연암공과대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "daegu-national-education",
   "name": "Daegu National University Of Education",
   "nameKo": "대구교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "1834",
@@ -31,7 +31,7 @@
     "email": "admission@dnue.ac.kr",
     "phone": "053-620-1202",
     "website": "https://www.dnue.ac.kr",
-    "address": "대구광역시 남구 중앙대로 219 (대명동, 대구교육대학교)"
+    "address": "Daegu Nam-gu 중앙대ro 219 (대명dong, 대구교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

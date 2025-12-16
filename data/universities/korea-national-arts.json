@@ -2,8 +2,8 @@
   "id": "korea-national-arts",
   "name": "Korea National University Of Arts",
   "nameKo": "한국예술종합학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100426_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004270313421600_B.JPG&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3390",
@@ -31,7 +31,7 @@
     "email": "admission@Karts.ac.kr/",
     "phone": "02-746-9067",
     "website": "https://Karts.ac.kr/",
-    "address": "서울특별시 성북구 화랑로32길 146-37 (석관동, 한국종합예술학교)"
+    "address": "Seoul 성Buk-gu 화랑ro32gil 146-37 (석관dong, 한국종합예술학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

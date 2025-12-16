@@ -2,8 +2,8 @@
   "id": "nambu",
   "name": "Nambu University",
   "nameKo": "남부대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "3623",
@@ -31,7 +31,7 @@
     "email": "admission@nambu.ac.kr",
     "phone": "062-970-0001",
     "website": "https://www.nambu.ac.kr",
-    "address": "광주광역시 광산구 남부대길 1 (월계동)"
+    "address": "Gwangju 광산구 남부대gil 1 (월계dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

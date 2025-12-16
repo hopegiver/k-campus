@@ -2,8 +2,8 @@
   "id": "pohang",
   "name": "Pohang University",
   "nameKo": "포항대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "1917",
@@ -31,7 +31,7 @@
     "email": "admission@pohang.ac.kr",
     "phone": "054-251-8000",
     "website": "https://www.pohang.ac.kr",
-    "address": "경상북도 포항시 북구 흥해읍 포항대학로 7"
+    "address": "Gyeongsangbuk-do Pohang Buk-gu 흥해eup 포항대학ro 7"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

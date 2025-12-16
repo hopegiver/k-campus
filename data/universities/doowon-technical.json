@@ -2,8 +2,8 @@
   "id": "doowon-technical",
   "name": "Doowon Technical University",
   "nameKo": "두원공과대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3439",
@@ -31,7 +31,7 @@
     "email": "admission@doowon.ac.kr",
     "phone": "031-8056-7000",
     "website": "https://www.doowon.ac.kr",
-    "address": "경기도 안성시 죽산면 관음당길 51 (장원리, 두원공과대학교)"
+    "address": "Gyeonggi-do Anseong 죽산myeon 관음당gil 51 (장원ri, 두원공과대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

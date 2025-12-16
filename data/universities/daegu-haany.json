@@ -2,8 +2,8 @@
   "id": "daegu-haany",
   "name": "Daegu Haany University",
   "nameKo": "대구한의대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2958",
@@ -31,7 +31,7 @@
     "email": "admission@dhu.ac.kr",
     "phone": "053-819-1000",
     "website": "https://www.dhu.ac.kr",
-    "address": "경상북도 경산시 한의대로 1(유곡동)"
+    "address": "Gyeongsangbuk-do Gyeongsan 한의대ro 1(유곡dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

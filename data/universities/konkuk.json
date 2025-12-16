@@ -2,8 +2,8 @@
   "id": "konkuk",
   "name": "Konkuk University",
   "nameKo": "건국대학교(글로컬)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "2922",
@@ -31,7 +31,7 @@
     "email": "admission@kku.ac.kr",
     "phone": "043-840-3114",
     "website": "https://www.kku.ac.kr",
-    "address": "충청북도 충주시 충원대로 268 (단월동, 건국대학교 글로컬캠퍼스)"
+    "address": "Chungcheongbuk-do Chungju 충원대ro 268 (단월dong, 건국대학교 글ro컬캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

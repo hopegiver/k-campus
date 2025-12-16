@@ -2,8 +2,8 @@
   "id": "chungkang-cultural-industries",
   "name": "Chungkang College Of Cultural Industries",
   "nameKo": "청강문화산업대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100377_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507170621005130_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3513",
@@ -31,7 +31,7 @@
     "email": "admission@ck.ac.kr",
     "phone": "031-637-1114",
     "website": "https://www.ck.ac.kr",
-    "address": "경기도 이천시 마장면 청강가창로 389-94 (해월리, 청강문화산업대학)"
+    "address": "Gyeonggi-do Icheon 마장myeon 청강ga창ro 389-94 (해월ri, 청강문화산업대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "yuhan",
   "name": "Yuhan University",
   "nameKo": "유한대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100328_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202503311035191450_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2856",
@@ -31,7 +31,7 @@
     "email": "admission@yuhan.ac.kr",
     "phone": "02-2610-0600",
     "website": "https://www.yuhan.ac.kr",
-    "address": "경기도 부천시 소사구 경인로 590 (괴안동, 유한대학)"
+    "address": "Gyeonggi-do Bucheon 소사구 경인ro 590 (괴안dong, 유한대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

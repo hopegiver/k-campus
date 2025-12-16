@@ -2,8 +2,8 @@
   "id": "mokpo-national",
   "name": "Mokpo National University",
   "nameKo": "국립목포대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100175_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404041020378170_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "1710",
@@ -31,7 +31,7 @@
     "email": "admission@mokpo.ac.kr",
     "phone": "061-450-2114",
     "website": "https://www.mokpo.ac.kr",
-    "address": "전라남도 무안군 청계면 영산로 1666 (도림리, 목포대학교)"
+    "address": "Jeollanam-do 무안군 청계myeon 영산ro 1666 (도림ri, 목포대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

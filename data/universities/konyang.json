@@ -2,8 +2,8 @@
   "id": "konyang",
   "name": "Konyang University",
   "nameKo": "건양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100029_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504030556007350_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "3320",
@@ -31,7 +31,7 @@
     "email": "admission@konyang.ac.kr",
     "phone": "041-730-5114",
     "website": "https://www.konyang.ac.kr",
-    "address": "대전광역시 서구 관저동로 158 (관저동, 건양대학교병원)"
+    "address": "Daejeon Seo-gu 관저dongro 158 (관저dong, 건양대학교병원)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

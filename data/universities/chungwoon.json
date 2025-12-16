@@ -2,8 +2,8 @@
   "id": "chungwoon",
   "name": "Chungwoon University",
   "nameKo": "청운대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100379_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507300357321380_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3467",
@@ -31,7 +31,7 @@
     "email": "admission@chungwoon.ac.kr",
     "phone": "041-630-3114",
     "website": "https://www.chungwoon.ac.kr",
-    "address": "충청남도 홍성군 홍성읍 대학길 25 (남장리, 청운대학교)"
+    "address": "Chungcheongnam-do 홍성군 홍성eup 대학gil 25 (남장ri, 청운대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

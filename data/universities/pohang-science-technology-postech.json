@@ -2,8 +2,8 @@
   "id": "pohang-science-technology-postech",
   "name": "Pohang University Of Science And Technology (Postech)",
   "nameKo": "포항공과대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100400_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205180958299860_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3174",
@@ -31,7 +31,7 @@
     "email": "admission@postech.ac.kr",
     "phone": "054-279-0114",
     "website": "https://www.postech.ac.kr",
-    "address": "경상북도 포항시 남구 청암로 77 (지곡동, 포항공과대학교)"
+    "address": "Gyeongsangbuk-do Pohang Nam-gu 청암ro 77 (지곡dong, 포항공과대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

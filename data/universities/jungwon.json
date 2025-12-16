@@ -2,8 +2,8 @@
   "id": "jungwon",
   "name": "Jungwon University",
   "nameKo": "중원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100370_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201605130845160460_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3987",
@@ -31,7 +31,7 @@
     "email": "admission@jwu.ac.kr",
     "phone": "043-830-8114",
     "website": "https://www.jwu.ac.kr",
-    "address": "충청북도 괴산군 괴산읍 문무로 85 (동부리, 중원대학교)"
+    "address": "Chungcheongbuk-do 괴산군 괴산eup 문무ro 85 (dong부ri, 중원대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "korea-national-welfare",
   "name": "Korea National University Of Welfare",
   "nameKo": "한국복지대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100417_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011200254484720_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3736",
@@ -31,7 +31,7 @@
     "email": "admission@knuw.ac.kr",
     "phone": "031-610-4600",
     "website": "https://www.knuw.ac.kr",
-    "address": "경기도 평택시 삼남로 283 (장안동, 한국복지대학교)"
+    "address": "Gyeonggi-do Pyeongtaek 삼남ro 283 (장안dong, 한국복지대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

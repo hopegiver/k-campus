@@ -2,8 +2,8 @@
   "id": "woosong",
   "name": "Woosong University",
   "nameKo": "우송대학교(산업대)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100313_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906271104261290_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "3475",
@@ -31,7 +31,7 @@
     "email": "admission@wsu.ac.kr",
     "phone": "042-630-9652",
     "website": "https://www.wsu.ac.kr",
-    "address": "대전광역시 동구 동대전로 171 (자양동, 우송정보대학)"
+    "address": "Daejeon Dong-gu dong대전ro 171 (자양dong, 우송정보대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

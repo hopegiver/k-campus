@@ -2,8 +2,8 @@
   "id": "catholic-korea",
   "name": "The Catholic University Of Korea",
   "nameKo": "가톨릭대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3475",
@@ -31,7 +31,7 @@
     "email": "admission@catholic.ac.kr",
     "phone": "02-740-9705",
     "website": "https://www.catholic.ac.kr",
-    "address": "서울특별시 종로구 창경궁로 296-12 (혜화동, 가톨릭대학교성신교정)"
+    "address": "Seoul 종ro구 창경궁ro 296-12 (혜화dong, ga톨릭대학교성신교정)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "yonsei-mirae-campus",
   "name": "Yonsei University MIRAE Campus",
   "nameKo": "연세대학교(미래)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100290_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507301141367940_B.jpg&fileStorePath=univStorePath",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "2848",
@@ -31,7 +31,7 @@
     "email": "admission@yonsei.ac.kr/wj",
     "phone": "033-760-2114",
     "website": "https://www.yonsei.ac.kr/wj",
-    "address": "강원특별자치도 원주시 흥업면 연세대길 1"
+    "address": "Gangwon-do Wonju 흥업myeon 연세대gil 1"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

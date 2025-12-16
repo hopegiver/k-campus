@@ -2,8 +2,8 @@
   "id": "mokwon",
   "name": "Mokwon University",
   "nameKo": "목원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100172_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201710160932147130_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "2375",
@@ -31,7 +31,7 @@
     "email": "admission@mokwon.ac.kr",
     "phone": "042-829-7114",
     "website": "https://www.mokwon.ac.kr",
-    "address": "대전광역시 서구 도안북로 88 (도안동, 목원대학교)"
+    "address": "Daejeon Seo-gu 도안북ro 88 (도안dong, 목원대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

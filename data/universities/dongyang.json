@@ -2,8 +2,8 @@
   "id": "dongyang",
   "name": "Dongyang University",
   "nameKo": "동양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3439",
@@ -31,7 +31,7 @@
     "email": "admission@dyu.ac.kr",
     "phone": "054-630-1114",
     "website": "https://www.dyu.ac.kr",
-    "address": "경상북도 영주시 풍기읍 동양대로 145 (산법리, 동양대학교)"
+    "address": "Gyeongsangbuk-do Yeongju 풍기eup dong양대ro 145 (산법ri, dong양대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

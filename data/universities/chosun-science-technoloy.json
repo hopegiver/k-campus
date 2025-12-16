@@ -2,8 +2,8 @@
   "id": "chosun-science-technoloy",
   "name": "Chosun College Of Science & Technoloy",
   "nameKo": "조선이공대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "2303",
@@ -31,7 +31,7 @@
     "email": "admission@cst.ac.kr",
     "phone": "062-230-8114",
     "website": "https://www.cst.ac.kr",
-    "address": "광주광역시 동구 조선이공대길 11(서석동)"
+    "address": "Gwangju Dong-gu 조선이공대gil 11(서석dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

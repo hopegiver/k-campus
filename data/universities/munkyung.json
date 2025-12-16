@@ -2,8 +2,8 @@
   "id": "munkyung",
   "name": "Munkyung College",
   "nameKo": "문경대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3506",
@@ -31,7 +31,7 @@
     "email": "admission@mkc.ac.kr",
     "phone": "054-559-1114",
     "website": "https://www.mkc.ac.kr",
-    "address": "경상북도 문경시 호계면 대학길 161 (별암리)"
+    "address": "Gyeongsangbuk-do Mungyeong 호계myeon 대학gil 161 (별암ri)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

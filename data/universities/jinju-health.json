@@ -2,8 +2,8 @@
   "id": "jinju-health",
   "name": "Jinju Health College",
   "nameKo": "진주보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "2629",
@@ -31,7 +31,7 @@
     "email": "admission@jhc.ac.kr",
     "phone": "055-740-1700",
     "website": "https://www.jhc.ac.kr",
-    "address": "경상남도 진주시 의병로 51 (상봉동, 진주보건대학)"
+    "address": "Gyeongsangnam-do Jinju 의병ro 51 (상봉dong, 진주보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

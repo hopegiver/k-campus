@@ -2,8 +2,8 @@
   "id": "catholic-kkottongnae",
   "name": "Catholic Kkottongnae University",
   "nameKo": "가톨릭꽃동네대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3612",
@@ -31,7 +31,7 @@
     "email": "admission@kkot.ac.kr",
     "phone": "043-270-0109",
     "website": "https://www.kkot.ac.kr",
-    "address": "충청북도 청주시 서원구 현도면 상삼길 133 (상삼리, 꽃동네대학교)"
+    "address": "Chungcheongbuk-do Cheongju 서원구 현도myeon 상삼gil 133 (상삼ri, 꽃dong네대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

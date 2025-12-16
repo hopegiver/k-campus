@@ -2,8 +2,8 @@
   "id": "sangmyung",
   "name": "Sangmyung University",
   "nameKo": "상명대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3096",
@@ -31,7 +31,7 @@
     "email": "admission@smuc.ac.kr",
     "phone": "041-550-5114",
     "website": "https://www.smuc.ac.kr",
-    "address": "충청남도 천안시 동남구 상명대길 31 (안서동, 상명대학교천안캠퍼스)"
+    "address": "Chungcheongnam-do Cheonan dongNam-gu 상명대gil 31 (안서dong, 상명대학교천안캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

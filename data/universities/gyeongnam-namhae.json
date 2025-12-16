@@ -2,8 +2,8 @@
   "id": "gyeongnam-namhae",
   "name": "University Of Gyeongnam Namhae",
   "nameKo": "경남도립남해대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3513",
@@ -31,7 +31,7 @@
     "email": "admission@univ.namhae.ac.kr",
     "phone": "055-254-2400",
     "website": "https://univ.namhae.ac.kr",
-    "address": "경상남도 남해군 남해읍 화전로78번길 30 (남변리, 경남도립남해대학)"
+    "address": "Gyeongsangnam-do 남해군 남해eup 화전ro78번gil 30 (남변ri, 경남도립남해대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

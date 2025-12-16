@@ -2,8 +2,8 @@
   "id": "hoseo",
   "name": "Hoseo University",
   "nameKo": "호서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100501_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406270302588130_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "2958",
@@ -31,7 +31,7 @@
     "email": "admission@hoseo.ac.kr",
     "phone": "041-540-5114",
     "website": "https://www.hoseo.ac.kr",
-    "address": "충청남도 아산시 배방읍 호서로79번길 20 (세출리, 호서대학교)"
+    "address": "Chungcheongnam-do Asan 배방eup 호서ro79번gil 20 (세출ri, 호서대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

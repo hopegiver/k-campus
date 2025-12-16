@@ -2,8 +2,8 @@
   "id": "korea-aerospace",
   "name": "Korea Aerospace University",
   "nameKo": "한국항공대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100471_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202208290201302010_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "1916",
@@ -31,7 +31,7 @@
     "email": "admission@kau.ac.kr",
     "phone": "02-300-0114",
     "website": "https://www.kau.ac.kr",
-    "address": "경기도 고양시 덕양구 항공대학로 76 (화전동, 한국항공대학교)"
+    "address": "Gyeonggi-do Goyang 덕양구 항공대학ro 76 (화전dong, 한국항공대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

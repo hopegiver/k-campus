@@ -2,8 +2,8 @@
   "id": "sungwoon",
   "name": "SungWoon University",
   "nameKo": "성운대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502120523418890_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3542",
@@ -31,7 +31,7 @@
     "email": "admission@sw.ac.kr",
     "phone": "054-330-8800",
     "website": "https://www.sw.ac.kr",
-    "address": "경상북도 영천시 신녕면 대학길 105 (화남리, 성덕대학교)"
+    "address": "Gyeongsangbuk-do Yeongcheon 신녕myeon 대학gil 105 (화남ri, 성덕대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

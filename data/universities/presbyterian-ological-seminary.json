@@ -2,8 +2,8 @@
   "id": "presbyterian-ological-seminary",
   "name": "Presbyterian University & Theological Seminary",
   "nameKo": "장로회신학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2231",
@@ -31,7 +31,7 @@
     "email": "admission@puts.ac.kr",
     "phone": "02-450-0700",
     "website": "https://www.puts.ac.kr",
-    "address": "서울특별시 광진구 광장로5길 25-1 (광장동, 장로회신학대학교)"
+    "address": "Seoul 광진구 광장ro5gil 25-1 (광장dong, 장ro회신학대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

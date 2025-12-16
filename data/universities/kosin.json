@@ -2,8 +2,8 @@
   "id": "kosin",
   "name": "Kosin University",
   "nameKo": "고신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "1706",
@@ -31,7 +31,7 @@
     "email": "admission@kosin.ac.kr",
     "phone": "051-990-2114",
     "website": "https://www.kosin.ac.kr",
-    "address": "부산광역시 영도구 와치로 194 (동삼동, 고신대학교)"
+    "address": "Busan 영도구 와치ro 194 (dong삼dong, 고신대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

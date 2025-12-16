@@ -2,8 +2,8 @@
   "id": "gwangju",
   "name": "Gwangju University",
   "nameKo": "광주대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "3804",
@@ -31,7 +31,7 @@
     "email": "admission@gwangju.ac.kr",
     "phone": "062-670-2114",
     "website": "https://www.gwangju.ac.kr",
-    "address": "광주광역시 남구 효덕로 277 (진월동, 광주대학교)"
+    "address": "Gwangju Nam-gu 효덕ro 277 (진월dong, 광주대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

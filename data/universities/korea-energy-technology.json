@@ -2,8 +2,8 @@
   "id": "korea-energy-technology",
   "name": "Korea institute of Energy Technology",
   "nameKo": "한국에너지공과대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "",
@@ -31,7 +31,7 @@
     "email": "admission@kentech.ac.kr/",
     "phone": "061-320-9551",
     "website": "https://www.kentech.ac.kr/",
-    "address": "전라남도 나주시 켄텍길 21(빛가람동)"
+    "address": "Jeollanam-do Naju 켄텍gil 21(빛ga람dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

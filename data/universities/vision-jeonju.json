@@ -2,8 +2,8 @@
   "id": "vision-jeonju",
   "name": "Vision College Of Jeonju",
   "nameKo": "전주비전대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "2778",
@@ -31,7 +31,7 @@
     "email": "admission@jvision.ac.kr",
     "phone": "063-220-4114",
     "website": "https://www.jvision.ac.kr",
-    "address": "전북특별자치도 전주시 완산구 천잠로 235 (효자동2가, 전주비전대학)"
+    "address": "Jeollabuk-do Jeonju 완산구 천잠ro 235 (효자dong2ga, 전주비전대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "hyupsung",
   "name": "Hyupsunguniversity",
   "nameKo": "협성대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100496_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504160514174070_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3037",
@@ -31,7 +31,7 @@
     "email": "admission@uhs.ac.kr",
     "phone": "031-299-0900",
     "website": "https://www.uhs.ac.kr",
-    "address": "경기도 화성시 봉담읍 최루백로 72 (상리, 협성대학교)"
+    "address": "Gyeonggi-do Hwaseong 봉담eup 최루백ro 72 (상ri, 협성대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

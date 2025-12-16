@@ -2,8 +2,8 @@
   "id": "daejeon-ological",
   "name": "Daejeon Theological University",
   "nameKo": "대전신학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "3987",
@@ -31,7 +31,7 @@
     "email": "admission@daejeon.ac.kr",
     "phone": "042-606-0114",
     "website": "https://www.daejeon.ac.kr",
-    "address": "대전광역시 대덕구 한남로 41 (오정동, 대전신학대학교)"
+    "address": "Daejeon 대덕구 한남ro 41 (오정dong, 대전신학대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

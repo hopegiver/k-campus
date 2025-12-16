@@ -2,8 +2,8 @@
   "id": "catholic-sangji",
   "name": "Catholic Sangji College",
   "nameKo": "가톨릭상지대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2563",
@@ -31,7 +31,7 @@
     "email": "admission@csj.ac.kr",
     "phone": "054-851-3000",
     "website": "https://www.csj.ac.kr",
-    "address": "경상북도 안동시 상지길 45 (율세동, 가톨릭상지대학교)"
+    "address": "Gyeongsangbuk-do Andong 상지gil 45 (율세dong, ga톨릭상지대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

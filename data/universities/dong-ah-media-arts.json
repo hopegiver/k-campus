@@ -2,8 +2,8 @@
   "id": "dong-ah-media-arts",
   "name": "Dong-Ah Institute Of Media And Arts",
   "nameKo": "동아방송예술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100156_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106040452232140_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3542",
@@ -31,7 +31,7 @@
     "email": "admission@dima.ac.kr",
     "phone": "031-670-6600",
     "website": "https://www.dima.ac.kr",
-    "address": "경기도 안성시 삼죽면 동아예대길 47 (진촌리, 동아방송예술대학교)"
+    "address": "Gyeonggi-do Anseong 삼죽myeon dong아예대gil 47 (진촌ri, dong아방송예술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

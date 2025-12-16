@@ -2,8 +2,8 @@
   "id": "kyungwoon",
   "name": "Kyungwoon University",
   "nameKo": "경운대학교(산업대)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3549",
@@ -31,7 +31,7 @@
     "email": "admission@ikw.ac.kr",
     "phone": "054-479-1114",
     "website": "https://www.ikw.ac.kr",
-    "address": "경상북도 구미시 산동면 강동로 730 (인덕리, 경운대학교)"
+    "address": "Gyeongsangbuk-do Gumi 산dongmyeon 강dongro 730 (인덕ri, 경운대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

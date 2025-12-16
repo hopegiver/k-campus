@@ -2,8 +2,8 @@
   "id": "baekseok-culture",
   "name": "Baekseok Culture University",
   "nameKo": "백석문화대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100181_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411070551494300_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3439",
@@ -31,7 +31,7 @@
     "email": "admission@bscu.ac.kr",
     "phone": "041-550-0700",
     "website": "https://www.bscu.ac.kr",
-    "address": "충청남도 천안시 동남구 백석대학로 1 (안서동)"
+    "address": "Chungcheongnam-do Cheonan dongNam-gu 백석대학ro 1 (안서dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

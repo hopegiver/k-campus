@@ -2,8 +2,8 @@
   "id": "ansan",
   "name": "Ansan University",
   "nameKo": "안산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100283_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504150259336630_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2672",
@@ -31,7 +31,7 @@
     "email": "admission@ansan.ac.kr",
     "phone": "031-400-6900",
     "website": "https://www.ansan.ac.kr",
-    "address": "경기도 안산시 상록구 안산대학로 155 (일동, 안산대학교)"
+    "address": "Gyeonggi-do Ansan 상록구 안산대학ro 155 (일dong, 안산대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

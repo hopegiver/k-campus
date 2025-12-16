@@ -2,8 +2,8 @@
   "id": "semyung",
   "name": "Semyung University",
   "nameKo": "세명대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100249_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903210431279510_B.png&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3320",
@@ -31,7 +31,7 @@
     "email": "admission@semyung.ac.kr",
     "phone": "043-645-1125",
     "website": "https://www.semyung.ac.kr",
-    "address": "충청북도 제천시 세명로 65 (신월동, 세명대학교)"
+    "address": "Chungcheongbuk-do Jecheon 세명ro 65 (신월dong, 세명대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

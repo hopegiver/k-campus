@@ -2,8 +2,8 @@
   "id": "dongseo",
   "name": "Dongseo University",
   "nameKo": "동서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100152_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705121037260120_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "3366",
@@ -31,7 +31,7 @@
     "email": "admission@dongseo.ac.kr",
     "phone": "051-313-2001",
     "website": "https://www.dongseo.ac.kr",
-    "address": "부산광역시 사상구 주례로 47 (주례동, 동서대학교)"
+    "address": "Busan 사상구 주례ro 47 (주례dong, dong서대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

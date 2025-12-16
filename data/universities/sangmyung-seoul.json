@@ -2,8 +2,8 @@
   "id": "sangmyung-seoul",
   "name": "Sangmyung University (Seoul)",
   "nameKo": "상명대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2375",
@@ -31,7 +31,7 @@
     "email": "admission@smu.ac.kr",
     "phone": "02-2287-5114",
     "website": "https://www.smu.ac.kr",
-    "address": "서울특별시 종로구 홍지문2길 20 (홍지동, 상명대학교)"
+    "address": "Seoul 종ro구 홍지문2gil 20 (홍지dong, 상명대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

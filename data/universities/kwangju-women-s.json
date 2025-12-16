@@ -2,8 +2,8 @@
   "id": "kwangju-women-s",
   "name": "Kwangju Women’S University",
   "nameKo": "광주여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100086_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009241004538560_B.jpg&fileStorePath=univStorePath",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "3549",
@@ -31,7 +31,7 @@
     "email": "admission@kwu.ac.kr",
     "phone": "062-956-2500",
     "website": "https://www.kwu.ac.kr",
-    "address": "광주광역시 광산구 광주여대길 40 (산정동)"
+    "address": "Gwangju 광산구 광주여대gil 40 (산정dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

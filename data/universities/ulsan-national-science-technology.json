@@ -2,8 +2,8 @@
   "id": "ulsan-national-science-technology",
   "name": "Ulsan National Institute of Science and Technology",
   "nameKo": "울산과학기술원",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100316_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411141100541400_B.jpg&fileStorePath=univStorePath",
   "location": "Ulsan",
   "region": "Ulsan",
   "founded": "3987",
@@ -31,7 +31,7 @@
     "email": "admission@unist.ac.kr",
     "phone": "052-217-0114",
     "website": "https://www.unist.ac.kr",
-    "address": "울산광역시 울주군 언양읍 유니스트길 50 (반연리, 울산과학기술원)"
+    "address": "Ulsan 울주군 언양eup 유니스트gil 50 (반연ri, 울산과학기술원)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

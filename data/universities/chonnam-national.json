@@ -2,8 +2,8 @@
   "id": "chonnam-national",
   "name": "Chonnam National University",
   "nameKo": "전남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3877",
@@ -31,7 +31,7 @@
     "email": "admission@chonnam.ac.kr",
     "phone": "061-659-6114",
     "website": "https://www.chonnam.ac.kr",
-    "address": "전라남도 여수시 대학로 50 (둔덕동, 전남대학교여수캠퍼스)"
+    "address": "Jeollanam-do Yeosu 대학ro 50 (둔덕dong, 전남대학교여수캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

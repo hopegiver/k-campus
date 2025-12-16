@@ -2,8 +2,8 @@
   "id": "eulji",
   "name": "Eulji University",
   "nameKo": "을지대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201303040322169940_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "4316",
@@ -31,7 +31,7 @@
     "email": "admission@eulji.ac.kr",
     "phone": "031-951-3611",
     "website": "https://www.eulji.ac.kr",
-    "address": "경기도 의정부시 동일로 712 (금오동)"
+    "address": "Gyeonggi-do Uijeongbu dong일ro 712 (금오dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

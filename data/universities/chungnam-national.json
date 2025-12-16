@@ -2,8 +2,8 @@
   "id": "chungnam-national",
   "name": "Chungnam National University",
   "nameKo": "충남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100388_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180125574350_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "1913",
@@ -31,7 +31,7 @@
     "email": "admission@cnu.ac.kr",
     "phone": "042-821-5114",
     "website": "https://www.cnu.ac.kr",
-    "address": "대전광역시 유성구 대학로 99 (궁동, 충남대학교)"
+    "address": "Daejeon 유성구 대학ro 99 (궁dong, 충남대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

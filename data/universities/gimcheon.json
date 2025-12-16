@@ -2,8 +2,8 @@
   "id": "gimcheon",
   "name": "Gimcheon University",
   "nameKo": "김천대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "4023",
@@ -31,7 +31,7 @@
     "email": "admission@gimcheon.ac.kr",
     "phone": "054-420-4000",
     "website": "https://www.gimcheon.ac.kr",
-    "address": "경상북도 김천시 대학로 214 (삼락동, 김천대학교)"
+    "address": "Gyeongsangbuk-do Gimcheon 대학ro 214 (삼락dong, 김천대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

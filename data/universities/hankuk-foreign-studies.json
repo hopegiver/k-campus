@@ -2,8 +2,8 @@
   "id": "hankuk-foreign-studies",
   "name": "Hankuk University Of Foreign Studies",
   "nameKo": "한국외국어대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1983",
@@ -31,7 +31,7 @@
     "email": "admission@hufs.ac.kr",
     "phone": "02-2173-2114",
     "website": "https://www.hufs.ac.kr",
-    "address": "서울특별시 동대문구 이문로 107 (이문동, 한국외국어대학교)"
+    "address": "Seoul dong대문구 이문ro 107 (이문dong, 한국외국어대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

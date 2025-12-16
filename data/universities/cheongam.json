@@ -2,8 +2,8 @@
   "id": "cheongam",
   "name": "Cheongam College",
   "nameKo": "청암대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100378_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202408011017209350_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "1981",
@@ -31,7 +31,7 @@
     "email": "admission@ca.ac.kr",
     "phone": "061-740-7100",
     "website": "https://ca.ac.kr",
-    "address": "전라남도 순천시 녹색로 1641 (덕월동, 순천청암대학)"
+    "address": "Jeollanam-do Suncheon 녹색ro 1641 (덕월dong, 순천청암대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

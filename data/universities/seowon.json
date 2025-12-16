@@ -2,8 +2,8 @@
   "id": "seowon",
   "name": "Seowon University",
   "nameKo": "서원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "2490",
@@ -31,7 +31,7 @@
     "email": "admission@seowon.ac.kr",
     "phone": "043-299-8114",
     "website": "https://www.seowon.ac.kr",
-    "address": "충청북도 청주시 서원구 무심서로 377-3 (모충동, 서원대학교)"
+    "address": "Chungcheongbuk-do Cheongju 서원구 무심서ro 377-3 (모충dong, 서원대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

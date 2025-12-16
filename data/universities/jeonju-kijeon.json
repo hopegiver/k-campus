@@ -2,8 +2,8 @@
   "id": "jeonju-kijeon",
   "name": "Jeonju Kijeon College",
   "nameKo": "전주기전대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100353_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507310554505210_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "2710",
@@ -31,7 +31,7 @@
     "email": "admission@kijeon.ac.kr",
     "phone": "063-280-5208",
     "website": "https://www.kijeon.ac.kr",
-    "address": "전북특별자치도 전주시 완산구 전주천서로 267 (중화산동1가, 전주기전대학)"
+    "address": "Jeollabuk-do Jeonju 완산구 전주천서ro 267 (중화산dong1ga, 전주기전대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

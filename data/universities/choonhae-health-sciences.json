@@ -2,8 +2,8 @@
   "id": "choonhae-health-sciences",
   "name": "Choonhae College Of Health Sciences",
   "nameKo": "춘해보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100387_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202208050310528100_B.jpg&fileStorePath=univStorePath",
   "location": "Ulsan",
   "region": "Ulsan",
   "founded": "2491",
@@ -31,7 +31,7 @@
     "email": "admission@ch.ac.kr",
     "phone": "052-270-0100",
     "website": "https://www.ch.ac.kr",
-    "address": "울산광역시 울주군 웅촌면 대학길 9 (곡천리, 춘해보건대학)"
+    "address": "Ulsan 울주군 웅촌myeon 대학gil 9 (곡천ri, 춘해보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

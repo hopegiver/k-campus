@@ -2,8 +2,8 @@
   "id": "changwon-moonsung",
   "name": "Changwon Moonsung University",
   "nameKo": "창원문성대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "2885",
@@ -31,7 +31,7 @@
     "email": "admission@cmu.ac.kr",
     "phone": "055-279-5114",
     "website": "https://www.cmu.ac.kr",
-    "address": "경상남도 창원시 성산구 충혼로 91(두대동)"
+    "address": "Gyeongsangnam-do Changwon 성산구 충혼ro 91(두대dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

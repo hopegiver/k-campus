@@ -2,8 +2,8 @@
   "id": "dong-pusan",
   "name": "Dong-Pusan College",
   "nameKo": "동부산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100190_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202107140433517640_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "2885",
@@ -31,7 +31,7 @@
     "email": "admission@dpc.ac.kr",
     "phone": "051-542-8891",
     "website": "https://www.dpc.ac.kr",
-    "address": "부산광역시 해운대구 운봉길 60 (반송동, 동부산대학교)"
+    "address": "Busan 해운대구 운봉gil 60 (반송dong, dong부산대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

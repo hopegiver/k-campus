@@ -2,8 +2,8 @@
   "id": "daekyeung",
   "name": "Daekyeung College",
   "nameKo": "대경대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100120_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205110342116900_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3394",
@@ -31,7 +31,7 @@
     "email": "admission@tk.ac.kr",
     "phone": "053-850-1000",
     "website": "https://www.tk.ac.kr",
-    "address": "경상북도 경산시 자인면 단북1길 65 (단북리, 대경대학)"
+    "address": "Gyeongsangbuk-do Gyeongsan 자인myeon 단북1gil 65 (단북ri, 대경대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "seoul",
   "name": "University Of Seoul",
   "nameKo": "서울시립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100224_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009100748091200_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "6696",
@@ -31,7 +31,7 @@
     "email": "admission@uos.ac.kr",
     "phone": "02-6490-6114",
     "website": "https://www.uos.ac.kr",
-    "address": "서울특별시 동대문구 서울시립대로 163 (전농동, 서울시립대학교)"
+    "address": "Seoul dong대문구 서울시립대ro 163 (전농dong, 서울시립대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

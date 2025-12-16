@@ -2,8 +2,8 @@
   "id": "paekche-arts",
   "name": "Paekche Institute Of The Arts",
   "nameKo": "백제예술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "3357",
@@ -31,7 +31,7 @@
     "email": "admission@paekche.ac.kr",
     "phone": "063-260-9114",
     "website": "https://www.paekche.ac.kr",
-    "address": "전북특별자치도 완주군 봉동읍 백제대학로 171 (제내리, 백제예술대학)"
+    "address": "Jeollabuk-do 완주군 봉dongeup 백제대학ro 171 (제내ri, 백제예술대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

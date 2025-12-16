@@ -2,8 +2,8 @@
   "id": "kunjang",
   "name": "Kunjang University College",
   "nameKo": "군장대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "3440",
@@ -31,7 +31,7 @@
     "email": "admission@kunjang.ac.kr",
     "phone": "063-450-8114",
     "website": "https://www.kunjang.ac.kr",
-    "address": "전북특별자치도 군산시 성산면 군장대길 13 (도암리, 군장대학)"
+    "address": "Jeollabuk-do Gunsan 성산myeon 군장대gil 13 (도암ri, 군장대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

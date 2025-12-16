@@ -2,8 +2,8 @@
   "id": "chinju-national-uinversity-education",
   "name": "Chinju National Uinversity Of Education",
   "nameKo": "진주교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100371_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902120240266430_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "2301",
@@ -31,7 +31,7 @@
     "email": "admission@cue.ac.kr",
     "phone": "055-740-1114",
     "website": "https://www.cue.ac.kr",
-    "address": "경상남도 진주시 진양호로369번길 3 (신안동, 진주교육대학교)"
+    "address": "Gyeongsangnam-do Jinju 진양호ro369번gil 3 (신안dong, 진주교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

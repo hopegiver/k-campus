@@ -2,8 +2,8 @@
   "id": "baekseok",
   "name": "Baekseok University",
   "nameKo": "백석대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100180_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201912110434263270_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3439",
@@ -31,7 +31,7 @@
     "email": "admission@bu.ac.kr",
     "phone": "041-550-9114",
     "website": "https://www.bu.ac.kr",
-    "address": "충청남도 천안시 동남구 백석대학로 1 (안서동)"
+    "address": "Chungcheongnam-do Cheonan dongNam-gu 백석대학ro 1 (안서dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

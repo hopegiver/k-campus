@@ -2,8 +2,8 @@
   "id": "chongjunationaleducation",
   "name": "Chongjunationaluniversityofeducation",
   "nameKo": "청주교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "2269",
@@ -31,7 +31,7 @@
     "email": "admission@cje.ac.kr",
     "phone": "043-299-0632",
     "website": "https://www.cje.ac.kr",
-    "address": "충청북도 청주시 서원구 청남로 2065 (수곡동, 청주교육대학교)"
+    "address": "Chungcheongbuk-do Cheongju 서원구 청남ro 2065 (수곡dong, 청주교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

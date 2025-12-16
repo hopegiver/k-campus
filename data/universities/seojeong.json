@@ -2,8 +2,8 @@
   "id": "seojeong",
   "name": "Seojeong University",
   "nameKo": "서정대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100234_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202207280537467730_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3757",
@@ -31,7 +31,7 @@
     "email": "admission@seojeong.ac.kr",
     "phone": "031-859-6900",
     "website": "https://www.seojeong.ac.kr",
-    "address": "경기도 양주시 은현면 서정로 27"
+    "address": "Gyeonggi-do Yangju 은현myeon 서정ro 27"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

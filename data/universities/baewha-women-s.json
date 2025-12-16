@@ -2,8 +2,8 @@
   "id": "baewha-women-s",
   "name": "Baewha Women’S University",
   "nameKo": "배화여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2855",
@@ -31,7 +31,7 @@
     "email": "admission@baewha.ac.kr",
     "phone": "02-399-0700",
     "website": "https://www.baewha.ac.kr",
-    "address": "서울특별시 종로구 필운대로1길 34 (필운동, 배화여자대학)"
+    "address": "Seoul 종ro구 필운대ro1gil 34 (필운dong, 배화여자대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

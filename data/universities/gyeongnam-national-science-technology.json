@@ -2,8 +2,8 @@
   "id": "gyeongnam-national-science-technology",
   "name": "Gyeongnam National University Of Science And Technology",
   "nameKo": "경남과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100036_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202010230509234090_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3773",
@@ -31,7 +31,7 @@
     "email": "admission@gntech.ac.kr",
     "phone": "055-751-3114",
     "website": "https://www.gntech.ac.kr",
-    "address": "경상남도 진주시 동진로 33 (칠암동, 경남과학기술대학교)"
+    "address": "Gyeongsangnam-do Jinju dong진ro 33 (칠암dong, 경남과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

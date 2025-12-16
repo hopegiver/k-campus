@@ -2,8 +2,8 @@
   "id": "jeonbuk-national",
   "name": "Jeonbuk National University",
   "nameKo": "전북대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100351_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907020321219830_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "1890",
@@ -31,7 +31,7 @@
     "email": "admission@jbnu.ac.kr",
     "phone": "063-270-2114",
     "website": "https://www.jbnu.ac.kr",
-    "address": "전북특별자치도 전주시 덕진구 백제대로 567 (금암동, 전북대학교)"
+    "address": "Jeollabuk-do Jeonju 덕진구 백제대ro 567 (금암dong, 전북대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

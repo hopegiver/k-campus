@@ -2,8 +2,8 @@
   "id": "kyungil",
   "name": "Kyungil University",
   "nameKo": "경일대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100059_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404090623386000_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3541",
@@ -31,7 +31,7 @@
     "email": "admission@kiu.ac.kr",
     "phone": "053-600-4000",
     "website": "https://www.kiu.ac.kr",
-    "address": "경상북도 경산시 하양읍 가마실길 50 (부호리, 경일대학교)"
+    "address": "Gyeongsangbuk-do Gyeongsan 하양eup ga마실gil 50 (부호ri, 경일대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

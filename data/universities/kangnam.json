@@ -2,8 +2,8 @@
   "id": "kangnam",
   "name": "Kangnam University",
   "nameKo": "강남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100014_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202307181144560950_B.png&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "1775",
@@ -31,7 +31,7 @@
     "email": "admission@kangnam.ac.kr",
     "phone": "031-280-3500",
     "website": "https://www.kangnam.ac.kr",
-    "address": "경기도 용인시 기흥구 강남로 40 (구갈동, 강남대학교)"
+    "address": "Gyeonggi-do Yongin 기흥구 강남ro 40 (구갈dong, 강남대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

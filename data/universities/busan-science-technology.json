@@ -2,8 +2,8 @@
   "id": "busan-science-technology",
   "name": "Busan Institute Of Science And Technology",
   "nameKo": "부산과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "2812",
@@ -31,7 +31,7 @@
     "email": "admission@bist.ac.kr",
     "phone": "051-334-6666",
     "website": "https://bist.ac.kr",
-    "address": "부산광역시 북구 시랑로132번길 88 (구포동, 부산과학기술대학교)"
+    "address": "Busan Buk-gu 시랑ro132번gil 88 (구포dong, 부산과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

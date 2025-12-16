@@ -2,8 +2,8 @@
   "id": "incheon-catholic",
   "name": "Incheon Catholic University",
   "nameKo": "인천가톨릭대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "4023",
@@ -31,7 +31,7 @@
     "email": "admission@iccu.ac.kr",
     "phone": "032-830-7000",
     "website": "https://www.iccu.ac.kr",
-    "address": "인천광역시 연수구 송도문화로120번길 20 (송도동)"
+    "address": "Incheon Yeonsu-gu 송도문화ro120번gil 20 (송도dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

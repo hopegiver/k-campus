@@ -2,8 +2,8 @@
   "id": "hanyang-erica-campus",
   "name": "Hanyang University Erica Campus",
   "nameKo": "한양대학교(ERICA)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100488_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003130500198120_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2886",
@@ -31,7 +31,7 @@
     "email": "admission@hanyang.ac.kr",
     "phone": "031-400-5114",
     "website": "https://www.hanyang.ac.kr",
-    "address": "경기도 안산시 상록구 한양대학로 55 (사동, 한양대학교)"
+    "address": "Gyeonggi-do Ansan 상록구 한양대학ro 55 (사dong, 한양대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

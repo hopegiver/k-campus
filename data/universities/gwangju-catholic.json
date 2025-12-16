@@ -2,8 +2,8 @@
   "id": "gwangju-catholic",
   "name": "Gwangju Catholic University",
   "nameKo": "광주가톨릭대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202502200409479490_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "2375",
@@ -31,7 +31,7 @@
     "email": "admission@gjc.ac.kr",
     "phone": "061-337-2181",
     "website": "https://www.gjc.ac.kr",
-    "address": "전라남도 나주시 남평읍 중남길 12-25 (남석리, 광주가톨릭대학교)"
+    "address": "Jeollanam-do Naju 남평eup 중남gil 12-25 (남석ri, 광주ga톨릭대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

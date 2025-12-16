@@ -2,8 +2,8 @@
   "id": "daejeon-health",
   "name": "DAEJEON HEALTH UNIVERSITY",
   "nameKo": "대전보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100140_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009240258016820_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "2846",
@@ -31,7 +31,7 @@
     "email": "admission@hit.ac.kr",
     "phone": "042-670-9000",
     "website": "https://www.hit.ac.kr",
-    "address": "대전광역시 동구 충정로 21 (가양동, 대전보건대학)"
+    "address": "Daejeon Dong-gu 충정ro 21 (ga양dong, 대전보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

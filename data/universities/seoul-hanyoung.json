@@ -2,8 +2,8 @@
   "id": "seoul-hanyoung",
   "name": "Seoul Hanyoung University",
   "nameKo": "서울한영대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100231_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911060233413460_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3538",
@@ -31,7 +31,7 @@
     "email": "admission@shyu.ac.kr",
     "phone": "02-2669-2200",
     "website": "https://shyu.ac.kr",
-    "address": "서울특별시 구로구 경인로 290-42 (개봉동)"
+    "address": "Seoul 구ro구 경인ro 290-42 (개봉dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

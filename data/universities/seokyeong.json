@@ -2,8 +2,8 @@
   "id": "seokyeong",
   "name": "Seokyeong University",
   "nameKo": "서경대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100206_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202305150953362410_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3384",
@@ -31,7 +31,7 @@
     "email": "admission@skuniv.ac.kr",
     "phone": "02-940-7114",
     "website": "https://www.skuniv.ac.kr",
-    "address": "서울특별시 성북구 서경로 124 (정릉동, 서경대학교)"
+    "address": "Seoul 성Buk-gu 서경ro 124 (정릉dong, 서경대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

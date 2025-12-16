@@ -2,8 +2,8 @@
   "id": "gwangju-science-technology",
   "name": "Gwangju Institute Of Science And Technology",
   "nameKo": "광주과학기술원",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "3429",
@@ -31,7 +31,7 @@
     "email": "admission@gist.ac.kr",
     "phone": "062-715-2114",
     "website": "https://www.gist.ac.kr",
-    "address": "광주광역시 북구 첨단과기로 123 (오룡동, 광주과학기술원)"
+    "address": "Gwangju Buk-gu 첨단과기ro 123 (오룡dong, 광주과학기술원)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "ajou-motor",
   "name": "Ajou Motor College",
   "nameKo": "아주자동차대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100280_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201902251032525200_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3465",
@@ -31,7 +31,7 @@
     "email": "admission@motor.ac.kr",
     "phone": "041-939-3008",
     "website": "https://www.motor.ac.kr",
-    "address": "충청남도 보령시 주포면 대학길 106"
+    "address": "Chungcheongnam-do Boryeong 주포myeon 대학gil 106"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

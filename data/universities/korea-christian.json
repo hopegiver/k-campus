@@ -2,8 +2,8 @@
   "id": "korea-christian",
   "name": "Korea Christian College",
   "nameKo": "순복음총회신학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "4024",
@@ -31,7 +31,7 @@
     "email": "admission@kcc.ac.kr",
     "phone": "043-645-5571",
     "website": "https://www.kcc.ac.kr",
-    "address": "충청북도 제천시 덕산면 도전로 320 (도전리)"
+    "address": "Chungcheongbuk-do Jecheon 덕산myeon 도전ro 320 (도전ri)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

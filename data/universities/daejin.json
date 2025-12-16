@@ -2,8 +2,8 @@
   "id": "daejin",
   "name": "Daejin University",
   "nameKo": "대진대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3355",
@@ -31,7 +31,7 @@
     "email": "admission@daejin.ac.kr",
     "phone": "031-539-1114",
     "website": "https://www.daejin.ac.kr",
-    "address": "경기도 포천시 호국로 1007 (선단동, 대진대학교)"
+    "address": "Gyeonggi-do Pocheon 호국ro 1007 (선단dong, 대진대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

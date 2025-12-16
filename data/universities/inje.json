@@ -2,8 +2,8 @@
   "id": "inje",
   "name": "Inje University",
   "nameKo": "인제대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100334_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110090458491730_B.JPG&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "2886",
@@ -31,7 +31,7 @@
     "email": "admission@inje.ac.kr",
     "phone": "051-894-3421",
     "website": "https://www.inje.ac.kr",
-    "address": "부산광역시 부산진구 복지로 75 (개금동, 백병원)"
+    "address": "Busan 부산진구 복지ro 75 (개금dong, 백병원)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

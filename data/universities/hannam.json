@@ -2,8 +2,8 @@
   "id": "hannam",
   "name": "Hannam University",
   "nameKo": "한남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100473_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201512110218294600_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "2052",
@@ -31,7 +31,7 @@
     "email": "admission@hannam.ac.kr",
     "phone": "042-629-7114",
     "website": "https://www.hannam.ac.kr",
-    "address": "대전광역시 대덕구 한남로 70 (오정동, 한남대학교)"
+    "address": "Daejeon 대덕구 한남ro 70 (오정dong, 한남대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

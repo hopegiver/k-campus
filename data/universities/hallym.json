@@ -2,8 +2,8 @@
   "id": "hallym",
   "name": "Hallym University",
   "nameKo": "한림대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100478_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403040459348580_B.jpg&fileStorePath=univStorePath",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3001",
@@ -31,7 +31,7 @@
     "email": "admission@hallym.ac.kr",
     "phone": "033-248-1000",
     "website": "https://www.hallym.ac.kr",
-    "address": "강원특별자치도 춘천시 한림대학길 1 (옥천동)"
+    "address": "Gangwon-do Chuncheon 한림대학gil 1 (옥천dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

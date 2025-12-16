@@ -2,8 +2,8 @@
   "id": "jejuinternational",
   "name": "Jejuinternationaluniversity",
   "nameKo": "제주국제대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100094_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108050851514050_B.jpg&fileStorePath=univStorePath",
   "location": "Jeju-do",
   "region": "Jeju-do",
   "founded": "4096",
@@ -31,7 +31,7 @@
     "email": "admission@jeju.ac.kr",
     "phone": "064-754-0215",
     "website": "https://www.jeju.ac.kr",
-    "address": "제주특별자치도 제주시 516로 2870 (영평동)"
+    "address": "Jeju-do Jeju 516ro 2870 (영평dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

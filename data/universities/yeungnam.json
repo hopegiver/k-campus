@@ -2,8 +2,8 @@
   "id": "yeungnam",
   "name": "Yeungnam University",
   "nameKo": "영남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2482",
@@ -31,7 +31,7 @@
     "email": "admission@yu.ac.kr",
     "phone": "053-810-2114",
     "website": "https://www.yu.ac.kr",
-    "address": "경상북도 경산시 대학로 280 (대동, 영남대학교)"
+    "address": "Gyeongsangbuk-do Gyeongsan 대학ro 280 (대dong, 영남대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

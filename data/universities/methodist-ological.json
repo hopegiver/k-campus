@@ -2,8 +2,8 @@
   "id": "methodist-ological",
   "name": "Methodist Theological University",
   "nameKo": "감리교신학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1887",
@@ -31,7 +31,7 @@
     "email": "admission@mtu.ac.kr",
     "phone": "02-361-9257",
     "website": "https://www.mtu.ac.kr",
-    "address": "서울특별시 서대문구 독립문로 56 (냉천동, 감리교신학대학)"
+    "address": "Seoul 서대문구 독립문ro 56 (냉천dong, 감ri교신학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

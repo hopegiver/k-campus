@@ -2,8 +2,8 @@
   "id": "seoul-ological",
   "name": "Seoul Theological University",
   "nameKo": "서울신학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100225_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202204050142310450_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2160",
@@ -31,7 +31,7 @@
     "email": "admission@stu.ac.kr",
     "phone": "032-340-9114",
     "website": "https://www.stu.ac.kr",
-    "address": "경기도 부천시 소사구 호현로489번길 52 (소사본동, 서울신학대학교)"
+    "address": "Gyeonggi-do Bucheon 소사구 호현ro489번gil 52 (소사본dong, 서울신학대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

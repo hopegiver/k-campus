@@ -2,8 +2,8 @@
   "id": "pukyong-national",
   "name": "Pukyong National University",
   "nameKo": "국립부경대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100185_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404040114104240_B.png&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "3525",
@@ -31,7 +31,7 @@
     "email": "admission@pknu.ac.kr",
     "phone": "051-629-4114",
     "website": "https://www.pknu.ac.kr",
-    "address": "부산광역시 남구 용소로 45 (대연동, 부경대학교대연캠퍼스)"
+    "address": "Busan Nam-gu 용소ro 45 (대연dong, 부경대학교대연캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

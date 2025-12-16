@@ -2,8 +2,8 @@
   "id": "sogang",
   "name": "Sogang University",
   "nameKo": "서강대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100205_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202006261041489530_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2202",
@@ -31,7 +31,7 @@
     "email": "admission@sogang.ac.kr",
     "phone": "02-705-8114",
     "website": "https://www.sogang.ac.kr",
-    "address": "서울특별시 마포구 백범로 35 (신수동, 서강대학교)"
+    "address": "Seoul 마포구 백범ro 35 (신수dong, 서강대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "gyeongnam-geochang",
   "name": "University Of Gyeongnam Geochang",
   "nameKo": "경남도립거창대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100038_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903260156350620_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3512",
@@ -31,7 +31,7 @@
     "email": "admission@gc.ac.kr",
     "phone": "055-254-2800",
     "website": "https://www.gc.ac.kr",
-    "address": "경상남도 거창군 거창읍 거창대학로 72 (대평리, 경남도립거창대학)"
+    "address": "Gyeongsangnam-do 거창군 거창eup 거창대학ro 72 (대평ri, 경남도립거창대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

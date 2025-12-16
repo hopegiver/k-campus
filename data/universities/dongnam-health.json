@@ -2,8 +2,8 @@
   "id": "dongnam-health",
   "name": "Dongnam Health University",
   "nameKo": "동남보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2695",
@@ -31,7 +31,7 @@
     "email": "admission@dongnam.ac.kr",
     "phone": "031-249-6333",
     "website": "https://www.dongnam.ac.kr",
-    "address": "경기도 수원시 장안구 천천로74번길 50 (정자동, 동남보건전문대학)"
+    "address": "Gyeonggi-do Suwon 장안구 천천ro74번gil 50 (정자dong, dong남보건전문대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

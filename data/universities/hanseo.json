@@ -2,8 +2,8 @@
   "id": "hanseo",
   "name": "Hanseo University",
   "nameKo": "한서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100483_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202009240544386830_B.png&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3355",
@@ -31,7 +31,7 @@
     "email": "admission@hanseo.ac.kr",
     "phone": "041-660-1144",
     "website": "https://www.hanseo.ac.kr",
-    "address": "충청남도 서산시 해미면 한서1로 46 (대곡리, 한서대학교)"
+    "address": "Chungcheongnam-do Seosan 해미myeon 한서1ro 46 (대곡ri, 한서대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

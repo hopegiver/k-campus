@@ -2,8 +2,8 @@
   "id": "jeonbuk-science",
   "name": "Jeonbuk Science College",
   "nameKo": "전북과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "3465",
@@ -31,7 +31,7 @@
     "email": "admission@jbsc.ac.kr",
     "phone": "063-530-9114",
     "website": "https://www.jbsc.ac.kr",
-    "address": "전북특별자치도 정읍시 정읍사로 509 (시기동, 전북과학대학)"
+    "address": "Jeollabuk-do Jeongeup 정eup사ro 509 (시기dong, 전북과학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

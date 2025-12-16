@@ -2,8 +2,8 @@
   "id": "kangwon-national",
   "name": "Kangwon National University",
   "nameKo": "강원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3877",
@@ -31,7 +31,7 @@
     "email": "admission@kangwon.ac.kr/",
     "phone": "033-570-6114",
     "website": "https://www.kangwon.ac.kr/",
-    "address": "강원특별자치도 삼척시 중앙로 346 (교동)"
+    "address": "Gangwon-do Samcheok 중앙ro 346 (교dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

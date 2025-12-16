@@ -2,8 +2,8 @@
   "id": "gachon",
   "name": "Gachon University",
   "nameKo": "가천대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "4096",
@@ -31,7 +31,7 @@
     "email": "admission@gachon.ac.kr",
     "phone": "031-750-5114",
     "website": "https://www.gachon.ac.kr",
-    "address": "경기도 성남시 수정구 성남대로 1342 (복정동, 가천대학교)"
+    "address": "Gyeonggi-do Seongnam 수정구 성남대ro 1342 (복정dong, ga천대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

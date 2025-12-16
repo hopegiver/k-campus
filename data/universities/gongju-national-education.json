@@ -2,8 +2,8 @@
   "id": "gongju-national-education",
   "name": "Gongju National University Of Education",
   "nameKo": "공주교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "1397",
@@ -31,7 +31,7 @@
     "email": "admission@gjue.ac.kr",
     "phone": "041-850-1377",
     "website": "https://www.gjue.ac.kr",
-    "address": "충청남도 공주시 웅진로 27 (봉황동, 공주교육대학교)"
+    "address": "Chungcheongnam-do Gongju 웅진ro 27 (봉황dong, 공주교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

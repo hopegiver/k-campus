@@ -2,8 +2,8 @@
   "id": "gangneung-yeongdong",
   "name": "Gangneung Yeongdong University",
   "nameKo": "강릉영동대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3046",
@@ -31,7 +31,7 @@
     "email": "admission@gyu.ac.kr",
     "phone": "033-610-0114",
     "website": "https://www.gyu.ac.kr",
-    "address": "강원특별자치도 강릉시 공제로 357 (홍제동)"
+    "address": "Gangwon-do Gangneung 공제ro 357 (홍제dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

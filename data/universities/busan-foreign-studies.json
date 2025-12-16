@@ -2,8 +2,8 @@
   "id": "busan-foreign-studies",
   "name": "Busan University Of Foreign Studies",
   "nameKo": "부산외국어대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100194_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202407011109570770_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "3002",
@@ -31,7 +31,7 @@
     "email": "admission@bufs.ac.kr",
     "phone": "051-509-5000",
     "website": "https://www.bufs.ac.kr",
-    "address": "부산광역시 금정구 금샘로485번길 65 (남산동, 부산외국어대학교)"
+    "address": "Busan 금정구 금샘ro485번gil 65 (남산dong, 부산외국어대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

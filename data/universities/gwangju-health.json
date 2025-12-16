@@ -2,8 +2,8 @@
   "id": "gwangju-health",
   "name": "Gwangju Health University",
   "nameKo": "광주보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "2629",
@@ -31,7 +31,7 @@
     "email": "admission@ghu.ac.kr",
     "phone": "062-958-7500",
     "website": "https://www.ghu.ac.kr",
-    "address": "광주광역시 광산구 북문대로419번길 73 (신창동, 광주보건대학)"
+    "address": "Gwangju 광산구 북문대ro419번gil 73 (신창dong, 광주보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

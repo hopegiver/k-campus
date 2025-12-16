@@ -2,8 +2,8 @@
   "id": "korea-nazarene",
   "name": "Korea Nazarene University",
   "nameKo": "나사렛대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100113_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011250520493160_B.JPG&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "1998",
@@ -31,7 +31,7 @@
     "email": "admission@kornu.ac.kr",
     "phone": "041-570-7794",
     "website": "https://www.kornu.ac.kr",
-    "address": "충청남도 천안시 서북구 월봉로 48 (쌍용동, 나사렛대학교)"
+    "address": "Chungcheongnam-do Cheonan 서Buk-gu 월봉ro 48 (쌍용dong, 나사렛대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

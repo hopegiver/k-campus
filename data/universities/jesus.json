@@ -2,8 +2,8 @@
   "id": "jesus",
   "name": "Jesus University",
   "nameKo": "예수대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "3768",
@@ -31,7 +31,7 @@
     "email": "admission@jesus.ac.kr",
     "phone": "063-230-7700",
     "website": "https://www.jesus.ac.kr",
-    "address": "전북특별자치도 전주시 완산구 서원로 383 (중화산동1가, 예수대학교)"
+    "address": "Jeollabuk-do Jeonju 완산구 서원ro 383 (중화산dong1ga, 예수대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

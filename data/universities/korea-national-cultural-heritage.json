@@ -2,8 +2,8 @@
   "id": "korea-national-cultural-heritage",
   "name": "Korea National University Of Cultural Heritage",
   "nameKo": "한국전통문화대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3663",
@@ -31,7 +31,7 @@
     "email": "admission@knuh.ac.kr",
     "phone": "041-830-7114",
     "website": "https://www.knuh.ac.kr",
-    "address": "충청남도 부여군 규암면 백제문로 367 (합정리, 한국전통문화대학교)"
+    "address": "Chungcheongnam-do 부여군 규암myeon 백제문ro 367 (합정ri, 한국전통문화대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

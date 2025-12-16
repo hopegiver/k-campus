@@ -2,8 +2,8 @@
   "id": "hanyeong",
   "name": "Hanyeong University",
   "nameKo": "한영대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100231_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201911060233413460_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "3394",
@@ -31,7 +31,7 @@
     "email": "admission@hanyeong.ac.kr",
     "phone": "061-650-4109",
     "website": "https://www.hanyeong.ac.kr",
-    "address": "전라남도 여수시 장군산길 18-43 (여서동, 한영대학)"
+    "address": "Jeollanam-do Yeosu 장군산gil 18-43 (여서dong, 한영대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

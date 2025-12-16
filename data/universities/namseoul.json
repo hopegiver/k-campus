@@ -2,8 +2,8 @@
   "id": "namseoul",
   "name": "Namseoul University",
   "nameKo": "남서울대학교(산업대)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100115_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406250525140450_B.JPG&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "3443",
@@ -31,7 +31,7 @@
     "email": "admission@nsu.ac.kr",
     "phone": "041-580-2513",
     "website": "https://www.nsu.ac.kr",
-    "address": "충청남도 천안시 서북구 성환읍 대학로 91 (매주리, 남서울대학교)"
+    "address": "Chungcheongnam-do Cheonan 서Buk-gu 성환eup 대학ro 91 (매주ri, 남서울대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

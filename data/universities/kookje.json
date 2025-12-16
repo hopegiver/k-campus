@@ -2,8 +2,8 @@
   "id": "kookje",
   "name": "Kookje University",
   "nameKo": "국제대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100094_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108050851514050_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3549",
@@ -31,7 +31,7 @@
     "email": "admission@kookje.ac.kr",
     "phone": "031-610-8000",
     "website": "https://www.kookje.ac.kr",
-    "address": "경기도 평택시 장안웃길 56 (장안동, 국제대학교)"
+    "address": "Gyeonggi-do Pyeongtaek 장안웃gil 56 (장안dong, 국제대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

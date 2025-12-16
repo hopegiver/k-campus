@@ -2,8 +2,8 @@
   "id": "far-east",
   "name": "Far East University",
   "nameKo": "극동대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100104_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404191156169580_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "3576",
@@ -31,7 +31,7 @@
     "email": "admission@kdu.ac.kr",
     "phone": "043-879-3500",
     "website": "https://www.kdu.ac.kr",
-    "address": "충청북도 음성군 감곡면 대학길 76-32 (왕장리, 극동대학교)"
+    "address": "Chungcheongbuk-do 음성군 감곡myeon 대학gil 76-32 (왕장ri, 극dong대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

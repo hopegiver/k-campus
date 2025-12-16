@@ -2,8 +2,8 @@
   "id": "soongsil",
   "name": "Soongsil University",
   "nameKo": "숭실대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1897",
@@ -31,7 +31,7 @@
     "email": "admission@ssu.ac.kr",
     "phone": "02-820-0114",
     "website": "https://www.ssu.ac.kr",
-    "address": "서울특별시 동작구 상도로 369 (상도동, 숭실대학교)"
+    "address": "Seoul dong작구 상도ro 369 (상도dong, 숭실대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

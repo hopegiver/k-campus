@@ -2,8 +2,8 @@
   "id": "chongshin",
   "name": "Chongshin University",
   "nameKo": "총신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404150551159970_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2462",
@@ -31,7 +31,7 @@
     "email": "admission@chongshin.ac.kr",
     "phone": "02-3479-0200",
     "website": "https://www.chongshin.ac.kr",
-    "address": "서울특별시 동작구 사당로 143 (사당동, 총신대학교)"
+    "address": "Seoul dong작구 사당ro 143 (사당dong, 총신대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

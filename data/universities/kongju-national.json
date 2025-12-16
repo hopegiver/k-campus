@@ -2,8 +2,8 @@
   "id": "kongju-national",
   "name": "Kongju National University",
   "nameKo": "공주대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100075_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303300927169330_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "1774",
@@ -31,7 +31,7 @@
     "email": "admission@kongju.ac.kr",
     "phone": "041-850-8114",
     "website": "https://www.kongju.ac.kr",
-    "address": "충청남도 공주시 공주대학로 56 (신관동, 공주대학교)"
+    "address": "Chungcheongnam-do Gongju 공주대학ro 56 (신관dong, 공주대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

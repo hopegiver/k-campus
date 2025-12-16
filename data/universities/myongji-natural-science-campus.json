@@ -2,8 +2,8 @@
   "id": "myongji-natural-science-campus",
   "name": "Myongji University Natural Science Campus",
   "nameKo": "명지대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100170_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202505260205156240_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "1778",
@@ -31,7 +31,7 @@
     "email": "admission@mju.ac.kr",
     "phone": "1577-0020",
     "website": "https://www.mju.ac.kr",
-    "address": "경기도 용인시 처인구 명지로 116 (남동, 명지대학교용인캠퍼스)"
+    "address": "Gyeonggi-do Yongin 처인구 명지ro 116 (남dong, 명지대학교용인캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

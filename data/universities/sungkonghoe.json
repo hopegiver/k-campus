@@ -2,8 +2,8 @@
   "id": "sungkonghoe",
   "name": "Sungkonghoe University",
   "nameKo": "성공회대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100240_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309010401546090_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "3396",
@@ -31,7 +31,7 @@
     "email": "admission@skhu.ac.kr",
     "phone": "02-2610-4114",
     "website": "https://www.skhu.ac.kr",
-    "address": "서울특별시 구로구 연동로 320 (항동, 성공회대학교)"
+    "address": "Seoul 구ro구 연dongro 320 (항dong, 성공회대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

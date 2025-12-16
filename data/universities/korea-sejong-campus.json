@@ -2,8 +2,8 @@
   "id": "korea-sejong-campus",
   "name": "Korea University Sejong Campus",
   "nameKo": "고려대학교(세종)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100070_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201304011055539700_B.jpg&fileStorePath=univStorePath",
   "location": "Sejong",
   "region": "Sejong",
   "founded": "2928",
@@ -31,7 +31,7 @@
     "email": "admission@sejong.korea.ac.kr",
     "phone": "044-860-1114",
     "website": "https://sejong.korea.ac.kr",
-    "address": "세종특별자치시 조치원읍 세종로 2511 (서창리, 고려대학교세종캠퍼스)"
+    "address": "Sejong 조치원eup 세종ro 2511 (서창ri, 고려대학교세종캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

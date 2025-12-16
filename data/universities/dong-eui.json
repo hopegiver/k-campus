@@ -2,8 +2,8 @@
   "id": "dong-eui",
   "name": "Dong-Eui University",
   "nameKo": "동의대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100163_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903251043340850_B.jpg&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "2886",
@@ -31,7 +31,7 @@
     "email": "admission@deu.ac.kr",
     "phone": "051-890-1114",
     "website": "https://www.deu.ac.kr",
-    "address": "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교)"
+    "address": "Busan 부산진구 엄광ro 176 (ga야dong, dong의대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

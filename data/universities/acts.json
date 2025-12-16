@@ -2,8 +2,8 @@
   "id": "acts",
   "name": "ACTS University",
   "nameKo": "아신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2994",
@@ -31,7 +31,7 @@
     "email": "admission@acts.ac.kr",
     "phone": "031-770-7700",
     "website": "https://www.acts.ac.kr",
-    "address": "경기도 양평군 옥천면 경강로 1276"
+    "address": "Gyeonggi-do Yangpyeong 옥천myeon 경강ro 1276"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

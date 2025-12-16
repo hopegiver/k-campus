@@ -2,8 +2,8 @@
   "id": "gyeonggi-science-technology",
   "name": "Gyeonggi University Of Science And Technology",
   "nameKo": "경기과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100033_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202108121129369730_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3612",
@@ -31,7 +31,7 @@
     "email": "admission@gtec.ac.kr",
     "phone": "031-496-4532",
     "website": "https://www.gtec.ac.kr",
-    "address": "경기도 시흥시 경기과기대로 269 (정왕동, 경기과학기술대학교)"
+    "address": "Gyeonggi-do Siheung 경기과기대ro 269 (정왕dong, 경기과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

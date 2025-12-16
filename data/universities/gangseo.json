@@ -2,8 +2,8 @@
   "id": "gangseo",
   "name": "GANGSEO UNIVERSITY",
   "nameKo": "강서대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2129",
@@ -31,7 +31,7 @@
     "email": "admission@gangseo.ac.kr",
     "phone": "02-2600-2400",
     "website": "https://gangseo.ac.kr",
-    "address": "서울특별시 강서구 까치산로24길 47 (화곡동, 케이씨대학교)"
+    "address": "Seoul 강Seo-gu 까치산ro24gil 47 (화곡dong, 케이씨대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

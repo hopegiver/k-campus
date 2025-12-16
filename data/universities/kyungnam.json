@@ -2,8 +2,8 @@
   "id": "kyungnam",
   "name": "Kyungnam University",
   "nameKo": "경남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100037_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106080230175360_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "1716",
@@ -31,7 +31,7 @@
     "email": "admission@kyungnam.ac.kr",
     "phone": "055-245-5000",
     "website": "https://www.kyungnam.ac.kr",
-    "address": "경상남도 창원시 마산합포구 경남대학로 7 (월영동, 경남대학교)"
+    "address": "Gyeongsangnam-do Changwon 마산합포구 경남대학ro 7 (월영dong, 경남대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "suwon-women-s",
   "name": "Suwon Women’S University",
   "nameKo": "수원여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2526",
@@ -31,7 +31,7 @@
     "email": "admission@swc.ac.kr",
     "phone": "031-290-8042",
     "website": "https://www.swc.ac.kr",
-    "address": "경기도 수원시 권선구 온정로 72 (오목천동, 수원여자대학)"
+    "address": "Gyeonggi-do Suwon 권선구 온정ro 72 (오목천dong, 수원여자대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

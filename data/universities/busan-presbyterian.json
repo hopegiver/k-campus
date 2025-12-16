@@ -2,8 +2,8 @@
   "id": "busan-presbyterian",
   "name": "Busan Presbyterian University",
   "nameKo": "부산장신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3685",
@@ -31,7 +31,7 @@
     "email": "admission@bpu.ac.kr",
     "phone": "055-320-2500",
     "website": "https://www.bpu.ac.kr",
-    "address": "경상남도 김해시 김해대로 1894-68 (구산동)"
+    "address": "Gyeongsangnam-do Gimhae 김해대ro 1894-68 (구산dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "inha",
   "name": "Inha University",
   "nameKo": "인하대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100341_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903251012037830_B.jpg&fileStorePath=univStorePath",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "1983",
@@ -31,7 +31,7 @@
     "email": "admission@inha.ac.kr",
     "phone": "032-860-7114",
     "website": "https://www.inha.ac.kr",
-    "address": "인천광역시 미추홀구 인하로 100(용현동)"
+    "address": "Incheon 미추홀구 인하ro 100(용현dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

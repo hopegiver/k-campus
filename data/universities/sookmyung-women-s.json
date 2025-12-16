@@ -2,8 +2,8 @@
   "id": "sookmyung-women-s",
   "name": "Sookmyung Women’S University",
   "nameKo": "숙명여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100261_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201907040556558670_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1423",
@@ -31,7 +31,7 @@
     "email": "admission@sookmyung.ac.kr/",
     "phone": "02-710-9114",
     "website": "https://www.sookmyung.ac.kr/",
-    "address": "서울특별시 용산구 청파로47길 90 (청파동2가, 숙명여자대학교)"
+    "address": "Seoul 용산구 청파ro47gil 90 (청파dong2ga, 숙명여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

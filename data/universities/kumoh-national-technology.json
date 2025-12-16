@@ -2,8 +2,8 @@
   "id": "kumoh-national-technology",
   "name": "Kumoh National Institute Of Technology",
   "nameKo": "국립금오공과대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100107_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201602260308048970_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "2928",
@@ -31,7 +31,7 @@
     "email": "admission@kumoh.ac.kr",
     "phone": "054-478-7114",
     "website": "https://www.kumoh.ac.kr",
-    "address": "경상북도 구미시 대학로 61 (양호동, 금오공과대학교)"
+    "address": "Gyeongsangbuk-do Gumi 대학ro 61 (양호dong, 금오공과대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

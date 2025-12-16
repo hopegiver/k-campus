@@ -2,8 +2,8 @@
   "id": "dongwon-science-technology",
   "name": "Dongwon Institute Of Science And Technology",
   "nameKo": "동원과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100160_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201712290343031070_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3331",
@@ -31,7 +31,7 @@
     "email": "admission@dist.ac.kr",
     "phone": "055-370-8100",
     "website": "https://www.dist.ac.kr",
-    "address": "경상남도 양산시 명곡로 321 (명곡동, 동원과학기술대학교)"
+    "address": "Gyeongsangnam-do Yangsan 명곡ro 321 (명곡dong, dong원과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

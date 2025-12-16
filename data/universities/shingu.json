@@ -2,8 +2,8 @@
   "id": "shingu",
   "name": "Shingu College",
   "nameKo": "신구대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100271_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903191103473420_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2701",
@@ -31,7 +31,7 @@
     "email": "admission@shingu.ac.kr",
     "phone": "031-740-1114",
     "website": "https://www.shingu.ac.kr",
-    "address": "경기도 성남시 중원구 광명로 377 (금광동, 신구대학)"
+    "address": "Gyeonggi-do Seongnam 중원구 광명ro 377 (금광dong, 신구대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

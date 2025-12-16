@@ -2,8 +2,8 @@
   "id": "anyang",
   "name": "Anyang University",
   "nameKo": "안양대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100284_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205261157017760_B.png&fileStorePath=univStorePath",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "1779",
@@ -31,7 +31,7 @@
     "email": "admission@anyang.ac.kr/main/index.do",
     "phone": "032-930-6000",
     "website": "https://www.anyang.ac.kr/main/index.do",
-    "address": "인천광역시 강화군 불은면 중앙로 602-14 (삼성리, 안양대학교강화캠퍼스)"
+    "address": "Incheon 강화군 불은myeon 중앙ro 602-14 (삼성ri, 안양대학교강화캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

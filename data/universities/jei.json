@@ -2,8 +2,8 @@
   "id": "jei",
   "name": "JEI University",
   "nameKo": "재능대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100339_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509151200266730_B.png&fileStorePath=univStorePath",
   "location": "Incheon",
   "region": "Incheon",
   "founded": "2591",
@@ -31,7 +31,7 @@
     "email": "admission@jeiu.ac.kr",
     "phone": "032-890-7000",
     "website": "https://www.jeiu.ac.kr",
-    "address": "인천광역시 동구 재능로 178 (송림동, 재능대학)"
+    "address": "Incheon Dong-gu 재능ro 178 (송림dong, 재능대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "suncheon-jeil",
   "name": "Suncheon Jeil College",
   "nameKo": "순천제일대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100265_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202405081003150270_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollanam-do",
   "region": "Jeollanam-do",
   "founded": "2891",
@@ -31,7 +31,7 @@
     "email": "admission@suncheon.ac.kr",
     "phone": "061-740-1234",
     "website": "https://www.suncheon.ac.kr",
-    "address": "전라남도 순천시 제일대학길 17 (덕월동, 순천제일대학)"
+    "address": "Jeollanam-do Suncheon 제일대학gil 17 (덕월dong, 순천제일대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

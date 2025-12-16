@@ -2,8 +2,8 @@
   "id": "gyeongin-national-education",
   "name": "Gyeongin National University Of Education",
   "nameKo": "경인교육대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3841",
@@ -31,7 +31,7 @@
     "email": "admission@ginue.ac.kr",
     "phone": "031-470-6114",
     "website": "https://www.ginue.ac.kr",
-    "address": "경기도 안양시 만안구 삼막로 155 (석수동, 경인교육대학교)"
+    "address": "Gyeonggi-do Anyang 만안구 삼막ro 155 (석수dong, 경인교육대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

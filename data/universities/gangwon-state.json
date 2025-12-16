@@ -2,8 +2,8 @@
   "id": "gangwon-state",
   "name": "Gangwon State University",
   "nameKo": "강원도립대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gangwon-do",
   "region": "Gangwon-do",
   "founded": "3587",
@@ -31,7 +31,7 @@
     "email": "admission@gw.ac.kr",
     "phone": "033-660-8000",
     "website": "https://www.gw.ac.kr",
-    "address": "강원특별자치도 강릉시 주문진읍 연주로 270"
+    "address": "Gangwon-do Gangneung 주문진eup 연주ro 270"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

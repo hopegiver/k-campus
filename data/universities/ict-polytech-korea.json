@@ -2,8 +2,8 @@
   "id": "ict-polytech-korea",
   "name": "ICT Polytech Institute of Korea",
   "nameKo": "ICT폴리텍대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3760",
@@ -31,7 +31,7 @@
     "email": "admission@ict.ac.kr",
     "phone": "031-764-3301",
     "website": "https://www.ict.ac.kr",
-    "address": "경기도 광주시 순암로 16-26 (역동)"
+    "address": "Gyeonggi-do Gwangju 순암ro 16-26 (역dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

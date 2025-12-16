@@ -2,8 +2,8 @@
   "id": "wonkwang-health-science",
   "name": "Wonkwang Health Science University",
   "nameKo": "원광보건대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "2778",
@@ -31,7 +31,7 @@
     "email": "admission@wu.ac.kr",
     "phone": "063-840-1114",
     "website": "https://www.wu.ac.kr",
-    "address": "전북특별자치도 익산시 익산대로 514 (신용동, 원광보건대학)"
+    "address": "Jeollabuk-do Iksan 익산대ro 514 (신용dong, 원광보건대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "daeshin",
   "name": "Daeshin University",
   "nameKo": "대신대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangbuk-do",
   "region": "Gyeongsangbuk-do",
   "founded": "3541",
@@ -31,7 +31,7 @@
     "email": "admission@daeshin.ac.kr",
     "phone": "053-810-0701",
     "website": "https://www.daeshin.ac.kr",
-    "address": "경상북도 경산시 경청로222길 33 (백천동, 대신대학교)"
+    "address": "Gyeongsangbuk-do Gyeongsan 경청ro222gil 33 (백천dong, 대신대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "hanbat-national",
   "name": "Hanbat National University",
   "nameKo": "한밭대학교(산업대)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "1000",
@@ -31,7 +31,7 @@
     "email": "admission@hanbat.ac.kr",
     "phone": "042-821-1114",
     "website": "https://www.hanbat.ac.kr",
-    "address": "대전광역시 유성구 동서대로 125 (덕명동, 한밭대학교)"
+    "address": "Daejeon 유성구 dong서대ro 125 (덕명dong, 한밭대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

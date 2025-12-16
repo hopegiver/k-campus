@@ -2,8 +2,8 @@
   "id": "masan",
   "name": "Masan University",
   "nameKo": "마산대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100168_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504300410275350_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "2060",
@@ -31,7 +31,7 @@
     "email": "admission@masan.ac.kr",
     "phone": "055-230-1212",
     "website": "https://www.masan.ac.kr",
-    "address": "경상남도 창원시 마산회원구 내서읍 함마대로 2640 (용담리, 마산대학)"
+    "address": "Gyeongsangnam-do Changwon 마산회원구 내서eup 함마대ro 2640 (용담ri, 마산대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

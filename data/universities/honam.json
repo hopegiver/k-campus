@@ -2,8 +2,8 @@
   "id": "honam",
   "name": "Honam University",
   "nameKo": "호남대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100498_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202011180539012010_B.jpg&fileStorePath=univStorePath",
   "location": "Gwangju",
   "region": "Gwangju",
   "founded": "2979",
@@ -31,7 +31,7 @@
     "email": "admission@honam.ac.kr",
     "phone": "062-940-5000",
     "website": "https://www.honam.ac.kr",
-    "address": "광주광역시 광산구 호남대길 120 (서봉동, 호남대학본부)"
+    "address": "Gwangju 광산구 호남대gil 120 (서봉dong, 호남대학본부)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "cha",
   "name": "CHA University",
   "nameKo": "차의과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100373_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202411220843579320_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3541",
@@ -31,7 +31,7 @@
     "email": "admission@cha.ac.kr",
     "phone": "1899-2010",
     "website": "https://www.cha.ac.kr",
-    "address": "경기도 포천시 해룡로 120 (동교동, 포천중문의과대학)"
+    "address": "Gyeonggi-do Pocheon 해룡ro 120 (dong교dong, 포천중문의과대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

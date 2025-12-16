@@ -2,8 +2,8 @@
   "id": "dankook",
   "name": "Dankook University",
   "nameKo": "단국대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100119_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705100339232950_B.jpg&fileStorePath=univStorePath",
   "location": "Chungcheongnam-do",
   "region": "Chungcheongnam-do",
   "founded": "2856",
@@ -31,7 +31,7 @@
     "email": "admission@dankook.ac.kr",
     "phone": "1899-3700",
     "website": "https://www.dankook.ac.kr",
-    "address": "충청남도 천안시 동남구 단대로 119 (안서동, 단국대학교천안캠퍼스)"
+    "address": "Chungcheongnam-do Cheonan dongNam-gu 단대ro 119 (안서dong, 단국대학교천안캠퍼스)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

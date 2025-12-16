@@ -2,8 +2,8 @@
   "id": "dongduk-women-s",
   "name": "Dongduk Women’s University",
   "nameKo": "동덕여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100149_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202106030510327790_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1841",
@@ -31,7 +31,7 @@
     "email": "admission@dongduk.ac.kr",
     "phone": "02-940-4000",
     "website": "https://www.dongduk.ac.kr",
-    "address": "서울특별시 성북구 화랑로13길 60 (하월곡동, 동덕여자대학교)"
+    "address": "Seoul 성Buk-gu 화랑ro13gil 60 (하월곡dong, dong덕여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

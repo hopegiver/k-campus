@@ -2,8 +2,8 @@
   "id": "ajou",
   "name": "Ajou University",
   "nameKo": "아주대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100279_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504020633213070_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2673",
@@ -31,7 +31,7 @@
     "email": "admission@ajou.ac.kr",
     "phone": "031-219-2114",
     "website": "https://www.ajou.ac.kr",
-    "address": "경기도 수원시 영통구 월드컵로 206 (원천동, 아주대학교)"
+    "address": "Gyeonggi-do Suwon 영통구 월드컵ro 206 (원천dong, 아주대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "seoul-national",
   "name": "Seoul National University",
   "nameKo": "서울대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100215_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180240537250_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1703",
@@ -31,7 +31,7 @@
     "email": "admission@snu.ac.kr",
     "phone": "02-880-5114",
     "website": "https://www.snu.ac.kr",
-    "address": "서울특별시 관악구 관악로 1 (신림동, 서울대학교)"
+    "address": "Seoul 관악구 관악ro 1 (신림dong, 서울대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

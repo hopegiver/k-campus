@@ -2,8 +2,8 @@
   "id": "yeoju-technology",
   "name": "Yeoju Institute Of Technology",
   "nameKo": "여주대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100286_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201801110942493290_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "3402",
@@ -31,7 +31,7 @@
     "email": "admission@yit.ac.kr",
     "phone": "031-880-5000",
     "website": "https://www.yit.ac.kr",
-    "address": "경기도 여주시 세종로 338 (교동, 여주대학교)"
+    "address": "Gyeonggi-do Yeoju 세종ro 338 (교dong, 여주대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

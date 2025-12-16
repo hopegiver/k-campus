@@ -2,8 +2,8 @@
   "id": "busan-arts",
   "name": "Busan Arts College",
   "nameKo": "부산예술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Busan",
   "region": "Busan",
   "founded": "3622",
@@ -31,7 +31,7 @@
     "email": "admission@busanarts.ac.kr",
     "phone": "051-628-3991",
     "website": "https://www.busanarts.ac.kr",
-    "address": "부산광역시 남구 못골번영로71번길 74 (대연동, 부산예술대학)"
+    "address": "Busan Nam-gu 못골번영ro71번gil 74 (대연dong, 부산예술대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

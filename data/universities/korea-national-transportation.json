@@ -2,8 +2,8 @@
   "id": "korea-national-transportation",
   "name": "Korea National University Of Transportation",
   "nameKo": "국립한국교통대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Chungcheongbuk-do",
   "region": "Chungcheongbuk-do",
   "founded": "5205",
@@ -31,7 +31,7 @@
     "email": "admission@ut.ac.kr",
     "phone": "043-841-5002",
     "website": "https://www.ut.ac.kr",
-    "address": "충청북도 충주시 대소원면 대학로 50 (검단리, 한국교통대학교)"
+    "address": "Chungcheongbuk-do Chungju 대소원myeon 대학ro 50 (검단ri, 한국교통대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

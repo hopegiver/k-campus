@@ -2,8 +2,8 @@
   "id": "myongji",
   "name": "Myongji College",
   "nameKo": "명지전문대학",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100171_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201207240418049750_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "2709",
@@ -31,7 +31,7 @@
     "email": "admission@mjc.ac.kr",
     "phone": "02-300-1000",
     "website": "https://www.mjc.ac.kr",
-    "address": "서울특별시 서대문구 가좌로 134 (홍은동, 명지전문대학)"
+    "address": "Seoul 서대문구 ga좌ro 134 (홍은dong, 명지전문대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "sungkyul",
   "name": "Sungkyul University",
   "nameKo": "성결대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100239_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201802200444191220_B.JPG&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2375",
@@ -31,7 +31,7 @@
     "email": "admission@sungkyul.ac.kr",
     "phone": "031-467-8114",
     "website": "https://www.sungkyul.ac.kr",
-    "address": "경기도 안양시 만안구 성결대학로 53 (안양동, 성결대학교)"
+    "address": "Gyeonggi-do Anyang 만안구 성결대학ro 53 (안양dong, 성결대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

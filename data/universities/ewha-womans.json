@@ -2,8 +2,8 @@
   "id": "ewha-womans",
   "name": "Ewha Womans University",
   "nameKo": "이화여자대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100332_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202404040323183140_B.jpg&fileStorePath=univStorePath",
   "location": "Seoul",
   "region": "Seoul",
   "founded": "1702",
@@ -31,7 +31,7 @@
     "email": "admission@ewha.ac.kr",
     "phone": "02-3277-2114",
     "website": "https://www.ewha.ac.kr",
-    "address": "서울특별시 서대문구 이화여대길 52 (대현동, 이화여자대학교)"
+    "address": "Seoul 서대문구 이화여대gil 52 (대현dong, 이화여자대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

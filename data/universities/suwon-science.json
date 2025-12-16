@@ -2,8 +2,8 @@
   "id": "suwon-science",
   "name": "Suwon Science College",
   "nameKo": "수원과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100258_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110281055404400_B.jpg&fileStorePath=univStorePath",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "2855",
@@ -31,7 +31,7 @@
     "email": "admission@ssc.ac.kr",
     "phone": "031-350-2000",
     "website": "https://www.ssc.ac.kr",
-    "address": "경기도 화성시 정남면 세자로 288 (보통리, 수원과학대학)"
+    "address": "Gyeonggi-do Hwaseong 정남myeon 세자ro 288 (보통ri, 수원과학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -2,8 +2,8 @@
   "id": "howon",
   "name": "Howon University",
   "nameKo": "호원대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100502_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406260149499630_B.jpg&fileStorePath=univStorePath",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "2855",
@@ -31,7 +31,7 @@
     "email": "admission@howon.ac.kr",
     "phone": "063-450-7114",
     "website": "https://www.howon.ac.kr",
-    "address": "전북특별자치도 군산시 임피면 호원대3길 64 (월하리, 호원대학교)"
+    "address": "Jeollabuk-do Gunsan 임피myeon 호원대3gil 64 (월하ri, 호원대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

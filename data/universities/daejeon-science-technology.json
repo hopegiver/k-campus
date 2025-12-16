@@ -2,8 +2,8 @@
   "id": "daejeon-science-technology",
   "name": "Daejeon Institute Of Science And Technology",
   "nameKo": "대전과학기술대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100138_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201603100132041560_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "1471",
@@ -31,7 +31,7 @@
     "email": "admission@dst.ac.kr",
     "phone": "042-580-6114",
     "website": "https://www.dst.ac.kr",
-    "address": "대전광역시 서구 혜천로 100 (복수동, 대전과학기술대학교)"
+    "address": "Daejeon Seo-gu 혜천ro 100 (복수dong, 대전과학기술대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

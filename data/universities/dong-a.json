@@ -2,8 +2,8 @@
   "id": "dong-a",
   "name": "Dong-A University",
   "nameKo": "동아대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100155_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201910180127319990_B.png&fileStorePath=univStorePath",
   "location": "Busan",
   "region": "Busan",
   "founded": "1710",
@@ -31,7 +31,7 @@
     "email": "admission@donga.ac.kr",
     "phone": "051-200-6114",
     "website": "https://www.donga.ac.kr",
-    "address": "부산광역시 사하구 낙동대로550번길 37 (하단동, 동아대학교)"
+    "address": "Busan 사하구 낙dong대ro550번gil 37 (하단dong, dong아대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

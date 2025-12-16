@@ -2,8 +2,8 @@
   "id": "chung-ang",
   "name": "Chung-Ang University",
   "nameKo": "중앙대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeonggi-do",
   "region": "Gyeonggi-do",
   "founded": "6666",
@@ -31,7 +31,7 @@
     "email": "admission@cau.ac.kr",
     "phone": "031-670-3114",
     "website": "https://www.cau.ac.kr",
-    "address": "경기도 안성시 대덕면 서동대로 4726 (내리, 중앙대학교)"
+    "address": "Gyeonggi-do Anseong 대덕myeon 서dong대ro 4726 (내ri, 중앙대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

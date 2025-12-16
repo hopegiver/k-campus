@@ -2,8 +2,8 @@
   "id": "taegu-science",
   "name": "Taegu Science University",
   "nameKo": "대구과학대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100124_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202309141030331430_B.jpg&fileStorePath=univStorePath",
   "location": "Daegu",
   "region": "Daegu",
   "founded": "2204",
@@ -31,7 +31,7 @@
     "email": "admission@tsu.ac.kr",
     "phone": "053-320-1114",
     "website": "https://www.tsu.ac.kr",
-    "address": "대구광역시 북구 영송로 47 (태전동, 대구과학대학)"
+    "address": "Daegu Buk-gu 영송ro 47 (태전dong, 대구과학대학)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

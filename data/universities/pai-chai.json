@@ -2,8 +2,8 @@
   "id": "pai-chai",
   "name": "Pai Chai University",
   "nameKo": "배재대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100178_logo.jpg",
+  "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105110449147610_B.jpg&fileStorePath=univStorePath",
   "location": "Daejeon",
   "region": "Daejeon",
   "founded": "2958",
@@ -31,7 +31,7 @@
     "email": "admission@pcu.ac.kr",
     "phone": "042-520-5114",
     "website": "https://www.pcu.ac.kr",
-    "address": "대전광역시 서구 배재로 155-40 (도마동, 배재대학교)"
+    "address": "Daejeon Seo-gu 배재ro 155-40 (도마dong, 배재대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

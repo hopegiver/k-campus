@@ -2,8 +2,8 @@
   "id": "kunsan-nursing",
   "name": "Kunsan College Of Nursing",
   "nameKo": "군산간호대학교",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Jeollabuk-do",
   "region": "Jeollabuk-do",
   "founded": "1881",
@@ -31,7 +31,7 @@
     "email": "admission@kcn.ac.kr",
     "phone": "063-450-3803",
     "website": "https://www.kcn.ac.kr",
-    "address": "전북특별자치도 군산시 동개정길 7 (개정동, 군산간호대학교)"
+    "address": "Jeollabuk-do Gunsan dong개정gil 7 (개정dong, 군산간호대학교)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

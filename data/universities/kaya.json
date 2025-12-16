@@ -2,8 +2,8 @@
   "id": "kaya",
   "name": "Kaya University",
   "nameKo": "가야대학교(김해)",
-  "logo": "🎓",
-  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+  "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
   "location": "Gyeongsangnam-do",
   "region": "Gyeongsangnam-do",
   "founded": "3404",
@@ -31,7 +31,7 @@
     "email": "admission@WWW.KAYA.AC.KR",
     "phone": "055-330-1000",
     "website": "https://WWW.KAYA.AC.KR",
-    "address": "경상남도 김해시 삼계로 208 (삼계동)"
+    "address": "Gyeongsangnam-do Gimhae 삼계ro 208 (삼계dong)"
   },
   "applicationFee": 80000,
   "requiredDocuments": [

@@ -12,11 +12,24 @@
       <p class="lead mb-0">
         Temukan informasi terbaru tentang pameran pendidikan, acara budaya Korea, dan pengumuman penerimaan mahasiswa
       </p>
+
+      <!-- Quick Navigation -->
+      <div class="d-flex flex-wrap gap-3 mt-4">
+        <button @click="scrollToSection('featured-events')" class="btn btn-light">
+          ⭐ Event Unggulan
+        </button>
+        <button @click="scrollToSection('all-events')" class="btn btn-light">
+          📅 Semua Event
+        </button>
+        <button @click="scrollToSection('calendar')" class="btn btn-light">
+          📆 Kalender Event
+        </button>
+      </div>
     </div>
   </section>
 
   <!-- Featured Events Section -->
-  <section class="py-5 bg-light">
+  <section id="featured-events" class="py-5 bg-light">
     <div class="container">
       <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Event Unggulan</h2>
       <div class="row g-4">
@@ -185,7 +198,7 @@
   </section>
 
   <!-- Newsletter Subscription -->
-  <section class="py-5 bg-light">
+  <section id="newsletter" class="py-5 bg-light">
     <div class="container">
       <div class="row g-4 align-items-center">
         <div class="col-md-6">
@@ -216,7 +229,7 @@
   </section>
 
   <!-- Event Calendar Info -->
-  <section class="py-5">
+  <section id="calendar" class="py-5">
     <div class="container">
       <h2 class="h2 fw-bold text-primary mb-4 pb-3 border-bottom border-primary border-3">Kalender Event 2026</h2>
       <p class="text-muted mb-5">

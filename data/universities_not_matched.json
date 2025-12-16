@@ -5,11 +5,6 @@
     "nameKo": "한영대학교"
   },
   {
-    "id": "korea-national-agriculture-fisheries",
-    "name": "Korea National University Of Agriculture And Fisheries",
-    "nameKo": "한국농수산대학교"
-  },
-  {
     "id": "jangan",
     "name": "Jangan College",
     "nameKo": "장안대학교"
@@ -165,19 +160,9 @@
     "nameKo": "칼빈대학교"
   },
   {
-    "id": "hankyong-national",
-    "name": "Hankyong National University",
-    "nameKo": "한경국립대학교"
-  },
-  {
     "id": "hanlyo",
     "name": "Hanlyo University",
     "nameKo": "한려대학교"
-  },
-  {
-    "id": "hanbat-national",
-    "name": "Hanbat National University",
-    "nameKo": "한밭대학교(산업대)"
   },
   {
     "id": "hanbuk",
@@ -198,20 +183,5 @@
     "id": "kangwon-tourism",
     "name": "Kangwon Tourism College",
     "nameKo": "강원관광대학교"
-  },
-  {
-    "id": "gyeongguk-national",
-    "name": "Gyeongguk National University",
-    "nameKo": "경국대학교"
-  },
-  {
-    "id": "kongju-national",
-    "name": "Kongju National University",
-    "nameKo": "공주대학교"
-  },
-  {
-    "id": "kunsan-national",
-    "name": "Kunsan National University",
-    "nameKo": "군산대학교"
   }
 ]

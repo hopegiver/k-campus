@@ -145,8 +145,8 @@
     "location": "Jeollabuk-do",
     "type": "Universitas Swasta",
     "description": "Politeknik di Jeollabuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202407170227560230_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -163,7 +163,8 @@
       "website": "https://www.af.ac.kr",
       "phone": "063-238-9114",
       "address": "전북특별자치도 전주시 덕진구 콩쥐팥쥐로 1515(중동)"
-    }
+    },
+    "univCd": "100414"
   },
   {
     "id": "korea-national-welfare",
@@ -8489,8 +8490,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -8509,7 +8510,8 @@
       "website": "https://www.hknu.ac.kr",
       "phone": "031-670-5114",
       "address": "경기도 안성시 중앙로 327 (석정동, 한경대학교)"
-    }
+    },
+    "univCd": "100402"
   },
   {
     "id": "tech-korea",
@@ -9027,8 +9029,8 @@
     "location": "Daejeon",
     "type": "Universitas Negeri",
     "description": "Universitas di Daejeon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9047,7 +9049,8 @@
       "website": "https://www.hanbat.ac.kr",
       "phone": "042-821-1114",
       "address": "대전광역시 유성구 동서대로 125 (덕명동, 한밭대학교)"
-    }
+    },
+    "univCd": "100481"
   },
   {
     "id": "hanbuk",
@@ -11228,8 +11231,8 @@
     "location": "Gyeongsangbuk-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gyeongsangbuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100090_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504090510485790_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -11248,7 +11251,8 @@
       "website": "https://www.andong.ac.kr/main/index.do",
       "phone": "054-820-5114",
       "address": "경상북도 안동시 경동로 1375 (송천동, 안동대학교)"
-    }
+    },
+    "univCd": "100090"
   },
   {
     "id": "kongju-national",
@@ -11257,8 +11261,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100075_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202303300927169330_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -11277,7 +11281,8 @@
       "website": "https://www.kongju.ac.kr",
       "phone": "041-850-8114",
       "address": "충청남도 공주시 공주대학로 56 (신관동, 공주대학교)"
-    }
+    },
+    "univCd": "100075"
   },
   {
     "id": "kunsan-national",
@@ -11286,8 +11291,8 @@
     "location": "Jeollabuk-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Jeollabuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -11306,6 +11311,7 @@
       "website": "https://www.kunsan.ac.kr",
       "phone": "063-469-4114",
       "address": "전북특별자치도 군산시 대학로 558 (미룡동, 군산대학교)"
-    }
+    },
+    "univCd": "100102"
   }
 ]

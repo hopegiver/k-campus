@@ -17,6 +17,8 @@ def normalize_name(name):
     name = name.strip()
     # Remove parentheses and their contents (e.g., "호산대학교(본교)" -> "호산대학교")
     name = re.sub(r'\([^)]*\)', '', name)
+    # Remove "국립" prefix (e.g., "국립군산대학교" -> "군산대학교")
+    name = name.replace('국립', '')
     name = name.replace(' ', '')
     return name.lower()
 

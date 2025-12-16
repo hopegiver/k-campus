@@ -1,49 +1,49 @@
 {
   "topUniversities": [
     {
-      "id": 1,
+      "id": "seoul-national",
       "name": "Seoul National University",
-      "image": "https://picsum.photos/seed/snu/400/300",
+      "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201903180240537250_B.jpg&fileStorePath=univStorePath",
       "ranking": "Top 50 Dunia",
       "location": "Seoul",
       "description": "Universitas tertua dan terprestisius di Korea dengan berbagai program studi unggulan"
     },
     {
-      "id": 2,
+      "id": "korea-advanced-science-technology-kaist",
       "name": "KAIST",
-      "image": "https://picsum.photos/seed/kaist/400/300",
+      "image": "https://i.namu.wiki/i/_Jc16-nm9gTO7NiTM76s1iRWT9DziTlbziubou_KrNwjTbIi9M_fBIkGBfXy5-_BowzN2OCi_0pWTTpusLkldYZJiurGza2pxTyMHduGfPBFBe7DWryQnwPhFlTx-tKNJO3gomn6HNy_fUNoWs4Njg.webp",
       "ranking": "Top 100 Dunia",
       "location": "Daejeon",
       "description": "Institut teknologi terkemuka dengan fokus pada sains dan engineering"
     },
     {
-      "id": 3,
+      "id": "korea",
       "name": "Korea University",
-      "image": "https://picsum.photos/seed/ku/400/300",
+      "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201304011055539700_B.jpg&fileStorePath=univStorePath",
       "ranking": "Top 150 Dunia",
       "location": "Seoul",
       "description": "Salah satu universitas tertua dengan reputasi internasional yang kuat"
     },
     {
-      "id": 4,
+      "id": "yonsei",
       "name": "Yonsei University",
-      "image": "https://picsum.photos/seed/yonsei/400/300",
+      "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507301141367940_B.jpg&fileStorePath=univStorePath",
       "ranking": "Top 150 Dunia",
       "location": "Seoul",
       "description": "Universitas swasta terkemuka dengan program bisnis dan kedokteran yang sangat baik"
     },
     {
-      "id": 5,
+      "id": "sungkyunkwan",
       "name": "Sungkyunkwan University",
-      "image": "https://picsum.photos/seed/skku/400/300",
+      "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202402161027488690_B.png&fileStorePath=univStorePath",
       "ranking": "Top 200 Dunia",
       "location": "Seoul",
       "description": "Universitas bersejarah dengan program akademik yang komprehensif"
     },
     {
-      "id": 6,
+      "id": "hanyang",
       "name": "Hanyang University",
-      "image": "https://picsum.photos/seed/hanyang/400/300",
+      "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003130500198120_B.jpg&fileStorePath=univStorePath",
       "ranking": "Top 250 Dunia",
       "location": "Seoul",
       "description": "Terkenal dengan program teknik dan teknologi yang unggul"

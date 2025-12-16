@@ -14,6 +14,5 @@ export default {
 
   mounted() {
     this.log('info', 'Ujian Bahasa page loaded');
-    window.scrollTo(0, 0);
   }
 };

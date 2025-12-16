@@ -138,22 +138,6 @@ export default {
       }
     },
 
-    navigateTo(route, params) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route, params);
-      } else {
-        let hash = `#/${route}`;
-        if (params) {
-          const queryString = Object.entries(params)
-            .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
-            .join('&');
-          hash += `?${queryString}`;
-        }
-        window.location.hash = hash;
-      }
-      window.scrollTo(0, 0);
-    },
-
     viewEventDetail(eventId) {
       this.navigateTo('berita-detail', { id: eventId });
     },
@@ -167,18 +151,11 @@ export default {
       this.newsletterMessage = '';
 
       try {
-        const response = await fetch('/api/mailinglist', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            email: this.newsletterEmail,
-            source: 'berita-newsletter'
-          })
+        // Use ViewLogic's $api for API calls
+        const data = await this.$api.post('/api/mailinglist', {
+          email: this.newsletterEmail,
+          source: 'berita-newsletter'
         });
-
-        const data = await response.json();
 
         if (data.success) {
           this.newsletterSuccess = true;
@@ -221,7 +198,5 @@ export default {
     } finally {
       this.loading = false;
     }
-
-    window.scrollTo(0, 0);
   }
 };

@@ -14,6 +14,5 @@ export default {
 
   mounted() {
     this.log('info', 'Akomodasi page loaded');
-    window.scrollTo(0, 0);
   }
 };

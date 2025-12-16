@@ -194,19 +194,11 @@ export default {
       this.inquirySubmitting = true;
 
       try {
-        // Call API endpoint
-        const response = await fetch('/api/request', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            type: 'inquiry',
-            ...this.inquiryForm
-          })
+        // Call API endpoint using ViewLogic's $api
+        const data = await this.$api.post('/api/request', {
+          type: 'inquiry',
+          ...this.inquiryForm
         });
-
-        const data = await response.json();
 
         if (data.success) {
           this.log('info', 'Inquiry submitted successfully');
@@ -274,19 +266,11 @@ export default {
       this.seminarSubmitting = true;
 
       try {
-        // Call API endpoint
-        const response = await fetch('/api/request', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            type: 'seminar',
-            ...this.seminarForm
-          })
+        // Call API endpoint using ViewLogic's $api
+        const data = await this.$api.post('/api/request', {
+          type: 'seminar',
+          ...this.seminarForm
         });
-
-        const data = await response.json();
 
         if (data.success) {
           this.log('info', 'Seminar registration submitted successfully');
@@ -330,20 +314,10 @@ export default {
     openLiveChat() {
       // Integrate with actual live chat service (e.g., Tawk.to, Zendesk)
       alert('Fitur Live Chat akan segera hadir! Saat ini silakan gunakan WhatsApp atau kirim pertanyaan melalui formulir 1:1 Inquiry.');
-    },
-
-    navigateTo(route) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route);
-      } else {
-        window.location.hash = `#/${route}`;
-      }
-      window.scrollTo(0, 0);
     }
   },
 
   mounted() {
     this.log('info', 'Konsultasi page loaded');
-    window.scrollTo(0, 0);
   }
 };

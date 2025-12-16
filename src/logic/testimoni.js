@@ -243,15 +243,6 @@ export default {
       } else {
         alert('Link komunitas akan segera tersedia. Hubungi kami untuk informasi lebih lanjut.');
       }
-    },
-
-    navigateTo(route) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route);
-      } else {
-        window.location.hash = `#/${route}`;
-      }
-      window.scrollTo(0, 0);
     }
   },
 
@@ -283,7 +274,5 @@ export default {
     } finally {
       this.loading = false;
     }
-
-    window.scrollTo(0, 0);
   }
 };

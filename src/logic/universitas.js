@@ -163,11 +163,7 @@ export default {
       this.currentPage = 1;
     },
     viewUniversityDetail(universityId) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(`universitas-detail?id=${universityId}`);
-      } else {
-        window.location.hash = `#/universitas-detail?id=${universityId}`;
-      }
+      this.navigateTo('universitas-detail', { id: universityId });
       window.scrollTo(0, 0);
     },
     toggleFavorite(universityId) {
@@ -185,14 +181,6 @@ export default {
     },
     formatCurrency(amount) {
       return '₩' + amount.toLocaleString('id-ID');
-    },
-    navigateTo(route) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route);
-      } else {
-        window.location.hash = `#/${route}`;
-      }
-      window.scrollTo(0, 0);
     }
   },
   async mounted() {
@@ -219,6 +207,61 @@ export default {
       this.loading = false;
     }
 
-    window.scrollTo(0, 0);
+    // Apply search parameters from home page if provided
+    // Use ViewLogic's getParam for URL parameters
+    const kota = this.getParam('kota');
+    const jenjang = this.getParam('jenjang');
+    const jurusan = this.getParam('jurusan');
+
+    this.log('info', 'URL parameters:', { kota, jenjang, jurusan });
+
+    if (kota) {
+      // Map home page city names to actual region values
+      const cityMapping = {
+        'seoul': 'Seoul',
+        'busan': 'Busan',
+        'daegu': 'Daegu',
+        'incheon': 'Incheon',
+        'gwangju': 'Gwangju',
+        'daejeon': 'Daejeon',
+        'ulsan': 'Ulsan',
+        'sejong': 'Sejong',
+        'gyeonggi': 'Gyeonggi-do',
+        'gangwon': 'Gangwon-do',
+        'chungcheongbuk': 'Chungcheongbuk-do',
+        'chungcheongnam': 'Chungcheongnam-do',
+        'jeollabuk': 'Jeollabuk-do',
+        'jeollanam': 'Jeollanam-do',
+        'gyeongsangbuk': 'Gyeongsangbuk-do',
+        'gyeongsangnam': 'Gyeongsangnam-do',
+        'jeju': 'Jeju-do'
+      };
+      const region = cityMapping[kota.toLowerCase()] || kota;
+      if (this.regions.includes(region)) {
+        this.filters.regions.push(region);
+        this.log('info', 'Applied region filter:', region);
+      }
+    }
+
+    if (jenjang) {
+      // Map home page degree level to actual values
+      const levelMapping = {
+        's1': 'S1 (Sarjana)',
+        's2': 'S2 (Magister)',
+        's3': 'S3 (Doktor)',
+        'd2': 'D2 (Diploma 2 Tahun)'
+      };
+      const level = levelMapping[jenjang.toLowerCase()] || jenjang;
+      if (this.degreeLevels.includes(level)) {
+        this.filters.levels.push(level);
+        this.log('info', 'Applied degree level filter:', level);
+      }
+    }
+
+    if (jurusan) {
+      // Use major as search term
+      this.quickSearch = jurusan;
+      this.log('info', 'Applied major search:', jurusan);
+    }
   }
 };

@@ -118,21 +118,6 @@ export default {
       this.loadEventData();
     },
 
-    navigateTo(route, params) {
-      if (window.router && window.router.navigateTo) {
-        window.router.navigateTo(route, params);
-      } else {
-        let hash = `#/${route}`;
-        if (params) {
-          const queryString = Object.entries(params)
-            .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
-            .join('&');
-          hash += `?${queryString}`;
-        }
-        window.location.hash = hash;
-      }
-    },
-
     async loadEventData() {
       try {
         this.loading = true;
@@ -173,9 +158,8 @@ export default {
   },
 
   async mounted() {
-    // Get event ID from URL parameters
-    const urlParams = new URLSearchParams(window.location.hash.split('?')[1]);
-    this.eventId = urlParams.get('id');
+    // Get event ID from URL parameters using ViewLogic's getParam
+    this.eventId = this.getParam('id');
 
     if (!this.eventId) {
       this.error = 'Event ID tidak ditemukan di URL.';
@@ -184,6 +168,5 @@ export default {
     }
 
     await this.loadEventData();
-    window.scrollTo(0, 0);
   }
 };

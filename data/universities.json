@@ -117,8 +117,8 @@
     "location": "Gyeongsangbuk-do",
     "type": "Universitas Swasta",
     "description": "Politeknik di Gyeongsangbuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100500_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201802210235240010_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -135,7 +135,8 @@
       "website": "https://www.hosan.ac.kr",
       "phone": "053-850-8000",
       "address": "경상북도 경산시 하양읍 대경로105길 19 (부호리, 호산대학교)"
-    }
+    },
+    "univCd": "100500"
   },
   {
     "id": "korea-national-agriculture-fisheries",
@@ -1760,8 +1761,8 @@
     "location": "Busan",
     "type": "Universitas Swasta",
     "description": "Politeknik di Busan, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 3000000,
     "tuitionMax": 6000000,
     "hasScholarship": true,
@@ -1778,7 +1779,8 @@
       "website": "https://bist.ac.kr",
       "phone": "051-334-6666",
       "address": "부산광역시 북구 시랑로132번길 88 (구포동, 부산과학기술대학교)"
-    }
+    },
+    "univCd": "100188"
   },
   {
     "id": "busan-health",
@@ -4331,8 +4333,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100115_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202406250525140450_B.JPG&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -4351,7 +4353,8 @@
       "website": "https://www.nsu.ac.kr",
       "phone": "041-580-2513",
       "address": "충청남도 천안시 서북구 성환읍 대학로 91 (매주리, 남서울대학교)"
-    }
+    },
+    "univCd": "100115"
   },
   {
     "id": "dankook",
@@ -4360,8 +4363,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100119_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705100339232950_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -4380,7 +4383,8 @@
       "website": "https://www.dankook.ac.kr",
       "phone": "1899-3700",
       "address": "경기도 용인시 수지구 죽전로 152 (죽전동, 단국대학교)"
-    }
+    },
+    "univCd": "100119"
   },
   {
     "id": "dankook",
@@ -4389,8 +4393,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100119_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201705100339232950_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -4409,7 +4413,8 @@
       "website": "https://www.dankook.ac.kr",
       "phone": "1899-3700",
       "address": "충청남도 천안시 동남구 단대로 119 (안서동, 단국대학교천안캠퍼스)"
-    }
+    },
+    "univCd": "100119"
   },
   {
     "id": "daegu-catholic",
@@ -4806,8 +4811,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100147_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201207300752516400_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100146_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403210152349280_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -4827,7 +4832,7 @@
       "phone": "02-2260-3114",
       "address": "서울특별시 중구 필동로1길 30 (장충동2가, 동국대학교)"
     },
-    "univCd": "100147"
+    "univCd": "100146"
   },
   {
     "id": "dongguk",
@@ -5106,8 +5111,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100170_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202505260205156240_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -5126,7 +5131,8 @@
       "website": "https://www.mju.ac.kr",
       "phone": "1577-0020",
       "address": "경기도 용인시 처인구 명지로 116 (남동, 명지대학교용인캠퍼스)"
-    }
+    },
+    "univCd": "100170"
   },
   {
     "id": "myongji-social-science-campus",
@@ -5135,8 +5141,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100170_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202505260205156240_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -5155,7 +5161,8 @@
       "website": "https://www.mju.ac.kr",
       "phone": "1577-0020",
       "address": "서울특별시 서대문구 거북골로 34 (남가좌동, 명지대학교)"
-    }
+    },
+    "univCd": "100170"
   },
   {
     "id": "mokwon",
@@ -5464,8 +5471,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -5484,7 +5491,8 @@
       "website": "https://www.smu.ac.kr",
       "phone": "02-2287-5114",
       "address": "서울특별시 종로구 홍지문2길 20 (홍지동, 상명대학교)"
-    }
+    },
+    "univCd": "100202"
   },
   {
     "id": "sangmyung",
@@ -5493,8 +5501,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -5513,7 +5521,8 @@
       "website": "https://www.smuc.ac.kr",
       "phone": "041-550-5114",
       "address": "충청남도 천안시 동남구 상명대길 31 (안서동, 상명대학교천안캠퍼스)"
-    }
+    },
+    "univCd": "100202"
   },
   {
     "id": "sangji",
@@ -6479,8 +6488,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6499,7 +6508,8 @@
       "website": "https://www.shinhan.ac.kr/",
       "phone": "031-870-2900",
       "address": "경기도 동두천시 벌마들로40번길 30 (상패동, 신한대학교)"
-    }
+    },
+    "univCd": "100276"
   },
   {
     "id": "shinhan",
@@ -6508,8 +6518,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6528,7 +6538,8 @@
       "website": "https://www.shinhan.ac.kr/",
       "phone": "031-870-3114",
       "address": "경기도 의정부시 호암로 95 (호원동, 신한대학교)"
-    }
+    },
+    "univCd": "100276"
   },
   {
     "id": "acts",
@@ -6597,8 +6608,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100284_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205261157017760_B.png&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6617,7 +6628,8 @@
       "website": "https://www.anyang.ac.kr/main/index.do",
       "phone": "031-467-0700",
       "address": "경기도 안양시 만안구 삼덕로37번길 22 (안양동, 안양대학교)"
-    }
+    },
+    "univCd": "100284"
   },
   {
     "id": "anyang",
@@ -6626,8 +6638,8 @@
     "location": "Incheon",
     "type": "Universitas Swasta",
     "description": "Universitas di Incheon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100284_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202205261157017760_B.png&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6646,7 +6658,8 @@
       "website": "https://www.anyang.ac.kr/main/index.do",
       "phone": "032-930-6000",
       "address": "인천광역시 강화군 불은면 중앙로 602-14 (삼성리, 안양대학교강화캠퍼스)"
-    }
+    },
+    "univCd": "100284"
   },
   {
     "id": "yonsei",
@@ -6655,8 +6668,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100289_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906270413103950_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100290_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201507301141367940_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6676,7 +6689,7 @@
       "phone": "1599-1885",
       "address": "서울특별시 서대문구 연세로 50 (신촌동, 연세대학교)"
     },
-    "univCd": "100289"
+    "univCd": "100290"
   },
   {
     "id": "yonsei-mirae-campus",
@@ -6775,8 +6788,8 @@
     "location": "Gyeongsangnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeongsangnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6795,7 +6808,8 @@
       "website": "https://www.ysu.ac.kr",
       "phone": "055-380-9114",
       "address": "경상남도 양산시 주남로 288 (주남동)"
-    }
+    },
+    "univCd": "100298"
   },
   {
     "id": "youngsan",
@@ -6804,8 +6818,8 @@
     "location": "Busan",
     "type": "Universitas Swasta",
     "description": "Universitas di Busan, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -6824,7 +6838,8 @@
       "website": "https://www.ysu.ac.kr",
       "phone": "051-540-7000",
       "address": "부산광역시 해운대구 반송순환로 142 (반송동)"
-    }
+    },
+    "univCd": "100298"
   },
   {
     "id": "youngsan-seon-studies",
@@ -7040,8 +7055,8 @@
     "location": "Daejeon",
     "type": "Universitas Swasta",
     "description": "Universitas di Daejeon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100313_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906271104261290_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7060,7 +7075,8 @@
       "website": "https://www.wsu.ac.kr",
       "phone": "042-630-9652",
       "address": "대전광역시 동구 동대전로 171 (자양동, 우송정보대학)"
-    }
+    },
+    "univCd": "100313"
   },
   {
     "id": "ulsan-national-science-technology",
@@ -7099,8 +7115,8 @@
     "location": "Ulsan",
     "type": "Universitas Swasta",
     "description": "Universitas di Ulsan, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100318_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201504020522076590_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7119,7 +7135,8 @@
       "website": "https://www.ulsan.ac.kr",
       "phone": "052-277-3101",
       "address": "울산광역시 남구 대학로 93 (무거동, 울산대학교)"
-    }
+    },
+    "univCd": "100318"
   },
   {
     "id": "wonkwang",
@@ -7217,8 +7234,8 @@
     "location": "Daejeon",
     "type": "Universitas Swasta",
     "description": "Universitas di Daejeon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201303040322169940_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7237,7 +7254,8 @@
       "website": "https://www.eulji.ac.kr",
       "phone": "1899-0001",
       "address": "대전광역시 중구 계룡로771번길 77 (목동, 을지대학교대전캠퍼스)"
-    }
+    },
+    "univCd": "100330"
   },
   {
     "id": "eulji",
@@ -7246,8 +7264,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201303040322169940_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7266,7 +7284,8 @@
       "website": "https://www.eulji.ac.kr",
       "phone": "031-740-7424",
       "address": "경기도 성남시 수정구 산성대로 553 (양지동, 을지대학교)"
-    }
+    },
+    "univCd": "100330"
   },
   {
     "id": "eulji",
@@ -7275,8 +7294,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201303040322169940_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7295,7 +7314,8 @@
       "website": "https://www.eulji.ac.kr",
       "phone": "031-951-3611",
       "address": "경기도 의정부시 동일로 712 (금오동)"
-    }
+    },
+    "univCd": "100330"
   },
   {
     "id": "ewha-womans",
@@ -7334,8 +7354,8 @@
     "location": "Gyeongsangnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeongsangnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100334_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110090458491730_B.JPG&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7354,7 +7374,8 @@
       "website": "https://www.inje.ac.kr",
       "phone": "055-334-7111",
       "address": "경상남도 김해시 인제로 197 (어방동, 인제대학교)"
-    }
+    },
+    "univCd": "100334"
   },
   {
     "id": "inje",
@@ -7363,8 +7384,8 @@
     "location": "Busan",
     "type": "Universitas Swasta",
     "description": "Universitas di Busan, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100334_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202110090458491730_B.JPG&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7383,7 +7404,8 @@
       "website": "https://www.inje.ac.kr",
       "phone": "051-894-3421",
       "address": "부산광역시 부산진구 복지로 75 (개금동, 백병원)"
-    }
+    },
+    "univCd": "100334"
   },
   {
     "id": "incheon-catholic",
@@ -7392,8 +7414,8 @@
     "location": "Incheon",
     "type": "Universitas Swasta",
     "description": "Universitas di Incheon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7412,7 +7434,8 @@
       "website": "https://www.iccu.ac.kr",
       "phone": "032-930-8000",
       "address": "인천광역시 강화군 양도면 고려왕릉로 53-1 (도장리, 인천가톨릭대학교)"
-    }
+    },
+    "univCd": "100336"
   },
   {
     "id": "incheon-catholic",
@@ -7421,8 +7444,8 @@
     "location": "Incheon",
     "type": "Universitas Swasta",
     "description": "Universitas di Incheon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7441,7 +7464,8 @@
       "website": "https://www.iccu.ac.kr",
       "phone": "032-830-7000",
       "address": "인천광역시 연수구 송도문화로120번길 20 (송도동)"
-    }
+    },
+    "univCd": "100336"
   },
   {
     "id": "incheon-national",
@@ -7540,8 +7564,8 @@
     "location": "Gwangju",
     "type": "Universitas Negeri",
     "description": "Universitas di Gwangju, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100347_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202311080128420610_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7561,7 +7585,7 @@
       "phone": "062-530-5114",
       "address": "광주광역시 북구 용봉로 45 (용봉동, 전남대학교)"
     },
-    "univCd": "100347"
+    "univCd": "100348"
   },
   {
     "id": "chonnam-national",
@@ -7570,8 +7594,8 @@
     "location": "Jeollanam-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Jeollanam-do, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100347_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202311080128420610_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7591,7 +7615,7 @@
       "phone": "061-659-6114",
       "address": "전라남도 여수시 대학로 50 (둔덕동, 전남대학교여수캠퍼스)"
     },
-    "univCd": "100347"
+    "univCd": "100348"
   },
   {
     "id": "jeonbuk-national",
@@ -7838,8 +7862,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7858,7 +7882,8 @@
       "website": "https://www.cau.ac.kr",
       "phone": "02-820-5114",
       "address": "서울특별시 동작구 흑석로 84 (흑석동, 중앙대학교)"
-    }
+    },
+    "univCd": "100368"
   },
   {
     "id": "chung-ang",
@@ -7867,8 +7892,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -7887,7 +7912,8 @@
       "website": "https://www.cau.ac.kr",
       "phone": "031-670-3114",
       "address": "경기도 안성시 대덕면 서동대로 4726 (내리, 중앙대학교)"
-    }
+    },
+    "univCd": "100368"
   },
   {
     "id": "joong-ang-sangha",
@@ -8702,8 +8728,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100427_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202211160440320680_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -8723,7 +8749,7 @@
       "phone": "02-2173-2114",
       "address": "서울특별시 동대문구 이문로 107 (이문동, 한국외국어대학교)"
     },
-    "univCd": "100427"
+    "univCd": "100428"
   },
   {
     "id": "korea-national-cultural-heritage",
@@ -9089,8 +9115,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100484_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202403260953100540_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9109,7 +9135,8 @@
       "website": "https://www.hansung.ac.kr",
       "phone": "02-760-4231",
       "address": "서울특별시 성북구 삼선교로16길 116 (삼선동2가, 한성대학교)"
-    }
+    },
+    "univCd": "100484"
   },
   {
     "id": "hansei",
@@ -9178,8 +9205,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100487_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803090618040420_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100488_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202003130500198120_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9199,7 +9226,7 @@
       "phone": "02-2220-0114",
       "address": "서울특별시 성동구 왕십리로 222 (사근동, 한양대학교)"
     },
-    "univCd": "100487"
+    "univCd": "100488"
   },
   {
     "id": "hanyang-erica-campus",
@@ -9238,8 +9265,8 @@
     "location": "Jeollabuk-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Jeollabuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9258,7 +9285,8 @@
       "website": "https://www.hanil.ac.kr",
       "phone": "063-230-5408",
       "address": "전북특별자치도 완주군 상관면 왜목로 726-15 (신리, 한일장신대학교)"
-    }
+    },
+    "univCd": "100492"
   },
   {
     "id": "hanzhong",
@@ -9446,8 +9474,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9466,7 +9494,8 @@
       "website": "https://www.hongik.ac.kr/",
       "phone": "02-320-1114",
       "address": "서울특별시 마포구 와우산로 94 (상수동, 홍익대학교)"
-    }
+    },
+    "univCd": "100504"
   },
   {
     "id": "hongik",
@@ -9475,8 +9504,8 @@
     "location": "Sejong",
     "type": "Universitas Swasta",
     "description": "Universitas di Sejong, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9495,7 +9524,8 @@
       "website": "https://www.hongik.ac.kr",
       "phone": "044-860-2114",
       "address": "세종특별자치시 조치원읍 세종로 2639 (신안리, 홍익대학교세종캠퍼스)"
-    }
+    },
+    "univCd": "100504"
   },
   {
     "id": "hwasung-medi-science",
@@ -9788,8 +9818,8 @@
     "location": "Gyeongsangnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeongsangnam-do, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100002_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202105210113329140_B.JPG&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9809,7 +9839,7 @@
       "phone": "055-330-1000",
       "address": "경상남도 김해시 삼계로 208 (삼계동)"
     },
-    "univCd": "100002"
+    "univCd": "100003"
   },
   {
     "id": "gachon",
@@ -9848,8 +9878,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100007_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE202004230327539740_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9868,7 +9898,8 @@
       "website": "https://www.cku.ac.kr",
       "phone": "033-649-7114",
       "address": "강원특별자치도 강릉시 범일로579번길 24 (내곡동)"
-    }
+    },
+    "univCd": "100007"
   },
   {
     "id": "catholic-kkottongnae",
@@ -9907,8 +9938,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9927,7 +9958,8 @@
       "website": "https://www.catholic.ac.kr",
       "phone": "02-2164-4114",
       "address": "경기도 부천시 원미구 지봉로 43 (역곡동, 가톨릭대학교성심교정)"
-    }
+    },
+    "univCd": "100009"
   },
   {
     "id": "catholic-korea",
@@ -9936,8 +9968,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9956,7 +9988,8 @@
       "website": "https://www.catholic.ac.kr",
       "phone": "02-3147-8114",
       "address": "서울특별시 서초구 반포대로 222 (반포동, 가톨릭대학교성의교정)"
-    }
+    },
+    "univCd": "100009"
   },
   {
     "id": "catholic-korea",
@@ -9965,8 +9998,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -9985,7 +10018,8 @@
       "website": "https://www.catholic.ac.kr",
       "phone": "02-740-9705",
       "address": "서울특별시 종로구 창경궁로 296-12 (혜화동, 가톨릭대학교성신교정)"
-    }
+    },
+    "univCd": "100009"
   },
   {
     "id": "methodist-ological",
@@ -10084,8 +10118,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10104,7 +10138,8 @@
       "website": "https://www.kangwon.ac.kr/",
       "phone": "033-250-6114",
       "address": "강원특별자치도 춘천시 강원대학길 1 (효자동)"
-    }
+    },
+    "univCd": "100021"
   },
   {
     "id": "kangwon-national",
@@ -10113,8 +10148,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10133,7 +10168,8 @@
       "website": "https://www.kangwon.ac.kr/",
       "phone": "033-570-6114",
       "address": "강원특별자치도 삼척시 중앙로 346 (교동)"
-    }
+    },
+    "univCd": "100021"
   },
   {
     "id": "konkuk",
@@ -10142,8 +10178,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100026_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202509040228352540_B.png&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10163,7 +10199,7 @@
       "phone": "02-450-3114",
       "address": "서울특별시 광진구 능동로 120 (화양동, 건국대학교)"
     },
-    "univCd": "100026"
+    "univCd": "100027"
   },
   {
     "id": "konkuk",
@@ -10202,8 +10238,8 @@
     "location": "Chungcheongnam-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Chungcheongnam-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100029_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504030556007350_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10222,7 +10258,8 @@
       "website": "https://www.konyang.ac.kr",
       "phone": "041-730-5114",
       "address": "충청남도 논산시 대학로 121 (내동, 건양대학교)"
-    }
+    },
+    "univCd": "100029"
   },
   {
     "id": "konyang",
@@ -10231,8 +10268,8 @@
     "location": "Daejeon",
     "type": "Universitas Swasta",
     "description": "Universitas di Daejeon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100029_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202504030556007350_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10251,7 +10288,8 @@
       "website": "https://www.konyang.ac.kr",
       "phone": "041-730-5114",
       "address": "대전광역시 서구 관저동로 158 (관저동, 건양대학교병원)"
-    }
+    },
+    "univCd": "100029"
   },
   {
     "id": "kyonggi",
@@ -10260,8 +10298,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100034_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507151112294220_B.JPG&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10280,7 +10318,8 @@
       "website": "https://www.kyonggi.ac.kr",
       "phone": "031-249-9114",
       "address": "경기도 수원시 영통구 광교산로 154-42 (이의동, 경기대학교)"
-    }
+    },
+    "univCd": "100034"
   },
   {
     "id": "kyonggi",
@@ -10289,8 +10328,8 @@
     "location": "Seoul",
     "type": "Universitas Swasta",
     "description": "Universitas di Seoul, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100034_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=TB_SSD_UNIV_DATA_FILE_I202507151112294220_B.JPG&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10309,7 +10348,8 @@
       "website": "https://www.kyonggi.ac.kr",
       "phone": "02-390-5201",
       "address": "서울특별시 서대문구 경기대로9길 24 (충정로2가, 경기대학교)"
-    }
+    },
+    "univCd": "100034"
   },
   {
     "id": "gyeongnam-national-science-technology",
@@ -10378,8 +10418,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10398,7 +10438,8 @@
       "website": "https://www.kduniv.ac.kr",
       "phone": "033-631-2000",
       "address": "강원특별자치도 고성군 토성면 봉포4길 46"
-    }
+    },
+    "univCd": "100042"
   },
   {
     "id": "kyungdong",
@@ -10407,8 +10448,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10427,7 +10468,8 @@
       "website": "https://www.kduniv.ac.kr",
       "phone": "033-632-6551",
       "address": "강원특별자치도 속초시 도리원길 5 (노학동)"
-    }
+    },
+    "univCd": "100042"
   },
   {
     "id": "kyungdong",
@@ -10436,8 +10478,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10456,7 +10498,8 @@
       "website": "https://www.kduniv.ac.kr",
       "phone": "033-738-1200",
       "address": "강원특별자치도 원주시 문막읍 견훤로 815"
-    }
+    },
+    "univCd": "100042"
   },
   {
     "id": "kyungdong",
@@ -10465,8 +10508,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10485,7 +10528,8 @@
       "website": "https://www.kduniv.ac.kr",
       "phone": "031-869-9900",
       "address": "경기도 양주시 경동대학로 27 (고암동)"
-    }
+    },
+    "univCd": "100042"
   },
   {
     "id": "kyungpook-national",
@@ -10614,8 +10658,8 @@
     "location": "Gyeongsangbuk-do",
     "type": "Universitas Swasta",
     "description": "Universitas di Gyeongsangbuk-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10634,7 +10678,8 @@
       "website": "https://www.ikw.ac.kr",
       "phone": "054-479-1114",
       "address": "경상북도 구미시 산동면 강동로 730 (인덕리, 경운대학교)"
-    }
+    },
+    "univCd": "100054"
   },
   {
     "id": "gyeongin-national-education",
@@ -10643,8 +10688,8 @@
     "location": "Incheon",
     "type": "Universitas Negeri",
     "description": "Universitas di Incheon, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10663,7 +10708,8 @@
       "website": "https://www.ginue.ac.kr",
       "phone": "032-540-1114",
       "address": "인천광역시 계양구 계산로 62 (계산동, 경인교육대학교)"
-    }
+    },
+    "univCd": "100056"
   },
   {
     "id": "gyeongin-national-education",
@@ -10672,8 +10718,8 @@
     "location": "Gyeonggi-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gyeonggi-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10692,7 +10738,8 @@
       "website": "https://www.ginue.ac.kr",
       "phone": "031-470-6114",
       "address": "경기도 안양시 만안구 삼막로 155 (석수동, 경인교육대학교)"
-    }
+    },
+    "univCd": "100056"
   },
   {
     "id": "kyungil",
@@ -10821,8 +10868,8 @@
     "location": "Sejong",
     "type": "Universitas Swasta",
     "description": "Universitas di Sejong, Korea",
-    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100071_logo.jpg",
-    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201803090539520440_B.jpg&fileStorePath=univStorePath",
+    "logo": "https://studyinkorea.go.kr/public/new/univ_logo/100070_logo.jpg",
+    "image": "https://studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201304011055539700_B.jpg&fileStorePath=univStorePath",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -10842,7 +10889,7 @@
       "phone": "044-860-1114",
       "address": "세종특별자치시 조치원읍 세종로 2511 (서창리, 고려대학교세종캠퍼스)"
     },
-    "univCd": "100071"
+    "univCd": "100070"
   },
   {
     "id": "kosin",
@@ -11121,8 +11168,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -11141,7 +11188,8 @@
       "website": "https://www.gwnu.ac.kr",
       "phone": "033-642-7001",
       "address": "강원특별자치도 강릉시 죽헌길 7 (지변동)"
-    }
+    },
+    "univCd": "100018"
   },
   {
     "id": "gangneung-wonju-national",
@@ -11150,8 +11198,8 @@
     "location": "Gangwon-do",
     "type": "Universitas Negeri",
     "description": "Universitas di Gangwon-do, Korea",
-    "logo": "🎓",
-    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+    "logo": "https://studyinkorea.go.kr/public/new/images/sub/logo.png",
+    "image": "https://studyinkorea.go.kr/public/new/images/img_univ2.png",
     "tuitionMin": 4000000,
     "tuitionMax": 8000000,
     "hasScholarship": true,
@@ -11170,7 +11218,8 @@
       "website": "https://www.gwnu.ac.kr",
       "phone": "033-760-8020",
       "address": "강원특별자치도 원주시 흥업면 남원로 150"
-    }
+    },
+    "univCd": "100018"
   },
   {
     "id": "gyeongguk-national",

@@ -12,8 +12,11 @@ def save_json(filepath, data):
 
 def normalize_name(name):
     """Normalize university name for matching"""
+    import re
     # Remove common suffixes and whitespace
     name = name.strip()
+    # Remove parentheses and their contents (e.g., "호산대학교(본교)" -> "호산대학교")
+    name = re.sub(r'\([^)]*\)', '', name)
     name = name.replace(' ', '')
     return name.lower()
 

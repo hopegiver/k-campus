@@ -3,7 +3,10 @@ export default {
   pageTitle: 'Detail Universitas - K-Campus',
   data() {
     return {
-      universityId: 'snu',
+      universityId: null,
+      university: null,
+      loading: true,
+      error: null,
       isFavorited: false,
       activeTab: 'basic',
       tabs: [
@@ -16,7 +19,7 @@ export default {
         { id: 'language', label: 'Program Bahasa', icon: '🗣️' }
       ],
       universityData: {
-        'snu': {
+        'seoul-national': {
           name: 'Seoul National University',
           nameKo: '서울대학교',
           logo: 'https://images.unsplash.com/photo-1562774053-701939374585?w=100&h=100&fit=crop',
@@ -382,12 +385,46 @@ export default {
       }
     };
   },
-  computed: {
-    university() {
-      return this.universityData[this.universityId] || null;
-    }
-  },
+  computed: {},
   methods: {
+    async loadUniversityData() {
+      if (!this.universityId) {
+        this.error = 'University ID not provided';
+        this.loading = false;
+        return;
+      }
+
+      try {
+        this.loading = true;
+        this.error = null;
+
+        // Try to load from individual JSON file first
+        const response = await fetch(`data/universities/${this.universityId}.json`);
+
+        if (response.ok) {
+          this.university = await response.json();
+          this.log('info', 'Loaded university data from file:', this.universityId);
+        } else {
+          // Fallback to hardcoded data
+          this.university = this.universityData[this.universityId] || null;
+
+          if (!this.university) {
+            this.error = `University "${this.universityId}" not found`;
+            this.log('error', 'University not found:', this.universityId);
+          } else {
+            this.log('info', 'Loaded university data from fallback:', this.universityId);
+          }
+        }
+      } catch (error) {
+        this.log('error', 'Error loading university data:', error);
+        this.error = 'Failed to load university data';
+
+        // Try fallback
+        this.university = this.universityData[this.universityId] || null;
+      } finally {
+        this.loading = false;
+      }
+    },
     getLevelLabel(level) {
       const labels = {
         'bachelor': 'S1 (Sarjana)',
@@ -428,19 +465,19 @@ export default {
       localStorage.setItem('favoriteUniversities', JSON.stringify(favorites));
     }
   },
-  mounted() {
+  async mounted() {
     // Get university ID from URL
     const urlParams = new URLSearchParams(window.location.hash.split('?')[1]);
-    const requestedId = urlParams.get('id') || '';
+    this.universityId = urlParams.get('id') || 'seoul-national';
 
-    // 모든 대학에 대해 서울대 정보를 표시
-    this.universityId = 'snu';
+    this.log('info', 'Loading university detail:', this.universityId);
+
+    // Load university data
+    await this.loadUniversityData();
 
     // Check if favorited
     const favorites = JSON.parse(localStorage.getItem('favoriteUniversities') || '[]');
     this.isFavorited = favorites.includes(this.universityId);
-
-    this.log('info', 'University detail loaded (showing SNU for all):', requestedId);
 
     window.scrollTo(0, 0);
   }

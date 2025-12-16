@@ -1,0 +1,91 @@
+{
+  "id": "chunnam-techno",
+  "name": "Chunnam Techno University",
+  "nameKo": "전남과학대학교",
+  "logo": "🎓",
+  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "location": "전라남도",
+  "region": "전라남도",
+  "founded": "3322",
+  "type": "Universitas Swasta",
+  "ranking": "",
+  "totalStudents": "",
+  "internationalStudents": "",
+  "totalFaculty": "",
+  "totalPrograms": "",
+  "isAccredited": true,
+  "hasScholarship": true,
+  "description": "Politeknik di 전라남도, Korea",
+  "longDescription": "Chunnam Techno University adalah institusi pendidikan tinggi yang berlokasi di 전라남도, Korea Selatan. Didirikan pada tahun 3322, universitas ini menawarkan berbagai program studi berkualitas.",
+  "features": [
+    "Berlokasi di 전라남도, Korea",
+    "Fasilitas kampus modern",
+    "Program untuk mahasiswa internasional"
+  ],
+  "facilities": [
+    "Perpustakaan",
+    "Laboratorium",
+    "Fasilitas olahraga"
+  ],
+  "contact": {
+    "email": "admission@cntu.ac.kr",
+    "phone": "061-360-5000",
+    "website": "https://www.cntu.ac.kr",
+    "address": "전라남도 곡성군 옥과면 대학로 113 (옥과리)"
+  },
+  "applicationFee": 80000,
+  "requiredDocuments": [
+    "Application Form",
+    "Passport Copy",
+    "Academic Transcripts",
+    "Diploma/Graduation Certificate",
+    "Letter of Recommendation",
+    "Personal Statement",
+    "Language Proficiency (TOPIK/TOEFL/IELTS)"
+  ],
+  "admission": {},
+  "tuitionByLevel": {},
+  "insuranceFee": 120000,
+  "dormitoryFee": 300000,
+  "programs": {
+    "diploma": {
+      "Various Programs": [
+        "To be updated with specific programs"
+      ]
+    }
+  },
+  "scholarships": [
+    {
+      "name": "Chunnam Techno University International Student Scholarship",
+      "coverage": "30% - 50% biaya kuliah",
+      "criteria": "Berdasarkan prestasi akademik"
+    }
+  ],
+  "dormitory": {
+    "description": "Chunnam Techno University menyediakan asrama untuk mahasiswa dengan berbagai pilihan tipe kamar.",
+    "capacity": "",
+    "priority": "Mahasiswa internasional tahun pertama mendapat prioritas",
+    "distance": "Di dalam atau dekat kampus",
+    "roomFacilities": [
+      "Tempat tidur dan meja belajar",
+      "Lemari pakaian",
+      "Wi-Fi"
+    ],
+    "commonFacilities": [
+      "Ruang belajar bersama",
+      "Laundry",
+      "Dapur bersama"
+    ],
+    "roomTypes": [
+      {
+        "type": "Double Room",
+        "price": 300000
+      },
+      {
+        "type": "Triple Room",
+        "price": 250000
+      }
+    ]
+  },
+  "languageInstitute": null
+}

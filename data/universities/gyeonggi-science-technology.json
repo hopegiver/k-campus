@@ -1,0 +1,91 @@
+{
+  "id": "gyeonggi-science-technology",
+  "name": "Gyeonggi University Of Science And Technology",
+  "nameKo": "경기과학기술대학교",
+  "logo": "🎓",
+  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "location": "경기도",
+  "region": "경기도",
+  "founded": "3612",
+  "type": "Universitas Swasta",
+  "ranking": "",
+  "totalStudents": "",
+  "internationalStudents": "",
+  "totalFaculty": "",
+  "totalPrograms": "",
+  "isAccredited": true,
+  "hasScholarship": true,
+  "description": "Politeknik di 경기도, Korea",
+  "longDescription": "Gyeonggi University Of Science And Technology adalah institusi pendidikan tinggi yang berlokasi di 경기도, Korea Selatan. Didirikan pada tahun 3612, universitas ini menawarkan berbagai program studi berkualitas.",
+  "features": [
+    "Berlokasi di 경기도, Korea",
+    "Fasilitas kampus modern",
+    "Program untuk mahasiswa internasional"
+  ],
+  "facilities": [
+    "Perpustakaan",
+    "Laboratorium",
+    "Fasilitas olahraga"
+  ],
+  "contact": {
+    "email": "admission@gtec.ac.kr",
+    "phone": "031-496-4532",
+    "website": "https://www.gtec.ac.kr",
+    "address": "경기도 시흥시 경기과기대로 269 (정왕동, 경기과학기술대학교)"
+  },
+  "applicationFee": 80000,
+  "requiredDocuments": [
+    "Application Form",
+    "Passport Copy",
+    "Academic Transcripts",
+    "Diploma/Graduation Certificate",
+    "Letter of Recommendation",
+    "Personal Statement",
+    "Language Proficiency (TOPIK/TOEFL/IELTS)"
+  ],
+  "admission": {},
+  "tuitionByLevel": {},
+  "insuranceFee": 120000,
+  "dormitoryFee": 300000,
+  "programs": {
+    "diploma": {
+      "Various Programs": [
+        "To be updated with specific programs"
+      ]
+    }
+  },
+  "scholarships": [
+    {
+      "name": "Gyeonggi University Of Science And Technology International Student Scholarship",
+      "coverage": "30% - 50% biaya kuliah",
+      "criteria": "Berdasarkan prestasi akademik"
+    }
+  ],
+  "dormitory": {
+    "description": "Gyeonggi University Of Science And Technology menyediakan asrama untuk mahasiswa dengan berbagai pilihan tipe kamar.",
+    "capacity": "",
+    "priority": "Mahasiswa internasional tahun pertama mendapat prioritas",
+    "distance": "Di dalam atau dekat kampus",
+    "roomFacilities": [
+      "Tempat tidur dan meja belajar",
+      "Lemari pakaian",
+      "Wi-Fi"
+    ],
+    "commonFacilities": [
+      "Ruang belajar bersama",
+      "Laundry",
+      "Dapur bersama"
+    ],
+    "roomTypes": [
+      {
+        "type": "Double Room",
+        "price": 300000
+      },
+      {
+        "type": "Triple Room",
+        "price": 250000
+      }
+    ]
+  },
+  "languageInstitute": null
+}

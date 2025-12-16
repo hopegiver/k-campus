@@ -1,0 +1,126 @@
+{
+  "id": "ulsan",
+  "name": "University Of Ulsan",
+  "nameKo": "울산대학교",
+  "logo": "🎓",
+  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "location": "울산광역시",
+  "region": "울산광역시",
+  "founded": "2564",
+  "type": "Universitas Swasta",
+  "ranking": "",
+  "totalStudents": "",
+  "internationalStudents": "",
+  "totalFaculty": "",
+  "totalPrograms": "",
+  "isAccredited": true,
+  "hasScholarship": true,
+  "description": "Universitas di 울산광역시, Korea",
+  "longDescription": "University Of Ulsan adalah institusi pendidikan tinggi yang berlokasi di 울산광역시, Korea Selatan. Didirikan pada tahun 2564, universitas ini menawarkan berbagai program studi berkualitas.",
+  "features": [
+    "Berlokasi di 울산광역시, Korea",
+    "Fasilitas kampus modern",
+    "Program untuk mahasiswa internasional"
+  ],
+  "facilities": [
+    "Perpustakaan",
+    "Laboratorium",
+    "Fasilitas olahraga"
+  ],
+  "contact": {
+    "email": "admission@ulsan.ac.kr",
+    "phone": "052-277-3101",
+    "website": "https://www.ulsan.ac.kr",
+    "address": "울산광역시 남구 대학로 93 (무거동, 울산대학교)"
+  },
+  "applicationFee": 80000,
+  "requiredDocuments": [
+    "Application Form",
+    "Passport Copy",
+    "Academic Transcripts",
+    "Diploma/Graduation Certificate",
+    "Letter of Recommendation",
+    "Personal Statement",
+    "Language Proficiency (TOPIK/TOEFL/IELTS)"
+  ],
+  "admission": {
+    "bachelor": [
+      "High School Diploma",
+      "TOPIK Level 3+",
+      "GPA 80/100 or above",
+      "Letter of Recommendation",
+      "Personal Statement"
+    ],
+    "master": [
+      "Bachelor's Degree",
+      "TOPIK Level 4+",
+      "GPA 3.0/4.0 or above",
+      "Letter of Recommendation",
+      "Research Proposal"
+    ],
+    "doctoral": [
+      "Master's Degree",
+      "TOPIK Level 4+",
+      "GPA 3.3/4.0 or above",
+      "2 Letters of Recommendation",
+      "Detailed Research Proposal"
+    ]
+  },
+  "tuitionByLevel": {
+    "bachelor": {
+      "min": 4000000,
+      "max": 8000000
+    },
+    "master": {
+      "min": 4800000,
+      "max": 9600000
+    },
+    "doctoral": {
+      "min": 5200000,
+      "max": 10400000
+    }
+  },
+  "insuranceFee": 120000,
+  "dormitoryFee": 300000,
+  "programs": {
+    "bachelor": {
+      "Various Departments": [
+        "To be updated with specific programs"
+      ]
+    }
+  },
+  "scholarships": [
+    {
+      "name": "University Of Ulsan International Student Scholarship",
+      "coverage": "30% - 50% biaya kuliah",
+      "criteria": "Berdasarkan prestasi akademik"
+    }
+  ],
+  "dormitory": {
+    "description": "University Of Ulsan menyediakan asrama untuk mahasiswa dengan berbagai pilihan tipe kamar.",
+    "capacity": "",
+    "priority": "Mahasiswa internasional tahun pertama mendapat prioritas",
+    "distance": "Di dalam atau dekat kampus",
+    "roomFacilities": [
+      "Tempat tidur dan meja belajar",
+      "Lemari pakaian",
+      "Wi-Fi"
+    ],
+    "commonFacilities": [
+      "Ruang belajar bersama",
+      "Laundry",
+      "Dapur bersama"
+    ],
+    "roomTypes": [
+      {
+        "type": "Double Room",
+        "price": 300000
+      },
+      {
+        "type": "Triple Room",
+        "price": 250000
+      }
+    ]
+  },
+  "languageInstitute": null
+}

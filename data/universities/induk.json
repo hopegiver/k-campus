@@ -1,0 +1,91 @@
+{
+  "id": "induk",
+  "name": "Induk University",
+  "nameKo": "인덕대학교",
+  "logo": "🎓",
+  "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=250&fit=crop",
+  "location": "서울특별시",
+  "region": "서울특별시",
+  "founded": "2629",
+  "type": "Universitas Swasta",
+  "ranking": "",
+  "totalStudents": "",
+  "internationalStudents": "",
+  "totalFaculty": "",
+  "totalPrograms": "",
+  "isAccredited": true,
+  "hasScholarship": true,
+  "description": "Politeknik di 서울특별시, Korea",
+  "longDescription": "Induk University adalah institusi pendidikan tinggi yang berlokasi di 서울특별시, Korea Selatan. Didirikan pada tahun 2629, universitas ini menawarkan berbagai program studi berkualitas.",
+  "features": [
+    "Berlokasi di 서울특별시, Korea",
+    "Fasilitas kampus modern",
+    "Program untuk mahasiswa internasional"
+  ],
+  "facilities": [
+    "Perpustakaan",
+    "Laboratorium",
+    "Fasilitas olahraga"
+  ],
+  "contact": {
+    "email": "admission@induk.ac.kr",
+    "phone": "02-950-7000",
+    "website": "https://www.induk.ac.kr",
+    "address": "서울특별시 노원구 초안산로 12 (월계동, 인덕대학)"
+  },
+  "applicationFee": 80000,
+  "requiredDocuments": [
+    "Application Form",
+    "Passport Copy",
+    "Academic Transcripts",
+    "Diploma/Graduation Certificate",
+    "Letter of Recommendation",
+    "Personal Statement",
+    "Language Proficiency (TOPIK/TOEFL/IELTS)"
+  ],
+  "admission": {},
+  "tuitionByLevel": {},
+  "insuranceFee": 120000,
+  "dormitoryFee": 300000,
+  "programs": {
+    "diploma": {
+      "Various Programs": [
+        "To be updated with specific programs"
+      ]
+    }
+  },
+  "scholarships": [
+    {
+      "name": "Induk University International Student Scholarship",
+      "coverage": "30% - 50% biaya kuliah",
+      "criteria": "Berdasarkan prestasi akademik"
+    }
+  ],
+  "dormitory": {
+    "description": "Induk University menyediakan asrama untuk mahasiswa dengan berbagai pilihan tipe kamar.",
+    "capacity": "",
+    "priority": "Mahasiswa internasional tahun pertama mendapat prioritas",
+    "distance": "Di dalam atau dekat kampus",
+    "roomFacilities": [
+      "Tempat tidur dan meja belajar",
+      "Lemari pakaian",
+      "Wi-Fi"
+    ],
+    "commonFacilities": [
+      "Ruang belajar bersama",
+      "Laundry",
+      "Dapur bersama"
+    ],
+    "roomTypes": [
+      {
+        "type": "Double Room",
+        "price": 300000
+      },
+      {
+        "type": "Triple Room",
+        "price": 250000
+      }
+    ]
+  },
+  "languageInstitute": null
+}

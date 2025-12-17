@@ -116,7 +116,7 @@ User Agent: ${request.headers.get('user-agent') || '-'}
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        from: 'K-Campus Indonesia <noreply@kcampus-indonesia.com>',
+        from: 'K-Campus Indonesia <onboarding@resend.dev>',
         to: ['hopegiver@malgnsoft.com'],
         subject: emailSubject,
         text: emailContent

@@ -1,6 +1,5 @@
 name = "k-campus"
 compatibility_date = "2024-01-01"
-account_id = "d2b8c5524b7259214fa302f1fecb4ad6"
 
 # Pages configuration
 pages_build_output_dir = "."

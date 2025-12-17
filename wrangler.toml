@@ -14,7 +14,7 @@ id = "ff25af66c3d841cd8d0739e3e372d8d1"
 [env.production]
 vars = { ENVIRONMENT = "production" }
 
-[env.production.kv_namespaces]
+[[env.production.kv_namespaces]]
 binding = "KCAMPUS_KV"
 id = "ff25af66c3d841cd8d0739e3e372d8d1"
 

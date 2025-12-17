@@ -4,16 +4,26 @@ compatibility_date = "2024-01-01"
 # Pages configuration
 pages_build_output_dir = "."
 
+# KV Namespaces
+# Production KV namespace for mailing list and other data storage
+[[kv_namespaces]]
+binding = "KCAMPUS_KV"
+id = "ff25af66c3d841cd8d0739e3e372d8d1"
+
 # Environment variables
 [env.production]
 vars = { ENVIRONMENT = "production" }
 
+[env.production.kv_namespaces]
+binding = "KCAMPUS_KV"
+id = "ff25af66c3d841cd8d0739e3e372d8d1"
+
 [env.preview]
 vars = { ENVIRONMENT = "preview" }
 
-# For local development
+# For local development - uses a local KV store
 [vars]
 ENVIRONMENT = "development"
 
-# Secret environment variables (set via wrangler secret put)
+# Secret environment variables (set via wrangler secret put or dashboard)
 # RESEND_API_KEY - Set via: wrangler secret put RESEND_API_KEY --env production

@@ -4,3 +4,5 @@ routes
 bundle-report.html
 .claude
 bin
+.dev.vars
+.wrangler

@@ -61,6 +61,8 @@ html {
   scroll-behavior: smooth;
   /* Improve mobile scrolling */
   -webkit-overflow-scrolling: touch;
+  /* Prevent horizontal scroll */
+  overflow-x: hidden;
 }
 
 body {
@@ -72,6 +74,10 @@ body {
   -webkit-overflow-scrolling: touch;
   /* Prevent scroll bouncing issues */
   overscroll-behavior-y: contain;
+  /* Prevent horizontal scroll */
+  overflow-x: hidden;
+  /* Prevent width issues */
+  max-width: 100vw;
 }
 
 /* Touch-friendly links and buttons */
@@ -96,6 +102,25 @@ button, .btn {
 /* Ensure cards are touch-friendly */
 .card {
   -webkit-overflow-scrolling: touch;
+}
+
+/* Prevent horizontal scroll from containers */
+.container, .container-fluid {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Fix row overflow */
+.row {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
+}
+
+/* Ensure images don't overflow */
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Override Bootstrap card defaults for more refined look */

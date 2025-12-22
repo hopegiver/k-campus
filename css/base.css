@@ -195,12 +195,6 @@ h5.text-primary {
   text-decoration: none;
 }
 
-.navbar-brand:hover {
-  opacity: 0.9;
-  transform: translateY(-1px);
-  transition: all 0.2s ease;
-}
-
 .navbar-brand .logo-img {
   height: 45px;
   width: auto;

@@ -7,10 +7,17 @@
         <img src="images/k-campus-logo.svg" alt="K-Campus Indonesia" class="logo-img">
       </a>
 
-      <!-- Mobile Toggle Button -->
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      <!-- Mobile Actions (Button + Toggler) -->
+      <div class="d-flex d-lg-none align-items-center gap-2 order-lg-2">
+        <button class="btn btn-primary btn-sm" @click="navigateTo('konsultasi')">
+          Konsultasi Gratis
+        </button>
+        <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
 
       <!-- Navigation Menu -->
       <div class="collapse navbar-collapse" id="navbarNav">

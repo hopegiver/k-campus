@@ -68,8 +68,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: var(--color-gray-700);
   line-height: 1.6;
-  /* Prevent text selection issues on mobile */
-  -webkit-touch-callout: none;
+  /* Enable momentum scrolling on iOS */
+  -webkit-overflow-scrolling: touch;
+  /* Prevent scroll bouncing issues */
+  overscroll-behavior-y: contain;
 }
 
 /* Touch-friendly links and buttons */
@@ -83,6 +85,17 @@ a, button, .btn, .nav-link, .dropdown-item {
 /* Prevent double-tap zoom on buttons */
 button, .btn {
   touch-action: manipulation;
+}
+
+/* Smooth scrolling for all scrollable containers */
+.navbar-collapse, .dropdown-menu, main {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+/* Ensure cards are touch-friendly */
+.card {
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Override Bootstrap card defaults for more refined look */

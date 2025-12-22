@@ -1,80 +1,68 @@
 <!-- Header -->
 <header class="site-header">
-  <div class="container">
-    <div class="header-container">
-    <!-- Logo -->
-    <a href="#/" class="site-logo" @click.prevent="navigateTo('home')">
-      <img src="images/k-campus-logo.svg" alt="K-Campus Indonesia" class="logo-img">
-    </a>
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+      <!-- Logo -->
+      <a href="#/" class="navbar-brand" @click.prevent="navigateTo('home')">
+        <img src="images/k-campus-logo.svg" alt="K-Campus Indonesia" class="logo-img">
+      </a>
 
-    <!-- Main Navigation -->
-    <nav class="main-nav" id="mainNav">
-      <ul class="nav-menu">
-        <li class="nav-item">
-          <a href="#/" class="nav-link" @click.prevent="navigateTo('home')">
-            Beranda
-          </a>
-        </li>
-        <li class="nav-item has-dropdown">
-          <a href="javascript:void(0)" class="nav-link dropdown-toggle">
-            Panduan Kuliah
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="#/panduan/sistem-pendidikan" class="nav-link" @click.prevent="navigateTo('panduan/sistem-pendidikan')">Sistem Pendidikan</a></li>
-            <li><a href="#/panduan/ujian-bahasa" class="nav-link" @click.prevent="navigateTo('panduan/ujian-bahasa')">Ujian & Bahasa</a></li>
-            <li><a href="#/panduan/visa-tinggal" class="nav-link" @click.prevent="navigateTo('panduan/visa-tinggal')">Visa & Izin Tinggal</a></li>
-            <li><a href="#/panduan/biaya-hidup" class="nav-link" @click.prevent="navigateTo('panduan/biaya-hidup')">Biaya Hidup</a></li>
-            <li><a href="#/panduan/akomodasi" class="nav-link" @click.prevent="navigateTo('panduan/akomodasi')">Akomodasi & Perumahan</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a href="#/universitas" class="nav-link" @click.prevent="navigateTo('universitas')">
-            Universitas
-          </a>
-        </li>
-        <li class="nav-item has-dropdown">
-          <a href="javascript:void(0)" class="nav-link dropdown-toggle">
-            Beasiswa
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="#/beasiswa/gks" class="nav-link" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa GKS</a></li>
-            <li><a href="#/beasiswa/universitas" class="nav-link" @click.prevent="navigateTo('beasiswa/universitas')">Beasiswa Universitas</a></li>
-            <li><a href="#/beasiswa/panduan" class="nav-link" @click.prevent="navigateTo('beasiswa/panduan')">Panduan Pendaftaran</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a href="#/konsultasi" class="nav-link" @click.prevent="navigateTo('konsultasi')">
-            Konsultasi
-          </a>
-        </li>
-        <li class="nav-item">
-          <a href="#/testimoni" class="nav-link" @click.prevent="navigateTo('testimoni')">
-            Testimoni
-          </a>
-        </li>
-        <li class="nav-item">
-          <a href="#/berita" class="nav-link" @click.prevent="navigateTo('berita')">
-            Berita
-          </a>
-        </li>
-      </ul>
-    </nav>
-
-    <!-- Header Actions -->
-    <div class="header-actions">
-      <button class="btn btn-primary btn-sm" @click="navigateTo('konsultasi')">
-        Konsultasi Gratis
+      <!-- Mobile Toggle Button -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
       </button>
-    </div>
 
-    <!-- Mobile Menu Toggle -->
-    <button class="mobile-menu-toggle" id="mobileMenuToggle">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+      <!-- Navigation Menu -->
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item">
+            <a href="#/" class="nav-link" @click.prevent="navigateTo('home')">Beranda</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Panduan Kuliah
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="#/panduan/sistem-pendidikan" class="dropdown-item" @click.prevent="navigateTo('panduan/sistem-pendidikan')">Sistem Pendidikan</a></li>
+              <li><a href="#/panduan/ujian-bahasa" class="dropdown-item" @click.prevent="navigateTo('panduan/ujian-bahasa')">Ujian & Bahasa</a></li>
+              <li><a href="#/panduan/visa-tinggal" class="dropdown-item" @click.prevent="navigateTo('panduan/visa-tinggal')">Visa & Izin Tinggal</a></li>
+              <li><a href="#/panduan/biaya-hidup" class="dropdown-item" @click.prevent="navigateTo('panduan/biaya-hidup')">Biaya Hidup</a></li>
+              <li><a href="#/panduan/akomodasi" class="dropdown-item" @click.prevent="navigateTo('panduan/akomodasi')">Akomodasi & Perumahan</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a href="#/universitas" class="nav-link" @click.prevent="navigateTo('universitas')">Universitas</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Beasiswa
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="#/beasiswa/gks" class="dropdown-item" @click.prevent="navigateTo('beasiswa/gks')">Beasiswa GKS</a></li>
+              <li><a href="#/beasiswa/universitas" class="dropdown-item" @click.prevent="navigateTo('beasiswa/universitas')">Beasiswa Universitas</a></li>
+              <li><a href="#/beasiswa/panduan" class="dropdown-item" @click.prevent="navigateTo('beasiswa/panduan')">Panduan Pendaftaran</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a href="#/konsultasi" class="nav-link" @click.prevent="navigateTo('konsultasi')">Konsultasi</a>
+          </li>
+          <li class="nav-item">
+            <a href="#/testimoni" class="nav-link" @click.prevent="navigateTo('testimoni')">Testimoni</a>
+          </li>
+          <li class="nav-item">
+            <a href="#/berita" class="nav-link" @click.prevent="navigateTo('berita')">Berita</a>
+          </li>
+        </ul>
+
+        <!-- Header Actions -->
+        <div class="d-flex">
+          <button class="btn btn-primary btn-sm" @click="navigateTo('konsultasi')">
+            Konsultasi Gratis
+          </button>
+        </div>
+      </div>
     </div>
-  </div>
+  </nav>
 </header>
 
 <!-- Main Content -->

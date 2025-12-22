@@ -53,10 +53,14 @@
    ==================================== */
 * {
   box-sizing: border-box;
+  /* Remove 300ms click delay on mobile */
+  -webkit-tap-highlight-color: transparent;
 }
 
 html {
   scroll-behavior: smooth;
+  /* Improve mobile scrolling */
+  -webkit-overflow-scrolling: touch;
 }
 
 body {
@@ -64,6 +68,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: var(--color-gray-700);
   line-height: 1.6;
+  /* Prevent text selection issues on mobile */
+  -webkit-touch-callout: none;
+}
+
+/* Touch-friendly links and buttons */
+a, button, .btn, .nav-link, .dropdown-item {
+  /* Remove touch delay */
+  touch-action: manipulation;
+  /* Better touch feedback */
+  -webkit-tap-highlight-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Prevent double-tap zoom on buttons */
+button, .btn {
+  touch-action: manipulation;
 }
 
 /* Override Bootstrap card defaults for more refined look */
